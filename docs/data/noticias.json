@@ -1,40 +1,6 @@
 {
-  "actualizado": "2026-11-26T00:52+00:00",
+  "actualizado": "2026-11-26T00:54+00:00",
   "noticias": [
-    {
-      "id": "d723e754e6fa",
-      "categoria": "emp",
-      "fecha": "2026-11-26T00:23+00:00",
-      "titulo": "Rams-Packers Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
-      "resumen": "",
-      "fuente": "Rams",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlYydzJuRFhLQTNJZUpLZ3VpMk5WMEllVndjTnQ0Zld5Tzhnd3JrdmdKM293M1Fqcy1LM3VKS2gxUERjYi1OTG1xa2VDT1pWeW9Vb1hyT01XbFVmUUNjZzE5UU5jNHVzNGM2LUhKQjFqSVdvZGtNTFRNdk10eE54enBTS2wxR0VWckJDQzNielZ6bzM4WkJwX2pWYl9ablBMSEpKYlV3aDVycm41aERLMk9nR0VxUQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Rams",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlYydzJuRFhLQTNJZUpLZ3VpMk5WMEllVndjTnQ0Zld5Tzhnd3JrdmdKM293M1Fqcy1LM3VKS2gxUERjYi1OTG1xa2VDT1pWeW9Vb1hyT01XbFVmUUNjZzE5UU5jNHVzNGM2LUhKQjFqSVdvZGtNTFRNdk10eE54enBTS2wxR0VWckJDQzNielZ6bzM4WkJwX2pWYl9ablBMSEpKYlV3aDVycm41aERLMk9nR0VxUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "93eef318bd3e",
-      "categoria": "emp",
-      "fecha": "2026-11-26T00:06+00:00",
-      "titulo": "Celtics Reportedly Making Wise Trade Decision on Derrick White Amid Struggles",
-      "resumen": "",
-      "fuente": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXpocy0zTnk5NU5na0dDTnpYYXlBUXlLUzYwQXJNMHZqa2pGb3Z5d2lHT1poRUJseVlqZUZDRjJjb3JfS2ZBbjhDdVFjQ2hJU2N5OFJVc0N4QXJxaVNfQWotU0VBTHVNOTlSb2xqUUZQSFg1V09qOTVZZHhjWTI5N3lyMzdfODd1WUVzcjVFSFBUN3M?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXpocy0zTnk5NU5na0dDTnpYYXlBUXlLUzYwQXJNMHZqa2pGb3Z5d2lHT1poRUJseVlqZUZDRjJjb3JfS2ZBbjhDdVFjQ2hJU2N5OFJVc0N4QXJxaVNfQWotU0VBTHVNOTlSb2xqUUZQSFg1V09qOTVZZHhjWTI5N3lyMzdfODd1WUVzcjVFSFBUN3M?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
     {
       "id": "1f4b59ec1dbc",
       "categoria": "ux",
@@ -312,23 +278,6 @@
         {
           "nombre": "Washington Commanders",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IcDF5NHBnZDd0SEp5cXZRWlVFNUhDWkRhRldvMGI3bkFFeS1VNGJUOG41a3FnNl8zanBsTk53eUhFT19Fbk9jVTU4VGZLaEE5Wk5iQU9TWHpWUV9rODJfTFpiZ0tPcDFocmc?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "302861a839ac",
-      "categoria": "emp",
-      "fecha": "2026-11-25T22:41+00:00",
-      "titulo": "Rams vs. Packers Arrival Photos: Aaron Donald, Trent McDuffie, Matthew Stafford & Kyren Williams",
-      "resumen": "",
-      "fuente": "Rams",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODBIRk9KOEZJMG5WYTN1YjJHYmdaV0tTVTRKbk1YSkY3R2xqUjlyQXE1UTUzS1RsYmxqdk1vb0dKWlM3WFlUSEpTSmtxQWlMVk1zblFFbXNzWUlwdFBSbzREQ3BXc2psOXRDZnJPQTh5MW9leDBZb0EyYUxmazZUbFFldjcwRENMQUZheGpNVFV5MENJanJQVw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Rams",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODBIRk9KOEZJMG5WYTN1YjJHYmdaV0tTVTRKbk1YSkY3R2xqUjlyQXE1UTUzS1RsYmxqdk1vb0dKWlM3WFlUSEpTSmtxQWlMVk1zblFFbXNzWUlwdFBSbzREQ3BXc2psOXRDZnJPQTh5MW9leDBZb0EyYUxmazZUbFFldjcwRENMQUZheGpNVFV5MENJanJQVw?oc=5",
           "tipo": "nota"
         }
       ],
@@ -692,23 +641,6 @@
       "region": "global"
     },
     {
-      "id": "d89bce8a1975",
-      "categoria": "emp",
-      "fecha": "2026-11-25T20:54+00:00",
-      "titulo": "Por qué es incómoda la visita de Milei para el nuevo presidente paraguayo",
-      "resumen": "",
-      "fuente": "Perfil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlJNZHpwdG96OEI0V2F2WTloNUkwOXF1dTVmRDh4d1JwTnRjTW1hc1oxbEVoTUFkQVpFMVIyNW02YVBfOVRlV1lwYUhYeDZCc3hOQnVEMnotNVN4cVZ4S1NrblVsSnE5dUVMQjlFZFUxQTI2MldiZ2IzZzlEWF9PNUJ1SlkzbGhaZEFVZ1NQVmJjZlRNdWptTHU5V3dVOTZIRUlTRHlZR01IVFprbldrVkQyandxejhidDRzZnlDeVNua1h3ZFE?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Perfil",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlJNZHpwdG96OEI0V2F2WTloNUkwOXF1dTVmRDh4d1JwTnRjTW1hc1oxbEVoTUFkQVpFMVIyNW02YVBfOVRlV1lwYUhYeDZCc3hOQnVEMnotNVN4cVZ4S1NrblVsSnE5dUVMQjlFZFUxQTI2MldiZ2IzZzlEWF9PNUJ1SlkzbGhaZEFVZ1NQVmJjZlRNdWptTHU5V3dVOTZIRUlTRHlZR01IVFprbldrVkQyandxejhidDRzZnlDeVNua1h3ZFE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "93ca56c66f20",
       "categoria": "emp",
       "fecha": "2026-11-25T20:40+00:00",
@@ -843,23 +775,6 @@
         }
       ],
       "region": "global"
-    },
-    {
-      "id": "1b08944945c7",
-      "categoria": "ux",
-      "fecha": "2026-11-25T20:00+00:00",
-      "titulo": "El riesgo país subió a 1.068 puntos y el dólar oficial alcanzó un nuevo máximo",
-      "resumen": "",
-      "fuente": "Nuevo Diario Web",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDNKcldvQUhCOWJJWW5YUjhtNHlRemdLbU5OVDlxbk1mNDlXcHpjckdFdlNxZ1BNdjRXZ1otdVdRSnY1WFgwVEZHM2tWX0JEdEU4cTFtS3pxd3VWdTRWVWk2ZlZVc0U0dGZHRmZkWlVEM2VQV3VVV1VWTFBjZlczM2hxa0lQYTVSY1g0YWFHdG5Ibmt3X1FONHJ3RDFONURrWmVUWDdQR2RYZjJ5Q1d3akJrM2FQQUM2Sndj?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Nuevo Diario Web",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDNKcldvQUhCOWJJWW5YUjhtNHlRemdLbU5OVDlxbk1mNDlXcHpjckdFdlNxZ1BNdjRXZ1otdVdRSnY1WFgwVEZHM2tWX0JEdEU4cTFtS3pxd3VWdTRWVWk2ZlZVc0U0dGZHRmZkWlVEM2VQV3VVV1VWTFBjZlczM2hxa0lQYTVSY1g0YWFHdG5Ibmt3X1FONHJ3RDFONURrWmVUWDdQR2RYZjJ5Q1d3akJrM2FQQUM2Sndj?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
     },
     {
       "id": "1a311f379591",
@@ -1309,6 +1224,23 @@
       "region": "global"
     },
     {
+      "id": "5c5b2206c74f",
+      "categoria": "emp",
+      "fecha": "2026-11-25T17:06+00:00",
+      "titulo": "Banco Nación impulsa un ecosistema de pagos digitales más abierto, integrado y con opciones para los usuarios",
+      "resumen": "",
+      "fuente": "Banco Nación",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQm5DeF9FNkpXV3JaMFl5ay0tLXFfN2JnUWpKckpHaTVnWUM0NEhuaDRuS3dFbFF3MUVXNldDUmhYdzF5N0JsSnU2VkVqYVlzMDlUdTNFMUFSc2dULUlj?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Banco Nación",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQm5DeF9FNkpXV3JaMFl5ay0tLXFfN2JnUWpKckpHaTVnWUM0NEhuaDRuS3dFbFF3MUVXNldDUmhYdzF5N0JsSnU2VkVqYVlzMDlUdTNFMUFSc2dULUlj?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "52b83dd1a55b",
       "categoria": "ux",
       "fecha": "2026-11-25T16:43+00:00",
@@ -1320,6 +1252,40 @@
         {
           "nombre": "www.tmgm.com",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlBOQy1OY3libWVaak1ZSjJvbEMxMzYwcUZRakZza1JUWjVLbjdwN3pBd21uMi1UcW1rOVhCMng5UUNNb0RGQ1RjUS1rX1NMTk01em83RjRIeFJ5Wk5yVDBwYTBiUWF1aUR0OFkwNTJjRXhBdWE2MnEwX0RhdDlDSUhOZVVqdEl1ekRnbmpyTkF2MGlTZzE4dWtkald1UWZGbmtOdWZHWWk1ejhONGl5c1FzSWFHdXJmZDFYM2t4MFh6X05XeDAyX2hYUXpUVTg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "750dec6ceac7",
+      "categoria": "reg",
+      "fecha": "2026-11-25T16:30+00:00",
+      "titulo": "Cambiaron los hábitos bancarios de las Pymes y casi 7 de cada 10 cheques ya son electrónicos",
+      "resumen": "",
+      "fuente": "Deuda Prometida",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenNKVlE2ZXlFMjZGWXFKREx2TkdDNzJHb0Z5R1hmRDMzQXNIWUZQbWdjZ0JQUG1qa3FFcVNaQ2FQRHczRUJBaFI3dXNIeW5UeWN2SEZnb2xqWmtmaFZRdkU4TlN5V3BFdVc4NVZRYmFjekpYT3EyRmpBLW9GQ2JBXzBwRXpDdVQ2RjFtZjNpWjdkTFFjdjRfRXBCTG5CSHJKdTdnenFEcGJId1JRMElWTHNpLVM5OXljd1Q5dQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Deuda Prometida",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenNKVlE2ZXlFMjZGWXFKREx2TkdDNzJHb0Z5R1hmRDMzQXNIWUZQbWdjZ0JQUG1qa3FFcVNaQ2FQRHczRUJBaFI3dXNIeW5UeWN2SEZnb2xqWmtmaFZRdkU4TlN5V3BFdVc4NVZRYmFjekpYT3EyRmpBLW9GQ2JBXzBwRXpDdVQ2RjFtZjNpWjdkTFFjdjRfRXBCTG5CSHJKdTdnenFEcGJId1JRMElWTHNpLVM5OXljd1Q5dQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "a2ad2023c368",
+      "categoria": "emp",
+      "fecha": "2026-11-25T16:23+00:00",
+      "titulo": "Los pasos de Mercado Pago para dar el salto al negocio de las tarjetas de crédito y disputar terreno a la banca tradicional",
+      "resumen": "",
+      "fuente": "FinteChile",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUDZoZnlMNjNEcEM0RXEwOG1TODRuck1XOGVBLV9lXy1HTWtKLUJhb21wU1lZNFdtTWVYeDMzb2dtQ2tiUmJ6Q3h3UHBMZWJtVVVlNUlJOGZoaUVBSm0wa0ktTkwzMWRSRkxXbzNnc1BpcXBMeG1qQkRmZjFFVUJUSUxGR2FLT2paV0tucmhJLUsxMm1CRlRtakxlc1hZNGJiTUJOcm1BS2pZOWxqMU12QzhyNmREalhGN2JkTEY1eTViRE8yYXgtaERlMmlnNFp1ZDkzM0tRTWZVV2xtUk9LMWxPOGFZb3FETkdMMndsZUI?oc=5",
+      "enlaces": [
+        {
+          "nombre": "FinteChile",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUDZoZnlMNjNEcEM0RXEwOG1TODRuck1XOGVBLV9lXy1HTWtKLUJhb21wU1lZNFdtTWVYeDMzb2dtQ2tiUmJ6Q3h3UHBMZWJtVVVlNUlJOGZoaUVBSm0wa0ktTkwzMWRSRkxXbzNnc1BpcXBMeG1qQkRmZjFFVUJUSUxGR2FLT2paV0tucmhJLUsxMm1CRlRtakxlc1hZNGJiTUJOcm1BS2pZOWxqMU12QzhyNmREalhGN2JkTEY1eTViRE8yYXgtaERlMmlnNFp1ZDkzM0tRTWZVV2xtUk9LMWxPOGFZb3FETkdMMndsZUI?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1370,6 +1336,23 @@
       "region": "ar"
     },
     {
+      "id": "aafc388efb3f",
+      "categoria": "emp",
+      "fecha": "2026-11-25T16:03+00:00",
+      "titulo": "Visa Opens Representative Office in Cameroon to Strengthen Digital Payments",
+      "resumen": "",
+      "fuente": "TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEhrdXpLdzFOOERPbE0wZmdiRVVNMnJFWHpMdUNZSmxjUVpVUUtKLXB1bVdOWnRSU291N3lCZ0hNTTlPZjBoV3RXZHY0Q0xTMXQzc21hdS1qVDZ2akR1WVgyZ2E1TDBDS2JJdUFKVnUzSnVKTS13R0p1MGZBUjRNaG80YVF1X3p0NS15S0JoYzVQUFcxNU1yZ0tXSV9WZw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "TechAfrica News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEhrdXpLdzFOOERPbE0wZmdiRVVNMnJFWHpMdUNZSmxjUVpVUUtKLXB1bVdOWnRSU291N3lCZ0hNTTlPZjBoV3RXZHY0Q0xTMXQzc21hdS1qVDZ2akR1WVgyZ2E1TDBDS2JJdUFKVnUzSnVKTS13R0p1MGZBUjRNaG80YVF1X3p0NS15S0JoYzVQUFcxNU1yZ0tXSV9WZw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "0790badb275b",
       "categoria": "ux",
       "fecha": "2026-11-25T16:03+00:00",
@@ -1385,6 +1368,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "4524b5b6849a",
+      "categoria": "emp",
+      "fecha": "2026-11-25T16:00+00:00",
+      "titulo": "Banks are the canary in the data-centre debt mine",
+      "resumen": "",
+      "fuente": "Breakingviews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkNES25uM0tQakRYbC1NYkVxXzlYT3pWRHcydFk3N0M0ZnNQS2lhblE4SENsMVZyeDFaUnI4STh2c3FVdV9NVDlMaHE5MnFxSDVxd1gwLW5BdFg3Z3NhYVVPWDA1M25NTjFpc195eXhzcTRGeWhBMkx1OHdYSUZsSF9PeHdveVJCenkwSFFST1NVT242c25sTEEtYkFId1QyTFl5SHVESQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Breakingviews",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkNES25uM0tQakRYbC1NYkVxXzlYT3pWRHcydFk3N0M0ZnNQS2lhblE4SENsMVZyeDFaUnI4STh2c3FVdV9NVDlMaHE5MnFxSDVxd1gwLW5BdFg3Z3NhYVVPWDA1M25NTjFpc195eXhzcTRGeWhBMkx1OHdYSUZsSF9PeHdveVJCenkwSFFST1NVT242c25sTEEtYkFId1QyTFl5SHVESQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "91876861174b",
@@ -1698,23 +1698,6 @@
       "region": "global"
     },
     {
-      "id": "6e18853d452d",
-      "categoria": "reg",
-      "fecha": "2026-11-25T14:00+00:00",
-      "titulo": "Milei viaja a Paraguay tras la caída de su aliado Peña, preso por la estafa del Ueno Bank",
-      "resumen": "",
-      "fuente": "El Ágora Digital",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWJqNHo4VXRMaklVMUNCTDEtZ0FDQy1TRFFQYjRLLUNhUlM1TU9wODRLc3FWZjFvajQ0V2J5QmhlT084dExWOXFXd1A4SmI1alU4MTJNdWROWkpJM01VRDR6OVhUNzBoSmMtb0hpX29WV2lUT2tveU0wMVFPUWEwbi1SRXZoY1hhMTlhRFdqMTRJcENBTk1sZFR6dDlLSnN2WDRleVR6aEgzWDVnTUFrczZfd1U2RWQ5THdRUlFISTc?oc=5",
-      "enlaces": [
-        {
-          "nombre": "El Ágora Digital",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWJqNHo4VXRMaklVMUNCTDEtZ0FDQy1TRFFQYjRLLUNhUlM1TU9wODRLc3FWZjFvajQ0V2J5QmhlT084dExWOXFXd1A4SmI1alU4MTJNdWROWkpJM01VRDR6OVhUNzBoSmMtb0hpX29WV2lUT2tveU0wMVFPUWEwbi1SRXZoY1hhMTlhRFdqMTRJcENBTk1sZFR6dDlLSnN2WDRleVR6aEgzWDVnTUFrczZfd1U2RWQ5THdRUlFISTc?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "42128e7bc6b2",
       "categoria": "ux",
       "fecha": "2026-11-25T13:59+00:00",
@@ -2009,23 +1992,6 @@
       "region": "ar"
     },
     {
-      "id": "ffacb845038e",
-      "categoria": "reg",
-      "fecha": "2026-11-25T11:00+00:00",
-      "titulo": "Citi UK’s chief risk officer steps down, according to FCA website; Huawei found guilty of bank fraud in the US",
-      "resumen": "",
-      "fuente": "TheBanker.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZGxqWDUyTFlzTFVWZ3V0dGc3OHpvSDYyT1V5ZmdNenVINnY2emFrZlpISjJJOGItMm12cjQ2eW04Uk5PUlg3MWNpZkVDcHJLUDZnRzJ1andyX1V6YU1ETmFlalQ4WTdsU0tvek5CaDlBQWtPTWhCVS13?oc=5",
-      "enlaces": [
-        {
-          "nombre": "TheBanker.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZGxqWDUyTFlzTFVWZ3V0dGc3OHpvSDYyT1V5ZmdNenVINnY2emFrZlpISjJJOGItMm12cjQ2eW04Uk5PUlg3MWNpZkVDcHJLUDZnRzJ1andyX1V6YU1ETmFlalQ4WTdsU0tvek5CaDlBQWtPTWhCVS13?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "0b1aea3062ca",
       "categoria": "ux",
       "fecha": "2026-11-25T11:00+00:00",
@@ -2037,6 +2003,23 @@
         {
           "nombre": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUtmWTBCQ1NWTURsanA5ck4ya2dtM2Q1ZVp2QWxiUUZLRHMtT0dFeER4MnNSNmVWTFFmTk1VQWNCY2Vuc3hibDBQYzZXbENWTWZhSDYzLXRXQmIzSzRWUE9EM1hFck1NdXoxRnB1RUw4SVNFMkVmSm05TE4xYlNPSF9hZGIzY3RDcjBlOWZ1ZHlvZVZpclpqLUFHajhFNUFCWUNUcEotZ3hOYU54U0pMdFJCQ0kzZkE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "ffacb845038e",
+      "categoria": "reg",
+      "fecha": "2026-11-25T11:00+00:00",
+      "titulo": "Citi UK’s chief risk officer steps down, according to FCA website; Huawei found guilty of bank fraud in the US",
+      "resumen": "",
+      "fuente": "TheBanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZGxqWDUyTFlzTFVWZ3V0dGc3OHpvSDYyT1V5ZmdNenVINnY2emFrZlpISjJJOGItMm12cjQ2eW04Uk5PUlg3MWNpZkVDcHJLUDZnRzJ1andyX1V6YU1ETmFlalQ4WTdsU0tvek5CaDlBQWtPTWhCVS13?oc=5",
+      "enlaces": [
+        {
+          "nombre": "TheBanker.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZGxqWDUyTFlzTFVWZ3V0dGc3OHpvSDYyT1V5ZmdNenVINnY2emFrZlpISjJJOGItMm12cjQ2eW04Uk5PUlg3MWNpZkVDcHJLUDZnRzJ1andyX1V6YU1ETmFlalQ4WTdsU0tvek5CaDlBQWtPTWhCVS13?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2111,23 +2094,6 @@
       "region": "ar"
     },
     {
-      "id": "de2591e6a217",
-      "categoria": "ux",
-      "fecha": "2026-11-25T09:00+00:00",
-      "titulo": "Banco Santander: paro nacional el 1 y 2 de diciembre",
-      "resumen": "",
-      "fuente": "Impacto Castex",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblZLMUp3aHpjM016d0x0THBTRzNGQW5FaTVUQjJvZmVkSm81RkZLelFQcVBDc0UtU3VyTVI2QmdTUW1IZFZtcXdhcHFYeDFEejdjYzZvdmZqbnNYenB2RjFYQzg2RlNSNURFUElXNk1tTTlIRlVnV1gxVmFUMnFaa3pmMk5MZnA3ODR2MG1zc183N29rOFd3WExCSlFmUQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Impacto Castex",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblZLMUp3aHpjM016d0x0THBTRzNGQW5FaTVUQjJvZmVkSm81RkZLelFQcVBDc0UtU3VyTVI2QmdTUW1IZFZtcXdhcHFYeDFEejdjYzZvdmZqbnNYenB2RjFYQzg2RlNSNURFUElXNk1tTTlIRlVnV1gxVmFUMnFaa3pmMk5MZnA3ODR2MG1zc183N29rOFd3WExCSlFmUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "adc1df05c9d7",
       "categoria": "ux",
       "fecha": "2026-11-25T08:45+00:00",
@@ -2139,23 +2105,6 @@
         {
           "nombre": "IT Brief UK",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUFPY2VnZW1td2FQX0MzaFA5ZDBYN0xoYldiUnZ3d1Jxbkljd3J4bDBmYjBXTXhmNmRraHJXZ1pvZDFRQnY2YTN6cm1zbUpiV0wwVXpocmNoSWdSdkwybDVHZFVYRTNrTXJ4R0FmeHlIOWlNWm9nZEtaeC03Q0hOY0hJLV8?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "5cc6f1e5d935",
-      "categoria": "ux",
-      "fecha": "2026-11-25T07:37+00:00",
-      "titulo": "South Korea's Crypto Bill May Shift Stablecoin Influence to Banks and Fintech Partners",
-      "resumen": "",
-      "fuente": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2NpLTRGb1BLX01ZcEZ5LVJueVpRR2R0Y0FObFgzVWwwZkF1bU45UFhwSGc2cDd1cTlkTVdnRHpXakx0NWNWZk8wcHJoOVNsMDBBb0NJSk5BeGdHLWY1Nl94OHVfR0dPelVHVFAzcUM5RHBxN0VfYWIwNjQyRVB2V05jMFBRTlN5NFpvX3Jwd3pQbVB4RE9fTUZRS3RoeTFRUjVrOW94NTNrOVhBbFpGdlJSODg2ZU84MXFTUA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2NpLTRGb1BLX01ZcEZ5LVJueVpRR2R0Y0FObFgzVWwwZkF1bU45UFhwSGc2cDd1cTlkTVdnRHpXakx0NWNWZk8wcHJoOVNsMDBBb0NJSk5BeGdHLWY1Nl94OHVfR0dPelVHVFAzcUM5RHBxN0VfYWIwNjQyRVB2V05jMFBRTlN5NFpvX3Jwd3pQbVB4RE9fTUZRS3RoeTFRUjVrOW94NTNrOVhBbFpGdlJSODg2ZU84MXFTUA?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2296,57 +2245,6 @@
       "region": "ar"
     },
     {
-      "id": "234146fe02d8",
-      "categoria": "reg",
-      "fecha": "2026-11-25T00:46+00:00",
-      "titulo": "Billeteras virtuales y cuentas remuneradas: cuánto pagan en noviembre y cómo las comparo",
-      "resumen": "",
-      "fuente": "Dolarhoy.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDd4YUU3SS1xVVRlTGhrLWlGaEI5TkRMaF85YnNPRFJMUnlZR2ZfMVgtREItdFdBRExCdUVmbXBLeDIybWdPakNWUGxaWjZPU0dCRVZ3TzRTRlZsY1VxeU9uZkVabllOZkIyZ1puN2piV0RFRXNrQmNjZnIyY1Z6VG15bUxzc1h3M3NKWV90b3hwTHFwRnV4MmFPMWI3RmY3S2Q0S0JmZWdDTUhFeVpBeWllM3ZOLWJuMWpHOGx6NnhYNE1NTWJQeDk0SWdNdHB5VWdnZlNpR2ZRUQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Dolarhoy.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDd4YUU3SS1xVVRlTGhrLWlGaEI5TkRMaF85YnNPRFJMUnlZR2ZfMVgtREItdFdBRExCdUVmbXBLeDIybWdPakNWUGxaWjZPU0dCRVZ3TzRTRlZsY1VxeU9uZkVabllOZkIyZ1puN2piV0RFRXNrQmNjZnIyY1Z6VG15bUxzc1h3M3NKWV90b3hwTHFwRnV4MmFPMWI3RmY3S2Q0S0JmZWdDTUhFeVpBeWllM3ZOLWJuMWpHOGx6NnhYNE1NTWJQeDk0SWdNdHB5VWdnZlNpR2ZRUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "d79c865bd3e1",
-      "categoria": "reg",
-      "fecha": "2026-11-25T00:37+00:00",
-      "titulo": "Plazo fijo o billetera virtual: qué cuentas remuneradas pagan hasta 25% y le ganan a los depósitos bancarios",
-      "resumen": "",
-      "fuente": "La Gaceta",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc0VuRzBVb3FtNlIxX21rTTVrTmZsVHBlT2dMNm5LbWVfRVJ3NnZtYnNXUUJRWk5vMzVDbXl4QlVxR04xbDJfZXR3ZzdManRWSkl5MTZaSWdDcmR6S2U4alBYM00ya0VGQ2I5Q09PUDFtNmhOUzU2WmN4dDU5RjRKdlViaFFCRTBsWDI4SFY5N1JtdVZqUTFoM2JtUnNVRzhqcFh6MU1wd2pLMjEtS3dSSVV5ZHpjMUd0bmctOFJLZERXYVZyMVM4UUJDcTN5aS12RDRPQXZSUjFMaGlWY0ZPTXZfT0pwLUtQNXNsWVY2b9IB9AFBVV95cUxNVl90aUNjaFRvQkpFVGFGTlhqLVlCbWx6RU4zVGE0YjF0UHlIMkU0MHJrdzFpV0o0TUU1eXdrQmxvVmRlaFdFT0tBOWNBZEw5N09hYkZJTHVFMUVVajg3SDFPSWhleEg4bl9MUDZYMVVJaDNNNkh1dlJKTkU3bnJzTmFEdWpfeHZKUGVIRExjVFE5WkFOWnNvTE9rSmsweWdlcUtuaEtpNHowQUV1NEdhOHF6TGNXMlZhRW8waDU4bmlBMHYzazA2ZXRWazJ4UG5lbWZlTUI2SEpWN1JpbERWQWlsVDlaemRlOFF2aVUzWVhlX0V3?oc=5",
-      "enlaces": [
-        {
-          "nombre": "La Gaceta",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc0VuRzBVb3FtNlIxX21rTTVrTmZsVHBlT2dMNm5LbWVfRVJ3NnZtYnNXUUJRWk5vMzVDbXl4QlVxR04xbDJfZXR3ZzdManRWSkl5MTZaSWdDcmR6S2U4alBYM00ya0VGQ2I5Q09PUDFtNmhOUzU2WmN4dDU5RjRKdlViaFFCRTBsWDI4SFY5N1JtdVZqUTFoM2JtUnNVRzhqcFh6MU1wd2pLMjEtS3dSSVV5ZHpjMUd0bmctOFJLZERXYVZyMVM4UUJDcTN5aS12RDRPQXZSUjFMaGlWY0ZPTXZfT0pwLUtQNXNsWVY2b9IB9AFBVV95cUxNVl90aUNjaFRvQkpFVGFGTlhqLVlCbWx6RU4zVGE0YjF0UHlIMkU0MHJrdzFpV0o0TUU1eXdrQmxvVmRlaFdFT0tBOWNBZEw5N09hYkZJTHVFMUVVajg3SDFPSWhleEg4bl9MUDZYMVVJaDNNNkh1dlJKTkU3bnJzTmFEdWpfeHZKUGVIRExjVFE5WkFOWnNvTE9rSmsweWdlcUtuaEtpNHowQUV1NEdhOHF6TGNXMlZhRW8waDU4bmlBMHYzazA2ZXRWazJ4UG5lbWZlTUI2SEpWN1JpbERWQWlsVDlaemRlOFF2aVUzWVhlX0V3?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "19c374145216",
-      "categoria": "reg",
-      "fecha": "2026-11-25T00:35+00:00",
-      "titulo": "Convocaron a Diputados nacionales a debatir el Presupuesto 2027 y la reforma del BCRA",
-      "resumen": "",
-      "fuente": "Que Pasa Salta",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FCVXVTb3ZhS3dfUnppSm4tVnhaVjlXS0VCSXpuaU9vb3U4cjFBNEpodF81elVaQkJQMWtiTG82ODRHZVJYY2htZnQwLXhwSjgweG00Y01ucWg0T3NNV2ItSGl5RjNWbENTRV9GY3U2UUFRNGloVWVFdHdNZTYwSVV5eVBMd21Kc0NVYjNDb1RiaUZ0UE42V3hzTkZ0ckthVktYMdIBpAFBVV95cUxQM0FCVXVTb3ZhS3dfUnppSm4tVnhaVjlXS0VCSXpuaU9vb3U4cjFBNEpodF81elVaQkJQMWtiTG82ODRHZVJYY2htZnQwLXhwSjgweG00Y01ucWg0T3NNV2ItSGl5RjNWbENTRV9GY3U2UUFRNGloVWVFdHdNZTYwSVV5eVBMd21Kc0NVYjNDb1RiaUZ0UE42V3hzTkZ0ckthVktYMQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Que Pasa Salta",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FCVXVTb3ZhS3dfUnppSm4tVnhaVjlXS0VCSXpuaU9vb3U4cjFBNEpodF81elVaQkJQMWtiTG82ODRHZVJYY2htZnQwLXhwSjgweG00Y01ucWg0T3NNV2ItSGl5RjNWbENTRV9GY3U2UUFRNGloVWVFdHdNZTYwSVV5eVBMd21Kc0NVYjNDb1RiaUZ0UE42V3hzTkZ0ckthVktYMdIBpAFBVV95cUxQM0FCVXVTb3ZhS3dfUnppSm4tVnhaVjlXS0VCSXpuaU9vb3U4cjFBNEpodF81elVaQkJQMWtiTG82ODRHZVJYY2htZnQwLXhwSjgweG00Y01ucWg0T3NNV2ItSGl5RjNWbENTRV9GY3U2UUFRNGloVWVFdHdNZTYwSVV5eVBMd21Kc0NVYjNDb1RiaUZ0UE42V3hzTkZ0ckthVktYMQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "f04ad2eb4580",
       "categoria": "reg",
       "fecha": "2026-11-25T00:22+00:00",
@@ -2358,23 +2256,6 @@
         {
           "nombre": "La Tercera",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVHFjS09IWk1xaXRSRUhhYUlMOXhfa1NicHg4dXVURnNTX0F0bmg5T3JCbGY0RXp2UnE4Qkx4YXlNTVNZR3FSTGwxVDdjTXdKWFNKUUdDRkZVd3ZkN2NRZ2lDVHM5Smk3bzQxc09Pbi1SSkh1Z2l6WWFITmhuQUtiN09UOXFIaXNOenZvTjdKUkhMaFFrSTJpQUpLTnRaOExUYXVMam5VMi1DTk1WUERCM2xObjhBWUJHU1B0Z1c3VnZBZkJwbTBFWXBQMkJEeVnSAfABQVVfeXFMTTc1SUN2bDI2V2cxajVGYkZEalRtNDVTS0ZHNGRYSFZCZHRMV2VSdlF6c0pYTDhrck9SVGtBSXlmdDJIb0tubDFLRlB0UU90eTVUdTdoUk84Z1FSeDZFU0hMWHV1MVc1cnhHOXF3eF9lOUpKV25iYktOX3dhRkp3bDdya1hvNWNfQmdZeko4dW9sLWV2bXFpU3psYXk2VlZHWFVSV2xTcktvZkMzaFJXdXRHNHVwYllsZUpzZXFfbklmZzlYQ2t4d3lsY3lDZmlLNHg5UVpzYVZoazFfeDhjem0xaFZPUjk0OHViQVN6ZlBT?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "986c1053c86b",
-      "categoria": "reg",
-      "fecha": "2026-11-25T00:19+00:00",
-      "titulo": "Diputados debatirá este jueves el Presupuesto y la Ley Malvinas se posterga hasta las extraordinarias",
-      "resumen": "",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1BHTEFsSWQwMm9YbmYxbG12RXU2cHg3SE5fZndTaDhMTEF2LWNEZkU4MW9kcDJSX09jaDUyLUR5UU82MHpzQjRtOFFUU2hmN3FNZ21fQ3VGNF9QMml5TV90SS15OHdhakd0UGF1enpUWUYwcm9HSHNjTzNmaUNUMl9vdmxTVTJNU24xTjc5RXhhY3JiTEJFTjlYVFJJR2RZd3hMS2dzMC1vcWpPZXF1RzJmTG9DNXdiZVN0VjNBUFJ2UW1oNnNPN1E3aDRvTk56dWo5aTVMVzFRT1NXcDg40gH6AUFVX3lxTE9jZ3o0OEk0eFd4cHc2UV9obkduWGRscVFDeXlHanhYZlUyQW9vSGxxdHBPajIzUkQ5WjRZYUZzNkMxY2FsVG4xTEpFMEVXZ0xHeTlncGl1ekhUR3dfQmNBVGcxMDNpNHBBR3dVQ2hndUFncEx1enRMNURGR05YUEkxeTI0YzhoR0JLbkZEVG55YVlidWRpOGVUcVA4VnJ6T0ltOU1fNWJDVVBDU3BxeW9NeHNmOG5UbEpIdjNTUGowWXZKazk5RjByTEdlSmZkbkV1T2ZLaWlacURtQlYyWHg3TG5vYzRSV2pMUWl2U0lXMTk4YlNyeDlEVUE?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1BHTEFsSWQwMm9YbmYxbG12RXU2cHg3SE5fZndTaDhMTEF2LWNEZkU4MW9kcDJSX09jaDUyLUR5UU82MHpzQjRtOFFUU2hmN3FNZ21fQ3VGNF9QMml5TV90SS15OHdhakd0UGF1enpUWUYwcm9HSHNjTzNmaUNUMl9vdmxTVTJNU24xTjc5RXhhY3JiTEJFTjlYVFJJR2RZd3hMS2dzMC1vcWpPZXF1RzJmTG9DNXdiZVN0VjNBUFJ2UW1oNnNPN1E3aDRvTk56dWo5aTVMVzFRT1NXcDg40gH6AUFVX3lxTE9jZ3o0OEk0eFd4cHc2UV9obkduWGRscVFDeXlHanhYZlUyQW9vSGxxdHBPajIzUkQ5WjRZYUZzNkMxY2FsVG4xTEpFMEVXZ0xHeTlncGl1ekhUR3dfQmNBVGcxMDNpNHBBR3dVQ2hndUFncEx1enRMNURGR05YUEkxeTI0YzhoR0JLbkZEVG55YVlidWRpOGVUcVA4VnJ6T0ltOU1fNWJDVVBDU3BxeW9NeHNmOG5UbEpIdjNTUGowWXZKazk5RjByTEdlSmZkbkV1T2ZLaWlacURtQlYyWHg3TG5vYzRSV2pMUWl2U0lXMTk4YlNyeDlEVUE?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2449,6 +2330,23 @@
       "region": "global"
     },
     {
+      "id": "4ed28d32b690",
+      "categoria": "ux",
+      "fecha": "2026-11-24T22:38+00:00",
+      "titulo": "Government Support and Trust Linked to Indonesian Gen Z Fintech Lending Continuance Intention",
+      "resumen": "",
+      "fuente": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGVCQ2cwcHNGQ1c0Z09pZE9IXzl0aWZjUC1jXzBlLTZuT3FoUDBXUC0zUnk0S1gyLW1qdVRIWW5yeGhFQUJ6UzhDWFBKdGY0NmxaSEVMZ0thU0c4dnRJOHJfdmQtR0h2R0NSckE5Q2FrWHgzc3RINW80VXd0ZkhhX3RfN2JrRVgxUGZpaHJMT3dCSG54bmZNanRsX2hXUUdtTlNQalY0VS1BY3VtUnk5OUxLZDJPLU00a1E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGVCQ2cwcHNGQ1c0Z09pZE9IXzl0aWZjUC1jXzBlLTZuT3FoUDBXUC0zUnk0S1gyLW1qdVRIWW5yeGhFQUJ6UzhDWFBKdGY0NmxaSEVMZ0thU0c4dnRJOHJfdmQtR0h2R0NSckE5Q2FrWHgzc3RINW80VXd0ZkhhX3RfN2JrRVgxUGZpaHJMT3dCSG54bmZNanRsX2hXUUdtTlNQalY0VS1BY3VtUnk5OUxLZDJPLU00a1E?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "54a923c28e66",
       "categoria": "reg",
       "fecha": "2026-11-24T22:26+00:00",
@@ -2460,23 +2358,6 @@
         {
           "nombre": "Extra",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEZtaTNYQUM5ODFJM2NIbUtkM09MeHUwWEVYbkRJTkd4Y1pxZ1ljT3FlbmE5S0hEeURwcW1DNHRWX3plc0wwWmZoWUVLeklxNmU1RTJNSEEtQ2Y2YS1tTExFQkxhS3FoWk1Oak11Q2RldWJzUERsYmVBUlB1SUp3NkZTU0U0VzdnUFNnLWxLREtLTDJLUmpFVjk5SdIBqAFBVV95cUxPWnB2bGt1Y0VmaFY3R0szdk9BR1ljRThsWFd2X0RZYmlSRXE2bkRhaVFlcnZnV3RXZzJmUC1jRDZ0VFN4SUlqN0FUbGJ5OFJQSk05aUFBRVM5b3dkUVVDbUJISGxkbDc2T2UzbmFjSDlQVWIwT01tVHBpQzJGdTBsOFBPdG93TEpCZVpxNUNsVjRIYXZtcTRJaWtXam5CSVdBX2Y1LVpoaFc?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "4825e293a708",
-      "categoria": "reg",
-      "fecha": "2026-11-24T22:15+00:00",
-      "titulo": "Javier Milei viajará a Paraguay para reunirse con el sucesor de Santiago Peña, que sigue preso por la estafa de Ueno Bank",
-      "resumen": "",
-      "fuente": "C5N",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1BkLVZYS0xIUGVlTGhUNDJXTlltckQ4TFNaZVJWdkRzbjVzT1psa3I0ZDBpdTlHVC1BWkpKQTRobE9PaDJVUWRxZnVOWmFwQk03M3ZzWEhMa2ptVkpZQVg0ejIyRV9uLUIwNnN6d2pGYTk2YW8yUjJLY0FDZVBDbW55RUUyNmZhMGZjd0pDdUgtZVFzUDJuZ2ZRY0k4eHZuTEU1QWt5ejEzSmRqdDZWQ21saC13Rnc4cHNCM0VyUXY4R0pTMlEwQ0ZiSkxleDFIY3fSAdcBQVVfeXFMTTk1N0lMTDVaVC1DcWdPVlE5WGdUT2Y2NDdTTG5fdGpuMnFjT05qV05JeTNXNHRtcWtPcnc5WFh4dXpLQUpMVm1lVHJaMVlrVFBjZENGTlRieS1nNXJLelJwUHJzZDB2Q3ViUF9lWlFaRU5xLXB4R3JLdTkxWW1wSUVoekNTaExXRHM0RWJmRzhiNWx6SXFQYXhXUnBHdi12X0d6bGRPU01wTWtOMVd6bTdyQVctV3J5OFgzdGFIMTFMeDNsZWtmTE9UaUdldjlLM00zeWNtWGs?oc=5",
-      "enlaces": [
-        {
-          "nombre": "C5N",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1BkLVZYS0xIUGVlTGhUNDJXTlltckQ4TFNaZVJWdkRzbjVzT1psa3I0ZDBpdTlHVC1BWkpKQTRobE9PaDJVUWRxZnVOWmFwQk03M3ZzWEhMa2ptVkpZQVg0ejIyRV9uLUIwNnN6d2pGYTk2YW8yUjJLY0FDZVBDbW55RUUyNmZhMGZjd0pDdUgtZVFzUDJuZ2ZRY0k4eHZuTEU1QWt5ejEzSmRqdDZWQ21saC13Rnc4cHNCM0VyUXY4R0pTMlEwQ0ZiSkxleDFIY3fSAdcBQVVfeXFMTTk1N0lMTDVaVC1DcWdPVlE5WGdUT2Y2NDdTTG5fdGpuMnFjT05qV05JeTNXNHRtcWtPcnc5WFh4dXpLQUpMVm1lVHJaMVlrVFBjZENGTlRieS1nNXJLelJwUHJzZDB2Q3ViUF9lWlFaRU5xLXB4R3JLdTkxWW1wSUVoekNTaExXRHM0RWJmRzhiNWx6SXFQYXhXUnBHdi12X0d6bGRPU01wTWtOMVd6bTdyQVctV3J5OFgzdGFIMTFMeDNsZWtmTE9UaUdldjlLM00zeWNtWGs?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2568,6 +2449,40 @@
       "region": "global"
     },
     {
+      "id": "b2d338c9d559",
+      "categoria": "ux",
+      "fecha": "2026-11-24T15:53+00:00",
+      "titulo": "AXIAN Digibank & Fintech Partners Huawei to Upgrade Mobile Money Platforms Across Five Markets",
+      "resumen": "",
+      "fuente": "TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmp1ZHpKYkFqVXBwVGJiWDFxYjdjWWFjM0J1RkpraUotc2MxQmVPZGZZU0ZwalJ6MnRMVzVZaXowNzBQVGkwY2Y2aVA4TUsxdEtzZjFiWDQzQlNfN0dCWF9GQzlSZ0pCOE1RUlNpS1RKNDRZMDI5VklOb3h5dEI1eUNOYmptSGI1dng0RnpZYlV4ME9WQjAzR19FUS03REN1OFVRTGVSbDl5aVo0RU1mblZB?oc=5",
+      "enlaces": [
+        {
+          "nombre": "TechAfrica News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmp1ZHpKYkFqVXBwVGJiWDFxYjdjWWFjM0J1RkpraUotc2MxQmVPZGZZU0ZwalJ6MnRMVzVZaXowNzBQVGkwY2Y2aVA4TUsxdEtzZjFiWDQzQlNfN0dCWF9GQzlSZ0pCOE1RUlNpS1RKNDRZMDI5VklOb3h5dEI1eUNOYmptSGI1dng0RnpZYlV4ME9WQjAzR19FUS03REN1OFVRTGVSbDl5aVo0RU1mblZB?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "b0ab1ccda577",
+      "categoria": "reg",
+      "fecha": "2026-11-24T15:37+00:00",
+      "titulo": "Cajeros y otros equipos están en adecuación para manejar los nuevos billetes, aclara el BCP",
+      "resumen": "",
+      "fuente": "La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZFFtZkZrcW1jWTZsT2dCb3k2MG4xZUJjUGRuLUx1MkNrT3pvN3dwSkVtRHN0SF9qQ0VDaGJrMS1WOTNGbzQ0LVZ3RjhnYjhOSU1FOFF0bTlINnhhakc3S1VwMko5c1BEOGNQOUxYejVibFV1UUxZZEZjOTJaWGNaWnNITHhfQkI0Q1RpelB0YUVodU1UTnVZZlduRW1HdktXYndqZTNnQ1ZQN3RXSDNnbTA4dEZ3TG9yLUxuTHdWN3dnamNqeFl0S1FvMzJSeEdLejJTMUZn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "La Nación",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZFFtZkZrcW1jWTZsT2dCb3k2MG4xZUJjUGRuLUx1MkNrT3pvN3dwSkVtRHN0SF9qQ0VDaGJrMS1WOTNGbzQ0LVZ3RjhnYjhOSU1FOFF0bTlINnhhakc3S1VwMko5c1BEOGNQOUxYejVibFV1UUxZZEZjOTJaWGNaWnNITHhfQkI0Q1RpelB0YUVodU1UTnVZZlduRW1HdktXYndqZTNnQ1ZQN3RXSDNnbTA4dEZ3TG9yLUxuTHdWN3dnamNqeFl0S1FvMzJSeEdLejJTMUZn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "5fcf2f23785a",
       "categoria": "reg",
       "fecha": "2026-11-24T15:35+00:00",
@@ -2579,6 +2494,23 @@
         {
           "nombre": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYlVTRkNaWkVpbm8yMjdNZ0YxQ21RSzNOSHNJRjBZd2tQQlNudmtGVEttOEZ4N25WWGVYdV9QOGoxazdGdXlFMWhiTUVNUXZZSlJBZkJyZ0tOVEQzX3BpRVU3dEllYWVJeG1sMjhLNl9CM2hjN0E?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "9efb1a1ab06e",
+      "categoria": "ux",
+      "fecha": "2026-11-24T14:32+00:00",
+      "titulo": "Bank of America CEO explains what is behind recent banking tech outages",
+      "resumen": "",
+      "fuente": "Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUG1NZkRqa0dEZ3FiTHhHV2pmMGFwWXl6NWsybTAtWjY2NmQ4a3ZRanFyQXFpQkFhRmNQSUFFOHRjM1NMVzNfYk9DeGZhX0E3X3pJLUJ0T2xGUk9oVjdCcmxZTU9XRmFLZTdQaWJOdThNLWFZcjd4akVVSkh4WG1HU1pkXzZOT0hCY1Q4TnFfVEpNdXFtMEFWSWdReTAyLVQ2U0ViX3NoMFdJblAxbEJ30gG0AUFVX3lxTE1tZFlZQ1BJQjRveVA0cUp0a2NUVUMwcE1EN21IdTU1TGIxVzR2WmxINnBadkZJalIwRTY1N1dNbTktOWFkLUFOZzNJc2QyRkVuMWdHcm4xc1k1eDFjR3Rwekxsakhlc28tZDhSdG1Ec3R1ZzRLNDdmeGs5Z0xucWs2YU05T1J5R3ktMWtrSnFSRHNpUHREcWpmNE9HY0NDTlREYy1wS1VfT0ZYOHlYZVVKLWdGWg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUG1NZkRqa0dEZ3FiTHhHV2pmMGFwWXl6NWsybTAtWjY2NmQ4a3ZRanFyQXFpQkFhRmNQSUFFOHRjM1NMVzNfYk9DeGZhX0E3X3pJLUJ0T2xGUk9oVjdCcmxZTU9XRmFLZTdQaWJOdThNLWFZcjd4akVVSkh4WG1HU1pkXzZOT0hCY1Q4TnFfVEpNdXFtMEFWSWdReTAyLVQ2U0ViX3NoMFdJblAxbEJ30gG0AUFVX3lxTE1tZFlZQ1BJQjRveVA0cUp0a2NUVUMwcE1EN21IdTU1TGIxVzR2WmxINnBadkZJalIwRTY1N1dNbTktOWFkLUFOZzNJc2QyRkVuMWdHcm4xc1k1eDFjR3Rwekxsakhlc28tZDhSdG1Ec3R1ZzRLNDdmeGs5Z0xucWs2YU05T1J5R3ktMWtrSnFSRHNpUHREcWpmNE9HY0NDTlREYy1wS1VfT0ZYOHlYZVVKLWdGWg?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2600,18 +2532,86 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "85120e8933c8",
+      "categoria": "reg",
+      "fecha": "2026-11-24T12:59+00:00",
+      "titulo": "Cajeros aún no aceptan los nuevos G. 100.000",
+      "resumen": "",
+      "fuente": "Más Encarnación",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkF3Mnd2UE05RzY2TFdLTi1YYjhQRGFGS1kwMEtUYzZydC1NTjBjQklGNS12S01zbnd1c0lUbjlzc2k5Zkk3V1dPYTBndDBHSlNaTEpibjFQcjdtTGZHdDlTSDNPMExJSkpMOS14ZjZrakp6TWdEdmZWdUtMREowTlByS2I0YWRybkE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Más Encarnación",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkF3Mnd2UE05RzY2TFdLTi1YYjhQRGFGS1kwMEtUYzZydC1NTjBjQklGNS12S01zbnd1c0lUbjlzc2k5Zkk3V1dPYTBndDBHSlNaTEpibjFQcjdtTGZHdDlTSDNPMExJSkpMOS14ZjZrakp6TWdEdmZWdUtMREowTlByS2I0YWRybkE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "e13d18b9205c",
+      "categoria": "reg",
+      "fecha": "2026-11-24T12:50+00:00",
+      "titulo": "Nuevos billetes de G. 100.000: ¿qué dice el BCP sobre los problemas en cajeros automáticos?",
+      "resumen": "",
+      "fuente": "ABC Color",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGpxaTBMRC1sSjBxQmtSZGI2d1dMMVZsVndEYmlRbUVoU3hhTEYyWnNRQkVxQ2gzRldoM0drQnpBdjJqQkQtVFRlVFhhWUlReXpqQW85SWdZa3J1UnE1UmFOclRCX3FfWmZKUkZRT0RHVWMwRVZkSUhONGFWaWRzSVVhVU9LanZxQTByMEQzVmUzRjAwNWI2elF5eDYxYjFOcjJ2eFZRX1Mwc1B4YjVoNVFvNEViRU1NMTJUeHpOeVF3QVMxMW1VdHhB?oc=5",
+      "enlaces": [
+        {
+          "nombre": "ABC Color",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGpxaTBMRC1sSjBxQmtSZGI2d1dMMVZsVndEYmlRbUVoU3hhTEYyWnNRQkVxQ2gzRldoM0drQnpBdjJqQkQtVFRlVFhhWUlReXpqQW85SWdZa3J1UnE1UmFOclRCX3FfWmZKUkZRT0RHVWMwRVZkSUhONGFWaWRzSVVhVU9LanZxQTByMEQzVmUzRjAwNWI2elF5eDYxYjFOcjJ2eFZRX1Mwc1B4YjVoNVFvNEViRU1NMTJUeHpOeVF3QVMxMW1VdHhB?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "f5051a198f95",
+      "categoria": "reg",
+      "fecha": "2026-11-24T10:30+00:00",
+      "titulo": "Cajeros automáticos aún rechazan nuevos billetes de G. 100.000",
+      "resumen": "",
+      "fuente": "5Días Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3VrTUNZWEJaN3BMaGNrVlhPUmdaUHZpMFNVUWxxNVZoVkp3ZGN1UG5iOGtSYTdzbXAxWTlJbm1TWjFRcFFBV3NzODVSTE4yWGc0Rjc4M2lydkYwXzJHOEowbjhuYWF2SElJTF9Rb0o5dy1wdy1CWVBpaUJKZklFMmxaMUlZU0s5LWZWbWNVby0?oc=5",
+      "enlaces": [
+        {
+          "nombre": "5Días Paraguay",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3VrTUNZWEJaN3BMaGNrVlhPUmdaUHZpMFNVUWxxNVZoVkp3ZGN1UG5iOGtSYTdzbXAxWTlJbm1TWjFRcFFBV3NzODVSTE4yWGc0Rjc4M2lydkYwXzJHOEowbjhuYWF2SElJTF9Rb0o5dy1wdy1CWVBpaUJKZklFMmxaMUlZU0s5LWZWbWNVby0?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "964d256dcab1",
+      "categoria": "reg",
+      "fecha": "2026-11-23T20:02+00:00",
+      "titulo": "Demoraron a un hombre que estafó a una rotisería con una transferencia falsa",
+      "resumen": "",
+      "fuente": "DataChaco",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3k3d0hxOHdQOEJxeURRQS11dVlIZXlfbU9LcnVPd3lQV0xhV0pULUNKSllqczNkTGlPVVNqVEtsM0paV2YwTkNoWHpzQVNoOHN1ZlRjcUhQRWNqdHVKTmhHWDJXWkQ3Tm91ajZvRm9fVFdqSWxQVi1DNGxfS1lVbGpzczRjd19ZVFY3TEoyaXlDYTlkd0dseHdlN2hGb2ExSU1WeHYyNzNYUVBYWVE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "DataChaco",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3k3d0hxOHdQOEJxeURRQS11dVlIZXlfbU9LcnVPd3lQV0xhV0pULUNKSllqczNkTGlPVVNqVEtsM0paV2YwTkNoWHpzQVNoOHN1ZlRjcUhQRWNqdHVKTmhHWDJXWkQ3Tm91ajZvRm9fVFdqSWxQVi1DNGxfS1lVbGpzczRjd19ZVFY3TEoyaXlDYTlkd0dseHdlN2hGb2ExSU1WeHYyNzNYUVBYWVE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     }
   ],
   "estado": [
     {
       "fuente": "Red Link (Google Noticias)",
       "ok": true,
-      "noticias": 1
+      "noticias": 7
     },
     {
       "fuente": "MODO e integraciones (Google Noticias)",
       "ok": true,
-      "noticias": 3
+      "noticias": 2
     },
     {
       "fuente": "Competencia: Banelco, Prisma, Coelsa (Google Noticias)",
@@ -2621,7 +2621,7 @@
     {
       "fuente": "Cajeros automáticos (Google Noticias)",
       "ok": true,
-      "noticias": 5
+      "noticias": 7
     },
     {
       "fuente": "Clientes Red Link: bancos públicos y provinciales (Google Noticias)",
@@ -2631,7 +2631,7 @@
     {
       "fuente": "Bancos privados (Banelco) (Google Noticias)",
       "ok": true,
-      "noticias": 1
+      "noticias": 0
     },
     {
       "fuente": "Billeteras y proveedores (Google Noticias)",
@@ -2646,7 +2646,7 @@
     {
       "fuente": "BCRA: normativa de pagos (Google Noticias)",
       "ok": true,
-      "noticias": 0
+      "noticias": 9
     },
     {
       "fuente": "Fraude bancario y digital (Google Noticias)",
@@ -2666,7 +2666,7 @@
     {
       "fuente": "Malware bancario (Google News)",
       "ok": true,
-      "noticias": 8
+      "noticias": 7
     },
     {
       "fuente": "Krebs on Security",
@@ -2681,7 +2681,7 @@
     {
       "fuente": "Pagos agénticos (Google News)",
       "ok": true,
-      "noticias": 58
+      "noticias": 34
     },
     {
       "fuente": "FinTech Futures",
@@ -2691,67 +2691,32 @@
     {
       "fuente": "Wallets y pagos mobile (Google News)",
       "ok": true,
-      "noticias": 38
-    },
-    {
-      "fuente": "Apple Developer News",
-      "ok": true,
-      "noticias": 0
-    },
-    {
-      "fuente": "Android Developers Blog",
-      "ok": true,
-      "noticias": 0
-    },
-    {
-      "fuente": "9to5Mac",
-      "ok": true,
-      "noticias": 21
-    },
-    {
-      "fuente": "9to5Google",
-      "ok": true,
-      "noticias": 5
-    },
-    {
-      "fuente": "Diseño de sistemas (Google News)",
-      "ok": true,
-      "noticias": 29
+      "noticias": 36
     },
     {
       "fuente": "UX fintech (Google News)",
       "ok": true,
-      "noticias": 12
-    },
-    {
-      "fuente": "Nielsen Norman Group",
-      "ok": true,
-      "noticias": 4
-    },
-    {
-      "fuente": "Smashing Magazine",
-      "ok": true,
-      "noticias": 0
+      "noticias": 7
     },
     {
       "fuente": "Bancos del mundo (Google News)",
       "ok": true,
-      "noticias": 100
+      "noticias": 31
     },
     {
       "fuente": "Fintech del mundo (Google News)",
       "ok": true,
-      "noticias": 100
+      "noticias": 11
     },
     {
       "fuente": "Proveedores de pagos del mundo (Google News)",
       "ok": true,
-      "noticias": 100
+      "noticias": 35
     },
     {
       "fuente": "Customer experience en banca (Google News)",
       "ok": true,
-      "noticias": 58
+      "noticias": 18
     }
   ]
 }

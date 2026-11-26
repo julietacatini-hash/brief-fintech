@@ -12,6 +12,7 @@ import socket
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote_plus
+from urllib.request import Request, urlopen
 
 import feedparser
 
@@ -22,6 +23,31 @@ UA = "Mozilla/5.0 (compatible; BriefFintechBot/1.0)"
 CATEGORIAS = {"reg", "emp", "ux", "ten"}
 VALIDAS = CATEGORIAS | {"auto"}
 socket.setdefaulttimeout(20)
+
+
+EN = set("the and of to for with is are on in new how why what your you this that from by at as its it will can be has have was were their more about into after over launches launch says".split())
+ES = set("el la los las de del y en para con por que una un es son se su sus al como más nueva nuevo cómo qué desde sobre ya lo".split())
+
+
+def es_ingles(texto):
+    w = re.findall(r"[a-záéíóúñü]+", texto.lower())
+    en = sum(x in EN for x in w)
+    es = sum(x in ES for x in w)
+    return en >= 2 and en > es * 1.5
+
+
+def traducir(texto):
+    """Traducción gratuita (sin clave) al español. Si falla, devuelve None."""
+    if not texto:
+        return texto
+    try:
+        url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q="
+               + quote_plus(texto[:1500]))
+        with urlopen(Request(url, headers={"User-Agent": UA}), timeout=15) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        return "".join(p[0] for p in data[0] if p and p[0]).strip() or None
+    except Exception:
+        return None
 
 
 def url_google(q, idioma):
@@ -230,6 +256,22 @@ def main():
     if not recortado and anteriores:
         print("No se obtuvo ninguna noticia; se mantiene la versión anterior.")
         return
+
+    # Lo que está en inglés se traduce al español; se guarda el original.
+    traducidas = 0
+    for n in recortado:
+        if n.get("idioma_original") or not es_ingles(f"{n['titulo']} {n.get('resumen', '')}"):
+            continue
+        t = traducir(n["titulo"])
+        if not t:
+            continue
+        n["titulo_original"] = n["titulo"]
+        n["titulo"] = t
+        if n.get("resumen"):
+            n["resumen"] = traducir(n["resumen"]) or n["resumen"]
+        n["idioma_original"] = "en"
+        traducidas += 1
+    print(f"Traducidas del inglés: {traducidas}")
 
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
     SALIDA.write_text(json.dumps({

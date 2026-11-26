@@ -1,5 +1,5 @@
 // Guarda la app para abrirla sin conexión; las noticias se piden siempre frescas.
-const CACHE = "brief-v3";
+const CACHE = "brief-v4";
 const BASE = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {

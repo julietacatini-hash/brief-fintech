@@ -538,6 +538,42 @@
       "region": "global",
       "q": "site:linkedin.com (\"design system\" OR \"Liquid Glass\" OR \"Material 3\" OR \"iPhone Duo\" OR \"AI design\" OR \"Figma Make\" OR \"generative UI\")",
       "filtro": "tema_diseno"
+    },
+    {
+      "nombre": "Diseño UX/UI en español (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"diseño UX\" OR \"diseño UI\" OR \"experiencia de usuario\" OR \"sistema de diseño\" OR \"diseño de producto\" OR \"diseño de interfaces\")",
+      "filtro": "tema_diseno"
+    },
+    {
+      "nombre": "Diseño e IA en español (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"inteligencia artificial\" OR IA) (\"diseño de producto\" OR diseñadores OR \"experiencia de usuario\" OR Figma OR interfaz)",
+      "filtro": "tema_diseno"
+    },
+    {
+      "nombre": "Dispositivos e interfaces nuevas (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"iPhone Duo\" OR plegable OR \"Liquid Glass\" OR \"Material 3\" OR \"iOS 27\" OR \"Android 17\" OR \"One UI\") (diseño OR interfaz OR apps)",
+      "filtro": "tema_diseno"
+    },
+    {
+      "nombre": "LinkedIn: diseño en Latinoamérica",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ten",
+      "region": "global",
+      "q": "site:linkedin.com (\"diseño UX\" OR \"diseño UI\" OR \"UX writing\" OR \"sistema de diseño\" OR \"diseño de producto\") (Argentina OR México OR Colombia OR Chile OR Latam OR banco OR fintech)",
+      "filtro": "tema_diseno"
     }
   ],
   "excluir": [

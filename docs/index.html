@@ -181,6 +181,7 @@ h1{margin:0;font-weight:600;font-size:clamp(2.2rem,4.6vw,3.9rem);line-height:1.0
 .trend-row .glass h3{font-size:1.02rem;flex:1}
 .tag-ia{display:inline-flex;align-items:center;height:22px;padding:0 9px;border-radius:999px;background:#B9A7FF;color:#1D1440;font-size:.74rem;font-weight:600}
 
+.lang{display:inline-flex;align-items:center;gap:5px;font-size:.76rem;font-weight:600;padding:0 8px;height:22px;border-radius:999px;border:1px solid currentColor;opacity:.85;cursor:help}
 .fab{position:fixed;right:max(16px,calc(env(safe-area-inset-right,0px) + 16px));bottom:calc(env(safe-area-inset-bottom,0px) + 18px);z-index:40;display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 18px;border-radius:999px;border:0;background:var(--lime);color:var(--lime-ink);font-weight:600;cursor:pointer;box-shadow:var(--shadow)}
 
 @media (max-width:860px){
@@ -323,7 +324,9 @@ function rel(d){
 const inRegion = n => prefs.region==="world" || n.region==="ar";
 const matchesQ = n => !query || n.hay.includes(query);
 const inCats = n => prefs.cats.length===0 || prefs.cats.includes(n.cat);
-const visible = () => NEWS.filter(n => inRegion(n) && matchesQ(n) && inCats(n)).sort((a,b)=>b.d-a.d);
+// Prioriza el contenido en español (Latinoamérica): dentro de cada día, primero lo escrito en español.
+const byPriority = (a,b) => (dayKey(a.d)===dayKey(b.d) ? (a.en-b.en) || (b.d-a.d) : b.d-a.d);
+const visible = () => NEWS.filter(n => inRegion(n) && matchesQ(n) && inCats(n)).sort(byPriority);
 
 /* ---------- Región (dropdown) ---------- */
 const rBtn=$("region-btn"), rMenu=$("region-menu");
@@ -386,14 +389,16 @@ function linksHTML(n){
     return `<li class="${t}"><a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">${ICON[t]}<span>${esc(l.nombre)}</span><span class="sr">, ${KIND[t]}</span></a></li>`;
   }).join("")}</ul>`;
 }
+const TRAD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h8M8 3v2M5 11c2-1 4-3.5 5-6M6 7c1 2 3 4 5 4.5"/><path d="m12 21 4.5-10L21 21M13.5 18h6"/></svg>';
+const langHTML = n => n.en ? `<span class="lang" title="Traducido automáticamente. Original en inglés: ${esc(n.orig)}">${TRAD}Original en inglés</span>` : "";
 function metaHTML(n, isNew){
-  return `<div class="meta">${isNew?'<span class="badge">Nueva</span>':""}<span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar" title="Argentina">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span></div>`;
+  return `<div class="meta">${isNew?'<span class="badge">Nueva</span>':""}<span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar" title="Argentina">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div>`;
 }
 function itemHTML(n, isNew){
   return `<li class="item" style="--c:${CATS[n.cat].c}">${metaHTML(n,isNew)}<h3>${esc(n.title)}</h3>${n.body?`<p>${esc(n.body)}</p>`:""}${linksHTML(n)}</li>`;
 }
 function glassHTML(n){
-  return `<li class="glass" style="--cd:${CATS[n.cat].cd}"><div class="meta"><span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span></div><h3>${esc(n.title)}</h3>${n.body?`<p>${esc(n.body)}</p>`:""}${linksHTML(n)}</li>`;
+  return `<li class="glass" style="--cd:${CATS[n.cat].cd}"><div class="meta"><span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3>${esc(n.title)}</h3>${n.body?`<p>${esc(n.body)}</p>`:""}${linksHTML(n)}</li>`;
 }
 
 function renderSpot(list, nuevas){
@@ -501,18 +506,19 @@ function renderTrends(){
   const b=(k,l)=>`<button type="button" data-tm="${k}" aria-pressed="${trendMode===k}">${l}</button>`;
   t.innerHTML=`<div class="trends-head"><div><h2 id="trends-h">Tendencias UI/UX</h2><p>Sistemas de diseño, nuevos dispositivos y patrones, con la banca como eje.</p></div>
     <div class="seg" role="group" aria-label="Filtrar tendencias">${b("all","Todas")}${b("ia","Con IA")}${b("noia","Sin IA")}</div></div>
-    ${list.length?`<ul class="trend-row">${list.map(n=>`<li><article class="glass"><div class="meta">${n.ia?'<span class="tag-ia">IA</span>':""}<span>${esc(n.source)}</span><span>${rel(n.d)}</span></div><h3><a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(n.title)}</a></h3></article></li>`).join("")}</ul>`:'<p style="margin:0;color:var(--dark-muted)">No hay tendencias de este tipo esta semana.</p>'}`;
+    ${list.length?`<ul class="trend-row">${list.map(n=>`<li><article class="glass"><div class="meta">${n.ia?'<span class="tag-ia">IA</span>':""}<span>${esc(n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3><a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(n.title)}</a></h3></article></li>`).join("")}</ul>`:'<p style="margin:0;color:var(--dark-muted)">No hay tendencias de este tipo esta semana.</p>'}`;
 }
 document.addEventListener("click",e=>{ const b=e.target.closest("[data-tm]"); if(!b) return; trendMode=b.dataset.tm; renderTrends(); });
 
 /* ---------- Carga ---------- */
 function loadData(data){
   UPDATED = data.actualizado ? toDate(data.actualizado) : null;
-  TRENDS = (Array.isArray(data.noticias)?data.noticias:[]).filter(n=>n.categoria==="ten" && n.titulo && n.url).map(n=>({title:String(n.titulo), url:String(n.url), source:String(n.fuente||""), d:toDate(n.fecha), ia:IA_RE.test(`${n.titulo} ${n.resumen||""}`)})).sort((a,b)=>b.d-a.d);
+  TRENDS = (Array.isArray(data.noticias)?data.noticias:[]).filter(n=>n.categoria==="ten" && n.titulo && n.url).map(n=>({title:String(n.titulo), url:String(n.url), source:String(n.fuente||""), d:toDate(n.fecha), ia:IA_RE.test(`${n.titulo_original||n.titulo} ${n.resumen||""}`), en:n.idioma_original==="en", orig:String(n.titulo_original||"")})).sort(byPriority);
   NEWS = (Array.isArray(data.noticias)?data.noticias:[]).filter(n=>CATS[n.categoria] && n.titulo).map(n=>{
     const links = (Array.isArray(n.enlaces)&&n.enlaces.length ? n.enlaces : [{nombre:n.fuente,url:n.url,tipo:"nota"}]).filter(l=>l && l.url);
     const o = { id:String(n.id), cat:n.categoria, d:toDate(n.fecha), title:String(n.titulo), body:String(n.resumen||""),
-      source:String(n.fuente||""), region:n.region==="ar"?"ar":"global", links };
+      source:String(n.fuente||""), region:n.region==="ar"?"ar":"global", links,
+      en:n.idioma_original==="en", orig:String(n.titulo_original||"") };
     o.hay = norm(`${o.title} ${o.body} ${o.source} ${links.map(l=>l.nombre).join(" ")}`);
     return o;
   });

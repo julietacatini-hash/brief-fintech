@@ -443,16 +443,17 @@ function glassHTML(n){
   return `<li class="glass" style="--cd:${CATS[n.cat].cd}"><div class="meta"><span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3>${esc(n.title)}</h3>${n.body?`<p>${esc(n.body)}</p>`:""}${linksHTML(n)}</li>`;
 }
 
-const EMPRESA = [["red link",10],["link celular",8],["home banking link",8],["link pagos",8],["banelco",6],["newpay",6],["coelsa",6],["modo",5],["interbanking",5],["prisma",4],["cajero",4],["atm",3],["homebanking",3],["home banking",3],["billetera",2],["transferencia",2],["qr",1],["bcra",2],["comunicación a",3]];
+const EMPRESA = [["red link",10],["link celular",8],["home banking link",8],["link pagos",8],["banelco",6],["newpay",6],["coelsa",6],["modo",5],["interbanking",5],["prisma",4],["cajero",4],["atm",3],["homebanking",3],["home banking",3],["billetera virtual",2],["billetera digital",2],["transferencia",2],["qr",1],["bcra",2],["comunicación a",3]];
 const ALERTA = ["falla","caída","cayó","no funciona","interrup","incidente","ciberataque","hackeo","estafa","fraude","sanción","multa"];
 const GRANDES = ["infobae","la nación","clarín","ámbito","el cronista","iprofesional","iproup","perfil","página/12","bloomberg","reuters","la voz","forbes","tn","el economista","fintech futures","techcrunch","the verge","9to5mac","nielsen"];
-const TEMAS = {"transferencias":["transferencia"],"QR":[" qr"],"fraude y estafas":["fraude","estafa","phishing"],"fallas y caídas":["falla","caída","no funciona"],"cajeros":["cajero","atm"],"billeteras":["billetera","wallet"],"tarjetas":["tarjeta","card"],"IA":[" ia "," ai ","inteligencia artificial"],"normativa BCRA":["bcra","comunicación a"],"banca empresas":["empresas","pyme","echeq"],"diseño y UX":["diseño","design","ux","interfaz"],"criptomonedas":["cripto","crypto","usdt"]};
+const TEMAS = {"transferencias":["transferencia"],"QR":[" qr"],"fraude y estafas":["fraude","estafa","phishing"],"fallas y caídas":["falla","caída","no funciona"],"cajeros":["cajero","atm"],"billeteras":["billetera virtual","billetera digital","wallet"],"tarjetas":["tarjeta","card"],"IA":[" ia "," ai ","inteligencia artificial"],"normativa BCRA":["bcra","comunicación a"],"banca empresas":["empresas","pyme","echeq"],"diseño y UX":["diseño","design","ux","interfaz"],"criptomonedas":["cripto","crypto","usdt"]};
 EMPRESA.forEach(e=>e[0]=norm(e[0])); ALERTA.forEach((w,i)=>ALERTA[i]=norm(w)); GRANDES.forEach((w,i)=>GRANDES[i]=norm(w)); for(const k in TEMAS) TEMAS[k]=TEMAS[k].map(norm);
 function puntaje(n){
   const t=" "+n.hay+" "; let p=0; const why=[];
   let emp=0; for(const [w,v] of EMPRESA) if(t.includes(w)) emp=Math.max(emp,v);
   if(emp){ p+=emp; why.push(emp>=8?"Red Link":"Tu industria"); }
-  if(ALERTA.some(w=>t.includes(w))){ p+= emp?6:2; if(emp) why.push("Alerta"); }
+  // Alerta solo si la falla es de un servicio del rubro (Red Link, redes, cajeros, homebanking), no por usar "caída" o "billetera" en otro sentido.
+  if(emp>=3 && ALERTA.some(w=>t.includes(w))){ p+=6; why.push("Alerta"); }
   const cob=n.links.length-1; if(cob>0){ p+=cob*2; why.push(`${cob+1} medios`); }
   if(GRANDES.some(g=>norm(n.links.map(l=>l.nombre).join(" ")+" "+n.source).includes(g))){ p+=3; why.push("Medio principal"); }
   const h=(Date.now()-n.d)/36e5; p+= h<24?3:h<72?1:0;

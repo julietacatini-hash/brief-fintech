@@ -109,7 +109,11 @@ def leer_fuente(f, desde):
     feed = feedparser.parse(url, agent=UA)
     if feed.bozo and not feed.entries:
         raise RuntimeError(str(feed.get("bozo_exception", "feed inválido")))
-    filtro = [p.lower() for p in f.get("filtro", [])]
+    filtro = f.get("filtro", [])
+    if isinstance(filtro, str):
+        filtro = CONF.get(filtro, [])
+    filtro = [p.lower() for p in filtro]
+    excluir = [p.lower() for p in CONF.get("excluir", [])]
     items = []
     for e in feed.entries:
         fecha = fecha_de(e)
@@ -141,8 +145,10 @@ def leer_fuente(f, desde):
             for href, tit, _m in enlaces_en_html(cuerpo):
                 if es_oficial(href) and len(enlaces) < 4:
                     enlaces.append({"nombre": tit or dominio(href), "url": href, "tipo": "oficial"})
+        texto = f" {titulo} {resumen} ".lower()
+        if any(p in texto for p in excluir):
+            continue
         if filtro:
-            texto = f" {titulo} {resumen} ".lower()
             if not any(p in texto for p in filtro):
                 continue
         categoria = f["categoria"]

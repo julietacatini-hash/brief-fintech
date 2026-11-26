@@ -109,28 +109,112 @@
   ],
   "fuentes": [
     {
-      "nombre": "BCRA y pagos (Google Noticias)",
+      "nombre": "Red Link (Google Noticias)",
       "tipo": "google",
       "idioma": "es",
-      "categoria": "reg",
-      "q": "BCRA (transferencias OR billeteras OR QR OR CVU OR \"pago con transferencia\")",
-      "region": "ar"
+      "categoria": "auto",
+      "region": "ar",
+      "q": "\"Red Link\" OR \"Link Celular\" OR \"Home Banking Link\" OR \"Link Pagos\" OR \"Red Link SDK\" OR \"cajeros Link\" -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
     },
     {
-      "nombre": "Fintech Argentina (Google Noticias)",
+      "nombre": "MODO e integraciones (Google Noticias)",
       "tipo": "google",
       "idioma": "es",
-      "categoria": "reg",
-      "q": "fintech Argentina (billetera OR \"Red Link\" OR Coelsa OR \"Mercado Pago\" OR Ualá OR \"Cuenta DNI\")",
-      "region": "ar"
+      "categoria": "auto",
+      "region": "ar",
+      "q": "MODO (billetera OR \"MODO Conexiones\" OR SDK OR integración OR bancos OR QR OR \"pago con transferencia\") -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
     },
     {
-      "nombre": "Fraude bancario en Argentina (Google Noticias)",
+      "nombre": "Competencia: Banelco, Prisma, Coelsa (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "Banelco OR Prisma OR Newpay OR Coelsa OR Payway OR Interbanking OR \"Pago Mis Cuentas\" OR Getnet OR Fiserv -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Cajeros automáticos (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"cajeros automáticos\" OR \"cajero automático\" OR ATM OR \"extracción sin tarjeta\" OR \"terminales de autoservicio\") (banco OR red OR Link OR Banelco) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Clientes Red Link: bancos públicos y provinciales (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Banco Nación\" OR \"BNA+\" OR \"Banco Provincia\" OR \"Cuenta DNI\" OR \"Banco Ciudad\" OR Bancor OR \"Banco de Santa Fe\" OR \"Nuevo Banco de Entre Ríos\" OR \"Banco del Chubut\" OR \"Banco San Juan\" OR \"Banco de Corrientes\" OR \"Banco Neuquén\" OR \"Banco de La Pampa\" OR \"Banco de Tierra del Fuego\" OR Credicoop) (app OR homebanking OR digital OR billetera OR cajeros OR lanzó OR transferencias) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Bancos privados (Banelco) (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Banco Galicia\" OR \"Santander Argentina\" OR \"BBVA Argentina\" OR \"Banco Macro\" OR ICBC OR \"Banco Patagonia\" OR Supervielle OR Brubank OR \"Banco Hipotecario\") (app OR homebanking OR digital OR billetera OR cajeros OR lanzó) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Billeteras y proveedores (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Mercado Pago\" OR Ualá OR \"Naranja X\" OR \"Personal Pay\" OR Prex OR \"Claro Pay\" OR Lemon OR Belo OR Pomelo OR \"Cuenta DNI\") (app OR lanzó OR función OR transferencias OR QR OR BCRA OR tarjeta) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Banca empresas (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"banca empresas\" OR \"banca pyme\" OR \"cash management\" OR echeq OR \"cheque electrónico\" OR Interbanking OR \"pagos a proveedores\" OR \"cobranzas\" OR \"pago de sueldos\") (banco OR digital OR plataforma) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "BCRA: normativa de pagos (Google Noticias)",
       "tipo": "google",
       "idioma": "es",
       "categoria": "reg",
-      "q": "(fraude OR phishing OR estafa OR ciberataque) (banco OR billetera OR homebanking)",
-      "region": "ar"
+      "region": "ar",
+      "q": "BCRA (transferencias OR billeteras OR QR OR CVU OR \"pagos con transferencia\" OR \"Transferencias 3.0\" OR cajeros OR \"comunicación A\" OR interoperabilidad) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Fraude bancario y digital (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "reg",
+      "region": "ar",
+      "q": "(fraude OR phishing OR estafa OR ciberataque OR \"cuento del tío\") (homebanking OR billetera OR cajero OR transferencia OR \"app del banco\") -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Experiencia en apps bancarias (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ux",
+      "region": "ar",
+      "q": "(\"experiencia de usuario\" OR rediseño OR \"nueva app\" OR accesibilidad OR reclamos OR caída) (homebanking OR billetera OR \"app del banco\" OR cajeros) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos -Milei -elecciones",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Open banking y APIs LATAM (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "auto",
+      "region": "global",
+      "q": "(\"open banking\" OR \"open finance\" OR \"banking API\" OR \"embedded finance\" OR \"ATM network\") (Latin America OR Brazil OR Pix OR Argentina)",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Malware bancario (Google News)",
@@ -174,14 +258,6 @@
         "passkey"
       ],
       "region": "global"
-    },
-    {
-      "nombre": "IA en banca (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "emp",
-      "q": "\"inteligencia artificial\" (banco OR bancos OR banca OR fintech)",
-      "region": "ar"
     },
     {
       "nombre": "Pagos agénticos (Google News)",
@@ -307,30 +383,6 @@
       "region": "global"
     },
     {
-      "nombre": "Bancos de Argentina (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "auto",
-      "region": "ar",
-      "q": "(\"Banco Galicia\" OR \"Santander Argentina\" OR \"BBVA Argentina\" OR \"Banco Macro\" OR \"Banco Nación\" OR \"Banco Provincia\" OR \"Banco Ciudad\" OR \"ICBC Argentina\" OR \"Banco Patagonia\" OR Supervielle OR Brubank OR Credicoop) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
-    },
-    {
-      "nombre": "Fintech de Argentina (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "auto",
-      "region": "ar",
-      "q": "(\"Mercado Pago\" OR Ualá OR \"Naranja X\" OR \"Personal Pay\" OR Prex OR \"Lemon Cash\" OR Belo OR \"Cuenta DNI\" OR MODO OR \"Claro Pay\" OR Cocos) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
-    },
-    {
-      "nombre": "Proveedores de pagos en Argentina (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "auto",
-      "region": "ar",
-      "q": "(\"Red Link\" OR Coelsa OR Prisma OR Banelco OR Payway OR Getnet OR Pomelo OR \"Fiserv Argentina\" OR \"Visa Argentina\" OR \"Mastercard Argentina\") -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
-    },
-    {
       "nombre": "Bancos del mundo (Google News)",
       "tipo": "google",
       "idioma": "en",
@@ -355,22 +407,6 @@
       "q": "(Visa OR Mastercard OR Stripe OR Adyen OR PayPal OR Plaid OR Fiserv OR FIS OR Temenos OR Thales) (payments OR launches OR announces OR bank OR fintech)"
     },
     {
-      "nombre": "Experiencia en bancos y billeteras (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "ux",
-      "region": "ar",
-      "q": "(\"experiencia de usuario\" OR \"experiencia del cliente\" OR rediseño OR \"nueva app\" OR accesibilidad OR usabilidad) (banco OR billetera OR fintech OR homebanking)"
-    },
-    {
-      "nombre": "Reclamos y fallas de apps financieras (Google Noticias)",
-      "tipo": "google",
-      "idioma": "es",
-      "categoria": "ux",
-      "region": "ar",
-      "q": "(reclamos OR quejas OR caída OR falla OR \"no funciona\") (app OR homebanking OR billetera) (banco OR \"Mercado Pago\" OR Ualá OR \"Cuenta DNI\")"
-    },
-    {
       "nombre": "Customer experience en banca (Google News)",
       "tipo": "google",
       "idioma": "en",
@@ -378,5 +414,80 @@
       "region": "global",
       "q": "(\"customer experience\" OR \"user experience\" OR \"app ratings\" OR \"J.D. Power\" OR usability) (\"banking app\" OR \"mobile banking\" OR fintech)"
     }
+  ],
+  "excluir": [
+    "milei",
+    "kicillof",
+    "caputo",
+    "villarruel",
+    "cristina kirchner",
+    "peronismo",
+    "libertad avanza",
+    "elecciones",
+    "diputados",
+    "senado",
+    "senador",
+    "gobernador",
+    "intendente",
+    "congreso",
+    "paro ",
+    "cgt",
+    "fútbol",
+    "futbol",
+    "superliga",
+    "boca juniors",
+    "river plate",
+    "horóscopo",
+    "dólar blue",
+    "plazo fijo",
+    "riesgo país",
+    "merval",
+    "inflación de",
+    "presupuesto 20"
+  ],
+  "tema_banca": [
+    "cajero",
+    "atm",
+    "extracción",
+    "homebanking",
+    "home banking",
+    "app",
+    "aplicación",
+    "billetera",
+    "wallet",
+    "transferencia",
+    "qr",
+    "cvu",
+    "cbu",
+    "alias",
+    "pago",
+    "pagos",
+    "tarjeta",
+    "débito",
+    "crédito",
+    "token",
+    "sdk",
+    "api",
+    "open banking",
+    "banca",
+    "bank",
+    "digital",
+    "fraude",
+    "estafa",
+    "phishing",
+    "ciberseg",
+    "seguridad",
+    "empresas",
+    "pymes",
+    "cash management",
+    "echeq",
+    "cheque electrónico",
+    "interoperab",
+    "link",
+    "banelco",
+    "modo",
+    "lanz",
+    "nueva función",
+    "integra"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "dias": 7,
-  "max_por_categoria": 50,
+  "max_por_categoria": 120,
   "categoria_por_defecto": "emp",
   "reglas_categoria": [
     {

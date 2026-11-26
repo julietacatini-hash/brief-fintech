@@ -175,8 +175,8 @@ h1{margin:0;font-weight:600;font-size:clamp(2.2rem,4.6vw,3.9rem);line-height:1.0
 .seg{display:inline-flex;gap:4px;padding:4px;border-radius:14px;background:rgba(255,255,255,.08)}
 .seg button{min-height:40px;padding:0 14px;border-radius:10px;border:0;background:transparent;color:var(--dark-ink);font:inherit;font-weight:500;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--lime);color:var(--lime-ink)}
-.trend-row{list-style:none;margin:0;padding:0 0 6px;display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory}
-.trend-row li{flex:0 0 min(300px,80%);scroll-snap-align:start}
+.trend-row{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.trend-more{align-self:center;background:rgba(255,255,255,.1);color:var(--dark-ink);border:1px solid var(--glass-line)}
 .trend-row .glass{height:100%;display:flex;flex-direction:column}
 .trend-row .glass h3{font-size:1.02rem;flex:1}
 .tag-ia{display:inline-flex;align-items:center;height:22px;padding:0 9px;border-radius:999px;background:#B9A7FF;color:#1D1440;font-size:.74rem;font-weight:600}
@@ -497,18 +497,23 @@ fab.addEventListener("click",()=>{ $("filters").scrollIntoView({block:"center"})
 
 /* ---------- Tendencias UI/UX ---------- */
 const IA_RE=/\b(ia|ai|inteligencia artificial|artificial intelligence|genai|llm|agente|agent|copilot|gemini|chatgpt|openai|claude|figma make|generativ)/i;
-let TRENDS=[], trendMode="all";
+const TREND_STEP=40;
+let TRENDS=[], trendMode="all", trendShown=TREND_STEP;
 function renderTrends(){
   const t=$("trends");
   if(!TRENDS.length){ t.hidden=true; return; }
   t.hidden=false;
-  const list=TRENDS.filter(n=>trendMode==="all"||(trendMode==="ia")===n.ia).slice(0,14);
+  const all=TRENDS.filter(n=>trendMode==="all"||(trendMode==="ia")===n.ia);
+  const list=all.slice(0,trendShown), rest=all.length-list.length;
   const b=(k,l)=>`<button type="button" data-tm="${k}" aria-pressed="${trendMode===k}">${l}</button>`;
   t.innerHTML=`<div class="trends-head"><div><h2 id="trends-h">Tendencias UI/UX</h2><p>Sistemas de diseño, nuevos dispositivos y patrones, con la banca como eje.</p></div>
     <div class="seg" role="group" aria-label="Filtrar tendencias">${b("all","Todas")}${b("ia","Con IA")}${b("noia","Sin IA")}</div></div>
-    ${list.length?`<ul class="trend-row">${list.map(n=>`<li><article class="glass"><div class="meta">${n.ia?'<span class="tag-ia">IA</span>':""}<span>${esc(n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3><a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(n.title)}</a></h3></article></li>`).join("")}</ul>`:'<p style="margin:0;color:var(--dark-muted)">No hay tendencias de este tipo esta semana.</p>'}`;
+    ${list.length?`<ul class="trend-row">${list.map(n=>`<li><article class="glass"><div class="meta">${n.ia?'<span class="tag-ia">IA</span>':""}<span>${esc(n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3><a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(n.title)}</a></h3></article></li>`).join("")}</ul>${rest>0?`<button class="btn-lime trend-more" type="button" data-tmore>Ver ${Math.min(rest,TREND_STEP)} más</button>`:""}`:'<p style="margin:0;color:var(--dark-muted)">No hay tendencias de este tipo esta semana.</p>'}`;
 }
-document.addEventListener("click",e=>{ const b=e.target.closest("[data-tm]"); if(!b) return; trendMode=b.dataset.tm; renderTrends(); });
+document.addEventListener("click",e=>{
+  if(e.target.closest("[data-tmore]")){ trendShown+=TREND_STEP; renderTrends(); return; }
+  const b=e.target.closest("[data-tm]"); if(!b) return; trendMode=b.dataset.tm; trendShown=TREND_STEP; renderTrends();
+});
 
 /* ---------- Carga ---------- */
 function loadData(data){

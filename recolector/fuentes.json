@@ -475,6 +475,69 @@
       "categoria": "ten",
       "url": "https://www.figma.com/blog/feed/atom.xml",
       "region": "global"
+    },
+    {
+      "nombre": "LinkedIn: Red Link y competencia",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "site:linkedin.com (\"Red Link\" OR MODO OR Banelco OR Newpay OR Coelsa OR Interbanking OR \"Link Celular\")",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "LinkedIn: BCRA y pagos",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "reg",
+      "region": "ar",
+      "q": "site:linkedin.com BCRA (\"Comunicación A\" OR transferencias OR QR OR interoperabilidad OR billeteras OR \"pagos con transferencia\")",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "LinkedIn: cajeros y canales",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "site:linkedin.com (\"cajeros automáticos\" OR ATM OR homebanking OR \"banca digital\" OR \"app del banco\")",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "LinkedIn: banca empresas",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "site:linkedin.com (\"banca empresas\" OR \"cash management\" OR echeq OR \"pagos B2B\" OR \"banca pyme\")",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "LinkedIn: billeteras y fintech AR",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "site:linkedin.com (\"Mercado Pago\" OR Ualá OR \"Naranja X\" OR \"Personal Pay\" OR \"Cuenta DNI\" OR Pomelo) (lanzamiento OR producto OR equipo OR app)",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "LinkedIn: UX/UI en banca",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ten",
+      "region": "global",
+      "q": "site:linkedin.com (UX OR UI OR \"diseño de producto\" OR \"design system\" OR \"sistema de diseño\") (banco OR fintech OR billetera OR banking)",
+      "filtro": "tema_diseno"
+    },
+    {
+      "nombre": "LinkedIn: tendencias de diseño",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "site:linkedin.com (\"design system\" OR \"Liquid Glass\" OR \"Material 3\" OR \"iPhone Duo\" OR \"AI design\" OR \"Figma Make\" OR \"generative UI\")",
+      "filtro": "tema_diseno"
     }
   ],
   "excluir": [
@@ -532,8 +595,7 @@
     "monitor",
     "adult",
     "black friday deal",
-    " deals",
-    "linkedin"
+    " deals"
   ],
   "tema_banca": [
     "cajero",
@@ -576,5 +638,30 @@
     "fintech",
     "neobank",
     "pix"
+  ],
+  "tema_diseno": [
+    "design",
+    "diseño",
+    "ux",
+    "ui ",
+    "interfaz",
+    "interface",
+    "figma",
+    "design system",
+    "sistema de diseño",
+    "accesib",
+    "accessib",
+    "prototip",
+    "research",
+    "usabil",
+    "producto",
+    "product",
+    "navigation",
+    "navegación",
+    "foldable",
+    "plegable",
+    "iphone duo",
+    "liquid glass",
+    "material"
   ]
 }

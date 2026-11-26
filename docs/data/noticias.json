@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-11-26T22:39+00:00",
+  "actualizado": "2026-11-26T22:42+00:00",
   "noticias": [
     {
       "id": "ace2b0d05565",
       "categoria": "ten",
       "fecha": "2026-11-26T21:48+00:00",
-      "titulo": "Adobe, Figma, Canva Push AI Tools for Enterprise",
+      "titulo": "Adobe, Figma y Canva impulsan herramientas de inteligencia artificial para empresas",
       "resumen": "",
       "fuente": "Wisevoter",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzdJQ2RRLVFyZ1JtaVZtazFfTEdvNXM0N2kwY2J2WGlhVl9pdTJuTDd4VXd0c1JkMXZKWlozTnpfNWwyQ1NFS094RXNqanJfTWJaSVNXZUZQbHNmS2d3R09PZFgyM1o2dDNTOHZZMnB3d19sVm1RcTd5STJtVHlncl80RDc4OHZGbHZneUhIcw?oc=5",
@@ -16,7 +16,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Adobe, Figma, Canva Push AI Tools for Enterprise",
+      "idioma_original": "en"
     },
     {
       "id": "e35e3ecd9a10",
@@ -166,7 +168,7 @@
       "id": "884a9c602548",
       "categoria": "emp",
       "fecha": "2026-11-26T17:36+00:00",
-      "titulo": "Robinhood vs. Robin Hood: Who Actually Owns 24 Everyday Words Borrowed by Fintech?",
+      "titulo": "Robinhood versus Robin Hood: ¿Quién posee realmente 24 palabras cotidianas tomadas prestadas por Fintech?",
       "resumen": "",
       "fuente": "HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGlRRkRjSW5xYWdNX1BYckpjR3RnOEVTSWdkYmJIRUhiVlU4UVVHSlY1RlBPVHFYeHpVU0FhUzBhdjUyUW9SRVZtOFZqTlJGUEN4dXpPLUNxWlNuUm45VTQtaXNTOUtqZjllMldzSXBEU3hKYjllSFNwaHozOVFYZE9kZm1TWFhOS3VmSHp1Z1ZCcDJIVlNqOHZTOWppYVByM2haaw?oc=5",
@@ -177,7 +179,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Robinhood vs. Robin Hood: Who Actually Owns 24 Everyday Words Borrowed by Fintech?",
+      "idioma_original": "en"
     },
     {
       "id": "6bdded61c3d2",
@@ -240,7 +244,7 @@
       "id": "2aeec552fc98",
       "categoria": "ux",
       "fecha": "2026-11-26T17:03+00:00",
-      "titulo": "Clearspeed Executives Reveal 2027 Fintech Predictions: AI Agents, Trust Gaps, and Renewal Drift",
+      "titulo": "Los ejecutivos de Clearspeed revelan predicciones de tecnología financiera para 2027: agentes de inteligencia artificial, brechas de confianza y deriva en la renovación",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmc5UkZzTFdvcFlfZFVkdlhZb3FPUzRKcy1ia1J4YjExZDItR1dNTzhCU2NGazEwMDlJcmJPcUE1TXlBZ3liMGlYWmgxYjdqeFhPRUdxVG1vYmFkZ0hfWWp0QlQ2MUUzYURTcV9XZDNuSWQ5bVNiZkJMMU9tYlgtREI1eVpzUzRpQ0ZuTDZzS0RXdw?oc=5",
@@ -251,13 +255,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Clearspeed Executives Reveal 2027 Fintech Predictions: AI Agents, Trust Gaps, and Renewal Drift",
+      "idioma_original": "en"
     },
     {
       "id": "88bcfbdba1ab",
       "categoria": "reg",
       "fecha": "2026-11-26T16:44+00:00",
-      "titulo": "Bangladesh unrest | Report: Mobile banking services hit in Hasina's home turf",
+      "titulo": "Disturbios en Bangladesh | Informe: Los servicios de banca móvil se ven afectados en el territorio de Hasina",
       "resumen": "",
       "fuente": "WION",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkhzTXV0Y05ma3RmQkx3T2RxS3F4M0Q2NjJhRzRINXdHYzlxSGphSFhBWjc5WmZTUndCUjRQdUNnZzBpcE03QnowbWVPdVJ3OC1GR0o3Qk1fNURtUDFTaHNwTEV3akVhaFQ0eVhNcDgxZXc1ZDA4QXN0bVJVYi1PbVFpamhsbk5QSlFwZFoyZXlvdHQ2TFZ6TjhZYlA3Unp5ZUxyeDJxX3ByZmtJbDVHaThJemlIRVlqVXVB0gHAAUFVX3lxTFBZMW11UFU4UUpENE8zSVFRbkhyOGx5Umh6MzBxSWQyX0gyamRoR3FVTDJHdHo2NmdORVV5cG5SU0JjYnVlc2tieF9IZWRZOXAzVnBmc3VUdWhNQUJab3J3OTByLUItOWFidTlQUnF1R2pzM0czTVBMbUtCSlhzXzYtTkk3cVVxR19ldGdjRWhqRHY4WTNrSTNWWW1YUFhZYkZMU1k2WDJTRkpHUjlBNFBQRVNWYWdFWkU2WW1seWVPYg?oc=5",
@@ -268,7 +274,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Bangladesh unrest | Report: Mobile banking services hit in Hasina's home turf",
+      "idioma_original": "en"
     },
     {
       "id": "77e6e7ab7594",
@@ -288,6 +296,25 @@
       "region": "ar"
     },
     {
+      "id": "4ad675d4d2be",
+      "categoria": "ten",
+      "fecha": "2026-11-26T15:58+00:00",
+      "titulo": "Lebara Nigeria se asocia con OPay para recargas directas de tiempo aire",
+      "resumen": "",
+      "fuente": "Innovation Village",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMUxid0J3SkhsZVNCTTRYcEhlYXVBUHZJdzZSbXVuaWV1Q0hwNnNjRGVGSUdPek4yYW12UmQ4c01NbVcwckh4NnJRT1p4djA5akR0YVJfWVBWU0Q5Vms0T0NqMml3RGkwdFZfbFdiTzAzZUdqd1VoTFBkcENLcUhUcFdSQnh2TUlVeUZxSEZuREZEWTg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Innovation Village",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMUxid0J3SkhsZVNCTTRYcEhlYXVBUHZJdzZSbXVuaWV1Q0hwNnNjRGVGSUdPek4yYW12UmQ4c01NbVcwckh4NnJRT1p4djA5akR0YVJfWVBWU0Q5Vms0T0NqMml3RGkwdFZfbFdiTzAzZUdqd1VoTFBkcENLcUhUcFdSQnh2TUlVeUZxSEZuREZEWTg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Lebara Nigeria Partners OPay for Direct Airtime Recharges",
+      "idioma_original": "en"
+    },
+    {
       "id": "77885d342c5b",
       "categoria": "emp",
       "fecha": "2026-11-26T15:27+00:00",
@@ -305,6 +332,23 @@
       "region": "global",
       "titulo_original": "How Stripe, Adyen & Airwallex are Innovating Payment Rails",
       "idioma_original": "en"
+    },
+    {
+      "id": "ef02212abdfa",
+      "categoria": "reg",
+      "fecha": "2026-11-26T15:26+00:00",
+      "titulo": "¡Alerta por presunto fraude bancario en Agua Dulce! Denuncian transferencia no autorizada desde app de Coppel",
+      "resumen": "",
+      "fuente": "El Piñero, Periodismo y Debate.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkVWaTdfa05TT0Q2eEpwWnpDM3dSTk45TnVwLWFwN21zOHpFUnl3M0NNQ0hVQWphZElkR3lzdkJ3Q2lpeUxYazdkczlhcV9LOThSWnY1dWNKSk9VQ3FXaU5xSnJrVndrLWpHckNHZ3ptYmZTY0w4bWlfNHNSQmVHbVpkVUF1cVluQUR3RXJzX0hxZHAzMEdGR0ZGcGRrSjE1Wjc4c0Yya3FlTUpKZllpN1RDMlVuS3cycE5abnBPMG5tVFFva2hzNkhHdHg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "El Piñero, Periodismo y Debate.",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkVWaTdfa05TT0Q2eEpwWnpDM3dSTk45TnVwLWFwN21zOHpFUnl3M0NNQ0hVQWphZElkR3lzdkJ3Q2lpeUxYazdkczlhcV9LOThSWnY1dWNKSk9VQ3FXaU5xSnJrVndrLWpHckNHZ3ptYmZTY0w4bWlfNHNSQmVHbVpkVUF1cVluQUR3RXJzX0hxZHAzMEdGR0ZGcGRrSjE1Wjc4c0Yya3FlTUpKZllpN1RDMlVuS3cycE5abnBPMG5tVFFva2hzNkhHdHg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "7dfb8e2e5729",
@@ -362,10 +406,29 @@
       "idioma_original": "en"
     },
     {
+      "id": "cbb6911783e9",
+      "categoria": "emp",
+      "fecha": "2026-11-26T15:06+00:00",
+      "titulo": "Acciones de Mastercard: Tigress eleva su objetivo de crecimiento de la IA y los pagos",
+      "resumen": "",
+      "fuente": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEswNlVMd2pTQTlSMWtWUWtabU9WWVFxY09NQ2NVQkNteGs1V3JtaXZySFRvYnkzRmczS3F4cmtLMnI5Z2llc1k5eWtxMzlsNERNSEZLQ09LR2ZQcDJuQ2RlUzBJVUhaZWlORTlEaE1VY0xhZV9fdTZIYkZfMkhUalo0Z05mYnk5ZF9UV0ZfcUxkYUNWY1ZtNHpjajZ6U2w0SnJ3WFE4SlBEekhDN21VQkNaSG5PaUtFZS0xSHZZX3pGRENf?oc=5",
+      "enlaces": [
+        {
+          "nombre": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEswNlVMd2pTQTlSMWtWUWtabU9WWVFxY09NQ2NVQkNteGs1V3JtaXZySFRvYnkzRmczS3F4cmtLMnI5Z2llc1k5eWtxMzlsNERNSEZLQ09LR2ZQcDJuQ2RlUzBJVUhaZWlORTlEaE1VY0xhZV9fdTZIYkZfMkhUalo0Z05mYnk5ZF9UV0ZfcUxkYUNWY1ZtNHpjajZ6U2w0SnJ3WFE4SlBEekhDN21VQkNaSG5PaUtFZS0xSHZZX3pGRENf?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Mastercard stock: Tigress lifts target on AI and payments growth",
+      "idioma_original": "en"
+    },
+    {
       "id": "6c18f26bb4e9",
       "categoria": "ten",
       "fecha": "2026-11-26T14:59+00:00",
-      "titulo": "Cambiar al modo oscuro no es una estrategia de accesibilidad. La mayoría de los equipos piensan que cambiar a un fondo negro hace que su aplicación o sitio web sea accesible. No es así. El modo oscuro reduce la luz emitida. Eso es todo lo que hace. No lo hará…",
+      "titulo": "Cambiar al modo oscuro no es una estrategia de accesibilidad. La mayoría de los equipos creen que cambiar a un fondo negro hace que su aplicación o sitio web sea accesible. No es así. El modo oscuro reduce la luz emitida. Eso es todo lo que hace. No lo hará…",
       "resumen": "",
       "fuente": "LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUU4yTzF4S2N6T2tDcmZNVnNwMjJVNnQ0VzNKTHhMelc1dVowanFrQVZJZVdfNHBRczBfV3BsRHl4N1RzMWxiRXpNc1VObmZJYnlTekxheDZveVRraGZSS09jeTdLNXFMenVqRC1qM1Rha0gySmtBMUpSSXpHQi12VVJBNnZaUGw1aU80?oc=5",
@@ -392,6 +455,23 @@
         {
           "nombre": "La Voz del Interior",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenJhOXpFZFFMV3hHVlVQd2RpeGhxUTVfa2FlYURieHBDTFU3N1pyd241ajBxa081WGUySEp4aEdFdVBWV3FWTmwzRU5fN0did3FidndqSmk2dE1wazRwSU9NQ3NBN1ZCbldBZU9EM1JEQ3N0eFFiNmI0NXZIblc2WTlZOEt2ZkoxY3d4eXQxQmNCZU42UGZWX1RGTUhfdHFUN2hfTA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "e82334ff176d",
+      "categoria": "emp",
+      "fecha": "2026-11-26T14:14+00:00",
+      "titulo": "Paolini Hnos. premiada por Interbanking en el Día de la Tesorería 2026",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjVJOGpCOE12ZzZTRUQ5WUVwS0xIaE1YenAtUFRTal9YY1RfN0JWS2pJSk9oYWpJTDR1d0NHRVhwVmhJZDhTdTZzUU9wVFJIMW1oYWgzM1Mxd0JmTWE3VVdydFZzbDF0dzVEQWwxbVJQbnVFQjhrTXdyVnhsMVViVW1nVzRQZUI0alB2enNxTWtwTl9UcmxGNFFyNVpqU3JLUVUwclNuVVFNYWIyR2dHT2pfUXN3UnJfUTVpY2dwMXc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjVJOGpCOE12ZzZTRUQ5WUVwS0xIaE1YenAtUFRTal9YY1RfN0JWS2pJSk9oYWpJTDR1d0NHRVhwVmhJZDhTdTZzUU9wVFJIMW1oYWgzM1Mxd0JmTWE3VVdydFZzbDF0dzVEQWwxbVJQbnVFQjhrTXdyVnhsMVViVW1nVzRQZUI0alB2enNxTWtwTl9UcmxGNFFyNVpqU3JLUVUwclNuVVFNYWIyR2dHT2pfUXN3UnJfUTVpY2dwMXc?oc=5",
           "tipo": "nota"
         }
       ],
@@ -436,6 +516,44 @@
       "idioma_original": "en"
     },
     {
+      "id": "df181f8749cd",
+      "categoria": "ten",
+      "fecha": "2026-11-26T13:41+00:00",
+      "titulo": "Genesis respalda el EEG portátil de Nurovo para medir el dolor",
+      "resumen": "",
+      "fuente": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlRmMXNhbHljdFlYUTBlWVU4X1d0c04tOGZGNDFyWHF4OHhyX1ZoanFPOTNWUFVfWlEwZVBFYzNMVm5sSnpFSXJzYUE4UVFPbTRnVmdJNDhfeFZOTWlRejg1ZkdvTnB1SE92UVhIeDNqSmdqd1BGVDZvMW1acU5EZzEyVUZ2VmkzSnFBbzFn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlRmMXNhbHljdFlYUTBlWVU4X1d0c04tOGZGNDFyWHF4OHhyX1ZoanFPOTNWUFVfWlEwZVBFYzNMVm5sSnpFSXJzYUE4UVFPbTRnVmdJNDhfeFZOTWlRejg1ZkdvTnB1SE92UVhIeDNqSmdqd1BGVDZvMW1acU5EZzEyVUZ2VmkzSnFBbzFn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Genesis backs Nurovo's EEG wearable to measure pain",
+      "idioma_original": "en"
+    },
+    {
+      "id": "325f3b0735b5",
+      "categoria": "ten",
+      "fecha": "2026-11-26T13:38+00:00",
+      "titulo": "Precio, noticias, cotización e historial de acciones de Figma, Inc. (FIG)",
+      "resumen": "",
+      "fuente": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41YzJBbE5VODllR2lRbi1ZTmlyUlJQd0hUZXFlVDNaQmVZSkN6cjVUbzdzYUlYb1FTOUtGS2ZaQWhNVlktR3dMTkJUZ0RiMjE3?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41YzJBbE5VODllR2lRbi1ZTmlyUlJQd0hUZXFlVDNaQmVZSkN6cjVUbzdzYUlYb1FTOUtGS2ZaQWhNVlktR3dMTkJUZ0RiMjE3?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Figma, Inc. (FIG) stock price, news, quote and history",
+      "idioma_original": "en"
+    },
+    {
       "id": "7d9a44c6f662",
       "categoria": "reg",
       "fecha": "2026-11-26T13:31+00:00",
@@ -475,7 +593,7 @@
       "id": "ef4eb50d47fa",
       "categoria": "ten",
       "fecha": "2026-11-26T13:21+00:00",
-      "titulo": "UAE proptech Sooner lands $20m seed round to halve home down payments",
+      "titulo": "La tecnología proptech de los Emiratos Árabes Unidos Sooner consigue una ronda inicial de 20 millones de dólares para reducir a la mitad los pagos iniciales de las viviendas",
       "resumen": "",
       "fuente": "FinTech Futures",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQi0xaG8tWExjY1R6WUQzR05uUUdmMnJ2UnR3VUxNc3hHeW9XQ0FxOVl2WGtRZms1WFVKT3p3bUY2bFlTVjVwRWd3X1ZBRVZndFVXM0x0TnRyanhqc1ZkX3Y5eEU0VC1KMUdEeE1DcXhzMDl5LVhpQ1VNcVV1NmRCdkUtdG5wZkx0UHdTVnNyd0VCMDNfNUlZc0FhVQ?oc=5",
@@ -486,7 +604,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "UAE proptech Sooner lands $20m seed round to halve home down payments",
+      "idioma_original": "en"
     },
     {
       "id": "47643f0fcba1",
@@ -506,6 +626,23 @@
       "region": "global",
       "titulo_original": "First leaked image of the “iPhone Fold” on Weibo.. Is this the real design?",
       "idioma_original": "en"
+    },
+    {
+      "id": "ffb09ea28129",
+      "categoria": "ten",
+      "fecha": "2026-11-26T12:22+00:00",
+      "titulo": "Pulso Ualá: productos, novedades y mucho más 🚀",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnAwVG91TEtmQk5rN0g3Uy0tbnJqUWp0V05vUGxsN24wSkpHUHY4TkpadWRVdlJETnByV25wOHJ5NjkxcFF4ZXBGdU1tNzNqQUJJbWtQNTN6b0x3eWx4MFRpMmcyYWpqMU9QajFjVFZSakpPLWl2dE9lVlI2SE9pY0NCR2xJQjFRMzRBMDZYVDdNdWVFc0tTVg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnAwVG91TEtmQk5rN0g3Uy0tbnJqUWp0V05vUGxsN24wSkpHUHY4TkpadWRVdlJETnByV25wOHJ5NjkxcFF4ZXBGdU1tNzNqQUJJbWtQNTN6b0x3eWx4MFRpMmcyYWpqMU9QajFjVFZSakpPLWl2dE9lVlI2SE9pY0NCR2xJQjFRMzRBMDZYVDdNdWVFc0tTVg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "96961932dc17",
@@ -583,7 +720,7 @@
       "id": "bad6ac93ca92",
       "categoria": "ten",
       "fecha": "2026-11-26T11:26+00:00",
-      "titulo": "MoonPay applies for US national bank charter",
+      "titulo": "MoonPay solicita el estatuto de banco nacional de EE. UU.",
       "resumen": "",
       "fuente": "FinTech Futures",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0Z3NkdnVEgwVVM4R0tZbEc1Nld3RkQwMDNTYnByV1lIaXdQSDZTVllvU0M5V2xJVG1TbDdjaE9RTkZJdTR3T0dPSDlGZ2M3cnpoVmdaRndEX3UxX2hHOVNIZXlsQlFkZUE2TldXeUdmak1ydUsxY0RpLUdtX2pfcEMwdGNSbko5SVRQTkFmVDQteXl2M3ZlVWFnaWttTmFVZmtrcXRSbFBJdWtS?oc=5",
@@ -594,13 +731,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "MoonPay applies for US national bank charter",
+      "idioma_original": "en"
     },
     {
       "id": "5659f4a5ec6f",
       "categoria": "emp",
       "fecha": "2026-11-26T11:17+00:00",
-      "titulo": "Google Wallet Is Making Checkouts Even Simpler",
+      "titulo": "Google Wallet está simplificando aún más los pagos",
       "resumen": "",
       "fuente": "BGR",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNUZ5MTl3aHA4RFpGRVVCSkxISkZiXzhQZ0QxdHd4Q2dObUg1NTJ1eTNqVm42cUl4Rl9yNEYyempra3ljVzBqOXFOeld4MVRoQzVuVHNZU1BLclMtZmlxaWRrMnRTejhhelRmTDYyQQ?oc=5",
@@ -611,7 +750,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Google Wallet Is Making Checkouts Even Simpler",
+      "idioma_original": "en"
     },
     {
       "id": "ad2456487234",
@@ -650,6 +791,23 @@
       "region": "global",
       "titulo_original": "ZDNET’s best phones of 2026: The year the foldable went mainstream",
       "idioma_original": "en"
+    },
+    {
+      "id": "e615865c3527",
+      "categoria": "reg",
+      "fecha": "2026-11-26T10:55+00:00",
+      "titulo": "Paz Franco Duarte - Ejecutiva Comercial Upay/ITTI Ventas de POS y Medios de Pago | Banca y Fintech | Captación y Gestión de Cartera | Asunción",
+      "resumen": "",
+      "fuente": "LinkedIn Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DdEFFUGF6eWhST0ZqdHJyUDMyRGdfZlRZU3ROcGdPNlNPOXJLcWhDRFNTTWNuNjR3UEJHVDRmXzB2RzdKNklocFBzWG1yNHNaa0tnYU4wNA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn Paraguay",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DdEFFUGF6eWhST0ZqdHJyUDMyRGdfZlRZU3ROcGdPNlNPOXJLcWhDRFNTTWNuNjR3UEJHVDRmXzB2RzdKNklocFBzWG1yNHNaa0tnYU4wNA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "60f08c064e6a",
@@ -691,7 +849,7 @@
       "id": "57fb135485ea",
       "categoria": "emp",
       "fecha": "2026-11-26T10:17+00:00",
-      "titulo": "Maldives Islamic Bank Debuts First Shariah-Compliant Visa Credit Card Powered by BPC",
+      "titulo": "El Banco Islámico de Maldivas presenta la primera tarjeta de crédito Visa que cumple con la Shariah impulsada por BPC",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3NjMHd5UGZQS3RkaEdXcWQ5cjI1TnUxaVBYTHpNM2JMUl9DakRwM2N0SnJoZlM3QV9MV0d3UFE1U1MwQUkxdm02VHdLa0VpVVJEWFd5enlFZlFidHNVaGRxTkdKdWZfTUc3bWJlczBqQVowc1lZbWZBOWJqVDdHOHNETWV2c09ReDFPSjN4Z0FHQWZoTWsxOU5Yb1ByVUlfdEMwMA?oc=5",
@@ -702,7 +860,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Maldives Islamic Bank Debuts First Shariah-Compliant Visa Credit Card Powered by BPC",
+      "idioma_original": "en"
     },
     {
       "id": "0d33ed58e5b3",
@@ -837,7 +997,7 @@
       "id": "4cee6fa10650",
       "categoria": "emp",
       "fecha": "2026-11-26T09:41+00:00",
-      "titulo": "Trust Payments, OKTO PAYMENTS partner on LatAm payments",
+      "titulo": "Trust Payments, socio de OKTO PAYMENTS en pagos en Latinoamérica",
       "resumen": "",
       "fuente": "The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3NMNlpYcDRIbU9CcjA1eDB0Z1VJSGpERTB2Q1VCaklSSXozaWFfNUdpaFE2aXZyMldDd0RsRkFiZTdySGxrWFhtTlg4VXg4X3g1cmNsZl9DdUlDaWp4RUttallzUG1xeE9CQi1sWnVUcUwwSk8zNVg2UElsZU5uQmVaMWhMMDlTVGY1bG1Fa3B0enRDVEJZb1JHeGhwM3dFaU5CenIwMU8tdw?oc=5",
@@ -848,7 +1008,28 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Trust Payments, OKTO PAYMENTS partner on LatAm payments",
+      "idioma_original": "en"
+    },
+    {
+      "id": "b2688f365fba",
+      "categoria": "reg",
+      "fecha": "2026-11-26T09:30+00:00",
+      "titulo": "Los bancos de Asia y el Pacífico pierden 118 millones de rupias cada uno por fraude mientras Visa lanza una plataforma de ciberseguridad",
+      "resumen": "",
+      "fuente": "The420",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JREhXdDIyaEs2a0pPMEdIZ0UtcFNJX0FmWWZGc2NCbXpHUjg2akV5RkhoVmV5MkxRWVJJaE12YWdWQkVqamZjX3JWVTc2MjdTYXc5UWN3Ym05Wkh6MjZHRVZ3Nml3dVBQMFBJ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "The420",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JREhXdDIyaEs2a0pPMEdIZ0UtcFNJX0FmWWZGc2NCbXpHUjg2akV5RkhoVmV5MkxRWVJJaE12YWdWQkVqamZjX3JWVTc2MjdTYXc5UWN3Ym05Wkh6MjZHRVZ3Nml3dVBQMFBJ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Asia-Pacific Banks Lose ₹118 Crore Each to Fraud as Visa Launches Cybersecurity Platform",
+      "idioma_original": "en"
     },
     {
       "id": "5c74e3d86da8",
@@ -867,6 +1048,25 @@
       ],
       "region": "global",
       "titulo_original": "Manyfast Takes Its AI-Native Planning Platform to North America, Secures Investment and Aims to Set a Global Standard",
+      "idioma_original": "en"
+    },
+    {
+      "id": "0c05cd6ce2be",
+      "categoria": "ten",
+      "fecha": "2026-11-26T09:19+00:00",
+      "titulo": "Un informe financiero del Reino Unido revela que las pérdidas por fraude en el Reino Unido alcanzaron los 659,5 millones de libras esterlinas en el primer semestre",
+      "resumen": "",
+      "fuente": "FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmJRSUJLX09GZVhtc2QxY3AtQnI0WDV2UGEtbGt5MnppNFR0b2hpWjVSaHN2UmIyRHNud2loek9JZFFtdGxsNkhwa3l5RC04OGtSOGptYmNybVVLUXdrS0M4ZGtoVjlROENuZEMzWFJ4XzJSZDlJLVZJWmR6SGZWalUwemNuNzZYYVJwYURmQWlteXhwa3NVTW9STmMtRTdOY1cwa1dwNllJVUxJWkQ4ZjEzdkxxQzVtLXcxS0ZvNFZkaFFK?oc=5",
+      "enlaces": [
+        {
+          "nombre": "FinTech Futures",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmJRSUJLX09GZVhtc2QxY3AtQnI0WDV2UGEtbGt5MnppNFR0b2hpWjVSaHN2UmIyRHNud2loek9JZFFtdGxsNkhwa3l5RC04OGtSOGptYmNybVVLUXdrS0M4ZGtoVjlROENuZEMzWFJ4XzJSZDlJLVZJWmR6SGZWalUwemNuNzZYYVJwYURmQWlteXhwa3NVTW9STmMtRTdOY1cwa1dwNllJVUxJWkQ4ZjEzdkxxQzVtLXcxS0ZvNFZkaFFK?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "UK Finance report reveals UK fraud losses hit £659.5m in H1",
       "idioma_original": "en"
     },
     {
@@ -908,6 +1108,25 @@
       "idioma_original": "en"
     },
     {
+      "id": "590b6393f65d",
+      "categoria": "emp",
+      "fecha": "2026-11-26T09:06+00:00",
+      "titulo": "Las acciones de Adyen consiguen el acuerdo de Roots para los pagos en América del Norte",
+      "resumen": "",
+      "fuente": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm5tVGc2SjQyS3NhQXBJRk00UkpMVVR5NUNER0FlMFZXazE2UlFkVHFmb2tmWS1TUWpXZktQSlhYTHBuWmtQYW51TF8zWkRVTHdrZ0R5eFlPaE90N2xqX20xN0x4d0dCYjZzbEVISkJMY1VQUzQ2V0JhVGdEdklxRVRLNGpBMTFtbmdFTHgtY2hEbFgxa01fY0lpTGdYMlctQTdXdUJfd1RrSkJ1SFkwaVVZMnJLMEtFZFpJ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm5tVGc2SjQyS3NhQXBJRk00UkpMVVR5NUNER0FlMFZXazE2UlFkVHFmb2tmWS1TUWpXZktQSlhYTHBuWmtQYW51TF8zWkRVTHdrZ0R5eFlPaE90N2xqX20xN0x4d0dCYjZzbEVISkJMY1VQUzQ2V0JhVGdEdklxRVRLNGpBMTFtbmdFTHgtY2hEbFgxa01fY0lpTGdYMlctQTdXdUJfd1RrSkJ1SFkwaVVZMnJLMEtFZFpJ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Adyen stock lands Roots deal for North American payments",
+      "idioma_original": "en"
+    },
+    {
       "id": "4b5f3a99fcd8",
       "categoria": "ten",
       "fecha": "2026-11-26T09:00+00:00",
@@ -927,10 +1146,29 @@
       "idioma_original": "en"
     },
     {
+      "id": "0d173be456ad",
+      "categoria": "ten",
+      "fecha": "2026-11-26T08:52+00:00",
+      "titulo": "5 funciones completamente nuevas en la pantalla de bloqueo del iPhone con la actualización iOS 27",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "5 All-New Features in the iPhone Lock Screen with the iOS 27 Update",
+      "idioma_original": "en"
+    },
+    {
       "id": "aca6a18d31f7",
       "categoria": "ten",
       "fecha": "2026-11-26T08:52+00:00",
-      "titulo": "iPhone Duo Foldable: Full Specifications, Pricing, and Release Date",
+      "titulo": "iPhone Duo plegable: especificaciones completas, precios y fecha de lanzamiento",
       "resumen": "",
       "fuente": "آي-فون إسلام",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObnBIUFd3UHVlZnNKSDExV3JCZ2V6RjJkbGlrc214NVozLTl2azF1cURRZzMydFpZbUtEbjBEb3J2a01vV1kzb0tNVDhDWjNKdXNqZUxGdnJGTHpPc0NDQmNQUWhpYmZPTjdvRmxLdk1NcXUxRzVCTFVEM3ROZWtiTWN1aGRsRjN3cnZSVXBPV0lBREVjeTJ6cFhPVS15TThuX2FJQTBQNWk3cTZib2Y0b0lsWUxMUQ?oc=5",
@@ -941,7 +1179,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "iPhone Duo Foldable: Full Specifications, Pricing, and Release Date",
+      "idioma_original": "en"
     },
     {
       "id": "7f31aa6e0518",
@@ -963,22 +1203,22 @@
       "idioma_original": "en"
     },
     {
-      "id": "aae063cc0b58",
-      "categoria": "ten",
+      "id": "fe90be1a6bd9",
+      "categoria": "emp",
       "fecha": "2026-11-26T08:46+00:00",
-      "titulo": "¿Quieres convertir el iPhone Duo de Apple en una mini computadora portátil? La nueva funda para teclado agrega trackpad y compatibilidad con MagSafe",
+      "titulo": "Visa y Samsung llevan el escaneo para pagar a dispositivos móviles en toda Asia Pacífico con Samsung Wallet",
       "resumen": "",
-      "fuente": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN0dTUDBSbTFDdms4QXJ6VkdxOXB6R0VkV0VBd081WVQtNWpTS0dWbzZES3p5cHZJVHpnZllTNk40WUE4VWNJXzhwb1Jha3oydlpYQ1RiUThnNDBXeFRPaDN5VmcwSEZWTWNNLXVuNGFHZE44LW56azNPWmVVNkpYYV9BcGpucGpPTnFXQUh5NXI4VVdBR09FWXJLbmFuc0VPbDRMeDgxMjlkYWlGUXAwNVE1dTJiSk1RQ2JsWElmZElNSjdhS1NDNnhESjlxMG45TFRHS2otamxGLVdaX2p4RFN5Z1RuX083aDJSc0FQRE93UnNZZEdTddIB_gFBVV95cUxQYkdXcFhYQzBhTXF3ZGxJUk9lWmRMSnJnSnFBZHRHTGpxcldyTHBBbWV2MW5QVlgzWWUxYjg1ajhpb3hUa2FTVGxlR2tmQnZHZzZrWlA5emJ2aGh5N2ZrZWJnRW1tN2o0T0hsR0lrZzN3Ym1IdjNVTzk4YTg1U1ZucjVsay0wVFItVVk5RFZUSTJ0d0xZWG9Cc2dfOEw0WE10cjdXVDV1VER3ZEVfUFptc3ZRWV9CQUZ2YjY1aWFrZTc3N3RYRkNtNkpTX0dvSUgwUkZIZ3NkX3B0Z3luWGREaWNJSFdHekNsT3h5UmZOOVVmZnpVVTdXNlE5YmIyUQ?oc=5",
+      "fuente": "ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGZCc2FTbENlaUNVdmREYUktdjYwNjZFRmhYRkpUbml3cTNLcXROc0x3cWFRVjZMMldFc2JzWmxLQXYzekFoeUw1cWgwMzhaYi1BS3dTS2NNUGV2VFVYT3Z6R2Y5TkRIdG40b2NMNVNBQkhxV1JmdlJEWlJlTXhtMl9qcE53TS1ZbUgtWGw2UzI2VzduNU1zVXo2cmZDVjFGTnF5eVFWNVRlZEZSYTNtVFZCQ0tSLXh5T1NQRnZGVUV2Y0k1MEd0OWF30gHPAUFVX3lxTE9iUkNUS0NNR09QYVpIVkgyZjVKWVVXTVlaVGtXSmhNdWt1b2JodnlGOFB0X3NSRHhTRkNFVWY5ZmNzMXA3U21oR0hZT05MUGR1YUVFYXFlWWoyWVNSYW44Y19kbUlVRDBmcVVXZzFJa0hnZUVqVFNpVUxFdmdLRkx4Y1V6T1ZTS0N0eTZJZjVrSGQySGpadXZDWHVTcjZvSVdCeFhGVzBuclZNU0xkdi1fV3hSV05SVkJHOGh4ellrTlVQbE9LVTU4MEN1Q05ROA?oc=5",
       "enlaces": [
         {
-          "nombre": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN0dTUDBSbTFDdms4QXJ6VkdxOXB6R0VkV0VBd081WVQtNWpTS0dWbzZES3p5cHZJVHpnZllTNk40WUE4VWNJXzhwb1Jha3oydlpYQ1RiUThnNDBXeFRPaDN5VmcwSEZWTWNNLXVuNGFHZE44LW56azNPWmVVNkpYYV9BcGpucGpPTnFXQUh5NXI4VVdBR09FWXJLbmFuc0VPbDRMeDgxMjlkYWlGUXAwNVE1dTJiSk1RQ2JsWElmZElNSjdhS1NDNnhESjlxMG45TFRHS2otamxGLVdaX2p4RFN5Z1RuX083aDJSc0FQRE93UnNZZEdTddIB_gFBVV95cUxQYkdXcFhYQzBhTXF3ZGxJUk9lWmRMSnJnSnFBZHRHTGpxcldyTHBBbWV2MW5QVlgzWWUxYjg1ajhpb3hUa2FTVGxlR2tmQnZHZzZrWlA5emJ2aGh5N2ZrZWJnRW1tN2o0T0hsR0lrZzN3Ym1IdjNVTzk4YTg1U1ZucjVsay0wVFItVVk5RFZUSTJ0d0xZWG9Cc2dfOEw0WE10cjdXVDV1VER3ZEVfUFptc3ZRWV9CQUZ2YjY1aWFrZTc3N3RYRkNtNkpTX0dvSUgwUkZIZ3NkX3B0Z3luWGREaWNJSFdHekNsT3h5UmZOOVVmZnpVVTdXNlE5YmIyUQ?oc=5",
+          "nombre": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGZCc2FTbENlaUNVdmREYUktdjYwNjZFRmhYRkpUbml3cTNLcXROc0x3cWFRVjZMMldFc2JzWmxLQXYzekFoeUw1cWgwMzhaYi1BS3dTS2NNUGV2VFVYT3Z6R2Y5TkRIdG40b2NMNVNBQkhxV1JmdlJEWlJlTXhtMl9qcE53TS1ZbUgtWGw2UzI2VzduNU1zVXo2cmZDVjFGTnF5eVFWNVRlZEZSYTNtVFZCQ0tSLXh5T1NQRnZGVUV2Y0k1MEd0OWF30gHPAUFVX3lxTE9iUkNUS0NNR09QYVpIVkgyZjVKWVVXTVlaVGtXSmhNdWt1b2JodnlGOFB0X3NSRHhTRkNFVWY5ZmNzMXA3U21oR0hZT05MUGR1YUVFYXFlWWoyWVNSYW44Y19kbUlVRDBmcVVXZzFJa0hnZUVqVFNpVUxFdmdLRkx4Y1V6T1ZTS0N0eTZJZjVrSGQySGpadXZDWHVTcjZvSVdCeFhGVzBuclZNU0xkdi1fV3hSV05SVkJHOGh4ellrTlVQbE9LVTU4MEN1Q05ROA?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "global",
-      "titulo_original": "Want to turn Apple's iPhone Duo into a mini laptop? New keyboard case adds trackpad and MagSafe support",
+      "titulo_original": "Visa and Samsung Bring Scan to Pay to Mobile Devices Across Asia Pacific with Samsung Wallet",
       "idioma_original": "en"
     },
     {
@@ -998,6 +1238,25 @@
       ],
       "region": "global",
       "titulo_original": "Pliant secures more than €200m in additional debt financing capacity",
+      "idioma_original": "en"
+    },
+    {
+      "id": "aae063cc0b58",
+      "categoria": "ten",
+      "fecha": "2026-11-26T08:46+00:00",
+      "titulo": "¿Quieres convertir el iPhone Duo de Apple en una mini computadora portátil? La nueva funda para teclado agrega trackpad y compatibilidad con MagSafe",
+      "resumen": "",
+      "fuente": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN0dTUDBSbTFDdms4QXJ6VkdxOXB6R0VkV0VBd081WVQtNWpTS0dWbzZES3p5cHZJVHpnZllTNk40WUE4VWNJXzhwb1Jha3oydlpYQ1RiUThnNDBXeFRPaDN5VmcwSEZWTWNNLXVuNGFHZE44LW56azNPWmVVNkpYYV9BcGpucGpPTnFXQUh5NXI4VVdBR09FWXJLbmFuc0VPbDRMeDgxMjlkYWlGUXAwNVE1dTJiSk1RQ2JsWElmZElNSjdhS1NDNnhESjlxMG45TFRHS2otamxGLVdaX2p4RFN5Z1RuX083aDJSc0FQRE93UnNZZEdTddIB_gFBVV95cUxQYkdXcFhYQzBhTXF3ZGxJUk9lWmRMSnJnSnFBZHRHTGpxcldyTHBBbWV2MW5QVlgzWWUxYjg1ajhpb3hUa2FTVGxlR2tmQnZHZzZrWlA5emJ2aGh5N2ZrZWJnRW1tN2o0T0hsR0lrZzN3Ym1IdjNVTzk4YTg1U1ZucjVsay0wVFItVVk5RFZUSTJ0d0xZWG9Cc2dfOEw0WE10cjdXVDV1VER3ZEVfUFptc3ZRWV9CQUZ2YjY1aWFrZTc3N3RYRkNtNkpTX0dvSUgwUkZIZ3NkX3B0Z3luWGREaWNJSFdHekNsT3h5UmZOOVVmZnpVVTdXNlE5YmIyUQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN0dTUDBSbTFDdms4QXJ6VkdxOXB6R0VkV0VBd081WVQtNWpTS0dWbzZES3p5cHZJVHpnZllTNk40WUE4VWNJXzhwb1Jha3oydlpYQ1RiUThnNDBXeFRPaDN5VmcwSEZWTWNNLXVuNGFHZE44LW56azNPWmVVNkpYYV9BcGpucGpPTnFXQUh5NXI4VVdBR09FWXJLbmFuc0VPbDRMeDgxMjlkYWlGUXAwNVE1dTJiSk1RQ2JsWElmZElNSjdhS1NDNnhESjlxMG45TFRHS2otamxGLVdaX2p4RFN5Z1RuX083aDJSc0FQRE93UnNZZEdTddIB_gFBVV95cUxQYkdXcFhYQzBhTXF3ZGxJUk9lWmRMSnJnSnFBZHRHTGpxcldyTHBBbWV2MW5QVlgzWWUxYjg1ajhpb3hUa2FTVGxlR2tmQnZHZzZrWlA5emJ2aGh5N2ZrZWJnRW1tN2o0T0hsR0lrZzN3Ym1IdjNVTzk4YTg1U1ZucjVsay0wVFItVVk5RFZUSTJ0d0xZWG9Cc2dfOEw0WE10cjdXVDV1VER3ZEVfUFptc3ZRWV9CQUZ2YjY1aWFrZTc3N3RYRkNtNkpTX0dvSUgwUkZIZ3NkX3B0Z3luWGREaWNJSFdHekNsT3h5UmZOOVVmZnpVVTdXNlE5YmIyUQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Want to turn Apple's iPhone Duo into a mini laptop? New keyboard case adds trackpad and MagSafe support",
       "idioma_original": "en"
     },
     {
@@ -1153,6 +1412,25 @@
       "idioma_original": "en"
     },
     {
+      "id": "c7929dad6780",
+      "categoria": "emp",
+      "fecha": "2026-11-26T08:05+00:00",
+      "titulo": "Krak lanza lista de espera para tarjetas de crédito Visa con...",
+      "resumen": "",
+      "fuente": "Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX1RiWTF0WkF3UEN3Z1pCN0xtZzdqemozV2VYa1RyQjBjNk9UaWxEX3QwdjRwX3JFYmNXU29maVJnZEp2dFNlZDhPMFp2RVZuTEg3aUtNbHRUdjI2WFk5aVlSOXNlTGRVS0NhbkVVTVIyN2pDWEN0aU1KUU90VEFoWU42aVQ0QQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX1RiWTF0WkF3UEN3Z1pCN0xtZzdqemozV2VYa1RyQjBjNk9UaWxEX3QwdjRwX3JFYmNXU29maVJnZEp2dFNlZDhPMFp2RVZuTEg3aUtNbHRUdjI2WFk5aVlSOXNlTGRVS0NhbkVVTVIyN2pDWEN0aU1KUU90VEFoWU42aVQ0QQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Krak launches waitlist for Visa credit cards wi...",
+      "idioma_original": "en"
+    },
+    {
       "id": "d60d5b2d7641",
       "categoria": "ten",
       "fecha": "2026-11-26T07:23+00:00",
@@ -1305,6 +1583,25 @@
       "idioma_original": "en"
     },
     {
+      "id": "be4697a44dea",
+      "categoria": "emp",
+      "fecha": "2026-11-26T06:17+00:00",
+      "titulo": "Mastercard y MEPS amplían su asociación con Mastercard Move para impulsar los pagos en Jordania",
+      "resumen": "",
+      "fuente": "intlbm",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHhleWFrQjA5LXNtZWZMY1UwQXhqZXp2RnpMVGZuQWtpTkp3bmlNeXZWcXhjdnJ6WVYwYURTQUJZTmZyV2xpc0tvTmN3R1JEak1HbmtITkktUDZDblJQcEg5MzhicjczZlFUVjdSdHZfbFVfSUpreW05TzVIQXg4blpGYUVsVWVXdjFSVnNmWGRBR083TGc4VnA1eVk5VzBnZ20wLXpvNnVGcnpxU1JsSER0S1NJRUxCVEZUTGJXMWc1dmVBUmxjWUgtMTdtdw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "intlbm",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHhleWFrQjA5LXNtZWZMY1UwQXhqZXp2RnpMVGZuQWtpTkp3bmlNeXZWcXhjdnJ6WVYwYURTQUJZTmZyV2xpc0tvTmN3R1JEak1HbmtITkktUDZDblJQcEg5MzhicjczZlFUVjdSdHZfbFVfSUpreW05TzVIQXg4blpGYUVsVWVXdjFSVnNmWGRBR083TGc4VnA1eVk5VzBnZ20wLXpvNnVGcnpxU1JsSER0S1NJRUxCVEZUTGJXMWc1dmVBUmxjWUgtMTdtdw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Mastercard and MEPS expand Mastercard Move partnership to boost Jordan payments",
+      "idioma_original": "en"
+    },
+    {
       "id": "ac115713f245",
       "categoria": "reg",
       "fecha": "2026-11-26T06:17+00:00",
@@ -1334,6 +1631,11 @@
           "nombre": "FF News",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzdIVjRuTFpPR2V6VFRScG9ZcTN4cjk5bnBubHpsUHhzZ04tbm55T01VTU9ab2RXTnRRWWJRMHZBQU5HanRfOHA0NGgxNXpyYXVFV0E0NE13YUlwbldYZUVaakxJSDk3VS1fOElpWkVXX1Vzbi1ZYzlaRmVnWjRpUTg2cGtOMzA2ekdnNm5Nc3Bfc1JySmhPaDk2UUJOMU1YS3ZTWDVNa3R6UFRFQlRTdG9PNA?oc=5",
           "tipo": "nota"
+        },
+        {
+          "nombre": "Al-Bawaba",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmNldkNSdkdtVWdrUnowSWYzXzJtSTRDdlE5WWVORkJ1Tm5TR3c3bGFJbElneF9tVUpZeUJVZVc2MHVpbnhXNDFOYXRpdEswZTh6OXQ4anRNZldvZlo2NVZINWEwYV9BUFVqYUU3eDM1aDI4X3lwT0IwUHpoRTZ2NQ?oc=5",
+          "tipo": "nota"
         }
       ],
       "region": "global",
@@ -1360,6 +1662,23 @@
       "idioma_original": "en"
     },
     {
+      "id": "8830e4fde891",
+      "categoria": "reg",
+      "fecha": "2026-11-26T05:46+00:00",
+      "titulo": "Jefe de Ciberseguridad en VEMO — Provincia de Buenos Aires, Argentina | Empleos de LinkedIn",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeS1KdEN6YnJEYW03U0VqTGpaV2tsV1F5WGRWRHVDOGdMSGlReVZRSS1tb2tTckdFdFoxbFBPalJyckdMdk4wejVwWm56ek5NcnN4ZHFVZEdxQVFYVlVWamFEdE1SbHNoeFNuWnFGZ01TYmx1RWRjdW5HRjRLc2g0RA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeS1KdEN6YnJEYW03U0VqTGpaV2tsV1F5WGRWRHVDOGdMSGlReVZRSS1tb2tTckdFdFoxbFBPalJyckdMdk4wejVwWm56ek5NcnN4ZHFVZEdxQVFYVlVWamFEdE1SbHNoeFNuWnFGZ01TYmx1RWRjdW5HRjRLc2g0RA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "376107b26e53",
       "categoria": "ten",
       "fecha": "2026-11-26T05:30+00:00",
@@ -1376,6 +1695,25 @@
       ],
       "region": "global",
       "titulo_original": "Does AI belong in creativity? As a graphic designer and musician, I’m angry. So I made this little piece of typography and the following rant… I’m sick of AI posters, AI music, AI videos and how devalued creativity is…",
+      "idioma_original": "en"
+    },
+    {
+      "id": "a4b3a390eead",
+      "categoria": "reg",
+      "fecha": "2026-11-26T05:25+00:00",
+      "titulo": "Las empresas financieras de Asia y el Pacífico perdieron un promedio de NT$420 millones cada una por fraude el año pasado; Visa lanza plataforma de inteligencia en ciberseguridad",
+      "resumen": "",
+      "fuente": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UV2gxcEFEWHpVVjJ0bnFkNngtNXA4QU05dE41WWFkaV9fZjhIbHlEekxiaVBvN2FwVldfU1ZaYW5fN1E3a0doT1h2UkhRTmY2Rm96QmQ0dnFiT1RMeDVUMV9yOUY1WE0xMnNJNjdRZVdHV3hBQ3c?oc=5",
+      "enlaces": [
+        {
+          "nombre": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UV2gxcEFEWHpVVjJ0bnFkNngtNXA4QU05dE41WWFkaV9fZjhIbHlEekxiaVBvN2FwVldfU1ZaYW5fN1E3a0doT1h2UkhRTmY2Rm96QmQ0dnFiT1RMeDVUMV9yOUY1WE0xMnNJNjdRZVdHV3hBQ3c?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global",
+      "titulo_original": "Asia-Pacific Financial Firms Lost Average of NT$420 Million Each to Fraud Last Year; Visa Launches Cybersecurity Intelligence Platform",
       "idioma_original": "en"
     },
     {
@@ -1398,75 +1736,22 @@
       "idioma_original": "en"
     },
     {
-      "id": "44fbff40960a",
-      "categoria": "ten",
-      "fecha": "2026-11-26T05:05+00:00",
-      "titulo": "iPad Mini 8 vs Samsung Galaxy Z Fold 8: $700 Tablet or $1900 Foldable?",
+      "id": "74150b280a45",
+      "categoria": "emp",
+      "fecha": "2026-11-26T04:33+00:00",
+      "titulo": "Mastercard apunta a los pagos fragmentados del sudeste asiático",
       "resumen": "",
-      "fuente": "Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVlZREVSTEdCcnBQaVRvcHg3dWhkUW5YNW4wbFZBTUdhVUhzT0QxNDRnV3Rsb2w1dVhxVUtKcUlqMVJhdU5HbVpHX2JZbXNZeG5naHlBUWJqaC1wWG81OXFTcV9OUmRwendzSkpVcGJIbkRmVWZNVmFUbU1rWFZOQ3ZMUQ?oc=5",
+      "fuente": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjZyT3lITV9MWi1kSDgxNHZYQW82bTh2NnlqME1ETG1ieHJ5WUdUN3NndUVKbE9TMFpaelVkZ0FleXBwc3lpR2NHMW1xNXQ3WFd3VUhIMTZKRUpURllIbHhXQ2pObm5QM29FdkhMWUdyVEI1OE9FQk1uTDFaNXNlU0hnZm5vYm9CaE4tcWVKQjRCWm8?oc=5",
       "enlaces": [
         {
-          "nombre": "Gizmochina",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVlZREVSTEdCcnBQaVRvcHg3dWhkUW5YNW4wbFZBTUdhVUhzT0QxNDRnV3Rsb2w1dVhxVUtKcUlqMVJhdU5HbVpHX2JZbXNZeG5naHlBUWJqaC1wWG81OXFTcV9OUmRwendzSkpVcGJIbkRmVWZNVmFUbU1rWFZOQ3ZMUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "6d308ecbffe6",
-      "categoria": "ten",
-      "fecha": "2026-11-26T04:51+00:00",
-      "titulo": "Gansam pone la IA a trabajar con datos de diseño de 105 proyectos y gana el premio Vision en los premios BIM 2026",
-      "resumen": "",
-      "fuente": "코리아스타트업포스트",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2a1dhTlZvRkw2a1liclhkR3NvQWJVb2tJLXkzWWxScTBnazFVWVNNcmRtdmNRaTlOekl2eHBlTUFfVXI3OWRlX0tPb3JhSnc3Z0lKbA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "코리아스타트업포스트",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2a1dhTlZvRkw2a1liclhkR3NvQWJVb2tJLXkzWWxScTBnazFVWVNNcmRtdmNRaTlOekl2eHBlTUFfVXI3OWRlX0tPb3JhSnc3Z0lKbA?oc=5",
+          "nombre": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjZyT3lITV9MWi1kSDgxNHZYQW82bTh2NnlqME1ETG1ieHJ5WUdUN3NndUVKbE9TMFpaelVkZ0FleXBwc3lpR2NHMW1xNXQ3WFd3VUhIMTZKRUpURllIbHhXQ2pObm5QM29FdkhMWUdyVEI1OE9FQk1uTDFaNXNlU0hnZm5vYm9CaE4tcWVKQjRCWm8?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "global",
-      "titulo_original": "Gansam Puts AI to Work With Design Data From 105 Projects, Wins Vision Award at BIM Awards 2026",
-      "idioma_original": "en"
-    },
-    {
-      "id": "3d446ced5b28",
-      "categoria": "ten",
-      "fecha": "2026-11-26T04:03+00:00",
-      "titulo": "iPad Mini 8 vs iPhone Duo: Small Tablet or Foldable Phone?",
-      "resumen": "",
-      "fuente": "Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44MGVYcEo4LVdCSUxqWlYyVmtraG5HRnR0NzFCNmUzZVQwU28xd1QtRkVuMmM0V2ZVVjlQTEpXLUw4YkRnNUlYX3E4VTczZ2Nha3h5ODNMWnUzSzY4bTdkZmQ0ZmUtQjRFNU9LelF0VzZZdw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Gizmochina",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44MGVYcEo4LVdCSUxqWlYyVmtraG5HRnR0NzFCNmUzZVQwU28xd1QtRkVuMmM0V2ZVVjlQTEpXLUw4YkRnNUlYX3E4VTczZ2Nha3h5ODNMWnUzSzY4bTdkZmQ0ZmUtQjRFNU9LelF0VzZZdw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "5e1068566ad6",
-      "categoria": "ten",
-      "fecha": "2026-11-26T03:56+00:00",
-      "titulo": "Algunas aplicaciones de iPhone están introduciendo anuncios en alertas y actividades en vivo",
-      "resumen": "",
-      "fuente": "The Mac Observer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDFBTkoxQWY0dGlrcnJIbU9mQXVOc1dydm1kYjFCRVZUejZSTGtQaEs1YWpBQVlXRDNYSHM4eFppQ0FIWDBQMHFZaVdqUjlIWkFhRGxXajhGZTFLWUJMWUtwQ0ZFY2pvdXpzR1VLR003X0tJV3daUXdnaHMwVEpUdjllQ2c2UEh5dGhKRGtKVUJHZjFid1pNUHA3N2I0WG1R?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Mac Observer",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDFBTkoxQWY0dGlrcnJIbU9mQXVOc1dydm1kYjFCRVZUejZSTGtQaEs1YWpBQVlXRDNYSHM4eFppQ0FIWDBQMHFZaVdqUjlIWkFhRGxXajhGZTFLWUJMWUtwQ0ZFY2pvdXpzR1VLR003X0tJV3daUXdnaHMwVEpUdjllQ2c2UEh5dGhKRGtKVUJHZjFid1pNUHA3N2I0WG1R?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Some iPhone Apps Are Sneaking Ads Into Live Activities and Alerts",
+      "titulo_original": "Mastercard Targets Southeast Asia's Fragmented Payments",
       "idioma_original": "en"
     },
     {
@@ -1489,40 +1774,23 @@
       "idioma_original": "en"
     },
     {
-      "id": "8f591e29904d",
-      "categoria": "ten",
-      "fecha": "2026-11-26T02:12+00:00",
-      "titulo": "Apple retira el popular chatbot chino de IA de la App Store por preocupaciones sobre la seguridad infantil",
-      "resumen": "Tras los informes de que sus personajes enviaban mensajes inapropiados a menores, Apple eliminó la popular aplicación china de inteligencia artificial, Talkie, de la App Store. Aquí están los detalles. más…",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
+      "id": "397f9ed61b1d",
+      "categoria": "emp",
+      "fecha": "2026-11-25T23:14+00:00",
+      "titulo": "Xiaomi Watch S5 41 mm se lanza en Japón el viernes: Visa, Mastercard Tap-to-Pay, sin tarjeta de tránsito Suica",
+      "resumen": "",
+      "fuente": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUIxYWNVemRhU1hVX2JoUlpuWWVFTmFaR3ZwN0RsN2VjekVKSXIzNGNnb0ZHQlYtcUR1czdTRTZPTjIzQ0UySWg0T3JKdFdnTzIyci1kLWdYTmpvTFhtazg5MWVHSTVTWVVNMWdmdHh5UHYtZS1QNmpFVEhBM0xJbklKX08zXzBUSjY2LWdfSDR1eTNtQUJuVktWajZLeV9Wc0cxaEpiRS1PTTl1alZ3TlF5a0pYMkFxUm1salRidnI4WHhTczJTOUM0SGFxcXdETzFuT2taRDhNWHM?oc=5",
       "enlaces": [
         {
-          "nombre": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
+          "nombre": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUIxYWNVemRhU1hVX2JoUlpuWWVFTmFaR3ZwN0RsN2VjekVKSXIzNGNnb0ZHQlYtcUR1czdTRTZPTjIzQ0UySWg0T3JKdFdnTzIyci1kLWdYTmpvTFhtazg5MWVHSTVTWVVNMWdmdHh5UHYtZS1QNmpFVEhBM0xJbklKX08zXzBUSjY2LWdfSDR1eTNtQUJuVktWajZLeV9Wc0cxaEpiRS1PTTl1alZ3TlF5a0pYMkFxUm1salRidnI4WHhTczJTOUM0SGFxcXdETzFuT2taRDhNWHM?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "global",
-      "titulo_original": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+      "titulo_original": "Xiaomi Watch S5 41mm Launches in Japan Friday: Visa, Mastercard Tap-to-Pay, No Suica Transit Card",
       "idioma_original": "en"
-    },
-    {
-      "id": "39f3f1f1e848",
-      "categoria": "ten",
-      "fecha": "2026-11-26T01:45+00:00",
-      "titulo": "Apple's $1,999 iPhone Duo Meets Samsung's Galaxy Z Fold8: A Foldable Fight Where Price and Polish Diverge",
-      "resumen": "",
-      "fuente": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wU2JsZS1ucXNzZEdaQmFZeUV0dmdsZmFLZzdWME52OFFvT1dlR1RCV0Q0clE0WXF1b0RMYWlkcnduUEFhcG4tSk9pNHZMQmJYTERTNmRzWC1aWmRZa0FHVnd1OExlTHpOTW80UDlseW1JNDJSOUE?oc=5",
-      "enlaces": [
-        {
-          "nombre": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wU2JsZS1ucXNzZEdaQmFZeUV0dmdsZmFLZzdWME52OFFvT1dlR1RCV0Q0clE0WXF1b0RMYWlkcnduUEFhcG4tSk9pNHZMQmJYTERTNmRzWC1aWmRZa0FHVnd1OExlTHpOTW80UDlseW1JNDJSOUE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
     },
     {
       "id": "0b6a3bd465bf",
@@ -1542,10 +1810,27 @@
       "region": "ar"
     },
     {
+      "id": "2be036842b11",
+      "categoria": "emp",
+      "fecha": "2026-11-25T21:15+00:00",
+      "titulo": "Gerente de estrategia comercial y fuerza de ventas - Fintech",
+      "resumen": "",
+      "fuente": "LinkedIn Chile",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOExlVmJpcnBtWkE5Y29SLTBzSFFCcHY5U0ZTUzhORW42Mk9IM1hjZG1HSFFBZjgtOHlJMV8wTzBOUl9TSkhTWHR4aVpmb1d2UzdaUXRnUlU5eFoxRHREZ3R2UE54WG9kbnNRS19xbXVNd2VzRV93RzJFVTc4UGw3YWY0b0lzUGw4SzhkQnBpQmtyWVhMNTdkenlrc0FLYUN1TjZzM3laWl9DQUkzREIxcDVLVXJvTTNFaFpUQw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn Chile",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOExlVmJpcnBtWkE5Y29SLTBzSFFCcHY5U0ZTUzhORW42Mk9IM1hjZG1HSFFBZjgtOHlJMV8wTzBOUl9TSkhTWHR4aVpmb1d2UzdaUXRnUlU5eFoxRHREZ3R2UE54WG9kbnNRS19xbXVNd2VzRV93RzJFVTc4UGw3YWY0b0lzUGw4SzhkQnBpQmtyWVhMNTdkenlrc0FLYUN1TjZzM3laWl9DQUkzREIxcDVLVXJvTTNFaFpUQw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "26fe8401c0a3",
       "categoria": "emp",
       "fecha": "2026-11-25T21:12+00:00",
-      "titulo": "Klarna Expands European Price Comparison, Adds Canada Virtual Card",
+      "titulo": "Klarna amplía la comparación de precios en Europa y añade la tarjeta virtual de Canadá",
       "resumen": "",
       "fuente": "PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXp0WkNSd1pFNjFEODVHODRmNndSbmhBQ085TzBtbHdYNUVYY0ZjVlB0Wkk0b3poY2hSc2MtM25wTWlGTmpoV0RnUlFBN1BJOHFBZTJKRG84OENrNG5mdERaLUtZRFRoZzRqSTRvTE9fT0NaaHNFVlF4bERFaEFpVk5Ba1ZUdUdsOExBMEVoeHlNLV9kZWd6MklKWU1fdlBnZDluWVdZd2FoTngtYzZxYQ?oc=5",
@@ -1556,7 +1841,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Klarna Expands European Price Comparison, Adds Canada Virtual Card",
+      "idioma_original": "en"
     },
     {
       "id": "059e08e668ff",
@@ -1576,6 +1863,23 @@
       "region": "global",
       "titulo_original": "Klarna launches virtual one-time card for Canadian shoppers",
       "idioma_original": "en"
+    },
+    {
+      "id": "010eeb8cc604",
+      "categoria": "emp",
+      "fecha": "2026-11-25T20:51+00:00",
+      "titulo": "Solventa Fintech Bogotá, Distrito Capital, Colombia",
+      "resumen": "",
+      "fuente": "LinkedIn Colombia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjlHeEhHeGg5N0tzYTNGWXZwQVZ1c1A3OG04VW1fTzZ1djl4R1BUZURPQlppNHQ2T1V3X0ZsTlFqODhFMjI3MjV5UkJKQ2Z2TTlJUU1OTjl6UHd5VHYxMGc2TFhBaTV2SE0xTVZteXJ2eHRqNGhwc1VQRVkyQTloeUZuUWhMcWR3TXp3eA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn Colombia",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjlHeEhHeGg5N0tzYTNGWXZwQVZ1c1A3OG04VW1fTzZ1djl4R1BUZURPQlppNHQ2T1V3X0ZsTlFqODhFMjI3MjV5UkJKQ2Z2TTlJUU1OTjl6UHd5VHYxMGc2TFhBaTV2SE0xTVZteXJ2eHRqNGhwc1VQRVkyQTloeUZuUWhMcWR3TXp3eA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "756f4eacc492",
@@ -1614,27 +1918,34 @@
       "idioma_original": "en"
     },
     {
-      "id": "06a120874ba3",
+      "id": "53993ae26d54",
       "categoria": "ux",
-      "fecha": "2026-11-25T18:22+00:00",
-      "titulo": "Fintechs outperform traditional wealth firms on digital experience: study",
+      "fecha": "2026-11-25T18:26+00:00",
+      "titulo": "Las fintechs superan a las empresas patrimoniales tradicionales en experiencia digital: estudio",
       "resumen": "",
-      "fuente": "Advisor.ca",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFZXRG9MS2VEOGROcWp5N1kyQnNmNmxycllSMVNxUktOWVRkU2VCOVp5MGJENTRkMHdqdU9hVi1FTmJ5a25FSHJYaHR2Y1VWU2N5a0xaRTB2WjJIVmNYcHhDZmZwbVdNM0Judjd6dGJ2Nm9ENXEtSWV0NUdYYkdIRTBLaWsxTnJHLWpzRktPRWV2ZllCemJWVGhPdGJJdkNKbk9qY1RLX0JRNm5tVXVFMmFlTjdOV0JuTTZr?oc=5",
+      "fuente": "Investment Executive",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDY3bmhYVThnTV9xMUxSM2tHanVkM01nYXQ2QlVvZ05ueWdER0JjdVlfaEt5bEgzLS1ySXZ5TmJnVVlHdmFrR2llN1JuaS1zaEF0azlhakViWDk3Xzlwc2d5eDZsVVRLaDdmSEM1Y0VzeHphTGdqclRPRjlNQmNBM2g2SV9kWW4tOXNDZzh3VmdDdi1RRE5lZmludWI2RlM3N3dPa3ZBTWNaR2N4ZThFaEZnWUR1MW9wM0Y0NlBmOF8?oc=5",
       "enlaces": [
+        {
+          "nombre": "Investment Executive",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDY3bmhYVThnTV9xMUxSM2tHanVkM01nYXQ2QlVvZ05ueWdER0JjdVlfaEt5bEgzLS1ySXZ5TmJnVVlHdmFrR2llN1JuaS1zaEF0azlhakViWDk3Xzlwc2d5eDZsVVRLaDdmSEM1Y0VzeHphTGdqclRPRjlNQmNBM2g2SV9kWW4tOXNDZzh3VmdDdi1RRE5lZmludWI2RlM3N3dPa3ZBTWNaR2N4ZThFaEZnWUR1MW9wM0Y0NlBmOF8?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "Advisor.ca",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFZXRG9MS2VEOGROcWp5N1kyQnNmNmxycllSMVNxUktOWVRkU2VCOVp5MGJENTRkMHdqdU9hVi1FTmJ5a25FSHJYaHR2Y1VWU2N5a0xaRTB2WjJIVmNYcHhDZmZwbVdNM0Judjd6dGJ2Nm9ENXEtSWV0NUdYYkdIRTBLaWsxTnJHLWpzRktPRWV2ZllCemJWVGhPdGJJdkNKbk9qY1RLX0JRNm5tVXVFMmFlTjdOV0JuTTZr?oc=5",
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Fintechs outperform traditional wealth firms on digital experience: study",
+      "idioma_original": "en"
     },
     {
       "id": "30730776391e",
       "categoria": "emp",
       "fecha": "2026-11-25T18:07+00:00",
-      "titulo": "Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX) holdings",
+      "titulo": "Tenencias de Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX)",
       "resumen": "",
       "fuente": "Yahoo Finance Australia",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UmJacDZJdmF6TXRFUDhxeVBrVDB4MnZaZWhQSGJsbjJlNHB0eGVtdnFTdDBSN05DV0pmUEtOLVBSYkR2ZDV4cjk4RnZHSGNacEZHa2h0T3VYeXQtZWRlbE1n?oc=5",
@@ -1645,7 +1956,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX) holdings",
+      "idioma_original": "en"
     },
     {
       "id": "e2f043a8faa0",
@@ -1682,6 +1995,23 @@
       "region": "global",
       "titulo_original": "Fintech Pliant secures over €200 mn in debt financing to expand B2B payments",
       "idioma_original": "en"
+    },
+    {
+      "id": "de8fdf040413",
+      "categoria": "emp",
+      "fecha": "2026-11-25T17:31+00:00",
+      "titulo": "💳🚀 Mercado Pago dio un paso clave en su estrategia de crecimiento en el país al iniciar los trámites ante la Comisión para el Mercado Financiero (CMF) para emitir tarjetas de #crédito en #Chile, consolidando así su…",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlJZem9qZ0tReXRyZmlySWN4M3VRR0diVS1VeDVKYmVZclZVTWs4V3RHTm43NUQ3UE1iUTRuX1pSWFdDQmhOU2FFMDd4YVVxWHRsREl6aUlsQkVZY3ZxRGdvWjhremJXek9WSHRRTEdTQUw1WGFlWnBzWVF2bGlISDBKQzBraWxTak9JeFpoT3c0NUxqanlaR3U3UFdrLVpPWVBNZWJyNjA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlJZem9qZ0tReXRyZmlySWN4M3VRR0diVS1VeDVKYmVZclZVTWs4V3RHTm43NUQ3UE1iUTRuX1pSWFdDQmhOU2FFMDd4YVVxWHRsREl6aUlsQkVZY3ZxRGdvWjhremJXek9WSHRRTEdTQUw1WGFlWnBzWVF2bGlISDBKQzBraWxTak9JeFpoT3c0NUxqanlaR3U3UFdrLVpPWVBNZWJyNjA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "5c5b2206c74f",
@@ -1785,7 +2115,7 @@
       "id": "086133daab18",
       "categoria": "emp",
       "fecha": "2026-11-25T15:43+00:00",
-      "titulo": "Will Mastercard Accept Strengthen MA's Long-Term Growth Prospects?",
+      "titulo": "¿Mastercard Accept fortalecerá las perspectivas de crecimiento a largo plazo de MA?",
       "resumen": "",
       "fuente": "The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMHNvM3BhTVczTnpzQmxPUmJaWlhsQ09IZzB5RTBaQWxub3B4WXJTVEY3TFZmWEdORVRzS0h4b3dIS3JrUng2UFJmQnVEX25LV2hXTU05aktBVlFkbHM0VkFvd1AtOTBFcU5VUEFOU1FtZXlIeHkxVmo1eXc3ZWQ2TWJRQU1kb0hpTF8wb3R0Smd5SEtGLXpWSUZsOFFCZEFuVXllTk1Jb0d1eTIwclFROUV4TkVoT0E2Z3Y0RmhNSlV1NjYtYU1vYS1DUEF4Q3RJUzV5SmI0Q0QwMGZtMy0w?oc=5",
@@ -1796,7 +2126,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Will Mastercard Accept Strengthen MA's Long-Term Growth Prospects?",
+      "idioma_original": "en"
     },
     {
       "id": "1a777ea70dcc",
@@ -1872,7 +2204,7 @@
       "id": "42512da72908",
       "categoria": "ux",
       "fecha": "2026-11-25T14:01+00:00",
-      "titulo": "Ismail Ahmed, fundador de WorldRemit, lanza Odola para transformar la banca de inmigrantes en EE. UU.",
+      "titulo": "El fundador de WorldRemit, Ismail Ahmed, lanza Odola para transformar la banca de inmigrantes en EE. UU.",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2tqNk1ZbElUZHFwWkZNTHRZRlFVcGp4dWxKQV9UTlZueUpnenkxTGNmVFZrRjMyM3YxRFBSeVFMbU9jLWdWY0FwQ0pHbFVUbHVocnVmVWVQVGNGQ1B1U3B0dlliMmF2cS1iSWhYcFEtamF1V1hRVkZqTnFkc29HWnBpdTJvUHpFUTRiaGFTRnNRVFF0SEViNThQb0ZaUklWeWI4YWNUa0otNkQw?oc=5",
@@ -2004,7 +2336,7 @@
       "id": "ac97f831e3c9",
       "categoria": "emp",
       "fecha": "2026-11-25T12:25+00:00",
-      "titulo": "FCA AI Agent Warning: Payments, Credit Broking or Advice May Need Authorization as Meta Muse Hits UK",
+      "titulo": "Advertencia del agente de IA de la FCA: los pagos, la intermediación de crédito o el asesoramiento pueden necesitar autorización a medida que Meta Muse llega al Reino Unido",
       "resumen": "",
       "fuente": "Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1IxcEpCZEVCb2tsVS11bmMwb3UxcG5kanphUFJJc2loRHZCV0llM00tdEdZTXZRNjJhMG43UjJSV0IyMVdIOUptaGt0Q2tnQWo4OVM3STFHNk5fbDc3bFNDeUVfWW1PY3IwNU9xRERiRk5ZZVhvWU1CUFh1ZUMzbHdhcGwyQzVxVTJ1dk44bmFyOWR1VXZ4dWRrN21iRzd0SFQtcF9DLUJ0NU1ramE0cnJrZ0tCQ1d3YmRMNGxkVmJqUkVwYUxTdWxmVVdCckR3R1ZpemdkNm5qT2tTaGh3Yw?oc=5",
@@ -2015,7 +2347,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "FCA AI Agent Warning: Payments, Credit Broking or Advice May Need Authorization as Meta Muse Hits UK",
+      "idioma_original": "en"
     },
     {
       "id": "d789121b1e8e",
@@ -2071,207 +2405,29 @@
       "idioma_original": "en"
     },
     {
-      "id": "6cbe9142dacd",
-      "categoria": "emp",
-      "fecha": "2026-11-25T09:39+00:00",
-      "titulo": "La provincia envió a la Cámara el acuerdo para que el Banco San Juan siga como agente financiero, antes de que esa entidad bancaria se integre con otras dos",
+      "id": "f498a38337a6",
+      "categoria": "reg",
+      "fecha": "2026-11-25T00:01+00:00",
+      "titulo": "Santander UK pide responsabilidad al sector tecnológico mientras las pérdidas por fraude en el Reino Unido alcanzan los £659 millones",
       "resumen": "",
-      "fuente": "0264Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPeXNfdXBLcnRMcVhuS1hQcTBOb0xLZ1BId29tZF9KODFVcXlXVkhKcldhVTd0SWxpMDRoMFNHeFNuOTNhVUVGNDN2M21RNElQWWxDUDl4eFdXS3FlSE4yaW1HbEU1RFJUR3FaT292RUFVbTd3azQ4ekJDbVRCOXVrUnk1MXFaYUpCdXBxSm5sS1hBNDJyQzVvYzVqdnN1SHJXWG5HQXJXdW5OU3E0X0lQM3JWMjl1VFA2TEtFRVdMY3ZwSURoWldQUEpFOFE0bTgzZ1VrNE9IZkZYbVMwdjFYdHFIaWFRbm1rXy1JdnJxSVFzTE9iMklIOEhLM2gySUhSRVNLdzFpX3lfZzJZM3JoQVZtdnVkV183d1I5OHlSNnpuMU1Ta0pRdlJoVk96NVlmSkI2Q1B6em9Nd9IBvwJBVV95cUxNUG5neThMWGk5Z0Rtd3hSWS03VW53amZPNkRMSTNWRVFTcm1VbTNSVlhPazdfRFJRYUVDX1pIVUZ1b3lXUzBqQ21yWW9yMm1BVXEzbkJIVHoyOFlOOUxmd3FWOG9veVFLMnBmaURRbUp3NTZqOWFXRHYzekMtbXMxd29mcVVLbklvMFZ1Y1c2V3ZJWVlOMWotOTJ0b2I5bGp3ZU42T3YzNW1ObFlZaDVoc21wWnRPckFTSnFQd3JjUzNub3VKaXl1TDNSQVg1ZlJrU1BFbGo5QURsMWxkZ3ZVTHYwYTBacWhjUE52OUp5OERQaUpma1FsWlBaSVZLTVhFTmpjU0tPUXZTRVMwcW9yYm43enpSV2NldWR0bTVXcnFHdU94SjRWcWtkZU1YQjRhM21Bc0RvbzBrdjZ1b2w4?oc=5",
+      "fuente": "FF News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0stdTFpdWRZN3RkQ1pPMi1XTFk5dzh5T0pqajEwZ2luc0NKNDFOUF9NV2tBcWhEX3NobHJ2MGNWOVc4SVF4U1F3YmhHU3NPcWczUkJUTUtrYzdtTTgwcklPYmpkbm1rTmZfMmxfQ2IzbjZKVWZIODdDc2UtQXFSMFdtdHJZeUZoVG1xVmxTQjRSbE5FTXo2TXBGcWt2R2x0MGlfaU5CcDJDcHhXcFJUSmVR?oc=5",
       "enlaces": [
         {
-          "nombre": "0264Noticias",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPeXNfdXBLcnRMcVhuS1hQcTBOb0xLZ1BId29tZF9KODFVcXlXVkhKcldhVTd0SWxpMDRoMFNHeFNuOTNhVUVGNDN2M21RNElQWWxDUDl4eFdXS3FlSE4yaW1HbEU1RFJUR3FaT292RUFVbTd3azQ4ekJDbVRCOXVrUnk1MXFaYUpCdXBxSm5sS1hBNDJyQzVvYzVqdnN1SHJXWG5HQXJXdW5OU3E0X0lQM3JWMjl1VFA2TEtFRVdMY3ZwSURoWldQUEpFOFE0bTgzZ1VrNE9IZkZYbVMwdjFYdHFIaWFRbm1rXy1JdnJxSVFzTE9iMklIOEhLM2gySUhSRVNLdzFpX3lfZzJZM3JoQVZtdnVkV183d1I5OHlSNnpuMU1Ta0pRdlJoVk96NVlmSkI2Q1B6em9Nd9IBvwJBVV95cUxNUG5neThMWGk5Z0Rtd3hSWS03VW53amZPNkRMSTNWRVFTcm1VbTNSVlhPazdfRFJRYUVDX1pIVUZ1b3lXUzBqQ21yWW9yMm1BVXEzbkJIVHoyOFlOOUxmd3FWOG9veVFLMnBmaURRbUp3NTZqOWFXRHYzekMtbXMxd29mcVVLbklvMFZ1Y1c2V3ZJWVlOMWotOTJ0b2I5bGp3ZU42T3YzNW1ObFlZaDVoc21wWnRPckFTSnFQd3JjUzNub3VKaXl1TDNSQVg1ZlJrU1BFbGo5QURsMWxkZ3ZVTHYwYTBacWhjUE52OUp5OERQaUpma1FsWlBaSVZLTVhFTmpjU0tPUXZTRVMwcW9yYm43enpSV2NldWR0bTVXcnFHdU94SjRWcWtkZU1YQjRhM21Bc0RvbzBrdjZ1b2w4?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "c158a6702b8b",
-      "categoria": "emp",
-      "fecha": "2026-11-25T09:38+00:00",
-      "titulo": "Falla de Red Link afecta a bancos de todo el país",
-      "resumen": "",
-      "fuente": "Notitdf",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Notitdf",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "533ffdb27c52",
-      "categoria": "emp",
-      "fecha": "2026-11-25T09:28+00:00",
-      "titulo": "Lianlian DigiTech lanza LianLian XCard, cerrando el círculo entre la ejecución de tareas de IA y los pagos agentes",
-      "resumen": "",
-      "fuente": "Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTktQ2dJQ1g3UXlwSTFHMkhfYWlNcC1NUkwxX2kzTnpJdkpJa2FFVjNWdzA5dFhaczdnMGltblFuMUxJcDE3SlVzdUNlOUpqTS1pX3ZSalRRS1ZxanpGVE5sS3RVQ1pKYlBfdkVMbzRiT1RUclJkSjYzY21MVVlKX1N3QlpKN3NHME51MXN6NkxnMzdj?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTktQ2dJQ1g3UXlwSTFHMkhfYWlNcC1NUkwxX2kzTnpJdkpJa2FFVjNWdzA5dFhaczdnMGltblFuMUxJcDE3SlVzdUNlOUpqTS1pX3ZSalRRS1ZxanpGVE5sS3RVQ1pKYlBfdkVMbzRiT1RUclJkSjYzY21MVVlKX1N3QlpKN3NHME51MXN6NkxnMzdj?oc=5",
+          "nombre": "FF News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0stdTFpdWRZN3RkQ1pPMi1XTFk5dzh5T0pqajEwZ2luc0NKNDFOUF9NV2tBcWhEX3NobHJ2MGNWOVc4SVF4U1F3YmhHU3NPcWczUkJUTUtrYzdtTTgwcklPYmpkbm1rTmZfMmxfQ2IzbjZKVWZIODdDc2UtQXFSMFdtdHJZeUZoVG1xVmxTQjRSbE5FTXo2TXBGcWt2R2x0MGlfaU5CcDJDcHhXcFJUSmVR?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "global",
-      "titulo_original": "Lianlian DigiTech Launches LianLian XCard, Closing the Loop Between AI Task Execution and Agentic Payments",
+      "titulo_original": "Santander UK Calls for Tech Sector Accountability as UK Fraud Losses Hit £659 Million",
       "idioma_original": "en"
-    },
-    {
-      "id": "ff0dc2c2cb5d",
-      "categoria": "emp",
-      "fecha": "2026-11-25T06:36+00:00",
-      "titulo": "Toronto founded lifestyle brand Roots announces omnichannel payments partnership with Adyen",
-      "resumen": "",
-      "fuente": "Retail Technology Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzBiS0tpZDY2MDloOXZhSmZHR2p1RU8yakw3Y3lTd0dwSzZzNnZMcG1UQnpZQndWcTlrTGZ5U0YzX2xLcmM2QlhSVU9Bd01pbDFMQW1TcC1wOFI2ZDB4TzFycG5QS3BaS2doOEFuZDJlNjZDaktSb1lpS2U1OHEzd0JGZWtFNlFYOXVQaUJEamNXSjE1bHJSR3NFb0VHQnc4ZTVKNWNWQi1PLWVKTjJlQXNEQk1kdTBWWkxvUUxXREFhNGJURTh5SlV0RWpHQ0lwQlVBZVdCd0FoRnc?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Retail Technology Innovation Hub",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzBiS0tpZDY2MDloOXZhSmZHR2p1RU8yakw3Y3lTd0dwSzZzNnZMcG1UQnpZQndWcTlrTGZ5U0YzX2xLcmM2QlhSVU9Bd01pbDFMQW1TcC1wOFI2ZDB4TzFycG5QS3BaS2doOEFuZDJlNjZDaktSb1lpS2U1OHEzd0JGZWtFNlFYOXVQaUJEamNXSjE1bHJSR3NFb0VHQnc4ZTVKNWNWQi1PLWVKTjJlQXNEQk1kdTBWWkxvUUxXREFhNGJURTh5SlV0RWpHQ0lwQlVBZVdCd0FoRnc?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "9bdacb380c87",
-      "categoria": "emp",
-      "fecha": "2026-11-25T04:25+00:00",
-      "titulo": "Robinhood apuesta $ 5 millones en Rialto para expandir la infraestructura de comercio de tokens de acciones en cadena",
-      "resumen": "",
-      "fuente": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pOUhXZFhET3hkemt3LW8wNloxNGlKS0JBMDB6RmJhUmx1MUhCMEw0bmtSeGp4X1FnWTN5UklQUHliaWZ0RnNtV2JSNEpsdGEwUjJxbGNmSXlTaXJIVjNBTTA5WXNJaHdXdHdfdmFtVzh6QTlzTGc?oc=5",
-      "enlaces": [
-        {
-          "nombre": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pOUhXZFhET3hkemt3LW8wNloxNGlKS0JBMDB6RmJhUmx1MUhCMEw0bmtSeGp4X1FnWTN5UklQUHliaWZ0RnNtV2JSNEpsdGEwUjJxbGNmSXlTaXJIVjNBTTA5WXNJaHdXdHdfdmFtVzh6QTlzTGc?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Robinhood Bets $5 Million on Rialto to Expand On-Chain Stock Token Trading Infrastructure",
-      "idioma_original": "en"
-    },
-    {
-      "id": "1823138896cf",
-      "categoria": "emp",
-      "fecha": "2026-11-25T02:17+00:00",
-      "titulo": "El mayor rival de Apple Wallet, Google Wallet, finalmente está disponible en iOS, con un problema frustrante",
-      "resumen": "",
-      "fuente": "BGR",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWEFNU2ZBSnJvTHN0b1NZT1FBY0ZKV1RRNHNndGs1OWxnTmtEeXdFUTlJWmI3R3NQN2xqbVFFZ1Y4a3daeWl5MmVkQldrbjVSbGlCdnh0bEJjUmhWUEs0TXJCT3BqSVRmWk9sLTVJTkZNUQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "BGR",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWEFNU2ZBSnJvTHN0b1NZT1FBY0ZKV1RRNHNndGs1OWxnTmtEeXdFUTlJWmI3R3NQN2xqbVFFZ1Y4a3daeWl5MmVkQldrbjVSbGlCdnh0bEJjUmhWUEs0TXJCT3BqSVRmWk9sLTVJTkZNUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Apple Wallet's Biggest Rival, Google Wallet, Is Finally Available On iOS - With A Frustrating Catch",
-      "idioma_original": "en"
-    },
-    {
-      "id": "c2bb570f8361",
-      "categoria": "emp",
-      "fecha": "2026-11-25T01:55+00:00",
-      "titulo": "Los titulares de tarjetas de Metrobank ahora pueden tocar para pagar usando Google Pay en Android",
-      "resumen": "",
-      "fuente": "astig.ph",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRlRUQWNDQlhFSjVzenM2dmNya1BQTHV3RkUwb1h6MTFwdzdzTEROSEktTTQxckg1SEFlN1FtOWZlTWlvbXJZOHJoY2haekZPUTk3RkhTMXZ2Q1ZnTDN2eXRMZHZWdUs3SnhRTlozRnVScVNiRmkxRF9mYU5ZRXM?oc=5",
-      "enlaces": [
-        {
-          "nombre": "astig.ph",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRlRUQWNDQlhFSjVzenM2dmNya1BQTHV3RkUwb1h6MTFwdzdzTEROSEktTTQxckg1SEFlN1FtOWZlTWlvbXJZOHJoY2haekZPUTk3RkhTMXZ2Q1ZnTDN2eXRMZHZWdUs3SnhRTlozRnVScVNiRmkxRF9mYU5ZRXM?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Metrobank cardholders can now tap to pay using Google Pay on Android",
-      "idioma_original": "en"
-    },
-    {
-      "id": "775c8675f32c",
-      "categoria": "emp",
-      "fecha": "2026-11-25T01:01+00:00",
-      "titulo": "Visa y Mastercard se enfrentan a una reclamación de 1.300 millones de libras por las comisiones aplicadas a los compradores británicos",
-      "resumen": "",
-      "fuente": "ICLG",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3Q2Rmg2QVZMOTdpWXpSSVZkWHFLc1NGbFZDMUduYkhGNUZNVjZBVVFXZ3YxTldqTTQ5eXJLSGt0al9tLVR5bVBuSV91NXNzeVk0Z3V4d2xEdkdGR2h6c0lSS3JMX0NwaVptb25IOWZxWDB5bTFMQkgtMnF4ZlRRRzdhaWN2RmZjamxfZFJRazZOQVhidU82WGF6dGJRUHho?oc=5",
-      "enlaces": [
-        {
-          "nombre": "ICLG",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3Q2Rmg2QVZMOTdpWXpSSVZkWHFLc1NGbFZDMUduYkhGNUZNVjZBVVFXZ3YxTldqTTQ5eXJLSGt0al9tLVR5bVBuSV91NXNzeVk0Z3V4d2xEdkdGR2h6c0lSS3JMX0NwaVptb25IOWZxWDB5bTFMQkgtMnF4ZlRRRzdhaWN2RmZjamxfZFJRazZOQVhidU82WGF6dGJRUHho?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Visa and Mastercard face £1.3bn claim over fees passed on to British shoppers",
-      "idioma_original": "en"
-    },
-    {
-      "id": "2424bc413acb",
-      "categoria": "emp",
-      "fecha": "2026-11-25T01:00+00:00",
-      "titulo": "🏦 Bancolombia anunció un cambio en la operación de sus cajeros automáticos que modifica la disponibilidad de una de las denominaciones más utilizadas por los colombianos. ➡️ Más detalles: https://valtk.co/5uusm -…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmNOWlBoUlUzb1JFYnpqODE4cDdaUnNvazhxTjdNc0gwdEpqb3lyRk1CekctSFZsemVrTTJLa255MG9jckY3TWVQcWpUdE8yUllKX3NxSEV6dUM0T1ZWUEYyRC12Rk8ycFJ2TVJ5ZmNJcHp4WGlrSEYtMkRfdEZITzFmTElzczR5cFZ5OUx5eUFMcVZFVEhFOFoyLVV3WUkyOUlrSzZxM29iTk56VFFnREtpZS1ITXM5WFkzZUZoMTZ5ZEZoM3p6UUdGbnl2TGl0?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmNOWlBoUlUzb1JFYnpqODE4cDdaUnNvazhxTjdNc0gwdEpqb3lyRk1CekctSFZsemVrTTJLa255MG9jckY3TWVQcWpUdE8yUllKX3NxSEV6dUM0T1ZWUEYyRC12Rk8ycFJ2TVJ5ZmNJcHp4WGlrSEYtMkRfdEZITzFmTElzczR5cFZ5OUx5eUFMcVZFVEhFOFoyLVV3WUkyOUlrSzZxM29iTk56VFFnREtpZS1ITXM5WFkzZUZoMTZ5ZEZoM3p6UUdGbnl2TGl0?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "5862c06592fd",
-      "categoria": "emp",
-      "fecha": "2026-11-25T00:30+00:00",
-      "titulo": "Mercado Pago lanza seguros de hogar y comercio desde $19.000",
-      "resumen": "",
-      "fuente": "Mundo Empresarial AR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU4tZG5MUnpsNUlVU21sNHpJcEhIb0xZdmtEYXpfYzJ0MWdDMGlsc282YUVwTjdIV2I2bnJrTHI5WTJxdHlmTUQ1UGV6eG83anVQWUtneXdJcHE2bmszOHZIb0UwalZrQTJfOGh3YVI4MXJqdi01dU1ESGVxQ1BveGF1N0h0b1NlTjI1NHhVTHI1dw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Mundo Empresarial AR",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU4tZG5MUnpsNUlVU21sNHpJcEhIb0xZdmtEYXpfYzJ0MWdDMGlsc282YUVwTjdIV2I2bnJrTHI5WTJxdHlmTUQ1UGV6eG83anVQWUtneXdJcHE2bmszOHZIb0UwalZrQTJfOGh3YVI4MXJqdi01dU1ESGVxQ1BveGF1N0h0b1NlTjI1NHhVTHI1dw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "88f325b15a63",
-      "categoria": "emp",
-      "fecha": "2026-11-24T23:54+00:00",
-      "titulo": "Digital Payments: Cómo México está reinventando su forma de pagar.",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBwcTBCajl3UG5ZYzVlR1NXTkN4YVcyTjU1bjVZYzlMYXRTRmRIU2pjbmUzc3BjeWxjMjQyUUMtMlRUTlAxUElyT3AxM1BJTHF2dXJ2TWhpcFplS0FBOWdidnhCSDRXblA2aUxYdEZnZWN0ZzliVWJfN1UyQUF5ZFpkQkhVWVFUdVlmZUZSMENtYjhGVnZIb0p5WHBKa0s5SHVNV0d3R3NNQQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBwcTBCajl3UG5ZYzVlR1NXTkN4YVcyTjU1bjVZYzlMYXRTRmRIU2pjbmUzc3BjeWxjMjQyUUMtMlRUTlAxUElyT3AxM1BJTHF2dXJ2TWhpcFplS0FBOWdidnhCSDRXblA2aUxYdEZnZWN0ZzliVWJfN1UyQUF5ZFpkQkhVWVFUdVlmZUZSMENtYjhGVnZIb0p5WHBKa0s5SHVNV0d3R3NNQQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
     },
     {
       "id": "f720db6a2915",
       "categoria": "reg",
       "fecha": "2026-11-24T23:01+00:00",
-      "titulo": "JPMorgan, Visa and Mastercard Report Third-Party Customer Data Breaches",
+      "titulo": "JPMorgan, Visa y Mastercard informan violaciones de datos de clientes de terceros",
       "resumen": "",
       "fuente": "Payments Industry Intelligence",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNERldkcxZ3k2NHVqT3dMRUFfVFM1eXZEV2FuM04tZUI5WjBUNmtxdFhaMTFHYS1CZVpLdGVHSXZHOHdqelNZb0g1N1NVem9YaHRRcnFNd2FvcF8xY25wampLcEFldzdmWTdBOHpjN2s1el9qWDZ4OEpoQmtZbUVJaW1URElld3QyQkRHU3V2LWQ5Y3BsQkpBejlfTDN3MTA?oc=5",
@@ -2282,13 +2438,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "JPMorgan, Visa and Mastercard Report Third-Party Customer Data Breaches",
+      "idioma_original": "en"
     },
     {
       "id": "7b72dfd5306d",
       "categoria": "ux",
       "fecha": "2026-11-24T22:53+00:00",
-      "titulo": "Taxfix acquires UK fintech Countingup to expand small business services",
+      "titulo": "Taxfix adquiere la fintech británica Countingup para ampliar los servicios a pequeñas empresas",
       "resumen": "",
       "fuente": "Beinsure",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQnJMdzVYbnR4WVZSR0taOF81VndNVlVuSXhNbWlyQjhUUDQ5RlZSWkhHXzVFUzdnN1MzY3lrX0VITDFBUTB3M3g1VXhYdXh6cldIQkpxYzhIZnZwd1FnVVE4bXpNdUR2VWVTSW9PTWFXUQ?oc=5",
@@ -2299,13 +2457,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Taxfix acquires UK fintech Countingup to expand small business services",
+      "idioma_original": "en"
     },
     {
       "id": "e55c26b17167",
       "categoria": "reg",
       "fecha": "2026-11-24T16:56+00:00",
-      "titulo": "Manuel Delgado Rodríguez - Senior UI/UX Designer | Enterprise Banking & Fintech | Design Systems · Accessibility · Front-End (HTML/CSS) | Figma · AI-Assisted Design",
+      "titulo": "Manuel Delgado Rodríguez - Diseñador Senior UI/UX | Banca empresarial y tecnología financiera | Sistemas de Diseño · Accesibilidad · Front-End (HTML/CSS) | Figma · Diseño asistido por IA",
       "resumen": "",
       "fuente": "LinkedIn Costa Rica",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVXVGaEFBYlE0S0c3OERDR0dQZERUeWVITF8yTm43dWV0dXQyTC05ODRFWVRvdk9oejZxUFRjb1dLVmVUT1JtOUdQLUo3MVJCV2dqQmRUcVZwZVloUWhBRQ?oc=5",
@@ -2316,13 +2476,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "ar"
+      "region": "ar",
+      "titulo_original": "Manuel Delgado Rodríguez - Senior UI/UX Designer | Enterprise Banking & Fintech | Design Systems · Accessibility · Front-End (HTML/CSS) | Figma · AI-Assisted Design",
+      "idioma_original": "en"
     },
     {
       "id": "b2d338c9d559",
       "categoria": "ux",
       "fecha": "2026-11-24T15:53+00:00",
-      "titulo": "AXIAN Digibank & Fintech Partners Huawei to Upgrade Mobile Money Platforms Across Five Markets",
+      "titulo": "AXIAN Digibank y Fintech se asocian con Huawei para actualizar las plataformas de dinero móvil en cinco mercados",
       "resumen": "",
       "fuente": "TechAfrica News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmp1ZHpKYkFqVXBwVGJiWDFxYjdjWWFjM0J1RkpraUotc2MxQmVPZGZZU0ZwalJ6MnRMVzVZaXowNzBQVGkwY2Y2aVA4TUsxdEtzZjFiWDQzQlNfN0dCWF9GQzlSZ0pCOE1RUlNpS1RKNDRZMDI5VklOb3h5dEI1eUNOYmptSGI1dng0RnpZYlV4ME9WQjAzR19FUS03REN1OFVRTGVSbDl5aVo0RU1mblZB?oc=5",
@@ -2333,7 +2495,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "AXIAN Digibank & Fintech Partners Huawei to Upgrade Mobile Money Platforms Across Five Markets",
+      "idioma_original": "en"
     },
     {
       "id": "47e0734bb9de",
@@ -2373,7 +2537,7 @@
       "id": "2a8a708907ae",
       "categoria": "ux",
       "fecha": "2026-11-24T11:10+00:00",
-      "titulo": "AXIAN Digibank & Fintech Taps Huawei to Modernise African Mobile Money Platforms",
+      "titulo": "AXIAN Digibank y Fintech recurren a Huawei para modernizar las plataformas africanas de dinero móvil",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1VYSFZlRHZINEQyXzFBNzUtUkY1UThsVUVaSWJqOGxDb3ljay11eGFyd09nYjdzYWlKbE55ZG02TXpZNjZyOU1MQkJBTUI0T0FHTVBQNzFIdlBOZldNTEhJSFQwcnFlSnc2eEVYYjVTdHRla1QxT2dDZWVlZC0tMlNrMWhrYndMc2M1dVhEV1Q3R1FOZnRlM25WNm4tc0c1Sk1sQzc1QjNrNFlBSUxWWmlMZw?oc=5",
@@ -2384,7 +2548,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "AXIAN Digibank & Fintech Taps Huawei to Modernise African Mobile Money Platforms",
+      "idioma_original": "en"
     },
     {
       "id": "cac98782129e",
@@ -2419,23 +2585,6 @@
         }
       ],
       "region": "ar"
-    },
-    {
-      "id": "2773399adf52",
-      "categoria": "ux",
-      "fecha": "2026-11-24T06:04+00:00",
-      "titulo": "Cybersecurity woes grow whilst fintechs court pickier investors in SFF Day 3",
-      "resumen": "",
-      "fuente": "Singapore Business Review",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0hfOFlhb3ZWZFJPZXZ4TWpsbHMxbHgxSlNGSEtWYXVvR25IUVpXQXN3b1BfRmNuNklCZDZLM3B2LURUUUpoV3VYMnpWR0lOZHJsRHlxNzZoMnZ5QWRNSlJwX0JtNGJIYkhaTnp1TUZXbHFqbEZ4dmk4QkxTeEtTTEs5aW9ubWZxMEQ3RC1fWkFteTZqSGhKLXR0REhkRkVFb2c?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Singapore Business Review",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0hfOFlhb3ZWZFJPZXZ4TWpsbHMxbHgxSlNGSEtWYXVvR25IUVpXQXN3b1BfRmNuNklCZDZLM3B2LURUUUpoV3VYMnpWR0lOZHJsRHlxNzZoMnZ5QWRNSlJwX0JtNGJIYkhaTnp1TUZXbHFqbEZ4dmk4QkxTeEtTTEs5aW9ubWZxMEQ3RC1fWkFteTZqSGhKLXR0REhkRkVFb2c?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
     },
     {
       "id": "f964e433b8e8",
@@ -2496,7 +2645,7 @@
       "id": "1b0ccf8846f4",
       "categoria": "reg",
       "fecha": "2026-11-23T18:14+00:00",
-      "titulo": "Acoru Joins Mastercard Start Path to Scale Account-Centric Fraud Prevention",
+      "titulo": "Acoru se une a Mastercard Start Path para escalar la prevención del fraude centrada en cuentas",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1hRNjBNWjNUbzFxNm5jMzVhaWN4ZF8tZ00zSGpCTzBYa1pvZmdGRUczNFlSMG12RXdNWmRMb3RaQXBVV0ptZWdCRmJIVm56emRjdndmdnVFakpHNlVzWUpzZndpVUhPU0JjUGJoSnhHWlExVFFCZFV6cVVFX0FxaVNYT1ViRXZ6M3lEY3R2M1dFQWVDX0dVdWlPc1ZTWFRKWnNzLVJrUDh5ZU81QWRBOUlfWQ?oc=5",
@@ -2507,7 +2656,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Acoru Joins Mastercard Start Path to Scale Account-Centric Fraud Prevention",
+      "idioma_original": "en"
     },
     {
       "id": "11cb4a4878d3",
@@ -2530,7 +2681,7 @@
       "id": "1c85ebac975f",
       "categoria": "ux",
       "fecha": "2026-11-23T10:57+00:00",
-      "titulo": "KFH-Bahrain Unveils Next-Gen Mobile Banking App to Revolutionize Digital Customer Experience",
+      "titulo": "KFH-Bahrain presenta una aplicación de banca móvil de próxima generación para revolucionar la experiencia digital del cliente",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMURkU3hnUnlsNEl0WF80MjZvdTBvZkEyVFoteXNTM0xLZ2FPUHVEV0xfZGZIMnFwN0xQaHZyVzJqNHRnQ0I1aTlwVWdQc1lqY2kyS3RITm5GbzdOY0lDdHJ4T21Kcm54ZXVnZGxrbWxmT1lnZkhNaHBhcGNHVXNfdTVRU2tWT0k?oc=5",
@@ -2541,7 +2692,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "KFH-Bahrain Unveils Next-Gen Mobile Banking App to Revolutionize Digital Customer Experience",
+      "idioma_original": "en"
     },
     {
       "id": "79fe2e7bbd0b",
@@ -2597,6 +2750,23 @@
       "region": "ar"
     },
     {
+      "id": "17dc04544a2f",
+      "categoria": "reg",
+      "fecha": "2026-11-22T18:56+00:00",
+      "titulo": "Alertan por estafas en WhatsApp con identidad de familiares",
+      "resumen": "",
+      "fuente": "Expreso",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0dienZpV0xENWhrQXZVYXc5RHlIeThWanZZVlZZTlZrYzc4dUU1dVRiLUJTQXRFb2xkMU91WUFNWEFiTElnMlRHQm5pd1M2RTdhUXpkM0xJS24xdXNpYi15OXAxaDgzdEljYWpvbUN2XzFLNzBYMkk3NXUyek1SWDhqdTI3N0dIWGRBVFAtSEtxLTNrRnRoeWVORUd6aFFsRUg1ZTFB0gGrAUFVX3lxTFBXMjRzTmtOTVZoS3JIdmtUdWcySERNcHBpbVFyMHBNMEhSVTJ2Uk5mc1FaSVJ2b0lQRW0zZFdqaEFEYlhMNHVqZWs4S1lpSklNUjE2LTNxTlhTVkctaFFRdTdDNUx4VExnWVF6d0czY3V4T0Z6T09FQVRwSXJWamJyM2s5ZFRHYzRxSjBxWG1JUE5Eb2JhVEN2UVJlRHFSQmFnM3dDVU1mT2FjNA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Expreso",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0dienZpV0xENWhrQXZVYXc5RHlIeThWanZZVlZZTlZrYzc4dUU1dVRiLUJTQXRFb2xkMU91WUFNWEFiTElnMlRHQm5pd1M2RTdhUXpkM0xJS24xdXNpYi15OXAxaDgzdEljYWpvbUN2XzFLNzBYMkk3NXUyek1SWDhqdTI3N0dIWGRBVFAtSEtxLTNrRnRoeWVORUd6aFFsRUg1ZTFB0gGrAUFVX3lxTFBXMjRzTmtOTVZoS3JIdmtUdWcySERNcHBpbVFyMHBNMEhSVTJ2Uk5mc1FaSVJ2b0lQRW0zZFdqaEFEYlhMNHVqZWs4S1lpSklNUjE2LTNxTlhTVkctaFFRdTdDNUx4VExnWVF6d0czY3V4T0Z6T09FQVRwSXJWamJyM2s5ZFRHYzRxSjBxWG1JUE5Eb2JhVEN2UVJlRHFSQmFnM3dDVU1mT2FjNA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "82f7e4bc7684",
       "categoria": "reg",
       "fecha": "2026-11-22T16:20+00:00",
@@ -2608,6 +2778,23 @@
         {
           "nombre": "LinkedIn Paraguay",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjNSVlZ1SWNFbGRkZjVDdEVNb01EWTFDb3RyV0NYb19tN0VYU1BteEhBb21sUGFXQ3Q2TS1hRjRubTdZOU4taFZ0Mmg0TnI4TFhMMU0zV29ENkc3dTNFRUNkYzFXYWIyWHlwbERWalZWdjdEb2ZCT3F3MVV3c3NhVQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "3eb8f1eb0e06",
+      "categoria": "reg",
+      "fecha": "2026-11-22T11:30+00:00",
+      "titulo": "Alertan a jóvenes por fraude en cajeros de Temixco; así roban tarjetas bancarias y vacían cuentas",
+      "resumen": "",
+      "fuente": "Diario de Morelos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUJ0UlZYczlOS2h5M0JfVTlMd2ZSNkpRTlJZSWxoY0p6ZTNpMGFZZ3oxLWpLRWRjY2VhSEsxTFhWWUM3WFA2YjhXcXN2QkRIUDNUR0Y5TXJ5VG5CSEVzLUhudjFia1NIUFVSTkN1aHQwUEt6Uk1oV0tuZGFHRm9MNzRHZG5leDMtSUJReG9PMElvZnVmUDZ1WGhHRDZCd01fSFlrMWltd3BXYmFzb2xOcFU0X3lmUEQ1M3plb1BjVXRGeEtw0gHKAUFVX3lxTE9XS0tGbmhCcFFFdmVNRW9LblNYVjZwSGwwUWM1Zjhod29Fb0tpQU42NFNmYW56R3pxaVVWZjAwMDVZMFNIWGdTYU5lNmMzUklRNkhNTGgweVdYQXgtUFdsNnV4b1F5Zk9sdU5oQnh0cEF5eXVydTg1cjlrSWRWNDdEUlN2b2xDZXJnc3laYVd5NjFYQ3BueUNGcVcxbkczMjBaZ0lNRDJwQ3l6b1dMYUY3YnFCaW53YUFTYkc0Vjg5bTdTNi1hZ2lyX1E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Diario de Morelos",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUJ0UlZYczlOS2h5M0JfVTlMd2ZSNkpRTlJZSWxoY0p6ZTNpMGFZZ3oxLWpLRWRjY2VhSEsxTFhWWUM3WFA2YjhXcXN2QkRIUDNUR0Y5TXJ5VG5CSEVzLUhudjFia1NIUFVSTkN1aHQwUEt6Uk1oV0tuZGFHRm9MNzRHZG5leDMtSUJReG9PMElvZnVmUDZ1WGhHRDZCd01fSFlrMWltd3BXYmFzb2xOcFU0X3lmUEQ1M3plb1BjVXRGeEtw0gHKAUFVX3lxTE9XS0tGbmhCcFFFdmVNRW9LblNYVjZwSGwwUWM1Zjhod29Fb0tpQU42NFNmYW56R3pxaVVWZjAwMDVZMFNIWGdTYU5lNmMzUklRNkhNTGgweVdYQXgtUFdsNnV4b1F5Zk9sdU5oQnh0cEF5eXVydTg1cjlrSWRWNDdEUlN2b2xDZXJnc3laYVd5NjFYQ3BueUNGcVcxbkczMjBaZ0lNRDJwQ3l6b1dMYUY3YnFCaW53YUFTYkc0Vjg5bTdTNi1hZ2lyX1E?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2651,7 +2838,7 @@
       "id": "4927a192a273",
       "categoria": "reg",
       "fecha": "2026-11-21T15:48+00:00",
-      "titulo": "Banking Sector Faces Growing Cybersecurity Threats",
+      "titulo": "El sector bancario enfrenta crecientes amenazas a la ciberseguridad",
       "resumen": "",
       "fuente": "Universitas Muhammadiyah Surakarta",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFR1R1FBNUo4eDJMTDBGUnpnUE1NZ2tyZGktcm9Hd0dvVENnMTJLYUVKTm5OVFE0cXVOdUgxZm5veXBLUkdVdW01YmJzNmZaS2pJUWN2YmFpLUcwZ0NzNkRhLXNobzNWMkQ4b1huM1Z2QjNacVpkNzB0ajdTeHhUWHhmb2lETVNQdHFxc2prWFdiY3JLTW8ybg?oc=5",
@@ -2662,13 +2849,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Banking Sector Faces Growing Cybersecurity Threats",
+      "idioma_original": "en"
     },
     {
       "id": "c46f5ef2107b",
       "categoria": "ux",
       "fecha": "2026-11-21T13:36+00:00",
-      "titulo": "Capital One y American Express lideran el ranking de protección de cuentas bancarias y de tarjetas de crédito de EE. UU.",
+      "titulo": "Capital One y American Express lideran los rankings de protección de cuentas bancarias y de tarjetas de crédito de EE. UU.",
       "resumen": "",
       "fuente": "Beinsure",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbWN3WXZUZEc2cXdybnNSZzdWVk9ybnlZcU5NNHBITC1Kcl9vaXRQakEzd3Zsd0RmSGhEaWdPQnVxbWpBSmlCdjNqdjlOZndhdkxoYXg3TVhybXEyN2tGZzRIUWZnWTdjamJQWWwyYUpQbjVYdlh4c0RENW5hVUk?oc=5",
@@ -2742,7 +2931,7 @@
       "id": "b65845398451",
       "categoria": "ux",
       "fecha": "2026-11-21T07:02+00:00",
-      "titulo": "Mylo Named to CNBC's World's Top Fintech Companies 2026",
+      "titulo": "Mylo nombrada entre las principales empresas de tecnología financiera del mundo 2026 de CNBC",
       "resumen": "",
       "fuente": "www.newswire.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEVEYjF3a0otYlBYZkJlZmFCUzAzWFY1eGlfMWVkc2Vkd3laVGRpdFVGWGk0V3JHdXRDZ2UwLXFJUmlIQmQxbnBmUWU2S2JVNzQxRWhVNFRzSi0zMkZNREFEUy0yRXJ1Rm1ULUhCelYwOVh5Um9iaDJIbXM4RFpDZEdsTlNabTA5V0Rn?oc=5",
@@ -2753,7 +2942,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Mylo Named to CNBC's World's Top Fintech Companies 2026",
+      "idioma_original": "en"
     },
     {
       "id": "f3a1db42626b",
@@ -2797,7 +2988,7 @@
       "id": "6acb3e542ff6",
       "categoria": "reg",
       "fecha": "2026-11-20T21:27+00:00",
-      "titulo": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "titulo": "El robo de Visa y Mastercard incluyó información útil para el phishing, pero no agotó las cuentas bancarias, dicen los investigadores",
       "resumen": "",
       "fuente": "The Register",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPODZsMENNa2lqX3A5OFhyNVNjOTZBTGxKWGhPSDBLS1JIUEVOdzBxSmJBSEJhSWswbVIxS1Q2Rm1sX0lzd2lTbGl4b3FKNGhzTnBsdUxtWTBqTklDU3IyV3VvRnBJU2tFSktpUnViVzBsdXJLWEdHazZwQUJYOHdhWWg2VkNxMkhkVWxVYlkzeTBLakxkTG56TXhoRERHRHppNGxiLURvbVlsWS1yX3N2d2ExdkFtLWgyVFdJV1hoaFliVjE5SVgxT2F3bjIxTVdoeWtrai1lX1UxZG8ycHF2cWFhcW9RU2s2UDlzTUp2VzNLelU?oc=5",
@@ -2808,7 +2999,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "idioma_original": "en"
     },
     {
       "id": "f7038fc2a60a",
@@ -2836,7 +3029,7 @@
       "id": "4d7e34ca488f",
       "categoria": "reg",
       "fecha": "2026-11-20T18:30+00:00",
-      "titulo": "JPMorgan, Visa, and Mastercard Breaches Expose Third-Party Vulnerabilities",
+      "titulo": "Las infracciones de JPMorgan, Visa y Mastercard exponen vulnerabilidades de terceros",
       "resumen": "",
       "fuente": "PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGtpbVVlMEsxQ3lRLUFJRjdmeXc1bURUZXJDdkpKbkNRZVdLQUhsQ0FPZld6LWF5Y1NyVkdpSU13cER0UzNldmVzQkE3b3JncDNCNUJ2SUY0M2FYUTJfcGhZTFd2Sld3dkN6UnJSaFFBNnFLczgxTWRlV0lSeGx2OFJZNEtYa2hjazJSdHRsNTVZYmxWbHh1dzBhQkJ2c2Mwc3lLbjEwRmjSAa4BQVVfeXFMTVRWNHVSaWgwdnd2RnlfdElLbU93OUtQaUliVTM4YmFDUjBiSktuTm9OdUwzRHlySFpZVUtiRVRHNWk0cFprNVNyNTktVl9HVFY4ZDg3RjNnX3Fjb2o1VDRLVzNhZi1UQnUxZVh4Yk1tU1hvUHV5NWpBODFuUFRXNUZfdmlQblhzZVNmSnM2RXhuZ0VYb1JUVUVvWkpLZEJKSFZ6UDRuR1ZBRU1WN1Bn?oc=5",
@@ -2847,7 +3040,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "JPMorgan, Visa, and Mastercard Breaches Expose Third-Party Vulnerabilities",
+      "idioma_original": "en"
     },
     {
       "id": "ea44a99efb11",
@@ -2872,7 +3067,7 @@
       "id": "5c12663c9f21",
       "categoria": "reg",
       "fecha": "2026-11-20T16:37+00:00",
-      "titulo": "International Fraud Awareness Week: Visa launches Threat Intelligence Platform",
+      "titulo": "Semana Internacional de Concientización sobre el Fraude: Visa lanza plataforma de inteligencia sobre amenazas",
       "resumen": "",
       "fuente": "Planet Biometrics",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVY0U1JSOHJqeEo5VGxQM2podklhcmNhcS01UXhjaF9fdkJlbF9YSThKM3JGdEMzWXotaEZfUVJrRFlDZy1DQWxZVVE3YXVNY09taVpOZUR2Yl9FVDExU2xQVHE0THA3a01qaWQ0cXoxYTBVSmszV0dCaTdSNjRjd2djTUJCOXR2bHQ5ckxOQ291M0VjTG54WEx5SDBKb3NsdHN3aXVn?oc=5",
@@ -2883,13 +3078,15 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "International Fraud Awareness Week: Visa launches Threat Intelligence Platform",
+      "idioma_original": "en"
     },
     {
       "id": "f10d5e86b5d9",
       "categoria": "reg",
       "fecha": "2026-11-20T15:58+00:00",
-      "titulo": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "titulo": "La violación de datos de proveedores expone la información de los clientes de Chase, Visa y Mastercard",
       "resumen": "",
       "fuente": "BleepingComputer",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpFWll6RU05TXh3YlhxY0o3eHR6OERLY3FqVlJwcVNhTDRDSzhvWEhZckNndDVEZXkxd0oyZTNwLXl4NVUwcXNpSmxUdl9CeGRyNGNjUS1HMWI3QllBTHlCQzRrWGs4dWdlUURIZmpvbDZ4SlprT0RPRmxCUE8tRDhjZTdXcGZveHB3VjJhTnRESmZlcXJQTUZ3V2ctSXZhRGVtQk9YWTAwUnMtZjBN?oc=5",
@@ -2900,7 +3097,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "idioma_original": "en"
     },
     {
       "id": "57f847404bd6",
@@ -2923,7 +3122,7 @@
       "id": "32ea28dae62e",
       "categoria": "reg",
       "fecha": "2026-11-20T15:02+00:00",
-      "titulo": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack",
+      "titulo": "¿Hackearon los bancos? Visa, Mastercard y Chase confirman ciberataque a proveedores",
       "resumen": "",
       "fuente": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmtiRW9MYzFST09HZVM5UTFLd1hZN1Y3Wkx1UndGRzhmRW55dWRQZFktSXRiX2tkU190WTVLWVVLZ1NuSE1GWUR6bkt5WnFldDBDMFItQU1FQ1BJR0pqSWc2M0sxWFFEMjRIdGlkU2hJdG9YSzdyRkVSYU02Z2J4ME9UNl9MU2dPSzZiOWgtTExfbGM2Tm1ZU2NzZ3VBdDlQSnl5OTROd1ZnbGxvOUlOaQ?oc=5",
@@ -2934,7 +3133,9 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "global",
+      "titulo_original": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack",
+      "idioma_original": "en"
     },
     {
       "id": "f5b940f6cf03",
@@ -2980,100 +3181,6 @@
       "idioma_original": "en"
     },
     {
-      "id": "20e04493c362",
-      "categoria": "reg",
-      "fecha": "2026-11-20T12:39+00:00",
-      "titulo": "BankWeaver Cyberattack Targets Digital Banking Middleware via Temenos Quantum Fabric",
-      "resumen": "",
-      "fuente": "FF News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVU2UlBscVZndm1uN3ExemQ5SzZyQVFveHVnZ0VWN3ltRzVWSE9nRVlmakVJOEhoZnZuRmVpVFZ1QXlsSjR2ajUtaUV3ZzRMVlZUM3ZfQTg4bDJpZ3RsV05MaEdUSDVxSVNpSjUxMEhVcW9wOWhOT1ExRlNkTzRnM3FERnpqdl9TWWhfaDVnUGRrN0JMb0VaUDh0aldfbXJ4RXBuMWZHcXJWNXN1UnFLb1F5UQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "FF News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVU2UlBscVZndm1uN3ExemQ5SzZyQVFveHVnZ0VWN3ltRzVWSE9nRVlmakVJOEhoZnZuRmVpVFZ1QXlsSjR2ajUtaUV3ZzRMVlZUM3ZfQTg4bDJpZ3RsV05MaEdUSDVxSVNpSjUxMEhVcW9wOWhOT1ExRlNkTzRnM3FERnpqdl9TWWhfaDVnUGRrN0JMb0VaUDh0aldfbXJ4RXBuMWZHcXJWNXN1UnFLb1F5UQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "3a1960e4a719",
-      "categoria": "reg",
-      "fecha": "2026-11-20T12:11+00:00",
-      "titulo": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
-      "resumen": "",
-      "fuente": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "9bb1b2373513",
-      "categoria": "reg",
-      "fecha": "2026-11-20T11:40+00:00",
-      "titulo": "Customer data leaked after Visa, Mastercard, JPMorgan hacked",
-      "resumen": "",
-      "fuente": "Daily Times Of Bangladesh",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHZhaXlJRGtMVnE0dV9EeUNGYWd6TkFUQTlEQUs1N0RFbnRWTDF6OHM3TkZtYnROTlk2d2tYNXNQU1ZVV3lXM25WUHdsWEZtYndTLXAxUHRBdFM2NkRVbk1Sb21UeEQzX2M4cGlkT2ZhWjF4Ynl4NEhvUzk2djN5VXJ3?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Daily Times Of Bangladesh",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHZhaXlJRGtMVnE0dV9EeUNGYWd6TkFUQTlEQUs1N0RFbnRWTDF6OHM3TkZtYnROTlk2d2tYNXNQU1ZVV3lXM25WUHdsWEZtYndTLXAxUHRBdFM2NkRVbk1Sb21UeEQzX2M4cGlkT2ZhWjF4Ynl4NEhvUzk2djN5VXJ3?oc=5",
-          "tipo": "nota"
-        },
-        {
-          "nombre": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "0600a55e1c05",
-      "categoria": "reg",
-      "fecha": "2026-11-20T11:19+00:00",
-      "titulo": "Los bielorrusos informan sobre el bloqueo masivo de tarjetas Visa y Mastercard en medio de una supuesta filtración de datos de pago y un ciberataque de pago automático",
-      "resumen": "",
-      "fuente": "Belsat",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXRHZjlMUzc5emlkMGtYbnAxVkNmdXBfRWFzV1J0MjNDYTNHdnhlS1dOdWRyUHQwRG5HTEdBWVRoOURwbk8yTC1Ycy1jSkUtRTFEdktjdmU2UElBSDI1RlpTeC1xUm13UFJFOUx1bEp2R21XeGM4YVJnWmNvU1hIWTFhYzBmcEM5ZnVteGdsc0lWd0JDb0pNMUhCaTVTSTEycndrb29wNVlLX3FmYVdjY2pSSUl1cHB4endIenhpM3hFd0NVLVJ3WTROT0VBTUstMDYzRGdISjJmcjlMTXNqbzFn?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Belsat",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXRHZjlMUzc5emlkMGtYbnAxVkNmdXBfRWFzV1J0MjNDYTNHdnhlS1dOdWRyUHQwRG5HTEdBWVRoOURwbk8yTC1Ycy1jSkUtRTFEdktjdmU2UElBSDI1RlpTeC1xUm13UFJFOUx1bEp2R21XeGM4YVJnWmNvU1hIWTFhYzBmcEM5ZnVteGdsc0lWd0JDb0pNMUhCaTVTSTEycndrb29wNVlLX3FmYVdjY2pSSUl1cHB4endIenhpM3hFd0NVLVJ3WTROT0VBTUstMDYzRGdISjJmcjlMTXNqbzFn?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Belarusians report mass blocking of Visa and Mastercard cards amid suspected payment data leak and Autopay cyberattack",
-      "idioma_original": "en"
-    },
-    {
-      "id": "951bf1a1a6ab",
-      "categoria": "reg",
-      "fecha": "2026-11-20T08:00+00:00",
-      "titulo": "JPMorgan, Visa y Mastercard confirmaron que los datos de los clientes quedaron expuestos en ataques a proveedores",
-      "resumen": "",
-      "fuente": "qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjQ4OFBEWDNRLTM1bGwyY0lRdlNfSXpXZEt4bnFqMGFkQnNnYXV0dDNSREdIVWR3MklSMVVnTER2V25CN2R5bzJQR2V0UWVDbWZPTHRwYkdHLUVwZ0kyUjVlLTZyZV8xR0dUYWZOeEtYT09Fd0w0TGVZUTk2RnNpOHVhV3k3YjQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "qz.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjQ4OFBEWDNRLTM1bGwyY0lRdlNfSXpXZEt4bnFqMGFkQnNnYXV0dDNSREdIVWR3MklSMVVnTER2V25CN2R5bzJQR2V0UWVDbWZPTHRwYkdHLUVwZ0kyUjVlLTZyZV8xR0dUYWZOeEtYT09Fd0w0TGVZUTk2RnNpOHVhV3k3YjQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "JPMorgan, Visa and Mastercard confirmed customer data exposed in vendor hacks",
-      "idioma_original": "en"
-    },
-    {
       "id": "98a11552edf5",
       "categoria": "ux",
       "fecha": "2026-11-20T05:39+00:00",
@@ -3096,7 +3203,7 @@
       "id": "0bf5d93ca068",
       "categoria": "ux",
       "fecha": "2026-11-20T03:49+00:00",
-      "titulo": "Fintech firms rethink cybersecurity as AI advances",
+      "titulo": "Las empresas de tecnología financiera reconsideran la ciberseguridad a medida que avanza la IA",
       "resumen": "",
       "fuente": "Singapore Business Review",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zYV9xVlBlcndpNS1NTlRYQnlXdVM4TmNkN1ctdlZsdWlYX3RVMU9KYlllbnJJQ0tOVUItTzhlQ0UwTGJ2NjVOb0VmTjY5c001U0JGOWdYODI4RHlkZlNnOFBHSUlDOEJJanVEa2ZUVzNMbGtMVktURjNZdw?oc=5",
@@ -3107,61 +3214,8 @@
           "tipo": "nota"
         }
       ],
-      "region": "global"
-    },
-    {
-      "id": "413e8494a855",
-      "categoria": "reg",
-      "fecha": "2026-11-20T03:08+00:00",
-      "titulo": "El ciberataque puede haber expuesto los datos de los clientes de Chase Bank y Mastercard",
-      "resumen": "",
-      "fuente": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWw5Ml9NYmZNeTNiSlV4QUhBc0JuTzY1ZEVBX295eW5xYVlIeGpGY3J5Ulc0UEhvSW9iQnFtVVZNQ2p0UFdoLUJPTHh2OVNvTFlhRVlVV0ZMdU5rcE5pdzZtV0pYVnlDUENlNWlSMUhUbzBueWxIcHpEdWtJUmlXbjVhN1ZKOXFIa09HMGNsdTZtS01TbXJDdFBfTlVocDAxXzhsNkRiVzVQVWRRS3NZQmc0aFI?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWw5Ml9NYmZNeTNiSlV4QUhBc0JuTzY1ZEVBX295eW5xYVlIeGpGY3J5Ulc0UEhvSW9iQnFtVVZNQ2p0UFdoLUJPTHh2OVNvTFlhRVlVV0ZMdU5rcE5pdzZtV0pYVnlDUENlNWlSMUhUbzBueWxIcHpEdWtJUmlXbjVhN1ZKOXFIa09HMGNsdTZtS01TbXJDdFBfTlVocDAxXzhsNkRiVzVQVWRRS3NZQmc0aFI?oc=5",
-          "tipo": "nota"
-        }
-      ],
       "region": "global",
-      "titulo_original": "Cyberattack may have exposed Chase Bank and Mastercard customer data",
-      "idioma_original": "en"
-    },
-    {
-      "id": "eab3d679d85c",
-      "categoria": "reg",
-      "fecha": "2026-11-20T00:49+00:00",
-      "titulo": "Chase Bank, Visa and Mastercard confirm third-party cyber attacks",
-      "resumen": "",
-      "fuente": "Cyber Daily",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNNThhWHVVYjQ0UnZUT25EdDN2bXpkbHBXQVJhdzNQakR3TG5SOWZlZmV2SllXOF9KODFaS0lCWlBsOUVxUVNlMjVIZmJ6NGQzVHM4cGdoSDlwOHVXSHZ2NTVHbTVtZHViZlFjLXpES090UHA3OHMwYm9mLTJacHZjSGFkZGdpVktkVElqV1R1TTM0WjZVYTBPSkVPc3d1aEFWNjg2UENkR1kyV2c4ZDFMSHlNcTV4NExlZ3Z3anp6Rk1TdWlaQmxIbUhDTTFpRk5jam5iWl9mWUxQV1doRTVjUUNTSGxtM2JLUEd1M2tEUml3QTYzVnF0cTZvSTBqT0lKMzkzenVIaWpSSnpyYXFaQUtVX3h1dmExeDZOYWZoMEJpZ2lhbFFaWnYyV29PeFBfN1NfVW1adnJXZGlMano5NFlmdnFCdDF0SlBKbXh0R3U1dmgya3g3aEpIWTVtbllLZnlDRzM3RjNNQ251c3NUZnpsU0V0NzB4TDRiWWduQ3hRZUI5LW4weWlLa2NyUFYzWXlSZEFuaGRXQnk2S1JidDhXLWdWbktaUkF4cUFkaFBlQzdvTWxkOFItSW1JNnU3RWg0OENvdW1qaUtW?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Cyber Daily",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNNThhWHVVYjQ0UnZUT25EdDN2bXpkbHBXQVJhdzNQakR3TG5SOWZlZmV2SllXOF9KODFaS0lCWlBsOUVxUVNlMjVIZmJ6NGQzVHM4cGdoSDlwOHVXSHZ2NTVHbTVtZHViZlFjLXpES090UHA3OHMwYm9mLTJacHZjSGFkZGdpVktkVElqV1R1TTM0WjZVYTBPSkVPc3d1aEFWNjg2UENkR1kyV2c4ZDFMSHlNcTV4NExlZ3Z3anp6Rk1TdWlaQmxIbUhDTTFpRk5jam5iWl9mWUxQV1doRTVjUUNTSGxtM2JLUEd1M2tEUml3QTYzVnF0cTZvSTBqT0lKMzkzenVIaWpSSnpyYXFaQUtVX3h1dmExeDZOYWZoMEJpZ2lhbFFaWnYyV29PeFBfN1NfVW1adnJXZGlMano5NFlmdnFCdDF0SlBKbXh0R3U1dmgya3g3aEpIWTVtbllLZnlDRzM3RjNNQ251c3NUZnpsU0V0NzB4TDRiWWduQ3hRZUI5LW4weWlLa2NyUFYzWXlSZEFuaGRXQnk2S1JidDhXLWdWbktaUkF4cUFkaFBlQzdvTWxkOFItSW1JNnU3RWg0OENvdW1qaUtW?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "6ffcd384ff28",
-      "categoria": "reg",
-      "fecha": "2026-11-19T23:51+00:00",
-      "titulo": "JPMorgan, Visa y Mastercard afectadas por incidentes cibernéticos; Se filtran datos de miles de clientes.",
-      "resumen": "",
-      "fuente": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQekV0MkdBWU1oSVNRWEFDbkRjaDcwMVhCRW9zRlZRNFBKbWVDWF90M2xoX3hsZGVoSFdUZzh2ZEV4T0l5TXg0akx2RHNGQUtETzF3RTJUaUtvWkdrMzc1TWtHTzlrQUNqbXpRYjYtakxDZE5Tb3VaamI0MkNicmdHWjlwQXRxdUhfa0xhRlM3RzFZMXMxbmpPbzV0MWhfXzlwM2JXaVdtUmstTGdkZ0NUWEp1YWRJcWY5ZFI2MENVdHhuckZqV041WFQ0YUhTelY5TVNiZ2Iyc0JWOFRuQk05SmJqVElSbTcyVnRfUDl3V0Y1UWJFdG9qcDBvZ21jUVFhZGNpdl9TalF6XzDSAZACQVVfeXFMTzlKdmtYNF81eGJTTzFHejgzMXJUSFF1TWtDTjFrQUNQNzN3UmU3T09VU3hOVGNqQmVHcHk4ai1lNUtKNGVUMjd1dThSN01iWjNnaWF3V0xLT2VoX3VLT2MyWlZPaXBjbnkzRGdkWEhMRFQ5OHc1V3R6ZFJKUU5NQm9zaDQ2aG9kNVQ4aE1YM2hYRDlSMWYtd0UwZHozZFNQclNZQXFLSGk0ZERqRHRGejZmZG1sN0FCa1pCbHFiOUktZjJUNGhvNFlyMXo2LXVLeV9HcjR4aV9oSGY3enhabGNmTF9GY0dnYjdFYjlFX05mcEM0bk9BSmNQbVhsMmM4UVZ0NFRFanFGWW9EMjg2RXI?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQekV0MkdBWU1oSVNRWEFDbkRjaDcwMVhCRW9zRlZRNFBKbWVDWF90M2xoX3hsZGVoSFdUZzh2ZEV4T0l5TXg0akx2RHNGQUtETzF3RTJUaUtvWkdrMzc1TWtHTzlrQUNqbXpRYjYtakxDZE5Tb3VaamI0MkNicmdHWjlwQXRxdUhfa0xhRlM3RzFZMXMxbmpPbzV0MWhfXzlwM2JXaVdtUmstTGdkZ0NUWEp1YWRJcWY5ZFI2MENVdHhuckZqV041WFQ0YUhTelY5TVNiZ2Iyc0JWOFRuQk05SmJqVElSbTcyVnRfUDl3V0Y1UWJFdG9qcDBvZ21jUVFhZGNpdl9TalF6XzDSAZACQVVfeXFMTzlKdmtYNF81eGJTTzFHejgzMXJUSFF1TWtDTjFrQUNQNzN3UmU3T09VU3hOVGNqQmVHcHk4ai1lNUtKNGVUMjd1dThSN01iWjNnaWF3V0xLT2VoX3VLT2MyWlZPaXBjbnkzRGdkWEhMRFQ5OHc1V3R6ZFJKUU5NQm9zaDQ2aG9kNVQ4aE1YM2hYRDlSMWYtd0UwZHozZFNQclNZQXFLSGk0ZERqRHRGejZmZG1sN0FCa1pCbHFiOUktZjJUNGhvNFlyMXo2LXVLeV9HcjR4aV9oSGY3enhabGNmTF9GY0dnYjdFYjlFX05mcEM0bk9BSmNQbVhsMmM4UVZ0NFRFanFGWW9EMjg2RXI?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked",
+      "titulo_original": "Fintech firms rethink cybersecurity as AI advances",
       "idioma_original": "en"
     }
   ],
@@ -3169,7 +3223,7 @@
     {
       "fuente": "Red Link (Google Noticias)",
       "ok": true,
-      "noticias": 5
+      "noticias": 1
     },
     {
       "fuente": "MODO e integraciones (Google Noticias)",
@@ -3184,7 +3238,7 @@
     {
       "fuente": "Cajeros automáticos (Google Noticias)",
       "ok": true,
-      "noticias": 6
+      "noticias": 7
     },
     {
       "fuente": "Clientes Red Link: bancos públicos y provinciales (Google Noticias)",
@@ -3209,12 +3263,12 @@
     {
       "fuente": "BCRA: normativa de pagos (Google Noticias)",
       "ok": true,
-      "noticias": 5
+      "noticias": 2
     },
     {
       "fuente": "Fraude bancario y digital (Google Noticias)",
       "ok": true,
-      "noticias": 7
+      "noticias": 6
     },
     {
       "fuente": "Experiencia en apps bancarias (Google Noticias)",
@@ -3284,7 +3338,7 @@
     {
       "fuente": "UX fintech (Google News)",
       "ok": true,
-      "noticias": 9
+      "noticias": 7
     },
     {
       "fuente": "Nielsen Norman Group",
@@ -3299,17 +3353,17 @@
     {
       "fuente": "Bancos del mundo (Google News)",
       "ok": true,
-      "noticias": 13
+      "noticias": 9
     },
     {
       "fuente": "Fintech del mundo (Google News)",
       "ok": true,
-      "noticias": 8
+      "noticias": 7
     },
     {
       "fuente": "Proveedores de pagos del mundo (Google News)",
       "ok": true,
-      "noticias": 64
+      "noticias": 50
     },
     {
       "fuente": "Customer experience en banca (Google News)",
@@ -3319,27 +3373,27 @@
     {
       "fuente": "Sistemas de diseño (Google News)",
       "ok": true,
-      "noticias": 23
+      "noticias": 39
     },
     {
       "fuente": "Nuevos dispositivos y formatos (Google News)",
       "ok": true,
-      "noticias": 68
+      "noticias": 97
     },
     {
       "fuente": "Patrones de interfaz (Google News)",
       "ok": true,
-      "noticias": 68
+      "noticias": 32
     },
     {
       "fuente": "IA en diseño y producto (Google News)",
       "ok": true,
-      "noticias": 39
+      "noticias": 22
     },
     {
       "fuente": "UX en banca y pagos (Google News)",
       "ok": true,
-      "noticias": 27
+      "noticias": 46
     },
     {
       "fuente": "UX Collective",
@@ -3354,12 +3408,12 @@
     {
       "fuente": "LinkedIn: Red Link y competencia",
       "ok": true,
-      "noticias": 2
+      "noticias": 5
     },
     {
       "fuente": "LinkedIn: BCRA y pagos",
       "ok": true,
-      "noticias": 10
+      "noticias": 9
     },
     {
       "fuente": "LinkedIn: cajeros y canales",
@@ -3369,17 +3423,17 @@
     {
       "fuente": "LinkedIn: banca empresas",
       "ok": true,
-      "noticias": 12
+      "noticias": 16
     },
     {
       "fuente": "LinkedIn: billeteras y fintech AR",
       "ok": true,
-      "noticias": 8
+      "noticias": 11
     },
     {
       "fuente": "LinkedIn: UX/UI en banca",
       "ok": true,
-      "noticias": 36
+      "noticias": 16
     },
     {
       "fuente": "LinkedIn: tendencias de diseño",
@@ -3399,12 +3453,12 @@
     {
       "fuente": "Dispositivos e interfaces nuevas (Google Noticias)",
       "ok": true,
-      "noticias": 24
+      "noticias": 23
     },
     {
       "fuente": "LinkedIn: diseño en Latinoamérica",
       "ok": true,
-      "noticias": 28
+      "noticias": 6
     }
   ]
 }

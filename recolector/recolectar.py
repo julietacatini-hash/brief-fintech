@@ -19,7 +19,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "docs" / "data" / "noticias.json"
 CONF = json.loads((RAIZ / "recolector" / "fuentes.json").read_text(encoding="utf-8"))
 UA = "Mozilla/5.0 (compatible; BriefFintechBot/1.0)"
-CATEGORIAS = {"reg", "emp", "ux"}
+CATEGORIAS = {"reg", "emp", "ux", "ten"}
 VALIDAS = CATEGORIAS | {"auto"}
 socket.setdefaulttimeout(20)
 

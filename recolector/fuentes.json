@@ -1,0 +1,382 @@
+{
+  "dias": 7,
+  "max_por_categoria": 50,
+  "categoria_por_defecto": "emp",
+  "reglas_categoria": [
+    {
+      "categoria": "reg",
+      "palabras": [
+        "fraude",
+        "estafa",
+        "phishing",
+        "ciberataque",
+        "hackeo",
+        "malware",
+        "vulnerab",
+        "ciberseguridad",
+        "robo de datos",
+        "filtración",
+        "fraud",
+        "scam",
+        "breach",
+        "cyber",
+        "hack",
+        "ransomware",
+        "passkey",
+        "autenticación",
+        "authentication",
+        "bcra",
+        "banco central",
+        "comunicación a",
+        "regulación",
+        "normativa",
+        "arca",
+        "cnv",
+        "regulator",
+        "regulation",
+        "compliance",
+        "license",
+        "licencia",
+        "multa",
+        "fine "
+      ]
+    },
+    {
+      "categoria": "ux",
+      "palabras": [
+        "experiencia de usuario",
+        "experiencia del cliente",
+        "usabilidad",
+        "nueva app",
+        "nueva interfaz",
+        "interfaz",
+        "accesibilidad",
+        "onboarding",
+        "reseñas",
+        "calificación",
+        "reclamos",
+        "quejas",
+        "se cayó",
+        "caída",
+        "satisfacción",
+        " nps ",
+        " ux ",
+        " ui ",
+        " cx ",
+        "user experience",
+        "customer experience",
+        "usability",
+        "redesign",
+        "interface",
+        "design",
+        "accessibility",
+        "app ratings",
+        "app review",
+        "complaints",
+        "outage",
+        "satisfaction",
+        "feedback",
+        "rediseñ",
+        "diseñ"
+      ]
+    }
+  ],
+  "dominios_oficiales": [
+    "bcra.gob.ar",
+    "argentina.gob.ar",
+    "boletinoficial.gob.ar",
+    "arca.gob.ar",
+    "cnv.gov.ar",
+    "cisa.gov",
+    "nist.gov",
+    "fincen.gov",
+    "bis.org",
+    "imf.org",
+    "ecb.europa.eu",
+    "owasp.org",
+    "developer.apple.com",
+    "apple.com",
+    "android-developers.googleblog.com",
+    "developer.android.com",
+    "m3.material.io",
+    "blog.google",
+    "w3.org",
+    "fido.alliance",
+    "fidoalliance.org",
+    "mastercard.com",
+    "visa.com",
+    "sec.gov"
+  ],
+  "fuentes": [
+    {
+      "nombre": "BCRA y pagos (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "reg",
+      "q": "BCRA (transferencias OR billeteras OR QR OR CVU OR \"pago con transferencia\")",
+      "region": "ar"
+    },
+    {
+      "nombre": "Fintech Argentina (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "reg",
+      "q": "fintech Argentina (billetera OR \"Red Link\" OR Coelsa OR \"Mercado Pago\" OR Ualá OR \"Cuenta DNI\")",
+      "region": "ar"
+    },
+    {
+      "nombre": "Fraude bancario en Argentina (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "reg",
+      "q": "(fraude OR phishing OR estafa OR ciberataque) (banco OR billetera OR homebanking)",
+      "region": "ar"
+    },
+    {
+      "nombre": "Malware bancario (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "reg",
+      "q": "\"banking trojan\" OR \"banking malware\" OR \"mobile banking\" (vulnerability OR attack)",
+      "region": "global"
+    },
+    {
+      "nombre": "Krebs on Security",
+      "tipo": "rss",
+      "categoria": "reg",
+      "url": "https://krebsonsecurity.com/feed/",
+      "filtro": [
+        "bank",
+        "fraud",
+        "card",
+        "payment",
+        "phish",
+        "scam",
+        "fintech",
+        "crypto"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "BleepingComputer",
+      "tipo": "rss",
+      "categoria": "reg",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "filtro": [
+        "bank",
+        "banking",
+        "fintech",
+        "payment",
+        "android",
+        "ios",
+        "iphone",
+        "phishing",
+        "passkey"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "IA en banca (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "emp",
+      "q": "\"inteligencia artificial\" (banco OR bancos OR banca OR fintech)",
+      "region": "ar"
+    },
+    {
+      "nombre": "Pagos agénticos (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "emp",
+      "q": "\"agentic payments\" OR \"agentic commerce\" OR \"AI agent\" (bank OR payments)",
+      "region": "global"
+    },
+    {
+      "nombre": "FinTech Futures",
+      "tipo": "rss",
+      "categoria": "emp",
+      "url": "https://www.fintechfutures.com/feed/",
+      "filtro": [
+        " ai ",
+        "ai-",
+        "artificial intelligence",
+        "agent",
+        "genai",
+        "machine learning",
+        "llm"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "Wallets y pagos mobile (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "emp",
+      "q": "(\"Apple Wallet\" OR \"Google Wallet\" OR \"Apple Pay\" OR \"Google Pay\") (new OR feature OR launch)",
+      "region": "global"
+    },
+    {
+      "nombre": "Apple Developer News",
+      "tipo": "rss",
+      "categoria": "emp",
+      "url": "https://developer.apple.com/news/rss/news.rss",
+      "region": "global"
+    },
+    {
+      "nombre": "Android Developers Blog",
+      "tipo": "rss",
+      "categoria": "emp",
+      "url": "https://android-developers.googleblog.com/feeds/posts/default",
+      "region": "global"
+    },
+    {
+      "nombre": "9to5Mac",
+      "tipo": "rss",
+      "categoria": "emp",
+      "url": "https://9to5mac.com/feed/",
+      "filtro": [
+        "wallet",
+        "apple pay",
+        "ios 2",
+        "swiftui",
+        "xcode",
+        "developer",
+        "app store",
+        "passkey"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "9to5Google",
+      "tipo": "rss",
+      "categoria": "emp",
+      "url": "https://9to5google.com/feed/",
+      "filtro": [
+        "wallet",
+        "google pay",
+        "android 1",
+        "material",
+        "developer",
+        "play store",
+        "passkey"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "Diseño de sistemas (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ux",
+      "q": "\"Liquid Glass\" OR \"Material 3 Expressive\" OR \"design system\" app",
+      "region": "global"
+    },
+    {
+      "nombre": "UX fintech (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ux",
+      "q": "(fintech OR \"banking app\") (UX OR \"user experience\" OR redesign)",
+      "region": "global"
+    },
+    {
+      "nombre": "Nielsen Norman Group",
+      "tipo": "rss",
+      "categoria": "ux",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "region": "global"
+    },
+    {
+      "nombre": "Smashing Magazine",
+      "tipo": "rss",
+      "categoria": "ux",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "filtro": [
+        "mobile",
+        "ux",
+        "form",
+        "accessib",
+        "design system",
+        "fintech",
+        "checkout",
+        "onboarding",
+        "pattern",
+        "research",
+        "usability",
+        "feedback"
+      ],
+      "region": "global"
+    },
+    {
+      "nombre": "Bancos de Argentina (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Banco Galicia\" OR \"Santander Argentina\" OR \"BBVA Argentina\" OR \"Banco Macro\" OR \"Banco Nación\" OR \"Banco Provincia\" OR \"Banco Ciudad\" OR \"ICBC Argentina\" OR \"Banco Patagonia\" OR Supervielle OR Brubank OR Credicoop) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
+    },
+    {
+      "nombre": "Fintech de Argentina (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Mercado Pago\" OR Ualá OR \"Naranja X\" OR \"Personal Pay\" OR Prex OR \"Lemon Cash\" OR Belo OR \"Cuenta DNI\" OR MODO OR \"Claro Pay\" OR Cocos) -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
+    },
+    {
+      "nombre": "Proveedores de pagos en Argentina (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "(\"Red Link\" OR Coelsa OR Prisma OR Banelco OR Payway OR Getnet OR Pomelo OR \"Fiserv Argentina\" OR \"Visa Argentina\" OR \"Mastercard Argentina\") -tasas -\"plazo fijo\" -cotización -\"dólar blue\" -\"dólar hoy\" -acciones -bonos"
+    },
+    {
+      "nombre": "Bancos del mundo (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "auto",
+      "region": "global",
+      "q": "(JPMorgan OR \"Bank of America\" OR HSBC OR BBVA OR Santander OR Barclays OR ING OR Citi OR \"Wells Fargo\" OR \"Deutsche Bank\") (app OR digital OR launches OR AI OR customers OR fraud)"
+    },
+    {
+      "nombre": "Fintech del mundo (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "auto",
+      "region": "global",
+      "q": "(Revolut OR Nubank OR Monzo OR Chime OR Klarna OR Wise OR N26 OR Starling OR \"Cash App\" OR SoFi OR Robinhood)"
+    },
+    {
+      "nombre": "Proveedores de pagos del mundo (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "auto",
+      "region": "global",
+      "q": "(Visa OR Mastercard OR Stripe OR Adyen OR PayPal OR Plaid OR Fiserv OR FIS OR Temenos OR Thales) (payments OR launches OR announces OR bank OR fintech)"
+    },
+    {
+      "nombre": "Experiencia en bancos y billeteras (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ux",
+      "region": "ar",
+      "q": "(\"experiencia de usuario\" OR \"experiencia del cliente\" OR rediseño OR \"nueva app\" OR accesibilidad OR usabilidad) (banco OR billetera OR fintech OR homebanking)"
+    },
+    {
+      "nombre": "Reclamos y fallas de apps financieras (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "ux",
+      "region": "ar",
+      "q": "(reclamos OR quejas OR caída OR falla OR \"no funciona\") (app OR homebanking OR billetera) (banco OR \"Mercado Pago\" OR Ualá OR \"Cuenta DNI\")"
+    },
+    {
+      "nombre": "Customer experience en banca (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ux",
+      "region": "global",
+      "q": "(\"customer experience\" OR \"user experience\" OR \"app ratings\" OR \"J.D. Power\" OR usability) (\"banking app\" OR \"mobile banking\" OR fintech)"
+    }
+  ]
+}

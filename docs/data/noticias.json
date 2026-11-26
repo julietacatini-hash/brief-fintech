@@ -1,0 +1,287 @@
+{
+  "actualizado": "2026-09-23T13:00+00:00",
+  "noticias": [
+    {
+      "id": "bcra-score",
+      "categoria": "reg",
+      "fecha": "2026-09-16T12:00+00:00",
+      "titulo": "El BCRA vuelve obligatorio un score de riesgo de fraude para las transferencias",
+      "resumen": "Bancos y billeteras deberán usar un puntaje de riesgo por CUIL/CUIT, armado por los administradores de transferencias inmediatas cruzando datos públicos con la Central de Prevención de Fraude. El impacto más fuerte sería en fintech: en julio, el 76,5% de las transferencias inmediatas en pesos tuvo una CVU de origen o destino.",
+      "para_diseno": "Anticipá estados nuevos en el flujo de transferir: demoras, retenciones o validaciones extra cuando el score marque riesgo. El copy de esos momentos define si el usuario confía o abandona.",
+      "fuente": "iProUP",
+      "url": "https://www.iproup.com/finanzas/71339-puntaje-transferencias-bancos-billeteras-banco-central-como-funciona-septiembre-2026",
+      "enlaces": [
+        {
+          "nombre": "iProUP",
+          "url": "https://www.iproup.com/finanzas/71339-puntaje-transferencias-bancos-billeteras-banco-central-como-funciona-septiembre-2026",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "MyContador",
+          "url": "https://blog.mycontador.com.ar/bcra-nuevo-puntaje-que-modificara-las-transferencias-de-bancos-y-billeteras/",
+          "tipo": "cobertura"
+        },
+        {
+          "nombre": "BCRA · Billeteras digitales interoperables",
+          "url": "https://www.bcra.gob.ar/billeteras-digitales-interoperables/",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "bcra-juego",
+      "categoria": "reg",
+      "fecha": "2026-09-02T12:00+00:00",
+      "titulo": "Nuevos controles del Central contra fraude y juego ilegal en transferencias inmediatas",
+      "resumen": "Desde septiembre, el BCRA entrega información pública a los administradores de transferencias para detectar operaciones inusuales y pagos a sitios de juego ilegal. Complementa la Central de Prevención de Fraude creada por la Comunicación A 8298 en agosto de 2025.",
+      "para_diseno": "Mirá cómo comunican hoy las apps un bloqueo preventivo: es un patrón que va a aparecer más seguido.",
+      "fuente": "iProUP",
+      "url": "https://www.iproup.com/finanzas/71239-banco-central-herramienta-fraude-controles-transferencias-bancos-billeteras-septiembre-2026",
+      "enlaces": [
+        {
+          "nombre": "iProUP",
+          "url": "https://www.iproup.com/finanzas/71239-banco-central-herramienta-fraude-controles-transferencias-bancos-billeteras-septiembre-2026",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "BCRA",
+          "url": "https://www.bcra.gob.ar/",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "danske-agent",
+      "categoria": "emp",
+      "fecha": "2026-09-21T12:00+00:00",
+      "titulo": "Danske Bank y Mastercard completan el primer pago hecho por un agente de IA en Dinamarca",
+      "resumen": "Se suma a pruebas previas con Santander en Europa y con Worldline y Crédit Agricole en Francia. Agent Pay autentica cada compra con Payment Passkeys, busca que el consumidor mantenga el control y le da al emisor visibilidad sobre las transacciones iniciadas por agentes.",
+      "para_diseno": "Aparece un nuevo tipo de pantalla: delegar permisos a un agente. Límites, alcance, revocación y trazabilidad de lo que hizo el agente son el nuevo terreno de diseño en banca.",
+      "fuente": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/ai-in-fintech/danske-bank-and-mastercard-complete-denmarks-first-agentic-ai-payment",
+      "enlaces": [
+        {
+          "nombre": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/ai-in-fintech/danske-bank-and-mastercard-complete-denmarks-first-agentic-ai-payment",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "HIPTHER",
+          "url": "https://hipther.com/news/2026/09/21/144199/ai-dispatch-daily-trends-and-innovations-september-21-2026-danske-bank-mastercard-agentic-payment-in",
+          "tipo": "cobertura"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "agent-protocols",
+      "categoria": "emp",
+      "fecha": "2026-06-10T12:00+00:00",
+      "titulo": "La carrera por los protocolos de pagos entre agentes",
+      "resumen": "Mastercard lanzó un protocolo para que agentes de IA se paguen entre sí y envíen micropagos, junto a Adyen, Coinbase y Cloudflare. Coinbase impulsa x402, Stripe desarrolló el Machine Payments Protocol con Tempo y Google publicó su propio estándar. Mastercard reconoce que el volumen todavía es chico.",
+      "para_diseno": "Contexto para entender hacia dónde van las redes de pago: conviene seguir qué estándar adoptan los esquemas locales.",
+      "fuente": "Fortune",
+      "url": "https://fortune.com/2026/06/10/mastercard-ai-payments-protocol-launch-agentic-finance/",
+      "enlaces": [
+        {
+          "nombre": "Fortune",
+          "url": "https://fortune.com/2026/06/10/mastercard-ai-payments-protocol-launch-agentic-finance/",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "FMI · Cómo la IA agéntica transformará los pagos",
+          "url": "https://www.elibrary.imf.org/view/journals/068/2026/004/article-A001-en.xml",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "asia-liability",
+      "categoria": "emp",
+      "fecha": "2026-07-20T12:00+00:00",
+      "titulo": "¿Quién responde si un agente paga mal? Asia arma reglas comunes",
+      "resumen": "La Emerging Payments Association Asia y HSBC lanzaron el primer grupo de trabajo regional sobre pagos agénticos, con bancos, redes, fintech y tecnológicas, para definir estándares antes de la adopción masiva.",
+      "para_diseno": "La responsabilidad ante errores se traduce en UX de reclamos y reversas: vale pensar cómo se vería un 'desconocer operación del agente'.",
+      "fuente": "finews.asia",
+      "url": "https://www.finews.asia/finance/45001-ai-agents-payments-asia-regulation",
+      "enlaces": [
+        {
+          "nombre": "finews.asia",
+          "url": "https://www.finews.asia/finance/45001-ai-agents-payments-asia-regulation",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "ios27",
+      "categoria": "emp",
+      "fecha": "2026-09-14T12:00+00:00",
+      "titulo": "Salió iOS 27: Wallet suma Insights de gastos, creación de pases y división de cuentas",
+      "resumen": "Wallet incorpora Create a Pass (escaneando una tarjeta física o manualmente), Insights para seguir gastos entre varias tarjetas en territorios seleccionados, verificación del certificado del emisor de un pase y división de cuentas con Apple Cash (solo EE. UU.). También llega Siri AI.",
+      "para_diseno": "Wallet compite cada vez más con funciones propias de las apps bancarias, como el análisis de gastos. Revisá qué valor diferencial ofrece la app del banco frente al sistema.",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/14/heres-everything-new-for-apple-wallet-in-ios-27/",
+      "enlaces": [
+        {
+          "nombre": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/14/heres-everything-new-for-apple-wallet-in-ios-27/",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "MacRumors",
+          "url": "https://www.macrumors.com/2026/09/14/ios-27-features-available-tomorrow/",
+          "tipo": "cobertura"
+        },
+        {
+          "nombre": "MacDailyNews",
+          "url": "https://macdailynews.com/2026/09/16/apple-wallet-in-ios-27-gets-pass-creation-bill-splitting-recurring-charges-smarter-hotel-keys-and-more/",
+          "tipo": "cobertura"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "liquid-glass",
+      "categoria": "ux",
+      "fecha": "2026-08-14T12:00+00:00",
+      "titulo": "Liquid Glass en apps existentes: capas, navegación al hacer scroll y componentes nativos",
+      "resumen": "Un análisis práctico de qué cambia para una app ya publicada: cómo se superponen contenido y controles, cómo se comporta la navegación al desplazarse y cuánto del lenguaje visual resuelven solos los componentes nativos. Apple además mantiene una galería con ejemplos de terceros: tab bars, botones de búsqueda separados y menús emergentes.",
+      "para_diseno": "En banca, la translucidez sobre saldos y datos sensibles pide cuidar contraste y legibilidad; revisá tab bars y toolbars flotantes contra fondos con montos.",
+      "fuente": "RVS Media",
+      "url": "https://www.rvsmedia.co.uk/blog/designing-for-ios-26-liquid-glass-ui-updates/",
+      "enlaces": [
+        {
+          "nombre": "RVS Media",
+          "url": "https://www.rvsmedia.co.uk/blog/designing-for-ios-26-liquid-glass-ui-updates/",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "MacRumors · Galería de Apple",
+          "url": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/",
+          "tipo": "cobertura"
+        },
+        {
+          "nombre": "Apple · Human Interface Guidelines",
+          "url": "https://developer.apple.com/design/human-interface-guidelines/",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "m3e",
+      "categoria": "ux",
+      "fecha": "2026-05-12T12:00+00:00",
+      "titulo": "Material 3 Expressive: movimiento con resortes, split buttons y toolbars",
+      "resumen": "El sistema de Google suma animaciones basadas en física de resortes, paletas de color dinámico más ricas y componentes como toolbars flexibles y split buttons. Android 17 extiende el lenguaje con más blur y elementos translúcidos.",
+      "para_diseno": "Si el producto convive en iOS y Android, es buen momento para revisar qué tokens de movimiento y color se comparten y cuáles se adaptan por plataforma.",
+      "fuente": "Material Design 3",
+      "url": "https://m3.material.io/",
+      "enlaces": [
+        {
+          "nombre": "Material Design 3",
+          "url": "https://m3.material.io/",
+          "tipo": "oficial"
+        },
+        {
+          "nombre": "Android Authority",
+          "url": "https://www.androidauthority.com/google-material-3-expressive-features-changes-availability-supported-devices-3556392/",
+          "tipo": "cobertura"
+        },
+        {
+          "nombre": "Blog de Google",
+          "url": "https://blog.google/products/android/material-3-expressive-android-wearos-launch/",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "blackkite",
+      "categoria": "reg",
+      "fecha": "2026-08-12T12:00+00:00",
+      "titulo": "Los incidentes en el sector financiero crecieron 76% interanual en el primer trimestre",
+      "resumen": "El informe de Black Kite muestra cómo la concentración de proveedores convierte a un sector entero en una sola superficie de ataque: un MSP comprometido afectó a 32 instituciones financieras, y 76 de 140 proveedores clave tienen al menos una vulnerabilidad del catálogo KEV de CISA.",
+      "para_diseno": "Los SDK y servicios de terceros dentro de la app también son superficie de ataque; sirve para justificar revisiones de proveedores en el roadmap.",
+      "fuente": "Black Kite",
+      "url": "https://blackkite.com/reports/2026-financial-services-report",
+      "enlaces": [
+        {
+          "nombre": "Black Kite",
+          "url": "https://blackkite.com/reports/2026-financial-services-report",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "CISA · Vulnerabilidades explotadas (KEV)",
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bis-ai-cyber",
+      "categoria": "reg",
+      "fecha": "2026-09-11T12:00+00:00",
+      "titulo": "El BIS analiza qué implica la IA de frontera para la ciberseguridad financiera",
+      "resumen": "El documento señala ventanas de remediación más cortas, mayor probabilidad de brechas y riesgo por dependencia de los mismos proveedores de nube e IA. En la misma semana, FinCEN alertó sobre casi 13.000 millones de dólares vinculados a estafas de inversión en activos digitales operadas desde centros en el exterior.",
+      "para_diseno": "Las estafas de ingeniería social siguen creciendo: los avisos contextuales antes de transferir a un destinatario nuevo son un patrón a reforzar.",
+      "fuente": "Mondaq (resumen regulatorio)",
+      "url": "https://www.mondaq.com/unitedstates/fintech/1844244/fintech-global-fs-regulatory-round-up-we-11-september-2026",
+      "enlaces": [
+        {
+          "nombre": "Mondaq",
+          "url": "https://www.mondaq.com/unitedstates/fintech/1844244/fintech-global-fs-regulatory-round-up-we-11-september-2026",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "BIS",
+          "url": "https://www.bis.org/",
+          "tipo": "oficial"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "nile",
+      "categoria": "reg",
+      "fecha": "2026-09-23T12:00+00:00",
+      "titulo": "Encuesta: la mayoría de las entidades financieras tiene problemas para contener brechas",
+      "resumen": "Un estudio de Nile con 322 profesionales de TI, seguridad y riesgo de bancos, seguros, pagos y fintech ubica a ciberseguridad y riesgo regulatorio como el principal desafío de red. Es un informe de un proveedor: tomalo como señal, no como dato independiente.",
+      "para_diseno": "Útil como contexto para conversaciones con seguridad sobre por qué ciertos flujos suman fricción.",
+      "fuente": "Business Wire vía FinancialContent",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-23-80-of-financial-institutions-struggle-with-breach-containment-as-network-disruption-rises-and-costs-climb",
+      "enlaces": [
+        {
+          "nombre": "FinancialContent",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-23-80-of-financial-institutions-struggle-with-breach-containment-as-network-disruption-rises-and-costs-climb",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "nuevo-dinero",
+      "categoria": "reg",
+      "fecha": "2026-09-23T12:00+00:00",
+      "titulo": "Hoy: Nuevo Dinero 2026 reúne a BCRA, bancos y billeteras para debatir el crédito",
+      "resumen": "La 12.ª edición se hace en El Cubo (Vicente López) con 40 oradores y cierra con un panel sobre el futuro del crédito, en un contexto de mora del 12,8% en préstamos a familias. Participa Banco Macro, que compró el 50% de Personal Pay.",
+      "para_diseno": "La IA aplicada a originar crédito y la mora en alza anticipan cambios en flujos de solicitud de préstamos y en cómo se comunica el riesgo al usuario.",
+      "fuente": "iProUP",
+      "url": "https://www.iproup.com/finanzas/71504-nuevo-dinero-bcra-bancos-fintech-debaten-futuro-credito-septiembre-2026",
+      "enlaces": [
+        {
+          "nombre": "iProUP",
+          "url": "https://www.iproup.com/finanzas/71504-nuevo-dinero-bcra-bancos-fintech-debaten-futuro-credito-septiembre-2026",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    }
+  ],
+  "estado": []
+}

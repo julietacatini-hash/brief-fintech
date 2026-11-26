@@ -109,6 +109,14 @@
   ],
   "fuentes": [
     {
+      "nombre": "Red Link: fallas e incidentes (Google Noticias)",
+      "tipo": "google",
+      "idioma": "es",
+      "categoria": "auto",
+      "region": "ar",
+      "q": "\"Red Link\" (falla OR caída OR \"no funciona\" OR problemas OR interrupción OR restableció OR incidente)"
+    },
+    {
       "nombre": "Red Link (Google Noticias)",
       "tipo": "google",
       "idioma": "es",

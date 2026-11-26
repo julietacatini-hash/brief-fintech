@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es">
+<html lang="es" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -194,6 +194,24 @@ h1{margin:0;font-weight:600;font-size:clamp(2.2rem,4.6vw,3.9rem);line-height:1.0
 .tab .n{opacity:.6;font-variant-numeric:tabular-nums}
 .tab[aria-pressed="true"]{background:var(--lime);color:var(--lime-ink)}
 .tab[aria-pressed="true"] .dot{background:var(--lime-ink)}
+.sum-txt{margin:0;color:var(--dark-muted);line-height:1.5}
+.sum-txt b{color:var(--dark-ink);font-weight:600}
+.rl-alert{color:#FFB4A8;font-weight:600}
+.sum-h{margin:4px 0 0;font-weight:600;font-size:.95rem;color:var(--dark-muted);letter-spacing:.02em}
+.sum-list{margin:0;padding:0 0 0 22px;display:flex;flex-direction:column;gap:12px}
+.sum-list li::marker{color:var(--lime);font-weight:600}
+.sum-list a{color:var(--dark-ink);text-decoration:none;font-weight:600;line-height:1.3}
+.sum-list a:hover{text-decoration:underline}
+.why{display:flex;flex-wrap:wrap;gap:6px;margin-top:5px;font-size:.78rem;color:var(--dark-muted)}
+.why span:not(:last-child){border:1px solid var(--glass-line);border-radius:999px;padding:1px 8px}
+.why .hot{background:#FF8A75;border-color:#FF8A75!important;color:#3A0E05;font-weight:600}
+.feed{background:var(--dark)!important;color:var(--dark-ink)}
+.feed .item{background:var(--glass);border:1px solid var(--glass-line);border-radius:20px;padding:16px 18px;margin-bottom:10px}
+.feed .item p,.feed .meta{color:var(--dark-muted)}
+.feed .item .cat{color:var(--cd,var(--c))}
+.feed .srcs a{background:transparent;border-color:var(--glass-line);color:var(--dark-ink)}
+.feed .older-btn{background:var(--glass);border-color:var(--glass-line);color:var(--dark-ink)}
+.feed .day-h{border-color:var(--glass-line)}
 .fab{display:none!important}
 .shell{padding-bottom:calc(env(safe-area-inset-bottom,0px) + 110px)!important}
 body.v-ten .top,body.v-ten #feed{display:none}
@@ -301,7 +319,7 @@ const KIND = {oficial:"Documento oficial", nota:"Nota", cobertura:"Otra cobertur
 const ORDER = {oficial:0, nota:1, cobertura:2};
 const CHEV = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
 const FIRST_VISIT_WINDOW = 48*3600*1000;
-const SPOT_MAX = 3;
+const SPOT_MAX = 0;
 
 /* ---------- Estado ---------- */
 const store = {
@@ -425,31 +443,37 @@ function glassHTML(n){
   return `<li class="glass" style="--cd:${CATS[n.cat].cd}"><div class="meta"><span class="cat">${CATS[n.cat].name}</span>${n.region==="ar"&&prefs.region==="world"?'<span class="ar">AR</span>':""}<span>${esc(n.links[0]?.nombre||n.source)}</span><span>${rel(n.d)}</span>${langHTML(n)}</div><h3>${esc(n.title)}</h3>${n.body?`<p>${esc(n.body)}</p>`:""}${linksHTML(n)}</li>`;
 }
 
+const EMPRESA = [["red link",10],["link celular",8],["home banking link",8],["link pagos",8],["banelco",6],["newpay",6],["coelsa",6],["modo",5],["interbanking",5],["prisma",4],["cajero",4],["atm",3],["homebanking",3],["home banking",3],["billetera",2],["transferencia",2],["qr",1],["bcra",2],["comunicación a",3]];
+const ALERTA = ["falla","caída","cayó","no funciona","interrup","incidente","ciberataque","hackeo","estafa","fraude","sanción","multa"];
+const GRANDES = ["infobae","la nación","clarín","ámbito","el cronista","iprofesional","iproup","perfil","página/12","bloomberg","reuters","la voz","forbes","tn","el economista","fintech futures","techcrunch","the verge","9to5mac","nielsen"];
+const TEMAS = {"transferencias":["transferencia"],"QR":[" qr"],"fraude y estafas":["fraude","estafa","phishing"],"fallas y caídas":["falla","caída","no funciona"],"cajeros":["cajero","atm"],"billeteras":["billetera","wallet"],"tarjetas":["tarjeta","card"],"IA":[" ia "," ai ","inteligencia artificial"],"normativa BCRA":["bcra","comunicación a"],"banca empresas":["empresas","pyme","echeq"],"diseño y UX":["diseño","design","ux","interfaz"],"criptomonedas":["cripto","crypto","usdt"]};
+EMPRESA.forEach(e=>e[0]=norm(e[0])); ALERTA.forEach((w,i)=>ALERTA[i]=norm(w)); GRANDES.forEach((w,i)=>GRANDES[i]=norm(w)); for(const k in TEMAS) TEMAS[k]=TEMAS[k].map(norm);
+function puntaje(n){
+  const t=" "+n.hay+" "; let p=0; const why=[];
+  let emp=0; for(const [w,v] of EMPRESA) if(t.includes(w)) emp=Math.max(emp,v);
+  if(emp){ p+=emp; why.push(emp>=8?"Red Link":"Tu industria"); }
+  if(ALERTA.some(w=>t.includes(w))){ p+= emp?6:2; if(emp) why.push("Alerta"); }
+  const cob=n.links.length-1; if(cob>0){ p+=cob*2; why.push(`${cob+1} medios`); }
+  if(GRANDES.some(g=>norm(n.links.map(l=>l.nombre).join(" ")+" "+n.source).includes(g))){ p+=3; why.push("Medio principal"); }
+  const h=(Date.now()-n.d)/36e5; p+= h<24?3:h<72?1:0;
+  if(!n.en) p+=1;
+  return {p,why};
+}
 function renderSpot(list, nuevas){
   const spot=$("spot");
-  if(loadError){
-    spot.innerHTML = `<div class="spot-empty"><h3 id="spot-h">No se pudieron cargar las novedades</h3><p>Revisá tu conexión y volvé a abrir la app.</p></div>`;
-    return;
-  }
-  if(!NEWS.length){
-    spot.innerHTML = `<div class="spot-empty"><h3 id="spot-h">Cargando novedades…</h3></div>`;
-    return;
-  }
-  if(nuevas.length){
-    const shown = nuevas.slice(0,SPOT_MAX);
-    const moreNew = nuevas.length - shown.length, older = list.length - nuevas.length;
-    spot.innerHTML = `<div class="spot-head"><h2 id="spot-h">${nuevas.length===1?"noticia nueva":"noticias nuevas"} desde tu última visita</h2><span class="bignum" aria-hidden="true">+${nuevas.length}</span></div>
-      <ul class="glass-list">${shown.map(glassHTML).join("")}</ul>
-      ${moreNew>0 ? `<a class="btn-lime" href="#feed">Ver ${moreNew} ${moreNew===1?"nueva":"nuevas"} más ${CHEV}</a>` : older>0 ? `<button class="btn-lime" type="button" data-act="older">Ver anteriores (${older}) ${CHEV}</button>` : ""}`;
-    return;
-  }
-  const empty = !list.length;
-  spot.innerHTML = `<div class="spot-empty">
-      <div class="ring" aria-hidden="true"><svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="var(--lime)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></div>
-      <h3 id="spot-h">${empty ? "Nada con estos filtros" : "Estás al día"}</h3>
-      <p>${empty ? "Probá con otra búsqueda, otra categoría o con fuentes de todo el mundo." : "No entró nada nuevo desde tu última visita. Las anteriores siguen abajo."}</p>
-      ${empty ? "" : `<button class="btn-lime" type="button" data-act="older">Ver anteriores</button>`}
-    </div>`;
+  if(loadError){ spot.innerHTML = `<div class="spot-empty"><h3 id="spot-h">No se pudieron cargar las novedades</h3><p>Revisá tu conexión y tocá Recargar.</p></div>`; return; }
+  if(!NEWS.length){ spot.innerHTML = `<div class="spot-empty"><h3 id="spot-h">Cargando novedades…</h3></div>`; return; }
+  if(!list.length){ spot.innerHTML = `<div class="spot-empty"><h3 id="spot-h">Nada con estos filtros</h3><p>Probá con otra búsqueda o sección.</p></div>`; return; }
+  const sec = tab==="all" ? "todo" : (CATS[tab]?.name||"").toLowerCase();
+  const h24 = list.filter(n=>Date.now()-n.d<864e5).length;
+  const temas = Object.entries(TEMAS).map(([k,ws])=>[k,list.filter(n=>ws.some(w=>(" "+n.hay+" ").includes(w))).length]).filter(x=>x[1]>1).sort((a,b)=>b[1]-a[1]).slice(0,4);
+  const top = list.map(n=>({n,...puntaje(n)})).sort((a,b)=>b.p-a.p).slice(0,5);
+  const rl = list.filter(n=>n.hay.includes("red link"));
+  const alerta = rl.filter(n=>ALERTA.some(w=>n.hay.includes(w)));
+  spot.innerHTML = `<div class="spot-head"><h2 id="spot-h">Resumen de ${esc(sec)}</h2><span class="bignum" aria-hidden="true">${h24}</span></div>
+    <p class="sum-txt">${list.length} notas en 7 días, <b>${h24} en las últimas 24 h</b>${nuevas.length?`, ${nuevas.length} nuevas desde tu visita`:""}.${temas.length?` Lo que más se repite: ${temas.map(([k,c])=>`${k} (${c})`).join(", ")}.`:""}${rl.length?` <span class="rl-alert">Red Link aparece en ${rl.length} ${rl.length===1?"nota":"notas"}${alerta.length?`, ${alerta.length} sobre fallas o incidentes`:""}.</span>`:""}</p>
+    <h3 class="sum-h">Lo más importante</h3>
+    <ol class="sum-list">${top.map(({n,why})=>`<li><a href="${esc(n.links[0]?.url||"#")}" target="_blank" rel="noopener">${esc(n.title)}</a><span class="why">${why.slice(0,3).map(w=>`<span class="${w==="Red Link"||w==="Alerta"?"hot":""}">${esc(w)}</span>`).join("")}<span>${esc(n.links[0]?.nombre||n.source)} · ${rel(n.d)}</span></span></li>`).join("")}</ol>`;
 }
 
 function renderFeed(list, nuevas){

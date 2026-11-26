@@ -33,18 +33,22 @@ def es_ingles(texto):
     w = re.findall(r"[a-záéíóúñü]+", texto.lower())
     en = sum(x in EN for x in w)
     es = sum(x in ES for x in w)
-    return en >= 2 and en > es * 1.5
+    # Si no tiene ninguna palabra típica del español, puede ser inglés: lo decide el traductor.
+    return es == 0 or (en >= 2 and en > es * 1.5)
 
 
-def traducir(texto):
-    """Traducción gratuita (sin clave) al español. Si falla, devuelve None."""
+def traducir(texto, solo_ingles=False):
+    """Traducción gratuita (sin clave) al español. Si falla, o con solo_ingles
+    el texto no está en inglés, devuelve None."""
     if not texto:
         return texto
     try:
-        url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q="
+        url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q="
                + quote_plus(texto[:1500]))
         with urlopen(Request(url, headers={"User-Agent": UA}), timeout=15) as r:
             data = json.loads(r.read().decode("utf-8"))
+        if solo_ingles and data[2] != "en":
+            return None
         return "".join(p[0] for p in data[0] if p and p[0]).strip() or None
     except Exception:
         return None
@@ -262,7 +266,7 @@ def main():
     for n in recortado:
         if n.get("idioma_original") or not es_ingles(f"{n['titulo']} {n.get('resumen', '')}"):
             continue
-        t = traducir(n["titulo"])
+        t = traducir(n["titulo"], solo_ingles=True)
         if not t:
             continue
         n["titulo_original"] = n["titulo"]

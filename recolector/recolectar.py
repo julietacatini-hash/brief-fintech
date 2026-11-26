@@ -146,6 +146,9 @@ def leer_fuente(f, desde):
                 if es_oficial(href) and len(enlaces) < 4:
                     enlaces.append({"nombre": tit or dominio(href), "url": href, "tipo": "oficial"})
         texto = f" {titulo} {resumen} ".lower()
+        # Perfiles y avisos de LinkedIn: títulos cortos o con formato "Nombre - Cargo | Cargo".
+        if fuente == "LinkedIn" and (len(titulo) < 40 or titulo.count(" | ") >= 2):
+            continue
         if any(p in texto for p in excluir):
             continue
         if filtro:

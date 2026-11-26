@@ -1,5 +1,5 @@
 // Guarda la app para abrirla sin conexión; las noticias se piden siempre frescas.
-const CACHE = "brief-v2";
+const CACHE = "brief-v3";
 const BASE = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {
@@ -19,7 +19,7 @@ self.addEventListener("fetch", e => {
   if (e.request.method !== "GET" || url.origin !== location.origin) return;
   // Primero la red (para tener lo último) y, si no hay conexión, lo guardado.
   e.respondWith(
-    fetch(e.request)
+    fetch(e.request, { cache: "no-cache" })
       .then(res => {
         const copia = res.clone();
         caches.open(CACHE).then(c => c.put(e.request, copia));

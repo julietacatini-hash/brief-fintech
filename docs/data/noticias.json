@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T00:41+00:00",
+  "actualizado": "2026-11-26T00:45+00:00",
   "noticias": [
     {
       "id": "d723e754e6fa",
@@ -160,14 +160,19 @@
       "region": "ar"
     },
     {
-      "id": "ee7e9dfd79b6",
+      "id": "5525980b4587",
       "categoria": "ux",
       "fecha": "2026-11-25T23:22+00:00",
       "titulo": "Gerardo Hernández deja AV Villas para dirigir Grupo Aval y Hernando Osorio ocupa su lugar",
       "resumen": "",
       "fuente": "Canal 1 En vivo",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHJSdzFUbElkQ21HTHZFak9VSENwcE00NmR4NTZEUDB1d3Qybnd3VTJYWnBOUnV1MVZoUHFZX1NPVUhuZ2hvaFRIZk5IVWhUdXprVUVLQ0JMUkhaNklzejg2QUNyazZDVlF6Y0MteXozb1doaE5KMkRxaTVuTDh4WktWM3FsYjVwaWMyZEYwOVdhMTlfbzFpZU9lZlNxa25hZkhhWFB2cVd1RktyVWxaOUxmY1BpaDFOZG8xRWRzZkZubnFTNnpCUmF5WlBwX2fSAc8BQVVfeXFMTXRyUncxVGxJZENtR0x2RWpPVUhDcHBNNDZkeDU2RFAwdXd0Mm53d1UyWFpwTlJ1dTFWaFBxWV9TT1VIbmdob2hUSGZOSFVoVHV6a1VFS0NCTFJIWjZJc3o4NkFDcms2Q1ZRemNDLXl6M29XaGhOSjJEcWk1bkw4eFpLVjNxbGI1cGljMmRGMDlXYTE5X28xaWVPZWZTcWtuYWZIYVhQdnFXdUZLclVsWjlMZmNQaWgxTmRvMUVkc2ZGbm5xUzZ6QlJheVpQcF9n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3NVSHJ4bVpOM01DcWpuTTMwT19WNFNldF9UcGNQaHNWMS1OYzF1SlMyYU9DZ05rZ3NvbFA1VUtRV184Rkx1OHg0OHJQZVBwaU9HQ3JOcDYzdkFFZksxSmpyVXRGRDFZMlpkbGhMV2tndlNTaE01TjRyNnFZUFhUMUtxV0Z3Uk0wSmYxQVRMWTAwN3dKd25OLWpLYzR5OGRkbDVkSC1ZVkVKbDd1d1dVWktOWnYwcGlKdFRJeDh30gHPAUFVX3lxTE10clJ3MVRsSWRDbUdMdkVqT1VIQ3BwTTQ2ZHg1NkRQMHV3dDJud3dVMlhacE5SdXUxVmhQcVlfU09VSG5naG9oVEhmTkhVaFR1emtVRUtDQkxSSFo2SXN6ODZBQ3JrNkNWUXpjQy15ejNvV2hoTkoyRHFpNW5MOHhaS1YzcWxiNXBpYzJkRjA5V2ExOV9vMWllT2VmU3FrbmFmSGFYUHZxV3VGS3JVbFo5TGZjUGloMU5kbzFFZHNmRm5ucVM2ekJSYXlaUHBfZw?oc=5",
       "enlaces": [
+        {
+          "nombre": "Canal 1 En vivo",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3NVSHJ4bVpOM01DcWpuTTMwT19WNFNldF9UcGNQaHNWMS1OYzF1SlMyYU9DZ05rZ3NvbFA1VUtRV184Rkx1OHg0OHJQZVBwaU9HQ3JOcDYzdkFFZksxSmpyVXRGRDFZMlpkbGhMV2tndlNTaE01TjRyNnFZUFhUMUtxV0Z3Uk0wSmYxQVRMWTAwN3dKd25OLWpLYzR5OGRkbDVkSC1ZVkVKbDd1d1dVWktOWnYwcGlKdFRJeDh30gHPAUFVX3lxTE10clJ3MVRsSWRDbUdMdkVqT1VIQ3BwTTQ2ZHg1NkRQMHV3dDJud3dVMlhacE5SdXUxVmhQcVlfU09VSG5naG9oVEhmTkhVaFR1emtVRUtDQkxSSFo2SXN6ODZBQ3JrNkNWUXpjQy15ejNvV2hoTkoyRHFpNW5MOHhaS1YzcWxiNXBpYzJkRjA5V2ExOV9vMWllT2VmU3FrbmFmSGFYUHZxV3VGS3JVbFo5TGZjUGloMU5kbzFFZHNmRm5ucVM2ekJSYXlaUHBfZw?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "Canal 1 En vivo",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHJSdzFUbElkQ21HTHZFak9VSENwcE00NmR4NTZEUDB1d3Qybnd3VTJYWnBOUnV1MVZoUHFZX1NPVUhuZ2hvaFRIZk5IVWhUdXprVUVLQ0JMUkhaNklzejg2QUNyazZDVlF6Y0MteXozb1doaE5KMkRxaTVuTDh4WktWM3FsYjVwaWMyZEYwOVdhMTlfbzFpZU9lZlNxa25hZkhhWFB2cVd1RktyVWxaOUxmY1BpaDFOZG8xRWRzZkZubnFTNnpCUmF5WlBwX2fSAc8BQVVfeXFMTXRyUncxVGxJZENtR0x2RWpPVUhDcHBNNDZkeDU2RFAwdXd0Mm53d1UyWFpwTlJ1dTFWaFBxWV9TT1VIbmdob2hUSGZOSFVoVHV6a1VFS0NCTFJIWjZJc3o4NkFDcms2Q1ZRemNDLXl6M29XaGhOSjJEcWk1bkw4eFpLVjNxbGI1cGljMmRGMDlXYTE5X28xaWVPZWZTcWtuYWZIYVhQdnFXdUZLclVsWjlMZmNQaWgxTmRvMUVkc2ZGbm5xUzZ6QlJheVpQcF9n?oc=5",
@@ -260,6 +265,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "c77e0788fd09",
+      "categoria": "emp",
+      "fecha": "2026-11-25T22:46+00:00",
+      "titulo": "DE Deatrich Wise | 11.25.26",
+      "resumen": "",
+      "fuente": "Washington Commanders",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IcDF5NHBnZDd0SEp5cXZRWlVFNUhDWkRhRldvMGI3bkFFeS1VNGJUOG41a3FnNl8zanBsTk53eUhFT19Fbk9jVTU4VGZLaEE5Wk5iQU9TWHpWUV9rODJfTFpiZ0tPcDFocmc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Washington Commanders",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IcDF5NHBnZDd0SEp5cXZRWlVFNUhDWkRhRldvMGI3bkFFeS1VNGJUOG41a3FnNl8zanBsTk53eUhFT19Fbk9jVTU4VGZLaEE5Wk5iQU9TWHpWUV9rODJfTFpiZ0tPcDFocmc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "302861a839ac",
@@ -483,6 +505,23 @@
       "region": "global"
     },
     {
+      "id": "7cb5a6835c53",
+      "categoria": "reg",
+      "fecha": "2026-11-25T21:23+00:00",
+      "titulo": "Banco de Venezuela insta a sus clientes a prevenir el fraude electrónico",
+      "resumen": "",
+      "fuente": "Banco de Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaUNXSmlnSERGbHB6U3E0NE91Z2s0dF8yVWRicTY4MUlod0h2QXk2Z0VpdW1rWFk1Nl84S3NRdEpwS295SUpzQUVpNFRWYTVLMmttOEZEdzE5NjZ6Q3hxLWxMbE1RdHc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Banco de Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaUNXSmlnSERGbHB6U3E0NE91Z2s0dF8yVWRicTY4MUlod0h2QXk2Z0VpdW1rWFk1Nl84S3NRdEpwS295SUpzQUVpNFRWYTVLMmttOEZEdzE5NjZ6Q3hxLWxMbE1RdHc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "2967f4858832",
       "categoria": "ux",
       "fecha": "2026-11-25T21:18+00:00",
@@ -551,23 +590,6 @@
       "region": "global"
     },
     {
-      "id": "23603dc73e89",
-      "categoria": "emp",
-      "fecha": "2026-11-25T21:03+00:00",
-      "titulo": "If You Use Apple Pay to Shop, These 5 Changes Could Make Everything From Paying Online to Checking Out at Walmart a Little Easier",
-      "resumen": "",
-      "fuente": "Gotechtor",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVzVoTFI4bVp0Y3c3OGdRbS1sN1pJN3ZqbzNUWlIta1N2dFJEWkQtQ1ZpUmwxRklldUMzSTZ0WTVWSG5QakdMejhFZXZUV3dWV2RjRWY2WnA0R2M4R1lyLXBObzh6OXd0RjNrd0VuTjNEY2tkSHVxRHR6QVlLdw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Gotechtor",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVzVoTFI4bVp0Y3c3OGdRbS1sN1pJN3ZqbzNUWlIta1N2dFJEWkQtQ1ZpUmwxRklldUMzSTZ0WTVWSG5QakdMejhFZXZUV3dWV2RjRWY2WnA0R2M4R1lyLXBObzh6OXd0RjNrd0VuTjNEY2tkSHVxRHR6QVlLdw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "9f4e92b59132",
       "categoria": "emp",
       "fecha": "2026-11-25T21:03+00:00",
@@ -583,6 +605,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "23603dc73e89",
+      "categoria": "emp",
+      "fecha": "2026-11-25T21:03+00:00",
+      "titulo": "If You Use Apple Pay to Shop, These 5 Changes Could Make Everything From Paying Online to Checking Out at Walmart a Little Easier",
+      "resumen": "",
+      "fuente": "Gotechtor",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVzVoTFI4bVp0Y3c3OGdRbS1sN1pJN3ZqbzNUWlIta1N2dFJEWkQtQ1ZpUmwxRklldUMzSTZ0WTVWSG5QakdMejhFZXZUV3dWV2RjRWY2WnA0R2M4R1lyLXBObzh6OXd0RjNrd0VuTjNEY2tkSHVxRHR6QVlLdw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Gotechtor",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVzVoTFI4bVp0Y3c3OGdRbS1sN1pJN3ZqbzNUWlIta1N2dFJEWkQtQ1ZpUmwxRklldUMzSTZ0WTVWSG5QakdMejhFZXZUV3dWV2RjRWY2WnA0R2M4R1lyLXBObzh6OXd0RjNrd0VuTjNEY2tkSHVxRHR6QVlLdw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "d89bce8a1975",
@@ -942,6 +981,23 @@
       "region": "global"
     },
     {
+      "id": "c82573f0f8de",
+      "categoria": "ux",
+      "fecha": "2026-11-25T18:44+00:00",
+      "titulo": "Hello Weather is the best Apple Weather app on Android",
+      "resumen": "",
+      "fuente": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96UmpwM0RycjB3VHZmLXB4RnM0Q0VKRWtZUkM0UmhKVmVVUGdqWWJuNEFFMEtPd0JjeXNUSWkyN3dQbnlLalpBZEZWc09mUW1tQ1hVOHE5S0pEZy00QlFSOWd1dXV4ejNuNWlvdWZwNA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "9to5Google",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96UmpwM0RycjB3VHZmLXB4RnM0Q0VKRWtZUkM0UmhKVmVVUGdqWWJuNEFFMEtPd0JjeXNUSWkyN3dQbnlLalpBZEZWc09mUW1tQ1hVOHE5S0pEZy00QlFSOWd1dXV4ejNuNWlvdWZwNA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "de85862c4a8f",
       "categoria": "reg",
       "fecha": "2026-11-25T18:39+00:00",
@@ -1117,17 +1173,17 @@
       "region": "ar"
     },
     {
-      "id": "b619c20604ff",
-      "categoria": "emp",
-      "fecha": "2026-11-25T18:03+00:00",
-      "titulo": "Ricardo Delgado: “El mejor escenario económico es que la situación no empeore más“",
+      "id": "508a08b170cd",
+      "categoria": "reg",
+      "fecha": "2026-11-25T18:10+00:00",
+      "titulo": "Advertencia sobre numerosas estafas que suplantan la identidad de NAPAS y bancos para cometer fraude.",
       "resumen": "",
-      "fuente": "Perfil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXdJVWF3ZkNrSWpDeHlSNlFFY3RuZjRSMnJWWFBpV2cyejdrX3p2Vl8xdFhlR2dRSUQwOTEzb2hNc2dIeUExc2RHT2h0VGNOQjRWNC1WaktOLW9Yc1EzcXFnMmZoZ1N3WlYzWVVYVGFSMG9DQ010bi1kNDdKWS1yS2NhZm9ZWXNWQjZ2NGRtcXVNQVpnY0xaaHE4bllfdjRZTTRIckpJT2MxekFONmdUTC16Q3FzTlotNGp0dmI5d1JYRjl5SUtpdFpBdmZYQQ?oc=5",
+      "fuente": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREhCN1NMYmtMVjFBYjNjZS02NExOYkVCdEhNZ2d4emNVR1pNamRlNTVjRDQ4LUJDMGRjNlpGLWttSExaYTlKS0g2U1NMcTJCdG1vT3l3NVR5MEpzQi1KaUo2WU5rMmE5SkFQRHNwQXBENW56RWpTU0kwTDk2R3k3ZVZNdnNrZWJpS3NOR211Y3doa3pfbzlqSQ?oc=5",
       "enlaces": [
         {
-          "nombre": "Perfil",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXdJVWF3ZkNrSWpDeHlSNlFFY3RuZjRSMnJWWFBpV2cyejdrX3p2Vl8xdFhlR2dRSUQwOTEzb2hNc2dIeUExc2RHT2h0VGNOQjRWNC1WaktOLW9Yc1EzcXFnMmZoZ1N3WlYzWVVYVGFSMG9DQ010bi1kNDdKWS1yS2NhZm9ZWXNWQjZ2NGRtcXVNQVpnY0xaaHE4bllfdjRZTTRIckpJT2MxekFONmdUTC16Q3FzTlotNGp0dmI5d1JYRjl5SUtpdFpBdmZYQQ?oc=5",
+          "nombre": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREhCN1NMYmtMVjFBYjNjZS02NExOYkVCdEhNZ2d4emNVR1pNamRlNTVjRDQ4LUJDMGRjNlpGLWttSExaYTlKS0g2U1NMcTJCdG1vT3l3NVR5MEpzQi1KaUo2WU5rMmE5SkFQRHNwQXBENW56RWpTU0kwTDk2R3k3ZVZNdnNrZWJpS3NOR211Y3doa3pfbzlqSQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1202,6 +1258,23 @@
       "region": "global"
     },
     {
+      "id": "678a0ddc1645",
+      "categoria": "ux",
+      "fecha": "2026-11-25T17:25+00:00",
+      "titulo": "A Closer Look at Claude’s Mac “Apps”",
+      "resumen": "",
+      "fuente": "MacStories",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zcEdJZmRLbWdycGdBbzRLMWpZVUVwZHhRRlZQNjlyNHVBaTBmbFhscXdLLXFVMEtaV2ttc2pfQ0JfLXVHRUE1cG1XaVdyeFBzdGpZbExDWHB4eE82cko0UHk0RDdWdEEwWnY0SzFzTDNRODN6SW9YbA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "MacStories",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zcEdJZmRLbWdycGdBbzRLMWpZVUVwZHhRRlZQNjlyNHVBaTBmbFhscXdLLXFVMEtaV2ttc2pfQ0JfLXVHRUE1cG1XaVdyeFBzdGpZbExDWHB4eE82cko0UHk0RDdWdEEwWnY0SzFzTDNRODN6SW9YbA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "5c5b2206c74f",
       "categoria": "ux",
       "fecha": "2026-11-25T17:06+00:00",
@@ -1219,6 +1292,23 @@
       "region": "ar"
     },
     {
+      "id": "52b83dd1a55b",
+      "categoria": "ux",
+      "fecha": "2026-11-25T16:43+00:00",
+      "titulo": "El dólar canadiense prolonga su recuperación impulsado por las perspectivas de una postura restrictiva del Banco de Canadá",
+      "resumen": "",
+      "fuente": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlBOQy1OY3libWVaak1ZSjJvbEMxMzYwcUZRakZza1JUWjVLbjdwN3pBd21uMi1UcW1rOVhCMng5UUNNb0RGQ1RjUS1rX1NMTk01em83RjRIeFJ5Wk5yVDBwYTBiUWF1aUR0OFkwNTJjRXhBdWE2MnEwX0RhdDlDSUhOZVVqdEl1ekRnbmpyTkF2MGlTZzE4dWtkald1UWZGbmtOdWZHWWk1ejhONGl5c1FzSWFHdXJmZDFYM2t4MFh6X05XeDAyX2hYUXpUVTg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlBOQy1OY3libWVaak1ZSjJvbEMxMzYwcUZRakZza1JUWjVLbjdwN3pBd21uMi1UcW1rOVhCMng5UUNNb0RGQ1RjUS1rX1NMTk01em83RjRIeFJ5Wk5yVDBwYTBiUWF1aUR0OFkwNTJjRXhBdWE2MnEwX0RhdDlDSUhOZVVqdEl1ekRnbmpyTkF2MGlTZzE4dWtkald1UWZGbmtOdWZHWWk1ejhONGl5c1FzSWFHdXJmZDFYM2t4MFh6X05XeDAyX2hYUXpUVTg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "de65702bc3be",
       "categoria": "reg",
       "fecha": "2026-11-25T16:14+00:00",
@@ -1230,6 +1320,33 @@
         {
           "nombre": "Infobae",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXBIMGlyOEVMQUU0MlR0ZUYxNzBJUmRTMzJMRUc2RFNQSWRMb2xwSlpjTk0zZUFvVGpCRE5ESkYzdmFLWW1raTh5cDNtNk5PNjBiOGhkUnh4TmgzSl9yMWJpb3ZGMlluZTg0d0VZOXdWNmtweDRaOG1lald4Mm82Wjl3Vk5UQ3RLZUlEdXlXalBIQml4QlVhc1hKakg4RE9tYlFFTGVRRUgyOEl4N080dDlKRWthQlhXTmJFRGkxeDk5UGVPeENyTjdiSEdQVFRJSUVIRzdyU2tYcnF3THlqV05JMkhsdS11WnF5Z0k1M3JUNThlMkJQRdIBkwJBVV95cUxNT2FpNVg5QlVVS2ozSHh5Z3JCZDRLUm4wSlFncTZwMXFmUVJabWUzcHdWT01ld3k4SWxvUDRFcTZaRDU4UjAyV2gzOWQteGhlSjdJVVFySkFCWW5BT1o3LXNWbUhwdWRGb25zZU44NlRwOVhZRmNMQkItLVZMeHVESmZNdVJjTnVYMDE1a0YyXzRMOUZncDd2ZGsxWE8xcnZ4Z19jcElfMVhrTDFFVDNVdkc0TGd0d3RvQTA3eFJDUjY0UklBWnZvQzdhWF80R1lmMjFkR0RxcWhCa2t0WU1CaVIwYzZ5UG5HOFp4M01tSV9HQXczSno5MW1ZZ3FPcDJGQnREX3JiVkFZOVU0YjIybzFySQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "24c788865fb7",
+      "categoria": "reg",
+      "fecha": "2026-11-25T16:05+00:00",
+      "titulo": "Estados Unidos: Huawei fue declarada culpable de fraude bancario y robo de secretos comerciales",
+      "resumen": "",
+      "fuente": "Diario Popular",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNjgwSDd2SDBvT09TZDk0bERpMEU3cjllTFRGWFA5d0xOTEJuWlhpemphbHFYWlp6YzRRMl9ia3NYd1praGYzcEtWWTVLUEczU1o5RkYzUnZrU3VrNGRFREJob3BucXBFN1ZsakRHd3VfSTZ4UEdVUzVXb2RQcE41ckF3WjBrUkNOa25Kb09fcWJaNklGZ3F1VTI0SWRQNU05RVR3cU9pY2V5TEFoS0VhMWZSX3FPeTAwMGZ5VW1jbzNZYkZvVHZOV1o1M3dicGh0WkQtSlB3WkdQczVEUUE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Diario Popular",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNjgwSDd2SDBvT09TZDk0bERpMEU3cjllTFRGWFA5d0xOTEJuWlhpemphbHFYWlp6YzRRMl9ia3NYd1praGYzcEtWWTVLUEczU1o5RkYzUnZrU3VrNGRFREJob3BucXBFN1ZsakRHd3VfSTZ4UEdVUzVXb2RQcE41ckF3WjBrUkNOa25Kb09fcWJaNklGZ3F1VTI0SWRQNU05RVR3cU9pY2V5TEFoS0VhMWZSX3FPeTAwMGZ5VW1jbzNZYkZvVHZOV1o1M3dicGh0WkQtSlB3WkdQczVEUUE?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "OhMyGeek!",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DbTRlQXBmRktIUWdHV2t5T3dzVDJnSGxwUGI3NkxIZ2JjblZ3TVotQ0doOTBFRzdBVG9GYUVUZTRqbDFrUkZDRDNyYzZ6OU5TenMtSm53UUNwa0FlZnJjdmZGVUVWWl85WHI3MUQ1a005cWdzbEE0?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "Prensa Libre",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOem9XZl9JSjl3Um5QT3c5aGR6S3JYb2t1UUVKVVdfMl9WTEtaUHNzdzU2YkxLdDZhbHNLVF9CTi1fTm95QWFsZE13dGs2VXVUVEVPalp2T3V5ekFfY1lmTFlqZkhPeW1PNGJYU0NqUFA1SGY0RzB4dXBYRTRFX1d4bVRJcENTdC1FZ2doWUdwTGJ5dkhYTTFWMUx3Z1A1WDVabGhJWU5qaEE1eFNuLUZpNlFfMGJLdHE2a0ZpcXVhYVRzeElJNExiMzdzNFdnMFZiY0padzNSNFIwWGJXT3FLQjR5TkRUNFVEaTVR?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1281,6 +1398,23 @@
         {
           "nombre": "Paislobo Prensa",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmxzcTBWbEQ5UjczU2dPbmg3UUVieU1jb0VOVFpvQ3NsQmJDdVhvMmxlV2pKX2lRdmlwbUtjdnUwTlJFdmhyZmZDM1JScUt2VVZPWEZ3S1BLYkZxVDB3Uk1QcUlPV0RmRWZQZTVCSHU3eFhJMk1qdkpFQlpBNGt6TA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "1cd62f03b266",
+      "categoria": "ux",
+      "fecha": "2026-11-25T15:37+00:00",
+      "titulo": "Usuarios reportan fallas en la app de Banesco este miércoles",
+      "resumen": "",
+      "fuente": "Finanzas Digital",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43aTAxTVpfaGlGZlNpWGNicFBvc3kwX3UtYnFsYkZWaW9xb3FyWVRhakhsY2IyV3dYRE01N1pWTXk4NHFJMFF0VnpCQjZiY2dtY2xjX0RGSzhtMGhSSmptVDZ3RXZmQ1hPRV83SkZSd2wyT28?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Finanzas Digital",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43aTAxTVpfaGlGZlNpWGNicFBvc3kwX3UtYnFsYkZWaW9xb3FyWVRhakhsY2IyV3dYRE01N1pWTXk4NHFJMFF0VnpCQjZiY2dtY2xjX0RGSzhtMGhSSmptVDZ3RXZmQ1hPRV83SkZSd2wyT28?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1355,14 +1489,19 @@
       "region": "ar"
     },
     {
-      "id": "dc85120f9f87",
+      "id": "36b1e07690d1",
       "categoria": "reg",
       "fecha": "2026-11-25T15:09+00:00",
       "titulo": "Plazos fijos hoy: qué bancos pagan más en la última semana de noviembre 2026 y cuánto ganás si invertís $1 millón",
       "resumen": "",
       "fuente": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZnc4RXdSaHFmYXh6a3lHZW01dHBNdTBzcG5qSGNVTUtUUnctZVUwT2xmSEQ0b296M1BMMGZQMGw3Vk1qZlEtT1otQkQyS3U0cFk0Q0FNRUVxeHpyNjFrRVhQd1dzNHhwM3FOeDdkVXlhTWlyLXY4ZUt6bzJmTTMxREhqZVFZcE8yYW4zSWM4VVpxb2VOSk5QMU94R3RSUWhaSEVFWW52MmhLZ0E0NTdCTExmekhaaE1KQTZjTlNVRklTZkhDUUZSMWhaRUIyeXZLMHZLaFZpSFg0Q0R5akN4eGJvYkRQUTEzbXo3TEZn0gH2AUFVX3lxTE43VDJCVDNBQnRZXzZsMDVNa3NvcDlxNnQ5bjh6WHF5QzNKVEhjalpVX2JtOXNMUVRhY2xoVEFtUDg2WDRadUtGT1FOcVRPT2J1MjFkUURPMkYzeXBLNVJ3Tm8ybHQzQ2xYY2p1WXEyLVRMdzlsck1ZajJPTk0tZXNIMGlwaUpNamhjbWtkUXk2cFJfd3hEY3FyMGZGWUJlSjllVVVHcHVPYlZ5UFRzNG9rRDI0RUdYRlhWb3ZnUTlnTHlxMWpMNVBRZFI5V3dGOEFvakEwN0w0ZHc4MC1EUEFpaEdwSk1yWElDVnl2MHBrbWZERHhLZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON1QyQlQzQUJ0WV82bDA1TWtzb3A5cTZ0OW44elhxeUMzSlRIY2paVV9ibTlzTFFUYWNsaFRBbVA4Nlg0WnVLRk9RTnFUT09idTIxZFFETzJGM3lwSzVSd05vMmx0M0NsWGNqdVlxMi1UTHc5bHJNWWoyT05NLWVzSDBpcGlKTWpoY21rZFF5NnBSX3d4RGNxcjBmRllCZUo5ZVVVR3B1T2JWeVBUczRva0QyNEVHWEZYVm92Z1E5Z0x5cTFqTDVQUWRSOVd3RjhBb2pBMDdMNGR3ODAtRFBBaWhHcEpNclhJQ1Z5djBwa21mRER4S2fSAfYBQVVfeXFMTjdUMkJUM0FCdFlfNmwwNU1rc29wOXE2dDluOHpYcXlDM0pUSGNqWlVfYm05c0xRVGFjbGhUQW1QODZYNFp1S0ZPUU5xVE9PYnUyMWRRRE8yRjN5cEs1UndObzJsdDNDbFhjanVZcTItVEx3OWxyTVlqMk9OTS1lc0gwaXBpSk1qaGNta2RReTZwUl93eERjcXIwZkZZQmVKOWVVVUdwdU9iVnlQVHM0b2tEMjRFR1hGWFZvdmdROWdMeXExakw1UFFkUjlXd0Y4QW9qQTA3TDRkdzgwLURQQWloR3BKTXJYSUNWeXYwcGttZkREeEtn?oc=5",
       "enlaces": [
+        {
+          "nombre": "Diario Río Negro",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON1QyQlQzQUJ0WV82bDA1TWtzb3A5cTZ0OW44elhxeUMzSlRIY2paVV9ibTlzTFFUYWNsaFRBbVA4Nlg0WnVLRk9RTnFUT09idTIxZFFETzJGM3lwSzVSd05vMmx0M0NsWGNqdVlxMi1UTHc5bHJNWWoyT05NLWVzSDBpcGlKTWpoY21rZFF5NnBSX3d4RGNxcjBmRllCZUo5ZVVVR3B1T2JWeVBUczRva0QyNEVHWEZYVm92Z1E5Z0x5cTFqTDVQUWRSOVd3RjhBb2pBMDdMNGR3ODAtRFBBaWhHcEpNclhJQ1Z5djBwa21mRER4S2fSAfYBQVVfeXFMTjdUMkJUM0FCdFlfNmwwNU1rc29wOXE2dDluOHpYcXlDM0pUSGNqWlVfYm05c0xRVGFjbGhUQW1QODZYNFp1S0ZPUU5xVE9PYnUyMWRRRE8yRjN5cEs1UndObzJsdDNDbFhjanVZcTItVEx3OWxyTVlqMk9OTS1lc0gwaXBpSk1qaGNta2RReTZwUl93eERjcXIwZkZZQmVKOWVVVUdwdU9iVnlQVHM0b2tEMjRFR1hGWFZvdmdROWdMeXExakw1UFFkUjlXd0Y4QW9qQTA3TDRkdzgwLURQQWloR3BKTXJYSUNWeXYwcGttZkREeEtn?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "Diario Río Negro",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZnc4RXdSaHFmYXh6a3lHZW01dHBNdTBzcG5qSGNVTUtUUnctZVUwT2xmSEQ0b296M1BMMGZQMGw3Vk1qZlEtT1otQkQyS3U0cFk0Q0FNRUVxeHpyNjFrRVhQd1dzNHhwM3FOeDdkVXlhTWlyLXY4ZUt6bzJmTTMxREhqZVFZcE8yYW4zSWM4VVpxb2VOSk5QMU94R3RSUWhaSEVFWW52MmhLZ0E0NTdCTExmekhaaE1KQTZjTlNVRklTZkhDUUZSMWhaRUIyeXZLMHZLaFZpSFg0Q0R5akN4eGJvYkRQUTEzbXo3TEZn0gH2AUFVX3lxTE43VDJCVDNBQnRZXzZsMDVNa3NvcDlxNnQ5bjh6WHF5QzNKVEhjalpVX2JtOXNMUVRhY2xoVEFtUDg2WDRadUtGT1FOcVRPT2J1MjFkUURPMkYzeXBLNVJ3Tm8ybHQzQ2xYY2p1WXEyLVRMdzlsck1ZajJPTk0tZXNIMGlwaUpNamhjbWtkUXk2cFJfd3hEY3FyMGZGWUJlSjllVVVHcHVPYlZ5UFRzNG9rRDI0RUdYRlhWb3ZnUTlnTHlxMWpMNVBRZFI5V3dGOEFvakEwN0w0ZHc4MC1EUEFpaEdwSk1yWElDVnl2MHBrbWZERHhLZw?oc=5",
@@ -1370,6 +1509,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "e95c41f5ce0f",
+      "categoria": "ux",
+      "fecha": "2026-11-25T15:07+00:00",
+      "titulo": "Apple iOS 27 vs Samsung One UI 9: Which smartphone software offers better performance, AI and multitasking?",
+      "resumen": "",
+      "fuente": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2pVUGpzeHpYekpSbDF6SDNrNnlnLUUtS0s0SGV5UElaV1ZJb1lsbG9WV2FCT1A2TjhINkxFckNBWHQ3dzZPcHlNc3FNUnBsVTM2NmhQVDc0NDBPQV92VHB6S0ppSUlwN1IxYXVrOWFPdVNiNVk4X01sYVU1azNqMi1JbWxCQnFwRGZuZzNSVGlPLWRUWE9UZkRhNzJ5Y1dvUmZYNmNXSW9PSHhUclhBdU9Ec2Y1X0hRbXdtVVJqbHZFU0Vmb1huS1VGUmctMHplM2QxOWIzdHZRNDZORHpod1RPMlgxUmQ3RkHSAe8BQVVfeXFMUFlzNkR4OVg2cFh0WDJvdDFQNC1rcXlXTGp0aDRGd3dOdkc2NC1rSW00c3hHX3VnekhuR3ZTdXZHUGVEZ2FOakpUZzZwZ2J6MzlKMWdLZWt2RjNWdjhhUVdyODY2OGVoVXd0bkQxV2k3ZmliT1FJaXA5ZjIxMzdRMmUxNG9XV2FQZE91REJwd2xFNURtMjNjXy1qajdwOFhqY0NmMm5QX0NhSDlveVlBSUNiTmx4STJNRU1ncG14M2h1NjcyWk1aR2psQ1RUNkNjWTdSUkdEb0R5c1ZsMXBLVVdsMXhKTHNweDJlb1liUU0?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2pVUGpzeHpYekpSbDF6SDNrNnlnLUUtS0s0SGV5UElaV1ZJb1lsbG9WV2FCT1A2TjhINkxFckNBWHQ3dzZPcHlNc3FNUnBsVTM2NmhQVDc0NDBPQV92VHB6S0ppSUlwN1IxYXVrOWFPdVNiNVk4X01sYVU1azNqMi1JbWxCQnFwRGZuZzNSVGlPLWRUWE9UZkRhNzJ5Y1dvUmZYNmNXSW9PSHhUclhBdU9Ec2Y1X0hRbXdtVVJqbHZFU0Vmb1huS1VGUmctMHplM2QxOWIzdHZRNDZORHpod1RPMlgxUmQ3RkHSAe8BQVVfeXFMUFlzNkR4OVg2cFh0WDJvdDFQNC1rcXlXTGp0aDRGd3dOdkc2NC1rSW00c3hHX3VnekhuR3ZTdXZHUGVEZ2FOakpUZzZwZ2J6MzlKMWdLZWt2RjNWdjhhUVdyODY2OGVoVXd0bkQxV2k3ZmliT1FJaXA5ZjIxMzdRMmUxNG9XV2FQZE91REJwd2xFNURtMjNjXy1qajdwOFhqY0NmMm5QX0NhSDlveVlBSUNiTmx4STJNRU1ncG14M2h1NjcyWk1aR2psQ1RUNkNjWTdSUkdEb0R5c1ZsMXBLVVdsMXhKTHNweDJlb1liUU0?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "a9ae6e1f7885",
@@ -1506,6 +1662,23 @@
         }
       ],
       "region": "global"
+    },
+    {
+      "id": "6e18853d452d",
+      "categoria": "reg",
+      "fecha": "2026-11-25T14:00+00:00",
+      "titulo": "Milei viaja a Paraguay tras la caída de su aliado Peña, preso por la estafa del Ueno Bank",
+      "resumen": "",
+      "fuente": "El Ágora Digital",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWJqNHo4VXRMaklVMUNCTDEtZ0FDQy1TRFFQYjRLLUNhUlM1TU9wODRLc3FWZjFvajQ0V2J5QmhlT084dExWOXFXd1A4SmI1alU4MTJNdWROWkpJM01VRDR6OVhUNzBoSmMtb0hpX29WV2lUT2tveU0wMVFPUWEwbi1SRXZoY1hhMTlhRFdqMTRJcENBTk1sZFR6dDlLSnN2WDRleVR6aEgzWDVnTUFrczZfd1U2RWQ5THdRUlFISTc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "El Ágora Digital",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWJqNHo4VXRMaklVMUNCTDEtZ0FDQy1TRFFQYjRLLUNhUlM1TU9wODRLc3FWZjFvajQ0V2J5QmhlT084dExWOXFXd1A4SmI1alU4MTJNdWROWkpJM01VRDR6OVhUNzBoSmMtb0hpX29WV2lUT2tveU0wMVFPUWEwbi1SRXZoY1hhMTlhRFdqMTRJcENBTk1sZFR6dDlLSnN2WDRleVR6aEgzWDVnTUFrczZfd1U2RWQ5THdRUlFISTc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "42128e7bc6b2",
@@ -1673,6 +1846,11 @@
           "nombre": "Infobae",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbHJUM1d1Q2dBZW5TbGZqNEJ0Q1g1QmkzODVYbFhuOFVENFdSWktaa2tRUktwaG90VDFSeDQ0ZnJwTl81YzdXTi1nLW1OSE9mb2tmNFZ1Y2tMWVdvYS1NcngyWTNjRjltVFdWbnFSVXEwRmV4anBUM25kVGd4VDdzNVhUSTVKaFd3akJPbkdyNVpqN2tQT25GOG54dGhDbE5ER1VIVkJHSUZMZnpHcFYzSVdvVW5wNFpSU2ltdmhEQXVILU1TaW1sREllYU5qcHpacUxhZXRvTXNrRG130gH3AUFVX3lxTE55TFVmMEkxR2diVGFDMWpKT0t0N2pJNjVDR0ExRjdvNXpwOHFFemI2OTVWaVRoS1NNa1d2aG9pb0swLWlBeWJldDFCcDhBV0s3MTczdlluTy1wSWhUTXdXc3NrLUprSVkwZVNlUTNERXlDNlJ3T0lhd3hCQ3RGRTV6YVVRQnNFb0JudHVrRk5PQnhYMmwxSGxmSXd2dFB3X3k2dmlpZkw0OUhLSlpGVkE1QkYtVXEtWHVhYlBrY2trU0hteE80QUJ1UmJFVHNhVHo3RTU3eE1WOC1NS2RoSzc1dWRJZzYxblR3MFhkUU1WaXFSdGQ5NGs?oc=5",
           "tipo": "nota"
+        },
+        {
+          "nombre": "Uruguay Al Día",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPem9aZkg1alljYmR2QmNrc2NrZUVhbHlidFRPQTQyOHotaGIxNUlGa0szN3ljWjlfN250WjhuQ0FpNVQ0ZzdzQzVOR3JkXzRKSDg1Z3lpSUFSQXpkbmNFVGI5bS1fX3lLNGNfaDlaWS12UWxOOGlzeDdGRXRjcG55bHV1aWZ6WDkzbDZPZkpkMUZoQnZMSFlfaGYycENDNUVMOU1HY2tMSW9ib1lITmhlQjJKYUFtLTBwVzFka295SW9rWi12VmxUQmUySGZ2UQ?oc=5",
+          "tipo": "nota"
         }
       ],
       "region": "ar"
@@ -1746,6 +1924,23 @@
       "region": "ar"
     },
     {
+      "id": "ba2fa048594d",
+      "categoria": "reg",
+      "fecha": "2026-11-25T11:11+00:00",
+      "titulo": "Víctimas de fraude financiero enfrentan trámites excesivos y demandas de bancos",
+      "resumen": "",
+      "fuente": "Trade-news.cl",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1ZPWkgwdE5YVk9DZHhrQm9UbERDWEJCSkdiVDdYb251SHBDZE1tQWpGSXJsWEM4ZWJJa2c5SWlSY29TSm51WENxQ2FDQlN2YmstclRZZWkyZ0kzc09nMENLQzBnc1FaNDlxTE8wRzBDSF9mUlZ5Y2JUR1RJYTc3bHliWFlRcU5mOGl0QnE2eHIxQTFxMWdJMFdLeEhSZFdYWkNR?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Trade-news.cl",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1ZPWkgwdE5YVk9DZHhrQm9UbERDWEJCSkdiVDdYb251SHBDZE1tQWpGSXJsWEM4ZWJJa2c5SWlSY29TSm51WENxQ2FDQlN2YmstclRZZWkyZ0kzc09nMENLQzBnc1FaNDlxTE8wRzBDSF9mUlZ5Y2JUR1RJYTc3bHliWFlRcU5mOGl0QnE2eHIxQTFxMWdJMFdLeEhSZFdYWkNR?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "3f43b9f205e3",
       "categoria": "reg",
       "fecha": "2026-11-25T11:08+00:00",
@@ -1797,6 +1992,40 @@
       "region": "global"
     },
     {
+      "id": "effefdceea50",
+      "categoria": "reg",
+      "fecha": "2026-11-25T10:23+00:00",
+      "titulo": "Vilagarcianos víctimas de la estafa bancaria masiva sufren secuelas económicas y psicológicas: «Me han hecho mucho daño y no sé si podré recuperarme»",
+      "resumen": "",
+      "fuente": "Faro de Vigo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGg4Wk5NanhBXy12blVYcGJMbHR1a1FJamg4QmJrTzNOUVM0YnpoRlhrUDVrV0x5LUIxSGdxQ1FSUUo5R1A3X1NEOU1qUUw0ZEt2X1dBcVV5bi1jY1ZDcGpMS2ZwYzNxQm1LcjdJTi1RRTU0alpveXhEWTUtb0dvZlE5c250SFU4SzM1TG1qUE5yeUpCNDZJOV9FeF91YTlkRzZxdnpnWdIBrAFBVV95cUxNZ3NoSndQS1dNZHJ5a3RNdHRzcnFHbDZ3dzZkQ0RLM0UxSG5UWTlVVDdDS0ZUaW8ybk4tNktzaFJrQVg5ZW4xTExrOFZaRHoxOWJLYkRGQ2s0YjAtaHF2SHFFOGxtMFRXaWNkWlpmWDJocDBRSnEzYVlKMUl0TkNDR1U4WldwbXBpYlh4Q1ZMX0xPQUdGY0JrV2l2SDZvOW4yejd1eVZ4WVcyVUNj?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Faro de Vigo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGg4Wk5NanhBXy12blVYcGJMbHR1a1FJamg4QmJrTzNOUVM0YnpoRlhrUDVrV0x5LUIxSGdxQ1FSUUo5R1A3X1NEOU1qUUw0ZEt2X1dBcVV5bi1jY1ZDcGpMS2ZwYzNxQm1LcjdJTi1RRTU0alpveXhEWTUtb0dvZlE5c250SFU4SzM1TG1qUE5yeUpCNDZJOV9FeF91YTlkRzZxdnpnWdIBrAFBVV95cUxNZ3NoSndQS1dNZHJ5a3RNdHRzcnFHbDZ3dzZkQ0RLM0UxSG5UWTlVVDdDS0ZUaW8ybk4tNktzaFJrQVg5ZW4xTExrOFZaRHoxOWJLYkRGQ2s0YjAtaHF2SHFFOGxtMFRXaWNkWlpmWDJocDBRSnEzYVlKMUl0TkNDR1U4WldwbXBpYlh4Q1ZMX0xPQUdGY0JrV2l2SDZvOW4yejd1eVZ4WVcyVUNj?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "65775dbb3ed1",
+      "categoria": "reg",
+      "fecha": "2026-11-25T10:09+00:00",
+      "titulo": "Casi 7 de cada 10 cheques son electrónicos: cómo cambia la relación de las PyMEs con los bancos",
+      "resumen": "",
+      "fuente": "InfoMendoza",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWItZjRJMXNIeXE5bHFtOHhLNmdWWG9LREcxc1llWDMtYzJnMmR0ZUFiN0ljWnU1dXBVb211NFZxZ3FwNnZoWUtWclJaZjdSLTg5VFpoUS1MVlA0UjVKbUpoZ1UwMVpNbkgtNFlyYXF3dnY5SXlQWXdFcjh4OW5EZnVQV01paU9CaXp1bzdibzRmR2dfc0NVNklYQW0xeXpXbXUyQ3hIZmJORDVIU09QR0hLYU85d1pONXRQbExCNEMzWE04STVPdmEwQdIBywFBVV95cUxONWItZjRJMXNIeXE5bHFtOHhLNmdWWG9LREcxc1llWDMtYzJnMmR0ZUFiN0ljWnU1dXBVb211NFZxZ3FwNnZoWUtWclJaZjdSLTg5VFpoUS1MVlA0UjVKbUpoZ1UwMVpNbkgtNFlyYXF3dnY5SXlQWXdFcjh4OW5EZnVQV01paU9CaXp1bzdibzRmR2dfc0NVNklYQW0xeXpXbXUyQ3hIZmJORDVIU09QR0hLYU85d1pONXRQbExCNEMzWE04STVPdmEwQQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "InfoMendoza",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWItZjRJMXNIeXE5bHFtOHhLNmdWWG9LREcxc1llWDMtYzJnMmR0ZUFiN0ljWnU1dXBVb211NFZxZ3FwNnZoWUtWclJaZjdSLTg5VFpoUS1MVlA0UjVKbUpoZ1UwMVpNbkgtNFlyYXF3dnY5SXlQWXdFcjh4OW5EZnVQV01paU9CaXp1bzdibzRmR2dfc0NVNklYQW0xeXpXbXUyQ3hIZmJORDVIU09QR0hLYU85d1pONXRQbExCNEMzWE04STVPdmEwQdIBywFBVV95cUxONWItZjRJMXNIeXE5bHFtOHhLNmdWWG9LREcxc1llWDMtYzJnMmR0ZUFiN0ljWnU1dXBVb211NFZxZ3FwNnZoWUtWclJaZjdSLTg5VFpoUS1MVlA0UjVKbUpoZ1UwMVpNbkgtNFlyYXF3dnY5SXlQWXdFcjh4OW5EZnVQV01paU9CaXp1bzdibzRmR2dfc0NVNklYQW0xeXpXbXUyQ3hIZmJORDVIU09QR0hLYU85d1pONXRQbExCNEMzWE04STVPdmEwQQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "7078f0a1355d",
       "categoria": "reg",
       "fecha": "2026-11-25T09:53+00:00",
@@ -1825,6 +2054,23 @@
         {
           "nombre": "El Cronista",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1BnN3RyQXhoMXEzSE9hVDAzWjRaSjVQcGVEaGFoV0pLdmVuR2tUdGlnQlpZZDNfSTNHbHhSVmhnZmxEU1FqRUFsRWxRWnJTM25EZHNYeThEX21lQmhsM09LSFZfOWI1QzhrQ3FMTXJBUzJObXdwRF9BT3RKMG1HaDlBaENadFQ3Q3NMLVY0dFNnQ3pjdEt6Z0p4MFhzandCeDFkSDBha2xMcmIwZ01oQ29pdVRWVS1EZVdEQk9YOU5jZ2NzZEI3a05KTFEtUUNBM2NGNUlCRWJYaENRanJITnZfcTbSAf8BQVVfeXFMTWtOQTRyNnlIV1VILVhHX1J5NHVoRmpZdDFIclctemRMeUJramdKVkY0Wm50ZUtDR3FmS3Y5Vm9tM2RXN2tmOG1ROW1DN0RhSTlidU8xMDlSMUtkZ0pwQTZXWFJ3MF9mNEwtQ29KWHRNM3lOX1NZXzEyVWZwaFJIZHdOVGZoSHR3OG5lRFY5bWYzWmJjT3dTVVkzdzdFM0dlQ1BwT0dId1ZvTkJ0N0lISUFhQXktdlJqOWNEcVFHLVVKTHFVZzVJbXdsNEUwRHJicndTMW1XbVM4RnlqY2RuemtleUJ4T0NTQzM5VGlPdzI4UTN2UUl2bXNCYzdhQlFF?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "de2591e6a217",
+      "categoria": "ux",
+      "fecha": "2026-11-25T09:00+00:00",
+      "titulo": "Banco Santander: paro nacional el 1 y 2 de diciembre",
+      "resumen": "",
+      "fuente": "Impacto Castex",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblZLMUp3aHpjM016d0x0THBTRzNGQW5FaTVUQjJvZmVkSm81RkZLelFQcVBDc0UtU3VyTVI2QmdTUW1IZFZtcXdhcHFYeDFEejdjYzZvdmZqbnNYenB2RjFYQzg2RlNSNURFUElXNk1tTTlIRlVnV1gxVmFUMnFaa3pmMk5MZnA3ODR2MG1zc183N29rOFd3WExCSlFmUQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Impacto Castex",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblZLMUp3aHpjM016d0x0THBTRzNGQW5FaTVUQjJvZmVkSm81RkZLelFQcVBDc0UtU3VyTVI2QmdTUW1IZFZtcXdhcHFYeDFEejdjYzZvdmZqbnNYenB2RjFYQzg2RlNSNURFUElXNk1tTTlIRlVnV1gxVmFUMnFaa3pmMk5MZnA3ODR2MG1zc183N29rOFd3WExCSlFmUQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1882,34 +2128,117 @@
       "region": "global"
     },
     {
-      "id": "328a245d9b1b",
-      "categoria": "ux",
-      "fecha": "2026-11-25T02:49+00:00",
-      "titulo": "Crew Review 2026: Is Crew Finance Worth It?",
+      "id": "3ffa43682ceb",
+      "categoria": "reg",
+      "fecha": "2026-11-25T05:57+00:00",
+      "titulo": "Un año después de comprar bitcoin, el banco central checo no revela su valor",
       "resumen": "",
-      "fuente": "Well Kept Wallet",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vdUtyNEUxSzhYSEJDZUVBVkZ3aTNwcVBLMVFUMTRFU3g4LUFiXzRMZ3N5SkU2a1BlbTZYN1RJTFlqZGZycW9ZTUZPZndQTWM2?oc=5",
+      "fuente": "Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14UVptbHpObFVhYy1SYm9qYldJblZ0Smt1N0wyaElEMEt6UXNuc1BUTi1RUFpDZHlhVUs4SWp3c2x3b1J0bTVsNTB6OEcwQS1xcjZYTHdOOE5lZ1VP?oc=5",
       "enlaces": [
         {
-          "nombre": "Well Kept Wallet",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vdUtyNEUxSzhYSEJDZUVBVkZ3aTNwcVBLMVFUMTRFU3g4LUFiXzRMZ3N5SkU2a1BlbTZYN1RJTFlqZGZycW9ZTUZPZndQTWM2?oc=5",
+          "nombre": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14UVptbHpObFVhYy1SYm9qYldJblZ0Smt1N0wyaElEMEt6UXNuc1BUTi1RUFpDZHlhVUs4SWp3c2x3b1J0bTVsNTB6OEcwQS1xcjZYTHdOOE5lZ1VP?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3Jybi1GX0NsVExETjVsc2hISHdxZTE3ZjVrTzZqNW9QNlBjcjRCQ3hieU9BT25xOURPWjdrWFpiMWRDQmkzcmVqenNFdkN2UXRTaUo2SWRTQ3hzQmhjVF9Xd2NOeENUSzVBLXZwaWZlLUEyRFlqNGdnVmxsclFCcTc0ZllVekd0YUxpMXdVQWxobVkwMEJ4ZXB1SEV4VXZzT3ZDQkk2VkRHZEU1bFItb2NfNno1SUpjNjU0?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "141f98901604",
+      "categoria": "ux",
+      "fecha": "2026-11-25T05:32+00:00",
+      "titulo": "Compass Design System Digital Membership Card",
+      "resumen": "",
+      "fuente": "디자인 나침반",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcU9kZFU5Uzd6cnhmOXFNalM3cDkzMERCSlhaMHdfcXllcFlEd1E1ckxiUUpWT0tEUnpnYzdlVFF5dTRHdlRJQmJmQXM2NVJnU044WXJ1N05Zd0d0ZG5GeUd4MVozTUgteUdHN1AwUkFaa09RaFpZT2ZoSS1faDZGUEMzMU8?oc=5",
+      "enlaces": [
+        {
+          "nombre": "디자인 나침반",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcU9kZFU5Uzd6cnhmOXFNalM3cDkzMERCSlhaMHdfcXllcFlEd1E1ckxiUUpWT0tEUnpnYzdlVFF5dTRHdlRJQmJmQXM2NVJnU044WXJ1N05Zd0d0ZG5GeUd4MVozTUgteUdHN1AwUkFaa09RaFpZT2ZoSS1faDZGUEMzMU8?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "global"
     },
     {
-      "id": "0df10efe80a2",
+      "id": "1bfd3897e2f1",
       "categoria": "ux",
-      "fecha": "2026-11-25T02:41+00:00",
-      "titulo": "Banco del Bienestar: ¿qué hacer si no puedes entrar a la aplicación?",
+      "fecha": "2026-11-25T05:15+00:00",
+      "titulo": "No bajes la guardia digital",
       "resumen": "",
-      "fuente": "Capital CDMX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFl6Y2ZrTGZzdzBxOEhJN0JuTDBUcDVzVG1ZVVZUbzEyR3JYU0RTRHk2R182NmhuYWpNc0lsTjdYTDFDR3FIM1RsV1pONXR3SVVoNHpxTzZKMzFqLTRObUFlZ0pOSXZLN09hLVNtZHB5Y0l1ZG56QXBsdFBGRFZNZDJGeWxTS3lGYXhOeVpTSDUySjRBanc?oc=5",
+      "fuente": "La Prensa.mx",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQ0kyaUNRZjE5QmFsQmswdnFHNGVIM3doSG5uaHllVEZGdERZZ2xyRXNsVklMdnR2ZjZyWUYxcFhTczJUc3BEUUpCXzYzS1hEeXBJTW5R?oc=5",
       "enlaces": [
         {
-          "nombre": "Capital CDMX",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFl6Y2ZrTGZzdzBxOEhJN0JuTDBUcDVzVG1ZVVZUbzEyR3JYU0RTRHk2R182NmhuYWpNc0lsTjdYTDFDR3FIM1RsV1pONXR3SVVoNHpxTzZKMzFqLTRObUFlZ0pOSXZLN09hLVNtZHB5Y0l1ZG56QXBsdFBGRFZNZDJGeWxTS3lGYXhOeVpTSDUySjRBanc?oc=5",
+          "nombre": "La Prensa.mx",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQ0kyaUNRZjE5QmFsQmswdnFHNGVIM3doSG5uaHllVEZGdERZZ2xyRXNsVklMdnR2ZjZyWUYxcFhTczJUc3BEUUpCXzYzS1hEeXBJTW5R?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "8e5787d74b53",
+      "categoria": "ux",
+      "fecha": "2026-11-25T05:00+00:00",
+      "titulo": "Ueno Bank: un banco digital sigue siendo un banco",
+      "resumen": "",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa19TMDZVWTdEU1NDb19oR0RkX1hrOW1pVzUxRnM5RENyWGloNjhtZFk5MUNYU2NnbllSZmtGNUZnZ2xNdkxqWFBEaU9zaUxZNk1HRl92N3hLUlEwZjlSbF9Mc21fMkRRQnVGWXNZcE9lV0JnVEZrLTMtdnRhbWZWUmZHRFpwUjRtQU14MUcxY3BGQ0NGMFFuMF9RRzBKc09lMmI3eXZjaXlsTkFRc0ZOVEJzRy1sVXJLbnpTTThYMktldm9SSmNtZtIByAFBVV95cUxOajY1OWthUHJkYnVnOG82eVZBRFd3SmlweVR3c2tkeFI0a0FQNnN5WE41NTBwTkVDcWRoTXlWU29wM0hza2RhTWNTMFhrdlhCUDI0NlFxdGV4X2hWbkVDVktoX3F2TkhnUTdLeEZ3N1I0SlZLU3M0MXFxN0dSRUp4S0hmVzhtQnZ4QXY0dHhEbjBmMFNMRTdodXE1QlZfOHhwSVpUelVWby1YSlZ6Ykp0WTZhZUxDeUVnZ1JkVmpyeHczT01nSU1xQQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LaRepublica.co",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa19TMDZVWTdEU1NDb19oR0RkX1hrOW1pVzUxRnM5RENyWGloNjhtZFk5MUNYU2NnbllSZmtGNUZnZ2xNdkxqWFBEaU9zaUxZNk1HRl92N3hLUlEwZjlSbF9Mc21fMkRRQnVGWXNZcE9lV0JnVEZrLTMtdnRhbWZWUmZHRFpwUjRtQU14MUcxY3BGQ0NGMFFuMF9RRzBKc09lMmI3eXZjaXlsTkFRc0ZOVEJzRy1sVXJLbnpTTThYMktldm9SSmNtZtIByAFBVV95cUxOajY1OWthUHJkYnVnOG82eVZBRFd3SmlweVR3c2tkeFI0a0FQNnN5WE41NTBwTkVDcWRoTXlWU29wM0hza2RhTWNTMFhrdlhCUDI0NlFxdGV4X2hWbkVDVktoX3F2TkhnUTdLeEZ3N1I0SlZLU3M0MXFxN0dSRUp4S0hmVzhtQnZ4QXY0dHhEbjBmMFNMRTdodXE1QlZfOHhwSVpUelVWby1YSlZ6Ykp0WTZhZUxDeUVnZ1JkVmpyeHczT01nSU1xQQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "24363f0419b5",
+      "categoria": "reg",
+      "fecha": "2026-11-25T01:48+00:00",
+      "titulo": "Jurado de EE. UU. declara culpable a Huawei por conspiración y fraude bancario",
+      "resumen": "",
+      "fuente": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzJ3SnpEeGNtLThrdElQNXdoRzN4VUxBYW1UQnZMVlpERWJRN1hENWJSc2NGbmJpQmlvbWpRdlZuX2RRUUtBUUJxTV9MOG9BYU1zZXZTdEItbUZXTGtEQ0x4WmVvT1YxY3hHWjZjbVBxWV9lbkF6NkVDLVBQWFJERGJlRDJsSVIzQ052dTQ1X3FvcTd2dER2RmFlRHdadGJZRk9LU2hxYUlfYVFvNzhQZGQzcDUtRk5US0E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "DiarioBitcoin",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzJ3SnpEeGNtLThrdElQNXdoRzN4VUxBYW1UQnZMVlpERWJRN1hENWJSc2NGbmJpQmlvbWpRdlZuX2RRUUtBUUJxTV9MOG9BYU1zZXZTdEItbUZXTGtEQ0x4WmVvT1YxY3hHWjZjbVBxWV9lbkF6NkVDLVBQWFJERGJlRDJsSVIzQ052dTQ1X3FvcTd2dER2RmFlRHdadGJZRk9LU2hxYUlfYVFvNzhQZGQzcDUtRk5US0E?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "CNN Chile",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGRxSGRPNEd5cV9KTlBReFU2SmJ2R1ZGVWVuM0dFVUdLSGNZUmxWdFJCdXpjN01xQ2ZFU2pvYUJQVlVWVkFzR2hDTkJzblltbll6a2NDNTZWMnkwbXRnTXJBaVpWdDZseDhKYXNlNjJVVkp1M1Y2dURIWVFzTDVUbUlXSW5BZG44ZG10LURneGFyNGh1d213TGtRSGZUTWVWSnFzdVhYMkhYZDg1UEVnWm52eWE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "f87184e7d6db",
+      "categoria": "reg",
+      "fecha": "2026-11-25T00:52+00:00",
+      "titulo": "Jurado declara a Huawei culpable de fraude bancario y de conspirar para robar secretos comerciales",
+      "resumen": "",
+      "fuente": "https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWmxDbC1ZbjNTeGdoQ18xeF9ENGNoR3dIV2ZrT2ZZZFhPdGFzNWNGSl9HZkdUZjRHdjJsazk4TGhjOFNLdHZzdXNvc1ZhQnQydWVGeUViTEhjVDhJUWVxdnpMQnpZeVpHRnZIMDk2dndXRkU5ZHV3eDYzOVJaVlU?oc=5",
+      "enlaces": [
+        {
+          "nombre": "https://fomoera.com/",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWmxDbC1ZbjNTeGdoQ18xeF9ENGNoR3dIV2ZrT2ZZZFhPdGFzNWNGSl9HZkdUZjRHdjJsazk4TGhjOFNLdHZzdXNvc1ZhQnQydWVGeUViTEhjVDhJUWVxdnpMQnpZeVpHRnZIMDk2dndXRkU5ZHV3eDYzOVJaVlU?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "el boletin",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDl4TjJqR1BKald3c19HTUVka1FaSmVSWUhfOXFvTjU5VTR2MnA0MzE3S1N3VThTX0R6YnV6alZkaWlTYkVuY0huMVBrNElod0JzMzNWUlB1R2t6dFN2LVpSeEVYZG1mTkZBaUt1RTF0NXFVdm1RbEJGdjhTTUpiMFE2eFZNWFRPSFRkZXVDTWp0YkZQZmJFeUhlTjR4YnNaZTZ4SW4wc2paMUNEX0ZzSFhmQnRiSUFBMGpjVGhVSjXSAcYBQVVfeXFMTWVqaVBpaDU5bWZqVGNGYTFUc0xCUU4xVEU1SUNmeVJvQm9zOGsxNEJWVzJZZWNwMlVpUmJSZWY1QkpoS181V3VaN3RZWmxzNEFfdUFpb3pSUGhVX0hfZ1BCQnlxVmwtaUJtek5uOWZTZ3hzdUZNVC1GQ0U1aGxmOUFodTJPTnVRVWdHdmk3Z1B5WnFRS0NVSVFJM0VlTmZFNDNBN202UmpBRmNOODZqX3pPVks5bHB1VEw2TVJha2NRaG43aVBn?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1967,6 +2296,23 @@
       "region": "ar"
     },
     {
+      "id": "f04ad2eb4580",
+      "categoria": "reg",
+      "fecha": "2026-11-25T00:22+00:00",
+      "titulo": "Tribunal de EE.UU. declara culpable a Huawei por fraude bancario y robo de secretos comerciales",
+      "resumen": "",
+      "fuente": "La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVHFjS09IWk1xaXRSRUhhYUlMOXhfa1NicHg4dXVURnNTX0F0bmg5T3JCbGY0RXp2UnE4Qkx4YXlNTVNZR3FSTGwxVDdjTXdKWFNKUUdDRkZVd3ZkN2NRZ2lDVHM5Smk3bzQxc09Pbi1SSkh1Z2l6WWFITmhuQUtiN09UOXFIaXNOenZvTjdKUkhMaFFrSTJpQUpLTnRaOExUYXVMam5VMi1DTk1WUERCM2xObjhBWUJHU1B0Z1c3VnZBZkJwbTBFWXBQMkJEeVnSAfABQVVfeXFMTTc1SUN2bDI2V2cxajVGYkZEalRtNDVTS0ZHNGRYSFZCZHRMV2VSdlF6c0pYTDhrck9SVGtBSXlmdDJIb0tubDFLRlB0UU90eTVUdTdoUk84Z1FSeDZFU0hMWHV1MVc1cnhHOXF3eF9lOUpKV25iYktOX3dhRkp3bDdya1hvNWNfQmdZeko4dW9sLWV2bXFpU3psYXk2VlZHWFVSV2xTcktvZkMzaFJXdXRHNHVwYllsZUpzZXFfbklmZzlYQ2t4d3lsY3lDZmlLNHg5UVpzYVZoazFfeDhjem0xaFZPUjk0OHViQVN6ZlBT?oc=5",
+      "enlaces": [
+        {
+          "nombre": "La Tercera",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVHFjS09IWk1xaXRSRUhhYUlMOXhfa1NicHg4dXVURnNTX0F0bmg5T3JCbGY0RXp2UnE4Qkx4YXlNTVNZR3FSTGwxVDdjTXdKWFNKUUdDRkZVd3ZkN2NRZ2lDVHM5Smk3bzQxc09Pbi1SSkh1Z2l6WWFITmhuQUtiN09UOXFIaXNOenZvTjdKUkhMaFFrSTJpQUpLTnRaOExUYXVMam5VMi1DTk1WUERCM2xObjhBWUJHU1B0Z1c3VnZBZkJwbTBFWXBQMkJEeVnSAfABQVVfeXFMTTc1SUN2bDI2V2cxajVGYkZEalRtNDVTS0ZHNGRYSFZCZHRMV2VSdlF6c0pYTDhrck9SVGtBSXlmdDJIb0tubDFLRlB0UU90eTVUdTdoUk84Z1FSeDZFU0hMWHV1MVc1cnhHOXF3eF9lOUpKV25iYktOX3dhRkp3bDdya1hvNWNfQmdZeko4dW9sLWV2bXFpU3psYXk2VlZHWFVSV2xTcktvZkMzaFJXdXRHNHVwYllsZUpzZXFfbklmZzlYQ2t4d3lsY3lDZmlLNHg5UVpzYVZoazFfeDhjem0xaFZPUjk0OHViQVN6ZlBT?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "986c1053c86b",
       "categoria": "reg",
       "fecha": "2026-11-25T00:19+00:00",
@@ -2001,23 +2347,6 @@
       "region": "global"
     },
     {
-      "id": "4867e13d3eb7",
-      "categoria": "ux",
-      "fecha": "2026-11-24T23:16+00:00",
-      "titulo": "Falla masiva en la Red Link afecta home banking, aplicaciones y cajeros automáticos de todo el país",
-      "resumen": "",
-      "fuente": "NEXOS DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnljNllWVHJhajN6amRxVVdFTWdlQ0o1X0p2eE44azI1WHgwT2xSU1JMYzI0VTdxYnhCNmozelFvdE80WnBNZGQ0UmphOTd1a3dhY1pFamx3YXNMUG9DcE80SjhiMUJwR3BwTWhhcWcyM3RValZhcUN0Q1ZUUkF1X05jeDB4TTFWaklBY3JJT09pN2hVN2pSRnNydGpzVXhycDZMYko5MGN0WTh0dGlpZE5kdnpXUHItSkNXR2NTYUhBU2JNV2x1V1d5bF9uLWQtTHhqSA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "NEXOS DIGITAL",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnljNllWVHJhajN6amRxVVdFTWdlQ0o1X0p2eE44azI1WHgwT2xSU1JMYzI0VTdxYnhCNmozelFvdE80WnBNZGQ0UmphOTd1a3dhY1pFamx3YXNMUG9DcE80SjhiMUJwR3BwTWhhcWcyM3RValZhcUN0Q1ZUUkF1X05jeDB4TTFWaklBY3JJT09pN2hVN2pSRnNydGpzVXhycDZMYko5MGN0WTh0dGlpZE5kdnpXUHItSkNXR2NTYUhBU2JNV2x1V1d5bF9uLWQtTHhqSA?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "a2f52c5e384d",
       "categoria": "reg",
       "fecha": "2026-11-24T23:01+00:00",
@@ -2035,106 +2364,55 @@
       "region": "global"
     },
     {
-      "id": "7b72dfd5306d",
-      "categoria": "ux",
-      "fecha": "2026-11-24T22:53+00:00",
-      "titulo": "Taxfix acquires UK fintech Countingup to expand small business services",
+      "id": "54a923c28e66",
+      "categoria": "reg",
+      "fecha": "2026-11-24T22:26+00:00",
+      "titulo": "Hasta Messi está en lista de afectados por el fraude de ueno bank",
       "resumen": "",
-      "fuente": "Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQnJMdzVYbnR4WVZSR0taOF81VndNVlVuSXhNbWlyQjhUUDQ5RlZSWkhHXzVFUzdnN1MzY3lrX0VITDFBUTB3M3g1VXhYdXh6cldIQkpxYzhIZnZwd1FnVVE4bXpNdUR2VWVTSW9PTWFXUQ?oc=5",
+      "fuente": "Extra",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEZtaTNYQUM5ODFJM2NIbUtkM09MeHUwWEVYbkRJTkd4Y1pxZ1ljT3FlbmE5S0hEeURwcW1DNHRWX3plc0wwWmZoWUVLeklxNmU1RTJNSEEtQ2Y2YS1tTExFQkxhS3FoWk1Oak11Q2RldWJzUERsYmVBUlB1SUp3NkZTU0U0VzdnUFNnLWxLREtLTDJLUmpFVjk5SdIBqAFBVV95cUxPWnB2bGt1Y0VmaFY3R0szdk9BR1ljRThsWFd2X0RZYmlSRXE2bkRhaVFlcnZnV3RXZzJmUC1jRDZ0VFN4SUlqN0FUbGJ5OFJQSk05aUFBRVM5b3dkUVVDbUJISGxkbDc2T2UzbmFjSDlQVWIwT01tVHBpQzJGdTBsOFBPdG93TEpCZVpxNUNsVjRIYXZtcTRJaWtXam5CSVdBX2Y1LVpoaFc?oc=5",
       "enlaces": [
         {
-          "nombre": "Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQnJMdzVYbnR4WVZSR0taOF81VndNVlVuSXhNbWlyQjhUUDQ5RlZSWkhHXzVFUzdnN1MzY3lrX0VITDFBUTB3M3g1VXhYdXh6cldIQkpxYzhIZnZwd1FnVVE4bXpNdUR2VWVTSW9PTWFXUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "4ed28d32b690",
-      "categoria": "ux",
-      "fecha": "2026-11-24T22:38+00:00",
-      "titulo": "Government Support and Trust Linked to Indonesian Gen Z Fintech Lending Continuance Intention",
-      "resumen": "",
-      "fuente": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGVCQ2cwcHNGQ1c0Z09pZE9IXzl0aWZjUC1jXzBlLTZuT3FoUDBXUC0zUnk0S1gyLW1qdVRIWW5yeGhFQUJ6UzhDWFBKdGY0NmxaSEVMZ0thU0c4dnRJOHJfdmQtR0h2R0NSckE5Q2FrWHgzc3RINW80VXd0ZkhhX3RfN2JrRVgxUGZpaHJMT3dCSG54bmZNanRsX2hXUUdtTlNQalY0VS1BY3VtUnk5OUxLZDJPLU00a1E?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Bioengineer.org",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGVCQ2cwcHNGQ1c0Z09pZE9IXzl0aWZjUC1jXzBlLTZuT3FoUDBXUC0zUnk0S1gyLW1qdVRIWW5yeGhFQUJ6UzhDWFBKdGY0NmxaSEVMZ0thU0c4dnRJOHJfdmQtR0h2R0NSckE5Q2FrWHgzc3RINW80VXd0ZkhhX3RfN2JrRVgxUGZpaHJMT3dCSG54bmZNanRsX2hXUUdtTlNQalY0VS1BY3VtUnk5OUxLZDJPLU00a1E?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "db8b6b2ea233",
-      "categoria": "ux",
-      "fecha": "2026-11-24T21:46+00:00",
-      "titulo": "MagicOS 11 Could Be Android's Answer to iOS 27's Premium Design",
-      "resumen": "",
-      "fuente": "nokiapoweruser.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
-      "enlaces": [
-        {
-          "nombre": "nokiapoweruser.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "c4c4dbdcc109",
-      "categoria": "ux",
-      "fecha": "2026-11-24T21:30+00:00",
-      "titulo": "PSPs Scale SME SPEI, CoDi With Frictionless UX and Credit",
-      "resumen": "",
-      "fuente": "Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtmdktfVmJIV3pSNFhXTVh5THFDdmk5T3lfQml1MVE2elgyTlVUSThUaF8yVGZXS0g0c2tvOUdaRm9JLVBYNVZ1ci1GcHp6T0M1TDgxZmQtLWNNVGNlcTRZejZhUjJibmlQNEtPblp0UDdqUWNYQWIyZ0Q0TEdPRmJPTi1HenQyLVRZUlRMdXZZOWNGUnpv?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Mexico Business News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtmdktfVmJIV3pSNFhXTVh5THFDdmk5T3lfQml1MVE2elgyTlVUSThUaF8yVGZXS0g0c2tvOUdaRm9JLVBYNVZ1ci1GcHp6T0M1TDgxZmQtLWNNVGNlcTRZejZhUjJibmlQNEtPblp0UDdqUWNYQWIyZ0Q0TEdPRmJPTi1HenQyLVRZUlRMdXZZOWNGUnpv?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "088c83be1819",
-      "categoria": "ux",
-      "fecha": "2026-11-24T21:03+00:00",
-      "titulo": "Si recibes Beca Rita Cetina o Pensión del Bienestar, ya puedes transferir dinero sin comisiones desde tu teléfono",
-      "resumen": "",
-      "fuente": "Mi bolsillo",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMVRhSFl1RFhXY1NDZkltZmZKdTRacXg0QWlkM2ctOHNHMi1sdTgzb3lZTC1GMlE0dFVTVzJwZkJYWHFZakJCcTlicER1X21fdUFaTy01emRFem5TWEhjTURzQnhwMGJjZDVTci0xLTlHMklqZGNfbWJrUkhlaW9OWmZ0cVBjUW1wSU16d0tSYUdTQW1fUVYxMmtiYzdlMjlnLWxIdDQ2emlMejlrYmMwZlpxZ1V5Nl9nVmg4ZFpfU0U2alBuMERCcHQxQTFnSE9hOVFQRzFxUVNtcFJ1VHozQWd3aE1VdVNlX2JRTGpsWTRJSkZQbXlUWU1fbHBGZw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Mi bolsillo",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMVRhSFl1RFhXY1NDZkltZmZKdTRacXg0QWlkM2ctOHNHMi1sdTgzb3lZTC1GMlE0dFVTVzJwZkJYWHFZakJCcTlicER1X21fdUFaTy01emRFem5TWEhjTURzQnhwMGJjZDVTci0xLTlHMklqZGNfbWJrUkhlaW9OWmZ0cVBjUW1wSU16d0tSYUdTQW1fUVYxMmtiYzdlMjlnLWxIdDQ2emlMejlrYmMwZlpxZ1V5Nl9nVmg4ZFpfU0U2alBuMERCcHQxQTFnSE9hOVFQRzFxUVNtcFJ1VHozQWd3aE1VdVNlX2JRTGpsWTRJSkZQbXlUWU1fbHBGZw?oc=5",
+          "nombre": "Extra",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEZtaTNYQUM5ODFJM2NIbUtkM09MeHUwWEVYbkRJTkd4Y1pxZ1ljT3FlbmE5S0hEeURwcW1DNHRWX3plc0wwWmZoWUVLeklxNmU1RTJNSEEtQ2Y2YS1tTExFQkxhS3FoWk1Oak11Q2RldWJzUERsYmVBUlB1SUp3NkZTU0U0VzdnUFNnLWxLREtLTDJLUmpFVjk5SdIBqAFBVV95cUxPWnB2bGt1Y0VmaFY3R0szdk9BR1ljRThsWFd2X0RZYmlSRXE2bkRhaVFlcnZnV3RXZzJmUC1jRDZ0VFN4SUlqN0FUbGJ5OFJQSk05aUFBRVM5b3dkUVVDbUJISGxkbDc2T2UzbmFjSDlQVWIwT01tVHBpQzJGdTBsOFBPdG93TEpCZVpxNUNsVjRIYXZtcTRJaWtXam5CSVdBX2Y1LVpoaFc?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "ar"
     },
     {
-      "id": "9f93a2dd460f",
-      "categoria": "ux",
-      "fecha": "2026-11-24T19:58+00:00",
-      "titulo": "GME Stock Alert: GameStop Just Scored a New 'Buy' Rating",
+      "id": "4825e293a708",
+      "categoria": "reg",
+      "fecha": "2026-11-24T22:15+00:00",
+      "titulo": "Javier Milei viajará a Paraguay para reunirse con el sucesor de Santiago Peña, que sigue preso por la estafa de Ueno Bank",
       "resumen": "",
-      "fuente": "Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3hIYk0yQWdRYkJPR2pDVmg0SVY5MjViMW1jVGVkZG5fSkJEbFpVNXdtNk53bWpSMTdKdFpKTVI4cGtoY0I0Q0NZajJZd2RsWkdXMHdmdlNBV0djRlhKNktObkFSdUJOdjVjZ2lxUjBUV3FQTXdEay16T040ZFZ3bk9WSkJIdHZQM2dFbG82akRjTjNTdG9mNFJEZEU0dw?oc=5",
+      "fuente": "C5N",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1BkLVZYS0xIUGVlTGhUNDJXTlltckQ4TFNaZVJWdkRzbjVzT1psa3I0ZDBpdTlHVC1BWkpKQTRobE9PaDJVUWRxZnVOWmFwQk03M3ZzWEhMa2ptVkpZQVg0ejIyRV9uLUIwNnN6d2pGYTk2YW8yUjJLY0FDZVBDbW55RUUyNmZhMGZjd0pDdUgtZVFzUDJuZ2ZRY0k4eHZuTEU1QWt5ejEzSmRqdDZWQ21saC13Rnc4cHNCM0VyUXY4R0pTMlEwQ0ZiSkxleDFIY3fSAdcBQVVfeXFMTTk1N0lMTDVaVC1DcWdPVlE5WGdUT2Y2NDdTTG5fdGpuMnFjT05qV05JeTNXNHRtcWtPcnc5WFh4dXpLQUpMVm1lVHJaMVlrVFBjZENGTlRieS1nNXJLelJwUHJzZDB2Q3ViUF9lWlFaRU5xLXB4R3JLdTkxWW1wSUVoekNTaExXRHM0RWJmRzhiNWx6SXFQYXhXUnBHdi12X0d6bGRPU01wTWtOMVd6bTdyQVctV3J5OFgzdGFIMTFMeDNsZWtmTE9UaUdldjlLM00zeWNtWGs?oc=5",
       "enlaces": [
         {
-          "nombre": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3hIYk0yQWdRYkJPR2pDVmg0SVY5MjViMW1jVGVkZG5fSkJEbFpVNXdtNk53bWpSMTdKdFpKTVI4cGtoY0I0Q0NZajJZd2RsWkdXMHdmdlNBV0djRlhKNktObkFSdUJOdjVjZ2lxUjBUV3FQTXdEay16T040ZFZ3bk9WSkJIdHZQM2dFbG82akRjTjNTdG9mNFJEZEU0dw?oc=5",
+          "nombre": "C5N",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1BkLVZYS0xIUGVlTGhUNDJXTlltckQ4TFNaZVJWdkRzbjVzT1psa3I0ZDBpdTlHVC1BWkpKQTRobE9PaDJVUWRxZnVOWmFwQk03M3ZzWEhMa2ptVkpZQVg0ejIyRV9uLUIwNnN6d2pGYTk2YW8yUjJLY0FDZVBDbW55RUUyNmZhMGZjd0pDdUgtZVFzUDJuZ2ZRY0k4eHZuTEU1QWt5ejEzSmRqdDZWQ21saC13Rnc4cHNCM0VyUXY4R0pTMlEwQ0ZiSkxleDFIY3fSAdcBQVVfeXFMTTk1N0lMTDVaVC1DcWdPVlE5WGdUT2Y2NDdTTG5fdGpuMnFjT05qV05JeTNXNHRtcWtPcnc5WFh4dXpLQUpMVm1lVHJaMVlrVFBjZENGTlRieS1nNXJLelJwUHJzZDB2Q3ViUF9lWlFaRU5xLXB4R3JLdTkxWW1wSUVoekNTaExXRHM0RWJmRzhiNWx6SXFQYXhXUnBHdi12X0d6bGRPU01wTWtOMVd6bTdyQVctV3J5OFgzdGFIMTFMeDNsZWtmTE9UaUdldjlLM00zeWNtWGs?oc=5",
           "tipo": "nota"
         }
       ],
-      "region": "global"
+      "region": "ar"
+    },
+    {
+      "id": "73992d5c0aea",
+      "categoria": "reg",
+      "fecha": "2026-11-24T21:00+00:00",
+      "titulo": "Fuerte revés para el Banco de La Pampa: confirman una multa por no frenar una estafa virtual",
+      "resumen": "",
+      "fuente": "infopico.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTZISzR0NjQ3YkN0Y2lQT2JoU3ZXb2ZpOC1FTC1hYldwcDJzbGtNakF6OUlIeUtpRUZZYmE3QXNjaHBTZ2ZsX1NBcy1pbDl6UVpaMEo2VERHcm9ucUxkblk5dEZpRGZ4RVJNZmdQN3NvTlBWUjVNOVhDeFZ3NjNqVnRCblI4ejF0M3VUcU83a1JBUmtBUmRoUEFfZnNiQVV2SG42WFdCejdoMng1NVJVMDEwN2thSl84M3Y2ZXdGX1BwR2c5LV9J0gHMAUFVX3lxTFA0S1BTUWg2RF9kU0V6c0FfVy0xemVqLWpHNVA0SXZSVjFvVkZHOU1INkdyd1ZfZmlnOUQ5SzRhSHJiVFpSZWFJcktoYmtzNkRxc1BadXpLMXE2SEZFRXVUal95RHJZYjlIVnJpTk1mNS1LWTRGeFpVQ2EzNTFfbEpXQ2pORGFCOWRhUWE3c0tPVERLV1Z6WDJIU3d5ekZkZHNUd2FINmdFcUpyNHI3aENPY2R6V0lDRGpXOG1aSDA3TXN6ZEdWeE8xOFNXdg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "infopico.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTZISzR0NjQ3YkN0Y2lQT2JoU3ZXb2ZpOC1FTC1hYldwcDJzbGtNakF6OUlIeUtpRUZZYmE3QXNjaHBTZ2ZsX1NBcy1pbDl6UVpaMEo2VERHcm9ucUxkblk5dEZpRGZ4RVJNZmdQN3NvTlBWUjVNOVhDeFZ3NjNqVnRCblI4ejF0M3VUcU83a1JBUmtBUmRoUEFfZnNiQVV2SG42WFdCejdoMng1NVJVMDEwN2thSl84M3Y2ZXdGX1BwR2c5LV9J0gHMAUFVX3lxTFA0S1BTUWg2RF9kU0V6c0FfVy0xemVqLWpHNVA0SXZSVjFvVkZHOU1INkdyd1ZfZmlnOUQ5SzRhSHJiVFpSZWFJcktoYmtzNkRxc1BadXpLMXE2SEZFRXVUal95RHJZYjlIVnJpTk1mNS1LWTRGeFpVQ2EzNTFfbEpXQ2pORGFCOWRhUWE3c0tPVERLV1Z6WDJIU3d5ekZkZHNUd2FINmdFcUpyNHI3aENPY2R6V0lDRGpXOG1aSDA3TXN6ZEdWeE8xOFNXdg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "165f9fc9b311",
@@ -2171,6 +2449,23 @@
       "region": "ar"
     },
     {
+      "id": "735cd194605f",
+      "categoria": "reg",
+      "fecha": "2026-11-24T18:00+00:00",
+      "titulo": "Cuidado con prestar tu cuenta bancaria: UIF alerta sobre fraudes que pueden meterte en problemas legales",
+      "resumen": "",
+      "fuente": "UnoTV",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVp5RHhSQ0JEeG05WE01ZUI0ck93TmdPRnhzMWUzYjU1VjJ5dHBIRFBCM1lmQkhGSG9yTjE2bWxxNFZoLW5pT2JqNWJIcEttMV85MVZzQ2tFREUwYUM5NFB4ck1LNEhfOUhrTXFkd0J4TjhQSmEyY2Q3angwdXJROXFXQTVNZzFKQmRTdmY2Q3pEUTA3dWZSdFkxdzVMQks0?oc=5",
+      "enlaces": [
+        {
+          "nombre": "UnoTV",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVp5RHhSQ0JEeG05WE01ZUI0ck93TmdPRnhzMWUzYjU1VjJ5dHBIRFBCM1lmQkhGSG9yTjE2bWxxNFZoLW5pT2JqNWJIcEttMV85MVZzQ2tFREUwYUM5NFB4ck1LNEhfOUhrTXFkd0J4TjhQSmEyY2Q3angwdXJROXFXQTVNZzFKQmRTdmY2Q3pEUTA3dWZSdFkxdzVMQks0?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "9d0467bde417",
       "categoria": "reg",
       "fecha": "2026-11-24T17:25+00:00",
@@ -2188,14 +2483,70 @@
       "region": "global"
     },
     {
-      "id": "699787e4bf00",
+      "id": "5fcf2f23785a",
+      "categoria": "reg",
+      "fecha": "2026-11-24T15:35+00:00",
+      "titulo": "Bank of America CEO: Bank Outages Stem From Real-Time Security Patching, Not Hacking",
+      "resumen": "",
+      "fuente": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYlVTRkNaWkVpbm8yMjdNZ0YxQ21RSzNOSHNJRjBZd2tQQlNudmtGVEttOEZ4N25WWGVYdV9QOGoxazdGdXlFMWhiTUVNUXZZSlJBZkJyZ0tOVEQzX3BpRVU3dEllYWVJeG1sMjhLNl9CM2hjN0E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYlVTRkNaWkVpbm8yMjdNZ0YxQ21RSzNOSHNJRjBZd2tQQlNudmtGVEttOEZ4N25WWGVYdV9QOGoxazdGdXlFMWhiTUVNUXZZSlJBZkJyZ0tOVEQzX3BpRVU3dEllYWVJeG1sMjhLNl9CM2hjN0E?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "08cd92f0324b",
+      "categoria": "reg",
+      "fecha": "2026-11-24T14:24+00:00",
+      "titulo": "Paraguay: Detuvieron a un hermano del expresidente Peña por la estafa del Ueno Bank",
+      "resumen": "",
+      "fuente": "El Submarino Jujuy",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2xEX1ZqOHpVR1lKLTVLZktGZEI2RXd0ZGUxM1VCeHRoeGxNZmVWVFU2aG5HZi1GWGRUNGFuN1drdnZQVnR0aTd1Rkp3QTc0Y29PUk1JMmhwYWxIcTN5RUJuc0tVMnlOS3BCTmdkLUM4ZFVYaW5FX2w0UkRzYVppZEpsR2loWm5ZeU5FQmZSS3JmZVpwek0xQnFYNXlGRnpsamViSkgyLXJNM2o2UFZYZHdZTUl5d9IBuwFBVV95cUxPLXExMFBZMjRDdFREVldxcDVXeHlYbDhOeFhVSjc2V3ZUdjRUX25CZzZtc1paNkdhT21kNFduNHkxZTV1Sk5UNXpzX015VWk5MVJsdjVBXzdSTjREa3V0YUFZNVNqQVFRVGxTYl9rMGY0U25tSkxZYWllblQydVQyWlpqNUROMnhoSWo1SERicU80OVd5ajl1ZzlDZWhMY0RhZ3dOaUhIM1RKMVVZSG9XSDdFbmFVODR0YUtN?oc=5",
+      "enlaces": [
+        {
+          "nombre": "El Submarino Jujuy",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2xEX1ZqOHpVR1lKLTVLZktGZEI2RXd0ZGUxM1VCeHRoeGxNZmVWVFU2aG5HZi1GWGRUNGFuN1drdnZQVnR0aTd1Rkp3QTc0Y29PUk1JMmhwYWxIcTN5RUJuc0tVMnlOS3BCTmdkLUM4ZFVYaW5FX2w0UkRzYVppZEpsR2loWm5ZeU5FQmZSS3JmZVpwek0xQnFYNXlGRnpsamViSkgyLXJNM2o2UFZYZHdZTUl5d9IBuwFBVV95cUxPLXExMFBZMjRDdFREVldxcDVXeHlYbDhOeFhVSjc2V3ZUdjRUX25CZzZtc1paNkdhT21kNFduNHkxZTV1Sk5UNXpzX015VWk5MVJsdjVBXzdSTjREa3V0YUFZNVNqQVFRVGxTYl9rMGY0U25tSkxZYWllblQydVQyWlpqNUROMnhoSWo1SERicU80OVd5ajl1ZzlDZWhMY0RhZ3dOaUhIM1RKMVVZSG9XSDdFbmFVODR0YUtN?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "dc685c94f7f3",
+      "categoria": "reg",
+      "fecha": "2026-11-24T13:28+00:00",
+      "titulo": "Recuperan más de $14 millones que le habían robado en una estafa telefónica",
+      "resumen": "",
+      "fuente": "Info Quilmes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaG5nQU03OG10YU1MUTZIWDVvOWtSd2JZRU5mM2NBZGI5TjVEdVVwLURFZVVvdzJzRXMxWkFIQUNfNWdpSDBPUUp4bTZCemFtbDlRSndPN1ZZbEltcW9SN1h3WW1EWmRoSFptd1VOU1Z3OE52dmN2SUk5elNSaGs3QUxFZ1FwN2dnc3hsQ1pkbUZzLTVBVDlFREFMY01EWS1iS1BYMHplRUZvS2doNEpYOEE1bHhmQW5MUUVOX2R3WdIBxAFBVV95cUxPVTk3OW45VWs5dEhNb1c3UVE4NTI1ZUFwUHpVMFBpeVMyZE81dDVUb2txNjZQcURDOWlfcHVKNkZFQzgyeFptVWtqNFJyR0tzWE9SczhyOUViRUJCTUZRRWpfNjE1bFhseUVTOWhPaFNCSkstUmJCcm1qM29fbkxETHFvVzJzcTAyWW1BYTZpTEVTV0ZDMXU4a1BoU0JCdXRpOXVDZ0RNMkpoX2ItTWMwTDBQMThVU25hUlFEVWVkajJsdVFY?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Info Quilmes",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaG5nQU03OG10YU1MUTZIWDVvOWtSd2JZRU5mM2NBZGI5TjVEdVVwLURFZVVvdzJzRXMxWkFIQUNfNWdpSDBPUUp4bTZCemFtbDlRSndPN1ZZbEltcW9SN1h3WW1EWmRoSFptd1VOU1Z3OE52dmN2SUk5elNSaGs3QUxFZ1FwN2dnc3hsQ1pkbUZzLTVBVDlFREFMY01EWS1iS1BYMHplRUZvS2doNEpYOEE1bHhmQW5MUUVOX2R3WdIBxAFBVV95cUxPVTk3OW45VWs5dEhNb1c3UVE4NTI1ZUFwUHpVMFBpeVMyZE81dDVUb2txNjZQcURDOWlfcHVKNkZFQzgyeFptVWtqNFJyR0tzWE9SczhyOUViRUJCTUZRRWpfNjE1bFhseUVTOWhPaFNCSkstUmJCcm1qM29fbkxETHFvVzJzcTAyWW1BYTZpTEVTV0ZDMXU4a1BoU0JCdXRpOXVDZ0RNMkpoX2ItTWMwTDBQMThVU25hUlFEVWVkajJsdVFY?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "fbc5a285f0e3",
       "categoria": "reg",
       "fecha": "2026-11-24T12:37+00:00",
       "titulo": "Las billeteras virtuales mejoraron sus rendimientos: las que pagan más y superan al plazo fijo",
       "resumen": "",
       "fuente": "El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMkU3TGFpLUh4TWxPd0xNcERVSkUtOWhOTmNMdFJvNHVUODh3aDI1NUpzM0NwLXpHTC03YTItYjV5RmNmdnVFUmhZTDl3Mm16b245aVZ2VWNDTEpjV0ZvNy0wQTB1OEVZWUh6YTlvWnBYaTZ1a1hFUmFiNnN1MHNmeXFXdFNYbXAxYTM2RnJLamt1NTF5VUNLRkhCUGF5U1FmbGVRcUZIUDVLUGk5aDBpRXczYWRsclFkT3gwVmF0ajdRbG13UHg2RGpHSGFackNuaDBxbWRzbktZNS1PUzg1VGw4b01Cank4OFVzMkFJWHdKcGxkVnU2QlctcjBJUDZBNlZJ0gGDAkFVX3lxTE0yRTdMYWktSHhNbE93TE1wRFVKRS05aE5OY0x0Um80dVQ4OHdoMjU1SnMzQ3AtekdMLTdhMi1iNXlGY2Z2dUVSaFlMOXcybXpvbjlpVnZVY0NMSmNXRm83LTBBMHU4RVlZSHphOW9acFhpNnVrWEVSYWI2c3Uwc2Z5cVd0U1htcDFhMzZGcktqa3U1MXlVQ0tGSEJQYXlTUWZsZVFxRkhQNUtQaTloMGlFdzNhZGxyUWRPeDBWYXRqN1FsbXdQeDZEakdIYVpyQ25oMHFtZHNuS1k1LU9TODVUbDhvTUJqeTg4VXMyQUlYd0pwbGRWdTZCVy1yMElQNkE2Vkk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZVh5TTBUZklZSV81dWxYNjhCVmRUUy1IN2VPc0hmWW5XejJja0w1ckVDLUpCVDlHd1pXYU5tR3hsdk9xR2VQc1J3ZV96V2JJMkZFV0kzZW9PUnVDcm9IeFAwVFI2elgzUXpCczdKM1dQWnhxWkdCd1hMRlU4SkJJdDdteVB1QkVGMVRsSEJfa2hnRDFwbER0M1hQRnFObkNuVjQ1VjhaUmEwTnc5RkhGa0RTOWVMQkZMZlR4Z2VQY3NuWEJMd1R1cG9ScUljcExhLWJmX25ycTByZ0FsZnl6N1pUcWE3OEhD0gGDAkFVX3lxTE0yRTdMYWktSHhNbE93TE1wRFVKRS05aE5OY0x0Um80dVQ4OHdoMjU1SnMzQ3AtekdMLTdhMi1iNXlGY2Z2dUVSaFlMOXcybXpvbjlpVnZVY0NMSmNXRm83LTBBMHU4RVlZSHphOW9acFhpNnVrWEVSYWI2c3Uwc2Z5cVd0U1htcDFhMzZGcktqa3U1MXlVQ0tGSEJQYXlTUWZsZVFxRkhQNUtQaTloMGlFdzNhZGxyUWRPeDBWYXRqN1FsbXdQeDZEakdIYVpyQ25oMHFtZHNuS1k1LU9TODVUbDhvTUJqeTg4VXMyQUlYd0pwbGRWdTZCVy1yMElQNkE2Vkk?oc=5",
       "enlaces": [
+        {
+          "nombre": "El Cronista",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZVh5TTBUZklZSV81dWxYNjhCVmRUUy1IN2VPc0hmWW5XejJja0w1ckVDLUpCVDlHd1pXYU5tR3hsdk9xR2VQc1J3ZV96V2JJMkZFV0kzZW9PUnVDcm9IeFAwVFI2elgzUXpCczdKM1dQWnhxWkdCd1hMRlU4SkJJdDdteVB1QkVGMVRsSEJfa2hnRDFwbER0M1hQRnFObkNuVjQ1VjhaUmEwTnc5RkhGa0RTOWVMQkZMZlR4Z2VQY3NuWEJMd1R1cG9ScUljcExhLWJmX25ycTByZ0FsZnl6N1pUcWE3OEhD0gGDAkFVX3lxTE0yRTdMYWktSHhNbE93TE1wRFVKRS05aE5OY0x0Um80dVQ4OHdoMjU1SnMzQ3AtekdMLTdhMi1iNXlGY2Z2dUVSaFlMOXcybXpvbjlpVnZVY0NMSmNXRm83LTBBMHU4RVlZSHphOW9acFhpNnVrWEVSYWI2c3Uwc2Z5cVd0U1htcDFhMzZGcktqa3U1MXlVQ0tGSEJQYXlTUWZsZVFxRkhQNUtQaTloMGlFdzNhZGxyUWRPeDBWYXRqN1FsbXdQeDZEakdIYVpyQ25oMHFtZHNuS1k1LU9TODVUbDhvTUJqeTg4VXMyQUlYd0pwbGRWdTZCVy1yMElQNkE2Vkk?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "El Cronista",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMkU3TGFpLUh4TWxPd0xNcERVSkUtOWhOTmNMdFJvNHVUODh3aDI1NUpzM0NwLXpHTC03YTItYjV5RmNmdnVFUmhZTDl3Mm16b245aVZ2VWNDTEpjV0ZvNy0wQTB1OEVZWUh6YTlvWnBYaTZ1a1hFUmFiNnN1MHNmeXFXdFNYbXAxYTM2RnJLamt1NTF5VUNLRkhCUGF5U1FmbGVRcUZIUDVLUGk5aDBpRXczYWRsclFkT3gwVmF0ajdRbG13UHg2RGpHSGFackNuaDBxbWRzbktZNS1PUzg1VGw4b01Cank4OFVzMkFJWHdKcGxkVnU2QlctcjBJUDZBNlZJ0gGDAkFVX3lxTE0yRTdMYWktSHhNbE93TE1wRFVKRS05aE5OY0x0Um80dVQ4OHdoMjU1SnMzQ3AtekdMLTdhMi1iNXlGY2Z2dUVSaFlMOXcybXpvbjlpVnZVY0NMSmNXRm83LTBBMHU4RVlZSHphOW9acFhpNnVrWEVSYWI2c3Uwc2Z5cVd0U1htcDFhMzZGcktqa3U1MXlVQ0tGSEJQYXlTUWZsZVFxRkhQNUtQaTloMGlFdzNhZGxyUWRPeDBWYXRqN1FsbXdQeDZEakdIYVpyQ25oMHFtZHNuS1k1LU9TODVUbDhvTUJqeTg4VXMyQUlYd0pwbGRWdTZCVy1yMElQNkE2Vkk?oc=5",
@@ -2222,345 +2573,34 @@
       "region": "ar"
     },
     {
-      "id": "49f5e0aff343",
+      "id": "77695d697b6c",
       "categoria": "reg",
-      "fecha": "2026-11-23T19:49+00:00",
-      "titulo": "Holiday fraud prevention: JPMorganChase urges Hoosiers to 'pause and think' as scam season peaks",
+      "fecha": "2026-11-24T05:41+00:00",
+      "titulo": "La Policía Nacional alerta de una estafa telefónica que va a por tu dinero del banco",
       "resumen": "",
-      "fuente": "Indianapolis Recorder",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0c2SDFxLUpsdE1GaDdhQkNRNjNiM0ItLVdxbHlJM04xQ1RyaXRMVjg2Uk1yTkR5WXd3SHUyNkZKbFFPMEFIQ3pDODNZRlREQWtFalpLWDkzcGdUZU5GMDU2OTVWSjJoU0RKWFNxd2RhWE92TnhzbVR0azBTYXRjTkNlZHg?oc=5",
+      "fuente": "MovilZona",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjA2cHNNQ3hXQ0VLczMxSzNHR19nanhjUUt3N2tRajBlOEZzY0F0bVVQNThyeGVVU3FkeHNFM3lSaUhvZ0NSdTNWTmtzUmJPREMwdmlzcFgzbXdsZEJXNzFkRjhNMHJjaUpLd094Rm10Y0c4bzI0dFRoR0F2SnVOVXNvUVhDV0VRRzJQOHlMbFRqWUdTb2hqaFlQNHNIUFBGUTVQcWNYMA?oc=5",
       "enlaces": [
         {
-          "nombre": "Indianapolis Recorder",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0c2SDFxLUpsdE1GaDdhQkNRNjNiM0ItLVdxbHlJM04xQ1RyaXRMVjg2Uk1yTkR5WXd3SHUyNkZKbFFPMEFIQ3pDODNZRlREQWtFalpLWDkzcGdUZU5GMDU2OTVWSjJoU0RKWFNxd2RhWE92TnhzbVR0azBTYXRjTkNlZHg?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "f6493bd69a7e",
-      "categoria": "reg",
-      "fecha": "2026-11-23T19:00+00:00",
-      "titulo": "Fintech Stark Bank solicita autorización al Banco Central de Brasil para operar con activos virtuales",
-      "resumen": "",
-      "fuente": "Latam Fintech Hub",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUNrZWJQTXZrY0JDcVJqTU1VV2FITHJrYmVjWXRfRk90LUg0TjNLaFNZejJ6Q3dIVEg1a2VRQ05UeUpUQWE2M2R2NnVkaFZJWngyR0t0Uy1rOHBLWUdLbHJrTng5WHg5RmNoYVUzYzJTRVJUZ0NtYUVfQklGR2JDN3ZqRmxqaW5kWXBoeERzY3BGSUJFQm9jSExIeElyR1EzSmE0NWw1d21pd1h5NV9aZzRWZDFlT3FWQXVOblpOZDhMcjV0WkZlRUJma2ctWlBMc0R2Qw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Latam Fintech Hub",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUNrZWJQTXZrY0JDcVJqTU1VV2FITHJrYmVjWXRfRk90LUg0TjNLaFNZejJ6Q3dIVEg1a2VRQ05UeUpUQWE2M2R2NnVkaFZJWngyR0t0Uy1rOHBLWUdLbHJrTng5WHg5RmNoYVUzYzJTRVJUZ0NtYUVfQklGR2JDN3ZqRmxqaW5kWXBoeERzY3BGSUJFQm9jSExIeElyR1EzSmE0NWw1d21pd1h5NV9aZzRWZDFlT3FWQXVOblpOZDhMcjV0WkZlRUJma2ctWlBMc0R2Qw?oc=5",
+          "nombre": "MovilZona",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjA2cHNNQ3hXQ0VLczMxSzNHR19nanhjUUt3N2tRajBlOEZzY0F0bVVQNThyeGVVU3FkeHNFM3lSaUhvZ0NSdTNWTmtzUmJPREMwdmlzcFgzbXdsZEJXNzFkRjhNMHJjaUpLd094Rm10Y0c4bzI0dFRoR0F2SnVOVXNvUVhDV0VRRzJQOHlMbFRqWUdTb2hqaFlQNHNIUFBGUTVQcWNYMA?oc=5",
           "tipo": "nota"
         }
       ],
       "region": "ar"
     },
     {
-      "id": "6f817e713590",
+      "id": "5b76f6f7174f",
       "categoria": "reg",
-      "fecha": "2026-11-23T15:32+00:00",
-      "titulo": "COELSA conecta los pagos digitales con el transporte: ya se hacen 2 millones de viajes con QR por mes",
+      "fecha": "2026-11-24T04:35+00:00",
+      "titulo": "La banca de Emiratos sufre pérdidas por fraude de más de 10 millones de dólares anuales",
       "resumen": "",
-      "fuente": "RoadShow",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPemtqZXg2ZHcxWUkwRW02V09xbmpLdjVTLWZzVjZ5Q2NUc0pBQWZJM0RQZkhQSHhJaHNid3o5bF9IaWg2TVB5WnZEWktjV2R1TDlNc0M2SFZzVnFyUmdwalR2Smw1X09NVEx0QmdsbGk1RUdFR2VFT050bE1kSmhDS0x1Z0xJM2NPVUpKdWZHSEM3M2tzZm9KSzF6MFdORVRwOHk1a2hWWlRBYTVfb3QxRXRKZFJ3QTNwYWZyRkpZVDJmclMzbm1FZw?oc=5",
+      "fuente": "Noticias de Dubai, Abu Dhabi, Emiratos Arabes. Información EL CORREO DEL GOLFO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYV9BUEdqVlpKNTI0WXFMY2RSUGNQbnY1eVFwN3FPdC1SN2RtcHA2WWFBTTAzdUVIXzFQQTBsRUtOOGx1bjJQdlZPaFZFbnRXWkNfbHhwWlB4LWxNSkplVVI5THNfT0xfSjFyNTJmR3NDd3IyVnFPdDlwRVRlcUNBZk9hdnRETHo4eGNqMUVkV1lRSnZENHBiQTNMRjhvMDF1eFdVZDR0OGlxZkxNUE5lUEpOZDJvOXhCZWNjSHNqUmd3RHZ4T1HSAcsBQVVfeXFMUDRlVVh3UW1SU0l1Ry12b0x2ZzlwUFNiVWxEODJuTF95dmp3Z1JhQlptLXFJYlJibmRPc1BYMGpNVHZYMVo3TUFNYUVDWDY1MURlOFd4Vk40cjA5YVlBczA0RVYwZlZJQ2c3cGtNcUlzQ1V4VDRFRHRBTU9lQUFyOXctZldTaXl4LWM5ODdZZkhVYVpEMVJVdldFQ2lLT1FVZzdaQTc3S283TFBJbmYxU2JtMkExZWFIa3N5bkxlZEl2SzhaRnJTSU1jUG8?oc=5",
       "enlaces": [
         {
-          "nombre": "RoadShow",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPemtqZXg2ZHcxWUkwRW02V09xbmpLdjVTLWZzVjZ5Q2NUc0pBQWZJM0RQZkhQSHhJaHNid3o5bF9IaWg2TVB5WnZEWktjV2R1TDlNc0M2SFZzVnFyUmdwalR2Smw1X09NVEx0QmdsbGk1RUdFR2VFT050bE1kSmhDS0x1Z0xJM2NPVUpKdWZHSEM3M2tzZm9KSzF6MFdORVRwOHk1a2hWWlRBYTVfb3QxRXRKZFJ3QTNwYWZyRkpZVDJmclMzbm1FZw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "a3a0658ab0ef",
-      "categoria": "reg",
-      "fecha": "2026-11-23T12:42+00:00",
-      "titulo": "Mastercard's new identity intelligence solution targets fraud without adding friction for customers",
-      "resumen": "",
-      "fuente": "TechTrendsKE",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlhMaTRNT2pxUUpBTWQ0M2E5WC1kcFJoY3BJalNEekI4R0JTWFVURFpiamJwdVl1QS1uWUprM1RSanU3SEFYNGc3Y0M4OGJ0R0FKbXRyWWdpNjNGWmljeFhjendCTjNWckZMXy12U0I5aUZYYzBUaEdBMFIxOHJQYmNWZGgybVhaRE1Z?oc=5",
-      "enlaces": [
-        {
-          "nombre": "TechTrendsKE",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlhMaTRNT2pxUUpBTWQ0M2E5WC1kcFJoY3BJalNEekI4R0JTWFVURFpiamJwdVl1QS1uWUprM1RSanU3SEFYNGc3Y0M4OGJ0R0FKbXRyWWdpNjNGWmljeFhjendCTjNWckZMXy12U0I5aUZYYzBUaEdBMFIxOHJQYmNWZGgybVhaRE1Z?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "2409bdf7f86c",
-      "categoria": "reg",
-      "fecha": "2026-11-23T12:00+00:00",
-      "titulo": "Las transferencias bancarias rápidas ya son una realidad en Kosovo: el dinero llega en cuestión de segundos, por ahora en cuatro bancos.",
-      "resumen": "",
-      "fuente": "KoSSev",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0JTV2JuOTltYkRnZHVtUkN4bkdGY09SY1ZJY1RvU0xrTFFXdnpMUk1PYkNsMWFpbjJXZmtzNExBa1dTMjBybVNJUWo2VWpoSGRYWjJZQmxmNHZXMUlxdkZKWER0QUxyWWhOUUVraS1PNmZGVkJ3b05lM0hIczl4cW5adndmN29IVG8xaUlOTHY0c0hBNU5HdGY3cnU1bGNYc3FsbG1YN09yN243aEpHLWF6cnFCa1ZYQ2U2SQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "KoSSev",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0JTV2JuOTltYkRnZHVtUkN4bkdGY09SY1ZJY1RvU0xrTFFXdnpMUk1PYkNsMWFpbjJXZmtzNExBa1dTMjBybVNJUWo2VWpoSGRYWjJZQmxmNHZXMUlxdkZKWER0QUxyWWhOUUVraS1PNmZGVkJ3b05lM0hIczl4cW5adndmN29IVG8xaUlOTHY0c0hBNU5HdGY3cnU1bGNYc3FsbG1YN09yN243aEpHLWF6cnFCa1ZYQ2U2SQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "fbd2bf6c1602",
-      "categoria": "reg",
-      "fecha": "2026-11-23T07:29+00:00",
-      "titulo": "Cambian las transferencias: impulsan alias mundial con sello argentino",
-      "resumen": "",
-      "fuente": "iProUP",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa05oc3NfeHhacm1QLVVhemo2SElPVzZ3bGtqektSTGpZb0hGV1liYk00eFVHd09tZVV0azBIb0VIZURId0cyUWNjeWRxSDdFMFRKbnZqQ01OMjdlQVU3Y09seXVuMF9xeEdwb1BHNXdrNkVsQ2lFOVpac0FlbzdKYUk2aTQ3VWxVZG9OWElyS1pRZWRfM0tBLTVJSUZJdy1VbV80QzU1cHVuNFZqVzh0UXN1dUwybzg1dnNCbE02QjJnRXJQVVFn0gHMAUFVX3lxTE94cW9aLTRsN21hbkN2WWVnNENhQjg4cnVfbkR3YXJvOUgxcEtWeVhOVUJCdDJzaThMQU5QMXF0VjhiVm5aRGx1bktQTUM2MVFoLUlEYU1xUzlMMXVpNHp0RWMwdUd0bkdBLVdRSXI1NkRMQU5PdHpJSl9qV1dpc3lJaEc4UGxGYXE1dm5Xa0VpNFRSTDRfSTNzLTdNTzZQRmVKX0wyWWotcmdLdGxYcVRhT2ZiX2hJYURzVTJXWjJBYVZvM01NVF9jS2FrNQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "iProUP",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa05oc3NfeHhacm1QLVVhemo2SElPVzZ3bGtqektSTGpZb0hGV1liYk00eFVHd09tZVV0azBIb0VIZURId0cyUWNjeWRxSDdFMFRKbnZqQ01OMjdlQVU3Y09seXVuMF9xeEdwb1BHNXdrNkVsQ2lFOVpac0FlbzdKYUk2aTQ3VWxVZG9OWElyS1pRZWRfM0tBLTVJSUZJdy1VbV80QzU1cHVuNFZqVzh0UXN1dUwybzg1dnNCbE02QjJnRXJQVVFn0gHMAUFVX3lxTE94cW9aLTRsN21hbkN2WWVnNENhQjg4cnVfbkR3YXJvOUgxcEtWeVhOVUJCdDJzaThMQU5QMXF0VjhiVm5aRGx1bktQTUM2MVFoLUlEYU1xUzlMMXVpNHp0RWMwdUd0bkdBLVdRSXI1NkRMQU5PdHpJSl9qV1dpc3lJaEc4UGxGYXE1dm5Xa0VpNFRSTDRfSTNzLTdNTzZQRmVKX0wyWWotcmdLdGxYcVRhT2ZiX2hJYURzVTJXWjJBYVZvM01NVF9jS2FrNQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "21aa3ed2ba71",
-      "categoria": "reg",
-      "fecha": "2026-11-23T04:01+00:00",
-      "titulo": "Mastercard boss on battle with cyber criminals: ‘It’s an arms race’",
-      "resumen": "",
-      "fuente": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajh1T2RsWU44dEhldExsSVRkRzMyWVRzWFBIdnQ4OGYzVWw0Nm5ZU0ZZR0RoNmoxWmZVbjVLUDJ3aXFfemQ4TjNwV19raVZYNVQwaklUTzRlckUtX1F5cWRTZnFJUFI2a25IR2EzUlpyMGxmZEdpeFg1VHVVa25WdzZmYlg?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajh1T2RsWU44dEhldExsSVRkRzMyWVRzWFBIdnQ4OGYzVWw0Nm5ZU0ZZR0RoNmoxWmZVbjVLUDJ3aXFfemQ4TjNwV19raVZYNVQwaklUTzRlckUtX1F5cWRTZnFJUFI2a25IR2EzUlpyMGxmZEdpeFg1VHVVa25WdzZmYlg?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "7b80079ee047",
-      "categoria": "reg",
-      "fecha": "2026-11-23T00:30+00:00",
-      "titulo": "El efectivo resiste en el consumo cotidiano mientras avanzan los pagos con QR y billeteras virtuales",
-      "resumen": "",
-      "fuente": "LA17",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORW5LeWJYcmpiQTZqdzhwQkdTXzVMRlJNWHFfaEJtRDB3NGUtQ2Q3U0MxTmRENENYSnMtQXdWb3JMU3djV2FfLWNteUhtazVMX0xCUmhyXzBaYUZULVhBTzFlWGpZeHBfZ09vNlc5SkotNm00VW1SYjVqODNKRUNNWGNlNldGOWhSc3lkdDhRODdpWnFXRVhWWVRpTFpXc19OWVE1Vi1CNEcwWVNOVjl4RHQ2bkxUbDB0N25aN1paekJzMV9MWUcwYmZNMVZGNWM?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LA17",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORW5LeWJYcmpiQTZqdzhwQkdTXzVMRlJNWHFfaEJtRDB3NGUtQ2Q3U0MxTmRENENYSnMtQXdWb3JMU3djV2FfLWNteUhtazVMX0xCUmhyXzBaYUZULVhBTzFlWGpZeHBfZ09vNlc5SkotNm00VW1SYjVqODNKRUNNWGNlNldGOWhSc3lkdDhRODdpWnFXRVhWWVRpTFpXc19OWVE1Vi1CNEcwWVNOVjl4RHQ2bkxUbDB0N25aN1paekJzMV9MWUcwYmZNMVZGNWM?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "2cb6249dab7c",
-      "categoria": "reg",
-      "fecha": "2026-11-22T13:33+00:00",
-      "titulo": "El kirchnerismo retoma la ruta del oro para descolocar a un Milei abrumado por los mercados",
-      "resumen": "",
-      "fuente": "MDZ Online",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjl4TExfMW9IN0NCSWF5aExYWHJIcW5fSTQ0aGd1TlBsZE9oRGh2aV94bnFfVDZ6c2lGTG1TN1ZTMGVLbTMxc0d5ZmNlQ1VleENTRkFkQ0d3eHN3OWNqbG0tTjhQUVBmZGRrWnY3MVY1aGlEXzgtTWdMV0p3bks1bGRCMmlRRUprRkRWZTd3QnQwYzRsOWtISjBtQzROWDc3RkZMXzBjM2dURmpONDNfYjZvN3hSc1ktNGJfcTRJRGk4ck45cVFwRGNBcGhXUQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "MDZ Online",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjl4TExfMW9IN0NCSWF5aExYWHJIcW5fSTQ0aGd1TlBsZE9oRGh2aV94bnFfVDZ6c2lGTG1TN1ZTMGVLbTMxc0d5ZmNlQ1VleENTRkFkQ0d3eHN3OWNqbG0tTjhQUVBmZGRrWnY3MVY1aGlEXzgtTWdMV0p3bks1bGRCMmlRRUprRkRWZTd3QnQwYzRsOWtISjBtQzROWDc3RkZMXzBjM2dURmpONDNfYjZvN3hSc1ktNGJfcTRJRGk4ck45cVFwRGNBcGhXUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "ea4d9e7c242e",
-      "categoria": "reg",
-      "fecha": "2026-11-22T09:07+00:00",
-      "titulo": "El banco UBS analiza cómo competirá Revolut con Mercado Pago y Naranja X en Argentina",
-      "resumen": "",
-      "fuente": "Rosario Finanzas",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2JVMC1Lc1dWNHFMREdjd24talBFaFpqQUM4OUxmQkpEa1BMdVk5Z0o3a0ZWd2RqSURLdzhwRXVvTE5nZ2pFbDdjTE5NakV2TXZWNnVxajBsdlhST3dOQjh3TXVjM2p4Q0swMjRZYlBCYlc5VHVfSTdoVUhFbDB6Yk5OV1NvU0JWRlJyQXB5WW10XzAzMEV0ZXVJbUdvTC1nV0J5NGNkd0dfMnhDZ3h1VGhtZjlNc3lrS0dSU213?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Rosario Finanzas",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2JVMC1Lc1dWNHFMREdjd24talBFaFpqQUM4OUxmQkpEa1BMdVk5Z0o3a0ZWd2RqSURLdzhwRXVvTE5nZ2pFbDdjTE5NakV2TXZWNnVxajBsdlhST3dOQjh3TXVjM2p4Q0swMjRZYlBCYlc5VHVfSTdoVUhFbDB6Yk5OV1NvU0JWRlJyQXB5WW10XzAzMEV0ZXVJbUdvTC1nV0J5NGNkd0dfMnhDZ3h1VGhtZjlNc3lrS0dSU213?oc=5",
-          "tipo": "nota"
-        },
-        {
-          "nombre": "iProUP",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpRd0duM3RzWXUyTEVYTlBuMVpwRmFkYXZfT2VsMnVUSzVSNmRRaVkteVpQREtQRk9ESUFlLXRoZ3YyRElhZ01YVHNJQ0REVktGT1k3U1lGWUZORjRDNzVqRll0MFFfZThzbGtUcnNtTWt4OEkwRGdWVFFlTEFmS3NVRHZ3bUtqV1Q3ZmNKM094ZVZHeFZDNUFVdEdFZU4tUmpIbWdhQnM?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "4927a192a273",
-      "categoria": "reg",
-      "fecha": "2026-11-21T15:48+00:00",
-      "titulo": "Banking Sector Faces Growing Cybersecurity Threats",
-      "resumen": "",
-      "fuente": "Universitas Muhammadiyah Surakarta",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFR1R1FBNUo4eDJMTDBGUnpnUE1NZ2tyZGktcm9Hd0dvVENnMTJLYUVKTm5OVFE0cXVOdUgxZm5veXBLUkdVdW01YmJzNmZaS2pJUWN2YmFpLUcwZ0NzNkRhLXNobzNWMkQ4b1huM1Z2QjNacVpkNzB0ajdTeHhUWHhmb2lETVNQdHFxc2prWFdiY3JLTW8ybg?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Universitas Muhammadiyah Surakarta",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFR1R1FBNUo4eDJMTDBGUnpnUE1NZ2tyZGktcm9Hd0dvVENnMTJLYUVKTm5OVFE0cXVOdUgxZm5veXBLUkdVdW01YmJzNmZaS2pJUWN2YmFpLUcwZ0NzNkRhLXNobzNWMkQ4b1huM1Z2QjNacVpkNzB0ajdTeHhUWHhmb2lETVNQdHFxc2prWFdiY3JLTW8ybg?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "df84d2f4fc21",
-      "categoria": "reg",
-      "fecha": "2026-11-21T14:49+00:00",
-      "titulo": "Bajó la morosidad de las familias argentinas, pero crece la refinanciación de deudas",
-      "resumen": "",
-      "fuente": "0221",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJycFMxS3J2VDlDWUhGeDNUMFFmUkxRUXlPdjBhWWdVc2dIRzdBNHR3am5JeVdrbmdLVFFXRkxQRlQ3N2ZxblMyUGdjcUtyc0NiZnpRblFqaEtWRmdpWmdsS2l3X1pWWk5rX1lTSWZjVTZldElvckNOc0NrSUZjeWMtSmFMa3A0cXRTLUJKcl8wYmdvSVZqeW9ia2Y3ZWduLUdxMHQ0Rk1BYmgzOGd3RlZhOWFWS2VrSUHSAb8BQVVfeXFMUHdVZ1JMV19wTXpfOVMtX3JYYzRZcVlkLTVuTENRY1JVQWdDZG90cnF2bkREYmU5N3d3TFNyY1pZVldBZENNdEJYOGt1NWtrYW5sU3dMYTRJQ2NSNFpVckh0djRuX0NHZk5idnlOQUJpMU5BNzcyRGFzaFZKY1hKcW5NV1R5NDRsUzU0SER6dm1DekxfLXNYcy1Wdm9oY0dFZGdmUjRWUjBNX3JMR1BfcjR3OWdMS0pHems2UGQ0QUk?oc=5",
-      "enlaces": [
-        {
-          "nombre": "0221",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJycFMxS3J2VDlDWUhGeDNUMFFmUkxRUXlPdjBhWWdVc2dIRzdBNHR3am5JeVdrbmdLVFFXRkxQRlQ3N2ZxblMyUGdjcUtyc0NiZnpRblFqaEtWRmdpWmdsS2l3X1pWWk5rX1lTSWZjVTZldElvckNOc0NrSUZjeWMtSmFMa3A0cXRTLUJKcl8wYmdvSVZqeW9ia2Y3ZWduLUdxMHQ0Rk1BYmgzOGd3RlZhOWFWS2VrSUHSAb8BQVVfeXFMUHdVZ1JMV19wTXpfOVMtX3JYYzRZcVlkLTVuTENRY1JVQWdDZG90cnF2bkREYmU5N3d3TFNyY1pZVldBZENNdEJYOGt1NWtrYW5sU3dMYTRJQ2NSNFpVckh0djRuX0NHZk5idnlOQUJpMU5BNzcyRGFzaFZKY1hKcW5NV1R5NDRsUzU0SER6dm1DekxfLXNYcy1Wdm9oY0dFZGdmUjRWUjBNX3JMR1BfcjR3OWdMS0pHems2UGQ0QUk?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "315b29389595",
-      "categoria": "reg",
-      "fecha": "2026-11-21T12:10+00:00",
-      "titulo": "Mobile devices: the new financial fraud frontline",
-      "resumen": "",
-      "fuente": "Cybersecurity Insiders",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVoyUTZmd1IwTWk1eWdtQXdtZkM3RXJUOThTZzhSMWg3cWFWX1Z5SWI4SlNuUVBobEVZYW53M3NXNEJfSlFWTTF0TnBuR1NuQnBVVGdRR0lTSFRJRkU1OXlJbWhwRDhVdHlwOEptMGx5Vkk5M0h0VVZKR3RMc3BWNVktWjR3MEhZNkRvWnJ2TVItZw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Cybersecurity Insiders",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVoyUTZmd1IwTWk1eWdtQXdtZkM3RXJUOThTZzhSMWg3cWFWX1Z5SWI4SlNuUVBobEVZYW53M3NXNEJfSlFWTTF0TnBuR1NuQnBVVGdRR0lTSFRJRkU1OXlJbWhwRDhVdHlwOEptMGx5Vkk5M0h0VVZKR3RMc3BWNVktWjR3MEhZNkRvWnJ2TVItZw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "c5278003be65",
-      "categoria": "reg",
-      "fecha": "2026-11-21T08:00+00:00",
-      "titulo": "Cómo están las familias de Río Negro con respecto al endeudamiento y morosidad",
-      "resumen": "",
-      "fuente": "NoticiasNet",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmt2cHNWVVZfa2JDOTZRaTZGYjNxdy1rek51QlRRUG1rSzljNzB1bkluM1JNODJDdXNmSzJPaGRRbEVvemxHdmNJRm5uZzBhNFR5WjdnVTNENjk4RDFWWXlpc0hMSjFwcVlyc1R0RzVtUUdEVlcwa000RFdRNDl2VEpRRDRTYVlzQ0x0Rk5wRmtCaXFwM2dWN3doc3I4Tjh1WjJyRHcxRFBGMnExMHVQUFBQeTl3LV9MdmwxU0NaR2RIbmxsdkR4MGUyeGlreUd5cHNyS1l2a9IB1wFBVV95cUxPRmt2cHNWVVZfa2JDOTZRaTZGYjNxdy1rek51QlRRUG1rSzljNzB1bkluM1JNODJDdXNmSzJPaGRRbEVvemxHdmNJRm5uZzBhNFR5WjdnVTNENjk4RDFWWXlpc0hMSjFwcVlyc1R0RzVtUUdEVlcwa000RFdRNDl2VEpRRDRTYVlzQ0x0Rk5wRmtCaXFwM2dWN3doc3I4Tjh1WjJyRHcxRFBGMnExMHVQUFBQeTl3LV9MdmwxU0NaR2RIbmxsdkR4MGUyeGlreUd5cHNyS1l2aw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "NoticiasNet",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmt2cHNWVVZfa2JDOTZRaTZGYjNxdy1rek51QlRRUG1rSzljNzB1bkluM1JNODJDdXNmSzJPaGRRbEVvemxHdmNJRm5uZzBhNFR5WjdnVTNENjk4RDFWWXlpc0hMSjFwcVlyc1R0RzVtUUdEVlcwa000RFdRNDl2VEpRRDRTYVlzQ0x0Rk5wRmtCaXFwM2dWN3doc3I4Tjh1WjJyRHcxRFBGMnExMHVQUFBQeTl3LV9MdmwxU0NaR2RIbmxsdkR4MGUyeGlreUd5cHNyS1l2a9IB1wFBVV95cUxPRmt2cHNWVVZfa2JDOTZRaTZGYjNxdy1rek51QlRRUG1rSzljNzB1bkluM1JNODJDdXNmSzJPaGRRbEVvemxHdmNJRm5uZzBhNFR5WjdnVTNENjk4RDFWWXlpc0hMSjFwcVlyc1R0RzVtUUdEVlcwa000RFdRNDl2VEpRRDRTYVlzQ0x0Rk5wRmtCaXFwM2dWN3doc3I4Tjh1WjJyRHcxRFBGMnExMHVQUFBQeTl3LV9MdmwxU0NaR2RIbmxsdkR4MGUyeGlreUd5cHNyS1l2aw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "4c11e239fd88",
-      "categoria": "reg",
-      "fecha": "2026-11-21T07:45+00:00",
-      "titulo": "New AI-Powered Bazuka Banking Trojan Targets Android Users With Keylogging and SMS Interception",
-      "resumen": "",
-      "fuente": "GBHackers News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XT0JJUGxNVF9NdElMMkh6TElNLVJTUzZBNmFIUFlpNy1JajA3ZVNqaWZOcmVpUExERDFBQ3E4a3M5OWxIdzdfR3JuS3JCVzNZaWhJcEtmQWlIU0huSFFyekhJT0wtSlQyM2JreGV2UjA0Q1d6ZVBDRdIBfkFVX3lxTFBneUxOSUc5WlVLMGZ6aXVBa24yTDBJNDBSX2ZBTHphSWg4RjZJbERJMlpOY3M5YVRVYUNtTC1rcm1UcFRBVjFMeEJPZmZkNFlPaVR4dEFqYXp1N004ampTT243bFNlVWZoNVJ4azJZbVRkT0VhbWZDUXl2ZW1GQQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "GBHackers News",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XT0JJUGxNVF9NdElMMkh6TElNLVJTUzZBNmFIUFlpNy1JajA3ZVNqaWZOcmVpUExERDFBQ3E4a3M5OWxIdzdfR3JuS3JCVzNZaWhJcEtmQWlIU0huSFFyekhJT0wtSlQyM2JreGV2UjA0Q1d6ZVBDRdIBfkFVX3lxTFBneUxOSUc5WlVLMGZ6aXVBa24yTDBJNDBSX2ZBTHphSWg4RjZJbERJMlpOY3M5YVRVYUNtTC1rcm1UcFRBVjFMeEJPZmZkNFlPaVR4dEFqYXp1N004ampTT243bFNlVWZoNVJ4azJZbVRkT0VhbWZDUXl2ZW1GQQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "1271fbfde1ab",
-      "categoria": "reg",
-      "fecha": "2026-11-21T06:03+00:00",
-      "titulo": "Límites a la IA bancaria: fraudes y crédito quedan bajo control humano exclusivo",
-      "resumen": "",
-      "fuente": "iProUP",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnF2NlVwcVU1NVg5M3hMcFNKWUNzXzUtb19ibFNvR0lzQXZTTFB1ZGVNQUF3U3dvVXJvNmJjUTFtbDdFVDNLbkRIU1dzc3FBNE1YSG41Mko5UGloRXVsU19qQU5Mc1lVU0h3c0R3UlZzZFF2SGMzMmhUVjNEZjdmNXBEOTZxZENFY2VXVWNaZVBHMjIwYU1CMzZWa212aTQ1VHh5M3hkR3ZsRU9xUVA4TTVZcWF3VHRMelM00gHAAUFVX3lxTFBLeDlITkM2MDU0TkRGaUJEMVhNbUo3NDF6U3lWMHlXd205ZVNYMnVXVGRoZUI4b0twRHRRdzA4cG9NRW5jYXlkZGNCeVItQk9YWURXVzZoaHkzZV9WZnBJUmRiT1pzbHIxNFQtNEdCYm1LLUtBMjN4YUVUTUZ3RTZTREdLMVhlS015cjlybU90T3V4MXVxNDV3UXNGTU5KS2dxYTdzQ25TVXBNRG5YMUNmSDVIRmxxQjltWUR6cmp6eg?oc=5",
-      "enlaces": [
-        {
-          "nombre": "iProUP",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnF2NlVwcVU1NVg5M3hMcFNKWUNzXzUtb19ibFNvR0lzQXZTTFB1ZGVNQUF3U3dvVXJvNmJjUTFtbDdFVDNLbkRIU1dzc3FBNE1YSG41Mko5UGloRXVsU19qQU5Mc1lVU0h3c0R3UlZzZFF2SGMzMmhUVjNEZjdmNXBEOTZxZENFY2VXVWNaZVBHMjIwYU1CMzZWa212aTQ1VHh5M3hkR3ZsRU9xUVA4TTVZcWF3VHRMelM00gHAAUFVX3lxTFBLeDlITkM2MDU0TkRGaUJEMVhNbUo3NDF6U3lWMHlXd205ZVNYMnVXVGRoZUI4b0twRHRRdzA4cG9NRW5jYXlkZGNCeVItQk9YWURXVzZoaHkzZV9WZnBJUmRiT1pzbHIxNFQtNEdCYm1LLUtBMjN4YUVUTUZ3RTZTREdLMVhlS015cjlybU90T3V4MXVxNDV3UXNGTU5KS2dxYTdzQ25TVXBNRG5YMUNmSDVIRmxxQjltWUR6cmp6eg?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "f3a1db42626b",
-      "categoria": "reg",
-      "fecha": "2026-11-21T05:17+00:00",
-      "titulo": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials",
-      "resumen": "",
-      "fuente": "Cyber Press",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idjdhSDY2ZHo2UWpxY1FST0VVRUdKc3BCZlpaMFRyZTNhcEx2UlBwZXM4a2lJUWxFZkdCc0wtOVJKUmxCNXIxWjA0NUlaZ0JNSGFsVF8yczB5WnF4Tm5Ddy1UZjhfcnFVRlFsYUpKMULSAXBBVV95cUxPYnY3YUg2NmR6NlFqcWNRUk9FVUVHSnNwQmZaWjBUcmUzYXBMdlJQcGVzOGtpSVFsRWZHQnNMLTlSSlJsQjVyMVowNDVJWmdCTUhhbFRfMnMweVpxeE5uQ3ctVGY4X3JxVUZRbGFKSjFC?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Cyber Press",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idjdhSDY2ZHo2UWpxY1FST0VVRUdKc3BCZlpaMFRyZTNhcEx2UlBwZXM4a2lJUWxFZkdCc0wtOVJKUmxCNXIxWjA0NUlaZ0JNSGFsVF8yczB5WnF4Tm5Ddy1UZjhfcnFVRlFsYUpKMULSAXBBVV95cUxPYnY3YUg2NmR6NlFqcWNRUk9FVUVHSnNwQmZaWjBUcmUzYXBMdlJQcGVzOGtpSVFsRWZHQnNMLTlSSlJsQjVyMVowNDVJWmdCTUhhbFRfMnMweVpxeE5uQ3ctVGY4X3JxVUZRbGFKSjFC?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "715634e26706",
-      "categoria": "reg",
-      "fecha": "2026-11-21T03:53+00:00",
-      "titulo": "A cuánto estará el dólar después del feriado cambiario avalado por el Decreto Nº 614/2025 de Javier Milei",
-      "resumen": "",
-      "fuente": "Minutouno",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVdMOHk2cFJ4Qmw2SGpaZ0pyaUtiOFBEWl9LRnZpNmthU3RvQ1k3UGxqQm5CSjVjeHVtaHVJdkpVOUNNaDAxUF83V3pwNHR3bTR6MW0tdllzdEdVSm5Nd09ZTFppWGRaUGRmMlotNDg3U0xvTnVIVUhNUGhtWFhPYmtmRnh4bFkwVklKWDh5TGtkeUs3YjcyVFB1ekZselVxVm53Uzl0RUs3SjROM3VuVk5BRTRHQXl4aDFtdnFPclJIZGNpZTVrNi1VMGhVcjRmMnJBM05aNNIB1wFBVV95cUxNZVdMOHk2cFJ4Qmw2SGpaZ0pyaUtiOFBEWl9LRnZpNmthU3RvQ1k3UGxqQm5CSjVjeHVtaHVJdkpVOUNNaDAxUF83V3pwNHR3bTR6MW0tdllzdEdVSm5Nd09ZTFppWGRaUGRmMlotNDg3U0xvTnVIVUhNUGhtWFhPYmtmRnh4bFkwVklKWDh5TGtkeUs3YjcyVFB1ekZselVxVm53Uzl0RUs3SjROM3VuVk5BRTRHQXl4aDFtdnFPclJIZGNpZTVrNi1VMGhVcjRmMnJBM05aNA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Minutouno",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVdMOHk2cFJ4Qmw2SGpaZ0pyaUtiOFBEWl9LRnZpNmthU3RvQ1k3UGxqQm5CSjVjeHVtaHVJdkpVOUNNaDAxUF83V3pwNHR3bTR6MW0tdllzdEdVSm5Nd09ZTFppWGRaUGRmMlotNDg3U0xvTnVIVUhNUGhtWFhPYmtmRnh4bFkwVklKWDh5TGtkeUs3YjcyVFB1ekZselVxVm53Uzl0RUs3SjROM3VuVk5BRTRHQXl4aDFtdnFPclJIZGNpZTVrNi1VMGhVcjRmMnJBM05aNNIB1wFBVV95cUxNZVdMOHk2cFJ4Qmw2SGpaZ0pyaUtiOFBEWl9LRnZpNmthU3RvQ1k3UGxqQm5CSjVjeHVtaHVJdkpVOUNNaDAxUF83V3pwNHR3bTR6MW0tdllzdEdVSm5Nd09ZTFppWGRaUGRmMlotNDg3U0xvTnVIVUhNUGhtWFhPYmtmRnh4bFkwVklKWDh5TGtkeUs3YjcyVFB1ekZselVxVm53Uzl0RUs3SjROM3VuVk5BRTRHQXl4aDFtdnFPclJIZGNpZTVrNi1VMGhVcjRmMnJBM05aNA?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "93138fbb4db2",
-      "categoria": "reg",
-      "fecha": "2026-11-21T00:36+00:00",
-      "titulo": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "resumen": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been…",
-      "fuente": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "enlaces": [
-        {
-          "nombre": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "55bc9a4586b5",
-      "categoria": "reg",
-      "fecha": "2026-11-20T21:44+00:00",
-      "titulo": "Deudas familiares: las refinanciaciones rozan cuatro veces el promedio histórico y la mora sigue arriba del 12%",
-      "resumen": "",
-      "fuente": "Eduardo German",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0xuYzkyUlF5clhRQzhBbkRMUWVUc25abEVjWTBCZTNjRFIxa3d5dVZjZ2pLZ2hZNi1oSHBIenBQb3JQelFXNTl0cVctdEZaYU9aT3VzUkFPTjdrY3Y0X0lvTTJYVTJVb0Y4VWF6Nmh2dEpHSGZ5cVF0c21ETF95aTN1Ymd4MzVDUnF3dmtRcW15V1RKOHU5aDJJRGhLWTdTUkk0Q0dESWRBOXNvdUFSVlJid3N3TmdZeHNiMlZ5Qm9JT1RBMzFNV3lDNTlqbld6ZnE4aWgxNHhIVUtMZVo4TA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Eduardo German",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0xuYzkyUlF5clhRQzhBbkRMUWVUc25abEVjWTBCZTNjRFIxa3d5dVZjZ2pLZ2hZNi1oSHBIenBQb3JQelFXNTl0cVctdEZaYU9aT3VzUkFPTjdrY3Y0X0lvTTJYVTJVb0Y4VWF6Nmh2dEpHSGZ5cVF0c21ETF95aTN1Ymd4MzVDUnF3dmtRcW15V1RKOHU5aDJJRGhLWTdTUkk0Q0dESWRBOXNvdUFSVlJid3N3TmdZeHNiMlZ5Qm9JT1RBMzFNV3lDNTlqbld6ZnE4aWgxNHhIVUtMZVo4TA?oc=5",
+          "nombre": "Noticias de Dubai, Abu Dhabi, Emiratos Arabes. Información EL CORREO DEL GOLFO",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYV9BUEdqVlpKNTI0WXFMY2RSUGNQbnY1eVFwN3FPdC1SN2RtcHA2WWFBTTAzdUVIXzFQQTBsRUtOOGx1bjJQdlZPaFZFbnRXWkNfbHhwWlB4LWxNSkplVVI5THNfT0xfSjFyNTJmR3NDd3IyVnFPdDlwRVRlcUNBZk9hdnRETHo4eGNqMUVkV1lRSnZENHBiQTNMRjhvMDF1eFdVZDR0OGlxZkxNUE5lUEpOZDJvOXhCZWNjSHNqUmd3RHZ4T1HSAcsBQVVfeXFMUDRlVVh3UW1SU0l1Ry12b0x2ZzlwUFNiVWxEODJuTF95dmp3Z1JhQlptLXFJYlJibmRPc1BYMGpNVHZYMVo3TUFNYUVDWDY1MURlOFd4Vk40cjA5YVlBczA0RVYwZlZJQ2c3cGtNcUlzQ1V4VDRFRHRBTU9lQUFyOXctZldTaXl4LWM5ODdZZkhVYVpEMVJVdldFQ2lLT1FVZzdaQTc3S283TFBJbmYxU2JtMkExZWFIa3N5bkxlZEl2SzhaRnJTSU1jUG8?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2571,7 +2611,7 @@
     {
       "fuente": "BCRA y pagos (Google Noticias)",
       "ok": true,
-      "noticias": 28
+      "noticias": 27
     },
     {
       "fuente": "Fintech Argentina (Google Noticias)",
@@ -2580,8 +2620,8 @@
     },
     {
       "fuente": "Fraude bancario en Argentina (Google Noticias)",
-      "ok": false,
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
+      "ok": true,
+      "noticias": 100
     },
     {
       "fuente": "Malware bancario (Google News)",
@@ -2601,12 +2641,12 @@
     {
       "fuente": "IA en banca (Google Noticias)",
       "ok": true,
-      "noticias": 42
+      "noticias": 41
     },
     {
       "fuente": "Pagos agénticos (Google News)",
       "ok": true,
-      "noticias": 58
+      "noticias": 99
     },
     {
       "fuente": "FinTech Futures",
@@ -2616,7 +2656,7 @@
     {
       "fuente": "Wallets y pagos mobile (Google News)",
       "ok": true,
-      "noticias": 65
+      "noticias": 38
     },
     {
       "fuente": "Apple Developer News",
@@ -2641,7 +2681,7 @@
     {
       "fuente": "Diseño de sistemas (Google News)",
       "ok": true,
-      "noticias": 18
+      "noticias": 29
     },
     {
       "fuente": "UX fintech (Google News)",
@@ -2666,7 +2706,7 @@
     {
       "fuente": "Fintech de Argentina (Google Noticias)",
       "ok": true,
-      "noticias": 95
+      "noticias": 93
     },
     {
       "fuente": "Proveedores de pagos en Argentina (Google Noticias)",
@@ -2686,22 +2726,22 @@
     {
       "fuente": "Proveedores de pagos del mundo (Google News)",
       "ok": true,
-      "noticias": 85
+      "noticias": 84
     },
     {
       "fuente": "Experiencia en bancos y billeteras (Google Noticias)",
       "ok": true,
-      "noticias": 48
+      "noticias": 27
     },
     {
       "fuente": "Reclamos y fallas de apps financieras (Google Noticias)",
       "ok": true,
-      "noticias": 32
+      "noticias": 63
     },
     {
       "fuente": "Customer experience en banca (Google News)",
       "ok": true,
-      "noticias": 58
+      "noticias": 59
     }
   ]
 }

@@ -222,7 +222,8 @@
       "idioma": "en",
       "categoria": "reg",
       "q": "\"banking trojan\" OR \"banking malware\" OR \"mobile banking\" (vulnerability OR attack)",
-      "region": "global"
+      "region": "global",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Krebs on Security",
@@ -265,7 +266,8 @@
       "idioma": "en",
       "categoria": "emp",
       "q": "\"agentic payments\" OR \"agentic commerce\" OR \"AI agent\" (bank OR payments)",
-      "region": "global"
+      "region": "global",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "FinTech Futures",
@@ -289,26 +291,27 @@
       "idioma": "en",
       "categoria": "emp",
       "q": "(\"Apple Wallet\" OR \"Google Wallet\" OR \"Apple Pay\" OR \"Google Pay\") (new OR feature OR launch)",
-      "region": "global"
+      "region": "global",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Apple Developer News",
       "tipo": "rss",
-      "categoria": "emp",
+      "categoria": "ten",
       "url": "https://developer.apple.com/news/rss/news.rss",
       "region": "global"
     },
     {
       "nombre": "Android Developers Blog",
       "tipo": "rss",
-      "categoria": "emp",
+      "categoria": "ten",
       "url": "https://android-developers.googleblog.com/feeds/posts/default",
       "region": "global"
     },
     {
       "nombre": "9to5Mac",
       "tipo": "rss",
-      "categoria": "emp",
+      "categoria": "ten",
       "url": "https://9to5mac.com/feed/",
       "filtro": [
         "wallet",
@@ -325,7 +328,7 @@
     {
       "nombre": "9to5Google",
       "tipo": "rss",
-      "categoria": "emp",
+      "categoria": "ten",
       "url": "https://9to5google.com/feed/",
       "filtro": [
         "wallet",
@@ -342,7 +345,7 @@
       "nombre": "Diseño de sistemas (Google News)",
       "tipo": "google",
       "idioma": "en",
-      "categoria": "ux",
+      "categoria": "ten",
       "q": "\"Liquid Glass\" OR \"Material 3 Expressive\" OR \"design system\" app",
       "region": "global"
     },
@@ -352,19 +355,20 @@
       "idioma": "en",
       "categoria": "ux",
       "q": "(fintech OR \"banking app\") (UX OR \"user experience\" OR redesign)",
-      "region": "global"
+      "region": "global",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Nielsen Norman Group",
       "tipo": "rss",
-      "categoria": "ux",
+      "categoria": "ten",
       "url": "https://www.nngroup.com/feed/rss/",
       "region": "global"
     },
     {
       "nombre": "Smashing Magazine",
       "tipo": "rss",
-      "categoria": "ux",
+      "categoria": "ten",
       "url": "https://www.smashingmagazine.com/feed/",
       "filtro": [
         "mobile",
@@ -388,7 +392,8 @@
       "idioma": "en",
       "categoria": "auto",
       "region": "global",
-      "q": "(JPMorgan OR \"Bank of America\" OR HSBC OR BBVA OR Santander OR Barclays OR ING OR Citi OR \"Wells Fargo\" OR \"Deutsche Bank\") (app OR digital OR launches OR AI OR customers OR fraud)"
+      "q": "(JPMorgan OR \"Bank of America\" OR HSBC OR BBVA OR Santander OR Barclays OR ING OR Citi OR \"Wells Fargo\" OR \"Deutsche Bank\") (app OR digital OR launches OR AI OR customers OR fraud)",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Fintech del mundo (Google News)",
@@ -396,7 +401,8 @@
       "idioma": "en",
       "categoria": "auto",
       "region": "global",
-      "q": "(Revolut OR Nubank OR Monzo OR Chime OR Klarna OR Wise OR N26 OR Starling OR \"Cash App\" OR SoFi OR Robinhood)"
+      "q": "(Revolut OR Nubank OR Monzo OR Chime OR Klarna OR Wise OR N26 OR Starling OR \"Cash App\" OR SoFi OR Robinhood)",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Proveedores de pagos del mundo (Google News)",
@@ -404,7 +410,8 @@
       "idioma": "en",
       "categoria": "auto",
       "region": "global",
-      "q": "(Visa OR Mastercard OR Stripe OR Adyen OR PayPal OR Plaid OR Fiserv OR FIS OR Temenos OR Thales) (payments OR launches OR announces OR bank OR fintech)"
+      "q": "(Visa OR Mastercard OR Stripe OR Adyen OR PayPal OR Plaid OR Fiserv OR FIS OR Temenos OR Thales) (payments OR launches OR announces OR bank OR fintech)",
+      "filtro": "tema_banca"
     },
     {
       "nombre": "Customer experience en banca (Google News)",
@@ -412,7 +419,62 @@
       "idioma": "en",
       "categoria": "ux",
       "region": "global",
-      "q": "(\"customer experience\" OR \"user experience\" OR \"app ratings\" OR \"J.D. Power\" OR usability) (\"banking app\" OR \"mobile banking\" OR fintech)"
+      "q": "(\"customer experience\" OR \"user experience\" OR \"app ratings\" OR \"J.D. Power\" OR usability) (\"banking app\" OR \"mobile banking\" OR fintech)",
+      "filtro": "tema_banca"
+    },
+    {
+      "nombre": "Sistemas de diseño (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "\"design system\" OR \"design tokens\" OR \"Liquid Glass\" OR \"Material 3 Expressive\" OR \"Fluent 2\" OR \"Carbon Design\""
+    },
+    {
+      "nombre": "Nuevos dispositivos y formatos (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"iPhone Fold\" OR \"iPhone Duo\" OR foldable OR \"Galaxy Z Fold\" OR \"Pixel Fold\" OR \"smart glasses\" OR \"Vision Pro\" OR wearable) (app OR UI OR design OR developers)"
+    },
+    {
+      "nombre": "Patrones de interfaz (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"floating tab bar\" OR \"floating navigation\" OR \"bottom navigation\" OR \"navigation bar\" OR \"dynamic island\" OR \"live activities\" OR \"widgets\" OR \"dark mode\") (iOS OR Android OR app OR UX)"
+    },
+    {
+      "nombre": "IA en diseño y producto (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(Figma OR \"Figma Make\" OR \"AI design\" OR \"generative UI\" OR \"AI agents\" OR \"vibe coding\") (UX OR UI OR designers OR \"design tool\")"
+    },
+    {
+      "nombre": "UX en banca y pagos (Google News)",
+      "tipo": "google",
+      "idioma": "en",
+      "categoria": "ten",
+      "region": "global",
+      "q": "(\"banking app\" OR \"mobile banking\" OR \"digital wallet\" OR fintech) (redesign OR \"new design\" OR UX OR \"user interface\" OR accessibility)"
+    },
+    {
+      "nombre": "UX Collective",
+      "tipo": "rss",
+      "categoria": "ten",
+      "url": "https://uxdesign.cc/feed",
+      "region": "global"
+    },
+    {
+      "nombre": "Figma Blog",
+      "tipo": "rss",
+      "categoria": "ten",
+      "url": "https://www.figma.com/blog/feed/atom.xml",
+      "region": "global"
     }
   ],
   "excluir": [
@@ -443,7 +505,18 @@
     "riesgo país",
     "merval",
     "inflación de",
-    "presupuesto 20"
+    "presupuesto 20",
+    "nfl",
+    "nba",
+    "celtics",
+    "packers",
+    "rams",
+    "stadium",
+    "touchdown",
+    "quarterback",
+    "playoffs",
+    "premier league",
+    "champions league"
   ],
   "tema_banca": [
     "cajero",

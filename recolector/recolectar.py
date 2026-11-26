@@ -194,7 +194,10 @@ def main():
     # Se conservan las anteriores dentro de la ventana, así no desaparecen si un feed rota.
     # Si varias fuentes publican la misma noticia, se unifica y se suman sus enlaces.
     final = []
+    excluir = [p.lower() for p in CONF.get("excluir", [])]
     for n in nuevas + anteriores:
+        if any(p in f" {n.get('titulo','')} {n.get('resumen','')} ".lower() for p in excluir):
+            continue
         try:
             if datetime.fromisoformat(n["fecha"]) < desde:
                 continue

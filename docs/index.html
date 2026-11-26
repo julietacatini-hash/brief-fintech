@@ -161,6 +161,21 @@ h1{margin:0;font-weight:600;font-size:clamp(2.2rem,4.6vw,3.9rem);line-height:1.0
 .about p{margin:0}
 .preview-note{margin:0;font-size:.8rem;color:var(--muted)}
 
+
+/* Tendencias UI/UX */
+.trends{border-radius:26px;background:linear-gradient(135deg,#2B2350,#1D3A4A);color:var(--dark-ink);padding:clamp(22px,3.4vw,40px);display:flex;flex-direction:column;gap:16px;overflow:hidden}
+.trends-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px}
+.trends-head h2{margin:0;font-weight:600;font-size:1.6rem;letter-spacing:-.02em}
+.trends-head p{margin:4px 0 0;color:var(--dark-muted);font-size:.95rem}
+.seg{display:inline-flex;gap:4px;padding:4px;border-radius:14px;background:rgba(255,255,255,.08)}
+.seg button{min-height:40px;padding:0 14px;border-radius:10px;border:0;background:transparent;color:var(--dark-ink);font:inherit;font-weight:500;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--lime);color:var(--lime-ink)}
+.trend-row{list-style:none;margin:0;padding:0 0 6px;display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory}
+.trend-row li{flex:0 0 min(300px,80%);scroll-snap-align:start}
+.trend-row .glass{height:100%;display:flex;flex-direction:column}
+.trend-row .glass h3{font-size:1.02rem;flex:1}
+.tag-ia{display:inline-flex;align-items:center;height:22px;padding:0 9px;border-radius:999px;background:#B9A7FF;color:#1D1440;font-size:.74rem;font-weight:600}
+
 .fab{position:fixed;right:max(16px,calc(env(safe-area-inset-right,0px) + 16px));bottom:calc(env(safe-area-inset-bottom,0px) + 18px);z-index:40;display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 18px;border-radius:999px;border:0;background:var(--lime);color:var(--lime-ink);font-weight:600;cursor:pointer;box-shadow:var(--shadow)}
 
 @media (max-width:860px){
@@ -213,6 +228,8 @@ h1{margin:0;font-weight:600;font-size:clamp(2.2rem,4.6vw,3.9rem);line-height:1.0
 
       <section class="spot" id="spot" aria-labelledby="spot-h"></section>
     </div>
+
+    <section class="trends" id="trends" aria-labelledby="trends-h" hidden></section>
 
     <section class="card feed" id="feed" aria-label="Novedades"></section>
 
@@ -443,7 +460,7 @@ function renderStatus(list, nuevas){
 function renderAll(){
   const list = visible();
   const nuevas = list.filter(n=>NEW_IDS.has(n.id));
-  renderRegion(); renderChips(); renderSpot(list,nuevas); renderFeed(list,nuevas); renderStatus(list,nuevas);
+  renderRegion(); renderChips(); renderSpot(list,nuevas); renderFeed(list,nuevas); renderStatus(list,nuevas); renderTrends();
 }
 
 function openOlder(){
@@ -466,9 +483,26 @@ const fabObs = new IntersectionObserver(entries=>{ for(const en of entries) fab.
 fabObs.observe($("filters"));
 fab.addEventListener("click",()=>{ $("filters").scrollIntoView({block:"center"}); $("q").focus({preventScroll:true}); });
 
+
+/* ---------- Tendencias UI/UX ---------- */
+const IA_RE=/\b(ia|ai|inteligencia artificial|artificial intelligence|genai|llm|agente|agent|copilot|gemini|chatgpt|openai|claude|figma make|generativ)/i;
+let TRENDS=[], trendMode="all";
+function renderTrends(){
+  const t=$("trends");
+  if(!TRENDS.length){ t.hidden=true; return; }
+  t.hidden=false;
+  const list=TRENDS.filter(n=>trendMode==="all"||(trendMode==="ia")===n.ia).slice(0,14);
+  const b=(k,l)=>`<button type="button" data-tm="${k}" aria-pressed="${trendMode===k}">${l}</button>`;
+  t.innerHTML=`<div class="trends-head"><div><h2 id="trends-h">Tendencias UI/UX</h2><p>Sistemas de diseño, nuevos dispositivos y patrones, con la banca como eje.</p></div>
+    <div class="seg" role="group" aria-label="Filtrar tendencias">${b("all","Todas")}${b("ia","Con IA")}${b("noia","Sin IA")}</div></div>
+    ${list.length?`<ul class="trend-row">${list.map(n=>`<li><article class="glass"><div class="meta">${n.ia?'<span class="tag-ia">IA</span>':""}<span>${esc(n.source)}</span><span>${rel(n.d)}</span></div><h3><a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(n.title)}</a></h3></article></li>`).join("")}</ul>`:'<p style="margin:0;color:var(--dark-muted)">No hay tendencias de este tipo esta semana.</p>'}`;
+}
+document.addEventListener("click",e=>{ const b=e.target.closest("[data-tm]"); if(!b) return; trendMode=b.dataset.tm; renderTrends(); });
+
 /* ---------- Carga ---------- */
 function loadData(data){
   UPDATED = data.actualizado ? toDate(data.actualizado) : null;
+  TRENDS = (Array.isArray(data.noticias)?data.noticias:[]).filter(n=>n.categoria==="ten" && n.titulo && n.url).map(n=>({title:String(n.titulo), url:String(n.url), source:String(n.fuente||""), d:toDate(n.fecha), ia:IA_RE.test(`${n.titulo} ${n.resumen||""}`)})).sort((a,b)=>b.d-a.d);
   NEWS = (Array.isArray(data.noticias)?data.noticias:[]).filter(n=>CATS[n.categoria] && n.titulo).map(n=>{
     const links = (Array.isArray(n.enlaces)&&n.enlaces.length ? n.enlaces : [{nombre:n.fuente,url:n.url,tipo:"nota"}]).filter(l=>l && l.url);
     const o = { id:String(n.id), cat:n.categoria, d:toDate(n.fecha), title:String(n.titulo), body:String(n.resumen||""),

@@ -1,6 +1,159 @@
 {
-  "actualizado": "2026-11-28T00:02+00:00",
+  "actualizado": "2026-11-28T07:46+00:00",
   "noticias": [
+    {
+      "id": "0876b3c5c3bc",
+      "categoria": "ten",
+      "fecha": "2026-11-28T07:26+00:00",
+      "titulo": "Samsung One UI 8.5 Release Date: What’s Confirmed",
+      "resumen": "",
+      "fuente": "TechnoSports Media Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRW9JVWE0SGU0RUNYM1k4Zk5wQTVjNFh6QkFoVm5NQW9PQ2FHMV9OYXhSaWp2YjkzRUhOR0lhOUtLTUpSQVJqMDQ0VGJ3TEJoNWFyY1pHQkdlMjhaYWc4RXJ0WkFhSElyMGFaVkZyMXoyS0xibldPNkV5S1VSTGs5SVF4MUFDN1ZKdnM4VTdZa1A?oc=5",
+      "enlaces": [
+        {
+          "nombre": "TechnoSports Media Group",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRW9JVWE0SGU0RUNYM1k4Zk5wQTVjNFh6QkFoVm5NQW9PQ2FHMV9OYXhSaWp2YjkzRUhOR0lhOUtLTUpSQVJqMDQ0VGJ3TEJoNWFyY1pHQkdlMjhaYWc4RXJ0WkFhSElyMGFaVkZyMXoyS0xibldPNkV5S1VSTGs5SVF4MUFDN1ZKdnM4VTdZa1A?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "5a5fc627defb",
+      "categoria": "ten",
+      "fecha": "2026-11-28T07:22+00:00",
+      "titulo": "Leopold Aschenbrenner’s Third-Quarter Letter Focuses on AI Agents and Superintelligence",
+      "resumen": "",
+      "fuente": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vc0EzRTBja25DaFZnNHFldzY3YVBSUlEwMk80RlBwMi1wVzdSZmxMdHBZY09ZdEdDcGJ3czlIQlpPLXEwSzA2bFphNUNRVXY3TmpaTmpn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "www.tokenpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vc0EzRTBja25DaFZnNHFldzY3YVBSUlEwMk80RlBwMi1wVzdSZmxMdHBZY09ZdEdDcGJ3czlIQlpPLXEwSzA2bFphNUNRVXY3TmpaTmpn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "e754d706d8df",
+      "categoria": "emp",
+      "fecha": "2026-11-28T06:59+00:00",
+      "titulo": "Visa Puts AI Agent Identity at Center of Machine Payments",
+      "resumen": "",
+      "fuente": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZXFfQWFLQXM5NXF1blFhMTJmbUJ3TTdkNGZ1TzZ5M0J2dFB3Q0ZXbFktSjJGRnVtMkNoYVFRWmRrNV9Tc0lacFJ4SjJhYzU3NlF2RUhNdUdfblk?oc=5",
+      "enlaces": [
+        {
+          "nombre": "www.tokenpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZXFfQWFLQXM5NXF1blFhMTJmbUJ3TTdkNGZ1TzZ5M0J2dFB3Q0ZXbFktSjJGRnVtMkNoYVFRWmRrNV9Tc0lacFJ4SjJhYzU3NlF2RUhNdUdfblk?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "54b0a958515a",
+      "categoria": "emp",
+      "fecha": "2026-11-28T05:13+00:00",
+      "titulo": "Norwegian-American Billionaire Andreas Halvorsen's Viking Global Buys Mastercard, Sells 32.6 Percent of Its Visa",
+      "resumen": "",
+      "fuente": "CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0RHbDE3MVE1bUZMNFNHdHE3VTJkRmpuZl9FR3RVM1dxN0gxVWlPUzVZN3FZbWk1ekVRWnI4SXFGc3N5eWtvQWNSekVZSTFWdFBtSUp5MGdidWFDTDJlQXBhSkRTWnAwaUhWQmdCeVhYNjhsZFlDamhVb1cyTV9PeXU3TWVJeDk5bldkbnNSR3Fxa1Vocl8wWFBnem4tR3B3T2JLYjJRcXdtYmM5Wmc2bnMwSEFSaXpMSjJJeGlJSklUQWc1X3RWQWZRVDBnWGtnSEZKLXU3Zkd2b3c?oc=5",
+      "enlaces": [
+        {
+          "nombre": "CEOWORLD magazine",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0RHbDE3MVE1bUZMNFNHdHE3VTJkRmpuZl9FR3RVM1dxN0gxVWlPUzVZN3FZbWk1ekVRWnI4SXFGc3N5eWtvQWNSekVZSTFWdFBtSUp5MGdidWFDTDJlQXBhSkRTWnAwaUhWQmdCeVhYNjhsZFlDamhVb1cyTV9PeXU3TWVJeDk5bldkbnNSR3Fxa1Vocl8wWFBnem4tR3B3T2JLYjJRcXdtYmM5Wmc2bnMwSEFSaXpMSjJJeGlJSklUQWc1X3RWQWZRVDBnWGtnSEZKLXU3Zkd2b3c?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "e7568d75a337",
+      "categoria": "reg",
+      "fecha": "2026-11-28T03:41+00:00",
+      "titulo": "Salida de depósitos: Bancos pidieron US$200 millones en billetes al BCRA para abastecer cajas y cajeros",
+      "resumen": "",
+      "fuente": "ENREDACCIÓN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3FZdk1Tam1NTVdKcmI4clc1aDhlUWdEVWYyRFBNVHRXelhha3RPOFROSDYyZng0a2g5cGpyWnZ2emdPazByU1ZmVzlOQlRrYmxVdzd2M2x4dDRPY1EtNzR3OTZQV0duR2xRTVlvMnZZTjdhbnIwSEpqTS1PSkxhUWg1NUt6d284alBPV0J5Uk1aT0d5OURTTU1OT1lvckwwcl9oVFpyTHgwT09DNGRacERCYldwcXduV0ZsMWNZQ3BrWEVUNC1GUw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "ENREDACCIÓN",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3FZdk1Tam1NTVdKcmI4clc1aDhlUWdEVWYyRFBNVHRXelhha3RPOFROSDYyZng0a2g5cGpyWnZ2emdPazByU1ZmVzlOQlRrYmxVdzd2M2x4dDRPY1EtNzR3OTZQV0duR2xRTVlvMnZZTjdhbnIwSEpqTS1PSkxhUWg1NUt6d284alBPV0J5Uk1aT0d5OURTTU1OT1lvckwwcl9oVFpyTHgwT09DNGRacERCYldwcXduV0ZsMWNZQ3BrWEVUNC1GUw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "694458e4c0f0",
+      "categoria": "emp",
+      "fecha": "2026-11-28T02:07+00:00",
+      "titulo": "Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX) Interactive Stock Chart - Yahoo Finance",
+      "resumen": "",
+      "fuente": "Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlaUhuN1ZYSVpxSzQ0WTBVLVBaSkxMQk44b1lUZ1pLNl9faWQtWHNUR2ZtbTRBYUlOY05pazZsNndqVnJzc0VVX19fQnV2em9WQm0tZENsQjBiXzVSWkE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlaUhuN1ZYSVpxSzQ0WTBVLVBaSkxMQk44b1lUZ1pLNl9faWQtWHNUR2ZtbTRBYUlOY05pazZsNndqVnJzc0VVX19fQnV2em9WQm0tZENsQjBiXzVSWkE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "c33c4da7c9b4",
+      "categoria": "ten",
+      "fecha": "2026-11-28T02:01+00:00",
+      "titulo": "A step closer in perfecting the foldable | vivo X Fold6 Review",
+      "resumen": "",
+      "fuente": "Unbox PH",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMk94a0h1WnVNVkRLbVZzX1VvZzlkNWpjYVdPX0dPYWQ4alByNDVycHVzQVk5Z0FLWDloS28yNFhNSU1uNXFqUG5uejF5QzNkYmpBam1jYU9tT05XcWtXRlBFa0dydzQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Unbox PH",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMk94a0h1WnVNVkRLbVZzX1VvZzlkNWpjYVdPX0dPYWQ4alByNDVycHVzQVk5Z0FLWDloS28yNFhNSU1uNXFqUG5uejF5QzNkYmpBam1jYU9tT05XcWtXRlBFa0dydzQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "ba0ac2a2ea23",
+      "categoria": "emp",
+      "fecha": "2026-11-28T01:20+00:00",
+      "titulo": "Hired by an AI Agent: 2,000 $5 Payments Explained",
+      "resumen": "",
+      "fuente": "explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFBsWWFEU0tHR05BaXdaXzcwdmw1SXJtT2RwWEJvdEctWW8xVkpBbnc4ekZWNXRBRGpVMXcxdXlTN1RkUkpBOTFGMVBKWGMtN1g1aGpCdVV3YWxCTzBWeHYyVi12NzY0UWM1RDdodGs4OC1PajVhczVSTnc5bEZIWktiNUlmVjNtTUJlZnFmdmFpejBESFRwQm5BQ3VTbVFCcE43Mmg4MXBfV1JE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "explainx.ai",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFBsWWFEU0tHR05BaXdaXzcwdmw1SXJtT2RwWEJvdEctWW8xVkpBbnc4ekZWNXRBRGpVMXcxdXlTN1RkUkpBOTFGMVBKWGMtN1g1aGpCdVV3YWxCTzBWeHYyVi12NzY0UWM1RDdodGs4OC1PajVhczVSTnc5bEZIWktiNUlmVjNtTUJlZnFmdmFpejBESFRwQm5BQ3VTbVFCcE43Mmg4MXBfV1JE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bcb9e720166a",
+      "categoria": "ten",
+      "fecha": "2026-11-28T00:06+00:00",
+      "titulo": "Durov burló al iPhone Duo y Apple enfrenta críticas",
+      "resumen": "",
+      "fuente": "Identidad Correntina",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTlFdDZubFgwc0ZPdmxqcXNQcERvSmdFUUdxeVVFSXQ1UF8xcDNEV0EwblhyWHdhVFFOVy1yNlY3cFd0ZWV1UUEtZjlSSGpHOEpKOVFjbmRSV0dObmZkV1JIU1BaUkJIQXdzZWhlOUg0cU5wdGRrOEdwd1UwWlRQbnBSdlBVdVZsWVlfVXVpNFU0M3JfRXhkN2dpTzBSR1hsMm5KWTc0RFNyUQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Identidad Correntina",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTlFdDZubFgwc0ZPdmxqcXNQcERvSmdFUUdxeVVFSXQ1UF8xcDNEV0EwblhyWHdhVFFOVy1yNlY3cFd0ZWV1UUEtZjlSSGpHOEpKOVFjbmRSV0dObmZkV1JIU1BaUkJIQXdzZWhlOUg0cU5wdGRrOEdwd1UwWlRQbnBSdlBVdVZsWVlfVXVpNFU0M3JfRXhkN2dpTzBSR1hsMm5KWTc0RFNyUQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
     {
       "id": "277fb589b9e6",
       "categoria": "emp",
@@ -13,6 +166,40 @@
         {
           "nombre": "PYMNTS.com",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJCOGx0bGdpc0tjN3JLQVN0dVhZVlBJcE1SbDVLQjNXU0xlOXdkZ29qb2tjLU1aMU54UkFHU0ViQ0hYSEFTSUprRjFxLWRfTTFVY2RuR1N1RVZKYTFGS0xPZ2NQclh2NW1lVDYzNjZnLWJjZkdkMVJqQXY1emFsWDNmQ3FldFRaZ2h3QXk0ajlYTnJGaXdIMk4yWVZ3ZGpFaTV1aHM4cDU3WF9abXZGMUZ6VjdESW1SM25aUFZrNDdudw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "aa8e370ef5db",
+      "categoria": "ten",
+      "fecha": "2026-11-27T22:27+00:00",
+      "titulo": "From wearable to smartphone camera: How apps will become the future of sports performance and development",
+      "resumen": "",
+      "fuente": "IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3NpcGMzTngyMXdIejMwMTdUV2RRb0RuOHFwYzA1dDZGcXJpY3pIZ3locGs2bXJ3TDFLemdQbjVwVms3ZUVwRTQ5TThmaEZTQUFEeEtoUlVyczMwYl9VVVdqVWM1WmUxbHhtM09tQm9xN2N5YldNQ1dsN1dSTnQtbDhlT0FoY1E2YzdhN19xTklSTU15d2prVVd1Wmx6Ylo1NkJrdmszMEIxbUtXdEFvZmVGTkttRTFLdEY5N1IyWWV3NlNXeTFsang5ZDg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "IT Brief UK",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3NpcGMzTngyMXdIejMwMTdUV2RRb0RuOHFwYzA1dDZGcXJpY3pIZ3locGs2bXJ3TDFLemdQbjVwVms3ZUVwRTQ5TThmaEZTQUFEeEtoUlVyczMwYl9VVVdqVWM1WmUxbHhtM09tQm9xN2N5YldNQ1dsN1dSTnQtbDhlT0FoY1E2YzdhN19xTklSTU15d2prVVd1Wmx6Ylo1NkJrdmszMEIxbUtXdEFvZmVGTkttRTFLdEY5N1IyWWV3NlNXeTFsang5ZDg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "d6871ce17eb7",
+      "categoria": "ten",
+      "fecha": "2026-11-27T22:15+00:00",
+      "titulo": "WhatsApp Tests Label-Free iPhone Tab Bar",
+      "resumen": "",
+      "fuente": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dLUmMyY1dUdXpiTS1NbElRYV83bkV4NFR1YVBRZkFPY2lPUWkwSExWbjRlVENRdVhOc0h1cHY3Um5VMlA3VHhKT21QbzlBMFQ2ZWIxS083eFYtMHVITjk1R1ZwcjB6dEJzeE51UDFiSG41YzIyRk5yUWI0REVxSkt0dVhBV0RlU0FFQg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dLUmMyY1dUdXpiTS1NbElRYV83bkV4NFR1YVBRZkFPY2lPUWkwSExWbjRlVENRdVhOc0h1cHY3Um5VMlA3VHhKT21QbzlBMFQ2ZWIxS083eFYtMHVITjk1R1ZwcjB6dEJzeE51UDFiSG41YzIyRk5yUWI0REVxSkt0dVhBV0RlU0FFQg?oc=5",
           "tipo": "nota"
         }
       ],
@@ -38,7 +225,7 @@
     {
       "id": "bbf2f00c88d3",
       "categoria": "ten",
-      "fecha": "2026-11-27T21:40+00:00",
+      "fecha": "2026-11-27T21:41+00:00",
       "titulo": "Dos apps llevan el control del Mac al iPhone Duo",
       "resumen": "",
       "fuente": "ENTER.CO",
@@ -90,7 +277,7 @@
       "id": "1ed92ea29006",
       "categoria": "ten",
       "fecha": "2026-11-27T20:31+00:00",
-      "titulo": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+      "titulo": "Apple faces potential $80 million fine and App Store overhaul in Chile [U: Apple responds]",
       "resumen": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution…",
       "fuente": "9to5Mac",
       "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
@@ -98,6 +285,23 @@
         {
           "nombre": "9to5Mac",
           "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "c6c605453a46",
+      "categoria": "ten",
+      "fecha": "2026-11-27T20:31+00:00",
+      "titulo": "Samsung Galaxy Z Fold 8 vs. iPhone Duo: precios, características técnicas y cuál elegir",
+      "resumen": "",
+      "fuente": "Bloomberg Línea",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmRhVmFSZlFUR1hLbW1nMkpCeTZsT08tYTFFU2N5aXNEakpOOTZWRkh4S3ZwVXJCSkVVSUo5SmhOankySlpvZWp2UE51RkJ0aDlQUHRGUGQzdy1vdE16NHczSXFGYU53bVNuUGQzQjdCdmhrRnUtQUJpRmF3S3l5R0czZHJJMjVFcTIxNEl1TFNJZ3JsTnUzYk45SHpCOGluNEpGSl9Md3RoM05LS1VsNTNkb0xHMHNfZlhGUnBLa0pPUGk2c3E0OV9UdnNfTTFPMUlNdlY1eXlWQdIB2gFBVV95cUxNQmRhVmFSZlFUR1hLbW1nMkpCeTZsT08tYTFFU2N5aXNEakpOOTZWRkh4S3ZwVXJCSkVVSUo5SmhOankySlpvZWp2UE51RkJ0aDlQUHRGUGQzdy1vdE16NHczSXFGYU53bVNuUGQzQjdCdmhrRnUtQUJpRmF3S3l5R0czZHJJMjVFcTIxNEl1TFNJZ3JsTnUzYk45SHpCOGluNEpGSl9Md3RoM05LS1VsNTNkb0xHMHNfZlhGUnBLa0pPUGk2c3E0OV9UdnNfTTFPMUlNdlY1eXlWQQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Bloomberg Línea",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmRhVmFSZlFUR1hLbW1nMkpCeTZsT08tYTFFU2N5aXNEakpOOTZWRkh4S3ZwVXJCSkVVSUo5SmhOankySlpvZWp2UE51RkJ0aDlQUHRGUGQzdy1vdE16NHczSXFGYU53bVNuUGQzQjdCdmhrRnUtQUJpRmF3S3l5R0czZHJJMjVFcTIxNEl1TFNJZ3JsTnUzYk45SHpCOGluNEpGSl9Md3RoM05LS1VsNTNkb0xHMHNfZlhGUnBLa0pPUGk2c3E0OV9UdnNfTTFPMUlNdlY1eXlWQdIB2gFBVV95cUxNQmRhVmFSZlFUR1hLbW1nMkpCeTZsT08tYTFFU2N5aXNEakpOOTZWRkh4S3ZwVXJCSkVVSUo5SmhOankySlpvZWp2UE51RkJ0aDlQUHRGUGQzdy1vdE16NHczSXFGYU53bVNuUGQzQjdCdmhrRnUtQUJpRmF3S3l5R0czZHJJMjVFcTIxNEl1TFNJZ3JsTnUzYk45SHpCOGluNEpGSl9Md3RoM05LS1VsNTNkb0xHMHNfZlhGUnBLa0pPUGk2c3E0OV9UdnNfTTFPMUlNdlY1eXlWQQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -121,9 +325,43 @@
       "region": "global"
     },
     {
+      "id": "518cf62a9b05",
+      "categoria": "emp",
+      "fecha": "2026-11-27T20:10+00:00",
+      "titulo": "Este lunes comienza el pago de sueldos con el incremento del 7,5% para la administración pública",
+      "resumen": "",
+      "fuente": "www.libertaddigital.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaG92YS03Z1lfaVgzTU5JRWlhNGhJRDFUTWRfOVc5OHpQSWxMVzVfU3cxb2ZzUGlxUEpXTm9Ib3ZQVUJ3dTgwRW5jMmFQdE1IeTk2YjYtQk04Q0szaVpMRXktdXJTcTFBWVpOZ3lEWnhvWkJYdnIyVUtubHNCQTZIZHpVYXVTd2hjY3hiYUF2LXBEN1pLV3VTZUN5UEpFSXZjZmhTTnczQzhacGpzYmozZ3FUZF9UQ09ySkFXTzY4bndBY2tpQm1TSUdQZEktWkFk?oc=5",
+      "enlaces": [
+        {
+          "nombre": "www.libertaddigital.com.ar",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaG92YS03Z1lfaVgzTU5JRWlhNGhJRDFUTWRfOVc5OHpQSWxMVzVfU3cxb2ZzUGlxUEpXTm9Ib3ZQVUJ3dTgwRW5jMmFQdE1IeTk2YjYtQk04Q0szaVpMRXktdXJTcTFBWVpOZ3lEWnhvWkJYdnIyVUtubHNCQTZIZHpVYXVTd2hjY3hiYUF2LXBEN1pLV3VTZUN5UEpFSXZjZmhTTnczQzhacGpzYmozZ3FUZF9UQ09ySkFXTzY4bndBY2tpQm1TSUdQZEktWkFk?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "dd69791b69d8",
+      "categoria": "ten",
+      "fecha": "2026-11-27T20:02+00:00",
+      "titulo": "WhatsApp’s iPhone app is getting a cleaner look, starting at the bottom",
+      "resumen": "",
+      "fuente": "Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdTJZN3p4MENHYVMxQWV5d3J4TXRBN1BTWFBSTlk5eGZnbGFIZXNfc2hHRTlrREVsZE5ha19HSlc1TmtKTmd6NHNVTk93T0ZVdXhvaUpJU0ltUVU1eDZUUVR2elF3ckM1dkhzbkZHeTlDVUhsOVQyNTgtSlBLYVY5aUJHYlpiWklXUUdOem9vOEQtaHBNcUhrMzlyMVQwRlFEZ1RvUlN0NkstQ3c?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Digital Trends",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdTJZN3p4MENHYVMxQWV5d3J4TXRBN1BTWFBSTlk5eGZnbGFIZXNfc2hHRTlrREVsZE5ha19HSlc1TmtKTmd6NHNVTk93T0ZVdXhvaUpJU0ltUVU1eDZUUVR2elF3ckM1dkhzbkZHeTlDVUhsOVQyNTgtSlBLYVY5aUJHYlpiWklXUUdOem9vOEQtaHBNcUhrMzlyMVQwRlFEZ1RvUlN0NkstQ3c?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "8f439263baac",
       "categoria": "reg",
-      "fecha": "2026-11-27T19:42+00:00",
+      "fecha": "2026-11-27T19:37+00:00",
       "titulo": "Los pagos con QR interoperable subieron 56,3% interanual en octubre, según el BCRA",
       "resumen": "",
       "fuente": "Eduardo German",
@@ -136,6 +374,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "ae2758ed7a18",
+      "categoria": "ten",
+      "fecha": "2026-11-27T19:05+00:00",
+      "titulo": "iOS 27.3 update brings new StandBy mode faces from iPhone Duo to all iPhones",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnp6Mm9WVkpRRGc2YVA1OVBmRlBYbm9TUG8zdG1qX3ktOGZJMHI3TjR5SmpkaTVnQVg3bWh1WGZHVVFsVXhNVjV3aHoyYUs0OUFDRVZZY0JFWm1CN3dfVXcwNnQyeWRDWGhYdTVZR3BLQ0lmdWVIUXVCMHlTQm9ET05pUFp6ZGN5Y3Q1cHRmb3lrNFBkcW9FZnMxOGNnSUw1ZVlxRUFFbEQzaW1xNjNlZFVDTW5fQ01Nd05YOUFRM3RwZzAwcHc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnp6Mm9WVkpRRGc2YVA1OVBmRlBYbm9TUG8zdG1qX3ktOGZJMHI3TjR5SmpkaTVnQVg3bWh1WGZHVVFsVXhNVjV3aHoyYUs0OUFDRVZZY0JFWm1CN3dfVXcwNnQyeWRDWGhYdTVZR3BLQ0lmdWVIUXVCMHlTQm9ET05pUFp6ZGN5Y3Q1cHRmb3lrNFBkcW9FZnMxOGNnSUw1ZVlxRUFFbEQzaW1xNjNlZFVDTW5fQ01Nd05YOUFRM3RwZzAwcHc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "73012595c825",
@@ -189,6 +444,23 @@
       "region": "global"
     },
     {
+      "id": "d4025144ebe3",
+      "categoria": "ten",
+      "fecha": "2026-11-27T18:43+00:00",
+      "titulo": "iPhone Duo Gets a MacBook-Style Layout With Screens Laptop Mode",
+      "resumen": "",
+      "fuente": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM1FQNXVpdERaX0VmWHRqb1VNeFNvNlduVGNSVG9iWHNGQlpIQUFPUEpLSlI2d1ZkS09hZ2FWUWZ3NFB0VkdhTUg4RGVKU0hGeldEZF9XdlprNTF3eHV3Zkw0dno2R0pYSWJmQXEtOA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Technobezz",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM1FQNXVpdERaX0VmWHRqb1VNeFNvNlduVGNSVG9iWHNGQlpIQUFPUEpLSlI2d1ZkS09hZ2FWUWZ3NFB0VkdhTUg4RGVKU0hGeldEZF9XdlprNTF3eHV3Zkw0dno2R0pYSWJmQXEtOA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "a85c5471de2e",
       "categoria": "ten",
       "fecha": "2026-11-27T18:43+00:00",
@@ -200,23 +472,6 @@
         {
           "nombre": "Techloy",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQUJHSlctcVlVbFY3U1NMcFluaXJnX3hqYXRaczhrdmZVT0lnR2kxbmcySUNCOUFOc2VkLXpUVmhuRnBmS1I2RVVZaFlBeXJNTGJlV3FNLWtuMlhXN1dZTlgyeVBLQWhiRVE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "d4025144ebe3",
-      "categoria": "ten",
-      "fecha": "2026-11-27T18:39+00:00",
-      "titulo": "iPhone Duo Gets a MacBook-Style Layout With Screens Laptop Mode",
-      "resumen": "",
-      "fuente": "Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM1FQNXVpdERaX0VmWHRqb1VNeFNvNlduVGNSVG9iWHNGQlpIQUFPUEpLSlI2d1ZkS09hZ2FWUWZ3NFB0VkdhTUg4RGVKU0hGeldEZF9XdlprNTF3eHV3Zkw0dno2R0pYSWJmQXEtOA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Technobezz",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM1FQNXVpdERaX0VmWHRqb1VNeFNvNlduVGNSVG9iWHNGQlpIQUFPUEpLSlI2d1ZkS09hZ2FWUWZ3NFB0VkdhTUg4RGVKU0hGeldEZF9XdlprNTF3eHV3Zkw0dno2R0pYSWJmQXEtOA?oc=5",
           "tipo": "nota"
         }
       ],
@@ -240,6 +495,40 @@
       "region": "global"
     },
     {
+      "id": "6efc72b2f8dc",
+      "categoria": "ten",
+      "fecha": "2026-11-27T17:57+00:00",
+      "titulo": "iPhone Ultra Foldable: When Apple Decides to Break Records with a Thickness of Only 4.5mm!",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0hNNDZBN0lLNkNhbzVFSzEzLTRJeUJUdUtoR1V6WHpZRnhkbWpvQzc0Vlo0RGZEZFF5dXRTUzM4ZWQxcTctWnBxdnpOeEVqN19EZ2w3T2ZzaTRSVm9WOWFfUnQzSDhhUFZTMzlfbDVuaVlCa1lkYk5HdUs1QzJ0a3Zyakd4VUlhUU9XX2xuejZ4UURUb0pKNFZ5QVBBdFFQZHhNcUZLbE1XRXhtZ2I5WVNKblVKTHdUZHIzYjNxMUFBeHh0Y1NIMGEyS1BZNk01bTlFMG1B?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0hNNDZBN0lLNkNhbzVFSzEzLTRJeUJUdUtoR1V6WHpZRnhkbWpvQzc0Vlo0RGZEZFF5dXRTUzM4ZWQxcTctWnBxdnpOeEVqN19EZ2w3T2ZzaTRSVm9WOWFfUnQzSDhhUFZTMzlfbDVuaVlCa1lkYk5HdUs1QzJ0a3Zyakd4VUlhUU9XX2xuejZ4UURUb0pKNFZ5QVBBdFFQZHhNcUZLbE1XRXhtZ2I5WVNKblVKTHdUZHIzYjNxMUFBeHh0Y1NIMGEyS1BZNk01bTlFMG1B?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "0d173be456ad",
+      "categoria": "ten",
+      "fecha": "2026-11-27T17:55+00:00",
+      "titulo": "5 All-New Features in the iPhone Lock Screen with the iOS 27 Update",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "b20133df84ee",
       "categoria": "emp",
       "fecha": "2026-11-27T17:40+00:00",
@@ -257,17 +546,17 @@
       "region": "global"
     },
     {
-      "id": "0d173be456ad",
+      "id": "2d565bcb9f7a",
       "categoria": "ten",
-      "fecha": "2026-11-27T17:35+00:00",
-      "titulo": "5 All-New Features in the iPhone Lock Screen with the iOS 27 Update",
+      "fecha": "2026-11-27T17:28+00:00",
+      "titulo": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
       "resumen": "",
-      "fuente": "آي-فون إسلام",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEhfejFzcksydC1EbW95TE1rNHNaNnhoVjhuQ3BDVExaWHFmSUhNZm1VaXBLZjdneVVlV2hfX0xtZE90cUNYQjhxajZKeF9ZVkpWemxmTGRqckJvR1cxRVZ5ZzREc1ZCRkxVZHV4U3I3d2hQY3JWb2E5Ym9nVDd3OHdTVFpLWDNCbUx0TzgwdFUwREgyRmVRb090eERlb0VOVmZORnlyNjZDQkpNYzA3ZFZBVGs3dnlCT1E?oc=5",
       "enlaces": [
         {
-          "nombre": "آي-فون إسلام",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZllEam4wbndzaE5PZlNweFlkdF9IMTFFSlpwdjJsVDJnbURjRTFReHYzQ1VPbUNIM3ZQMk1UV3hUbklYMDB5TlZGM1BNZy1BeGlsZlhCMTMzclNxUzRuQzVjdzhjNVk0TGhyME9yNjlsZE5XZTY1MFQ0RnNzeHE3dFpOUkxpRU1FREozU2p3bDlpWTU0elZ3cExVaGs3d0QzbmZna0FLVG9IZS03QmxHZjNXcWhLNmZ1a1E?oc=5",
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEhfejFzcksydC1EbW95TE1rNHNaNnhoVjhuQ3BDVExaWHFmSUhNZm1VaXBLZjdneVVlV2hfX0xtZE90cUNYQjhxajZKeF9ZVkpWemxmTGRqckJvR1cxRVZ5ZzREc1ZCRkxVZHV4U3I3d2hQY3JWb2E5Ym9nVDd3OHdTVFpLWDNCbUx0TzgwdFUwREgyRmVRb090eERlb0VOVmZORnlyNjZDQkpNYzA3ZFZBVGs3dnlCT1E?oc=5",
           "tipo": "nota"
         }
       ],
@@ -285,6 +574,45 @@
         {
           "nombre": "LinkedIn",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1lLcWRCb2NDRHpHMElvUU94OEtBQlNacWh1NlZxcHgtOXFzZ0RYSTFNVm0tRXpQaTZHYnJLN0o3b2VCNVR5TjYtSTVyR3NOTzlyekRFT1FPTnlFLTVHZG4yNFpvdVM3REg5NF9KMldJbUVvQVN1bUJWQU5FWGRaQ2lfN3BvOTEwVGppS29JS0hhMjZoR3BsT3IwYWlWMERTaFFjYU5LSloyMGRyOGp3?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "05c74876ff25",
+      "categoria": "ten",
+      "fecha": "2026-11-27T17:09+00:00",
+      "titulo": "A First Look at the iPhone Ultra Fold: Apple chooses a \"wide\" design to innovate the perfect hybrid device",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcE1BZVNkczZma2lsakJZNGNSOUYySWh4aS1RX3d3ZUVmTFVDNlFtbXhreWtsLWJFbVExUXp3ZnBmS1FFU0lGa0NDZTNxdW1jNS1FeU1LTzNvNUdheHBrNVBteDBEQVdiclluWUZzRWRwY3RjRDE1d3FmN1d1UF9UdG54VlJVTzBOZlJHOWljeUQxc3NHeFhoMmM2alBkM3Z4VlhqZXhCQ1NqeVhWNGdLUThIeTE3em1ZSWNqZDlTWjE1X2Rzc0xUa0JMX19sWXlHVVBXLTBIal9GSE1rLXRFY2ZzdW0tX0w3ZkE?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcE1BZVNkczZma2lsakJZNGNSOUYySWh4aS1RX3d3ZUVmTFVDNlFtbXhreWtsLWJFbVExUXp3ZnBmS1FFU0lGa0NDZTNxdW1jNS1FeU1LTzNvNUdheHBrNVBteDBEQVdiclluWUZzRWRwY3RjRDE1d3FmN1d1UF9UdG54VlJVTzBOZlJHOWljeUQxc3NHeFhoMmM2alBkM3Z4VlhqZXhCQ1NqeVhWNGdLUThIeTE3em1ZSWNqZDlTWjE1X2Rzc0xUa0JMX19sWXlHVVBXLTBIal9GSE1rLXRFY2ZzdW0tX0w3ZkE?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "93e87626bce1",
+      "categoria": "emp",
+      "fecha": "2026-11-27T17:01+00:00",
+      "titulo": "Nu Holdings vs. SoFi: Which Fintech Powerhouse Is the Smarter Buy?",
+      "resumen": "",
+      "fuente": "Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3BWaXNvdlRRMHJGSHRsQUI0SS1LYXl4djJnaUxKdUw0c19IbzFyenlEbXNBeXBzcmNURG5rVzdwdUtYUURONmh5QTRLbGlYczU2LWtMZFA5YmZFbHA1M1R5czNTZFV4Q05RV05USldxSDBqYkUtUmFDS191cC02MjFZQnJld25QQy1uYUFNVHdjNEFVQUtrdVItV092YXJfTWxUSElLaw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3BWaXNvdlRRMHJGSHRsQUI0SS1LYXl4djJnaUxKdUw0c19IbzFyenlEbXNBeXBzcmNURG5rVzdwdUtYUURONmh5QTRLbGlYczU2LWtMZFA5YmZFbHA1M1R5czNTZFV4Q05RV05USldxSDBqYkUtUmFDS191cC02MjFZQnJld25QQy1uYUFNVHdjNEFVQUtrdVItV092YXJfTWxUSElLaw?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEpkd3pXTG92azJJNzBHdWZZa2V2VzRjUW85Q0xkMDRsUHVsbEI2VlBzQWpGOThNQ3VhQmlLNnlEeDJMRU9uNHROUndlRExTR29kR0lBMTUzMGFHVnlKT2tsSnZXX3JQYnpucTd0Yi13UlYyZGMwS3FXMHlaM3JINXFkWG5remxER3lVVy11eGhCTUlHaUFHNGRkd2NkcXdWZk56Zjk4MmYxNzNZaXJaNEItT2xNVjgtS09HZGNwMWxFYVd6dTZGbFQ0LUM5cDZfdW9rdVNvT0FHMkNuWXZF?oc=5",
           "tipo": "nota"
         }
       ],
@@ -319,6 +647,11 @@
         {
           "nombre": "9to5Mac",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3NwaS1NQWdjRDlHS3JPeHhUbmpnWHk1bC12QlFVSWI4VlNtS2huZnlpdS15X25xZXhyMldldlFCMk81OTNXUnNOT0FINTVta3kzSndPYUJlUkVxR1oxbTQtMVlEUERuajU0Qm4zWEplSlJuRzdKV0lmM3hfTkdtSWltdFBKd3lJ?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFJFemJoYVdUWGVmeGNsX05LR0p5dTdWZF9EUEpMdWdDOXhUN2oxWkkxU2prVlpvX0F4NzNrblk4YjhqS2c1dm1Cc0hTbEVJcHFteDVyelpCV0wtUlY5TTZyUjVqS1lPOF9yeGNLWUF2YzFELXJoakRMc2lTd3A1T3hFX2VDTnhKLWRodFpfbEV4dUs1Szd1REJFdWZnT0NLRHdjMjNfNldFeDdlRXp2djNMYlFBVElOS010ZWxkMA?oc=5",
           "tipo": "nota"
         }
       ],
@@ -449,6 +782,23 @@
       "region": "global"
     },
     {
+      "id": "31be890e5c32",
+      "categoria": "ten",
+      "fecha": "2026-11-27T16:23+00:00",
+      "titulo": "OriginOS 7 UI Leak: Customize Top Icons and Dock Bar",
+      "resumen": "",
+      "fuente": "Nokiapoweruser",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2RGSlVGU2o4SUUxSFlHMnVfY3NJWEl4T0ZHNzBBeXFka0R0OXQ5OEZoMW5jc0U3dk1SblAwbmlDY2tlQ2U1S2R0MXVoT21UdUh2TW1ISnpjbEVmSHQxamdyVDU3RXJUdE15RkhMMU8zMzRPUndhMUtKVkQxVzlaOWtmcjBnMlJhYk5pbWdOdlRYMHJjaUZrSg?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Nokiapoweruser",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2RGSlVGU2o4SUUxSFlHMnVfY3NJWEl4T0ZHNzBBeXFka0R0OXQ5OEZoMW5jc0U3dk1SblAwbmlDY2tlQ2U1S2R0MXVoT21UdUh2TW1ISnpjbEVmSHQxamdyVDU3RXJUdE15RkhMMU8zMzRPUndhMUtKVkQxVzlaOWtmcjBnMlJhYk5pbWdOdlRYMHJjaUZrSg?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "903cdd4e40e2",
       "categoria": "ten",
       "fecha": "2026-11-27T16:16+00:00",
@@ -460,6 +810,40 @@
         {
           "nombre": "Университет ИТМО",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yOEJvZmpuaEVEZTJkZkRaaTZQaUVpMk9HMmF2OW9zMmF6cTdfZEp2Tlo4UlV1ekhsY1pHRzg1NmQ0SzZsUHR4bUJhSzFNR182aERmeVYyOUdfa0o4di1meA?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "637b6cf2f97a",
+      "categoria": "reg",
+      "fecha": "2026-11-27T16:15+00:00",
+      "titulo": "💳 La nueva Ley de Ludopatía introduce cambios en los medios de pago para las apuestas online y amplía las responsabilidades de bancos y billeteras virtuales. 🏦 La normativa prohíbe utilizar tarjetas de crédito,…",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnNnTEhIOFRCN2Rqb0kzelloSDQyaEE5RTR3Z21BTmhKRTBRSUFFakhncGNnSVlJMTNtcnRsbmFmZUllUGcyWjF4cDVfNm5DaUxYNXA2WTFVYmlkaTE2dzdyVkRzdnNNdmRDMkpSTGQ0aGxaeDV2QWZSdDE0cV9xeU5leF9acEV4ZFhyY1VSYkhPeUltcDBXcEtnTXhGeXdtLXNFQ2ZYNWZzUnVnajNhTmFTWWxIM2JQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnNnTEhIOFRCN2Rqb0kzelloSDQyaEE5RTR3Z21BTmhKRTBRSUFFakhncGNnSVlJMTNtcnRsbmFmZUllUGcyWjF4cDVfNm5DaUxYNXA2WTFVYmlkaTE2dzdyVkRzdnNNdmRDMkpSTGQ0aGxaeDV2QWZSdDE0cV9xeU5leF9acEV4ZFhyY1VSYkhPeUltcDBXcEtnTXhGeXdtLXNFQ2ZYNWZzUnVnajNhTmFTWWxIM2JQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
+      "id": "db8b6b2ea233",
+      "categoria": "ten",
+      "fecha": "2026-11-27T16:10+00:00",
+      "titulo": "MagicOS 11 Could Be Android's Answer to iOS 27's Premium Design",
+      "resumen": "",
+      "fuente": "nokiapoweruser.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
+      "enlaces": [
+        {
+          "nombre": "nokiapoweruser.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
           "tipo": "nota"
         }
       ],
@@ -515,6 +899,23 @@
         }
       ],
       "region": "global"
+    },
+    {
+      "id": "8e508e9dab56",
+      "categoria": "emp",
+      "fecha": "2026-11-27T16:00+00:00",
+      "titulo": "Data Quality (Banca) en Indra Group — Lima, Perú | Empleos de LinkedIn",
+      "resumen": "",
+      "fuente": "LinkedIn Perú",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObnVBb0RzcG45dFhyNU1mMllKaDhET2hWQ0dZRmo4WDlpMGlJMEVKQXlLcWNwMUVsWUhDSXN2VTRKYlhqUTU3Znp2Y04yMFJFcWxQUVFtSDktanY4XzdnOGdydUc0ZWdkTUQtZnRnR05DQk9rUHU4cDZWdGxwMXZ0NzlwNkxhRjFtTzJzWUVGWGxCU0l1ei1pN3I5YnpSeXpqUnlwRlhrTUlJT1NrdDM3eXpVNUZkVEtpQk5RTnRjQ08wRGlvT2dFZC1yVGtkWVBaWHNmU3VEVjBBQ3pTRlBhcU1qZ3R5RGVxNmNHVlU3MG1icUxzeUNrZzh3d3JXSWRPOWpEQVdn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn Perú",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObnVBb0RzcG45dFhyNU1mMllKaDhET2hWQ0dZRmo4WDlpMGlJMEVKQXlLcWNwMUVsWUhDSXN2VTRKYlhqUTU3Znp2Y04yMFJFcWxQUVFtSDktanY4XzdnOGdydUc0ZWdkTUQtZnRnR05DQk9rUHU4cDZWdGxwMXZ0NzlwNkxhRjFtTzJzWUVGWGxCU0l1ei1pN3I5YnpSeXpqUnlwRlhrTUlJT1NrdDM3eXpVNUZkVEtpQk5RTnRjQ08wRGlvT2dFZC1yVGtkWVBaWHNmU3VEVjBBQ3pTRlBhcU1qZ3R5RGVxNmNHVlU3MG1icUxzeUNrZzh3d3JXSWRPOWpEQVdn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "29f3e6d091ae",
@@ -636,6 +1037,28 @@
       "region": "global"
     },
     {
+      "id": "f0b0f8614b2b",
+      "categoria": "emp",
+      "fecha": "2026-11-27T15:23+00:00",
+      "titulo": "DATA ANALYST SENIOR - BANCA EMPRESAS E INSTITUCIONES",
+      "resumen": "",
+      "fuente": "LinkedIn Colombia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQllJZEZYSGtDVlU5SGYtLVFEOUk1ZTFBMDA4Vm5ORUVEb0xFaUUtQUhya3V4ZlFMaU9mM2lSeC03a0k0amNGZDZ3UXFwWW11MVVQdkd1RXlEQVJfY1FMalFVX2dBdzJ5eXJSNGZDMDVtb05oU0RnODAzR0lpYW5fRDA5TUJUOTBheW9WeUt4aEFaaHg1OHRDVGNLbTE4c2djaW51cjRabDZFMFo3SDUwRzlsYTFFZw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn Colombia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQllJZEZYSGtDVlU5SGYtLVFEOUk1ZTFBMDA4Vm5ORUVEb0xFaUUtQUhya3V4ZlFMaU9mM2lSeC03a0k0amNGZDZ3UXFwWW11MVVQdkd1RXlEQVJfY1FMalFVX2dBdzJ5eXJSNGZDMDVtb05oU0RnODAzR0lpYW5fRDA5TUJUOTBheW9WeUt4aEFaaHg1OHRDVGNLbTE4c2djaW51cjRabDZFMFo3SDUwRzlsYTFFZw?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "LinkedIn Colombia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUVwNEZILXhHU1llU09qYTZUdkZobGhDRzZvd3BpNUtWQV9YX19UdE40TXlYVllLbDNEQ1pLN0x0b1ZsWmF3WVFhSUh1STBPYmcwUWxDMDJyWmNTWHgtSjByYW5fLW1CLUh6WHpuN1M4dmFaQU53Rm9USGZRYmxLVFVLd2xpc3B5V1ZLOVZuVk5WekZKRThmRGRQUDdWYmFzeVVrT2VQX2I4RWNhY20tVkxkckg2Zw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
+    },
+    {
       "id": "d8f891e11ee8",
       "categoria": "ten",
       "fecha": "2026-11-27T14:50+00:00",
@@ -651,6 +1074,23 @@
         }
       ],
       "region": "global"
+    },
+    {
+      "id": "f7cc480c1bda",
+      "categoria": "reg",
+      "fecha": "2026-11-27T14:50+00:00",
+      "titulo": "🏦 El BCRA sigue de cerca las operaciones con dólar MEP y stablecoins en billeteras virtuales y plataformas cripto. 🔎 Según fuentes del sector financiero, el organismo habría realizado contactos informales para…",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkt5ajlaRnYzRGQyc1dDNWZmeWRxQk90NXpNWGR1REY4Tmg3czFRQnBWWUFncHBHQmxYMDFELWlaVGNIdFRXVF9SajlnN1o1Y1hHSG53MUpBck9ZdEhBeFZSUlVoNlRwZ0V6Q3AxVlRXZE9mdGVmOF9wYWhnV3pzVk5FQ2xpRHlUYkl3bkhCYjJSOGp5UmktWkxsc1Y1cWRRVGw1M1lqT2NnUQ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkt5ajlaRnYzRGQyc1dDNWZmeWRxQk90NXpNWGR1REY4Tmg3czFRQnBWWUFncHBHQmxYMDFELWlaVGNIdFRXVF9SajlnN1o1Y1hHSG53MUpBck9ZdEhBeFZSUlVoNlRwZ0V6Q3AxVlRXZE9mdGVmOF9wYWhnV3pzVk5FQ2xpRHlUYkl3bkhCYjJSOGp5UmktWkxsc1Y1cWRRVGw1M1lqT2NnUQ?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "5600dfa209b3",
@@ -687,6 +1127,23 @@
       "region": "global"
     },
     {
+      "id": "76ec5c2252b7",
+      "categoria": "ten",
+      "fecha": "2026-11-27T14:45+00:00",
+      "titulo": "Can AI design novel, synthesisable and sustainable drug candidates without training data? That’s the question at the heart of my PhD project in the 2027 DRIVE-Health catalogue. Take a look!",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTNUZnZCdVB0ZnNxeVhrZ1VucVk4U2ltZFpaWUhYSl9nWlpiMjVMMEY5bjRoeW41SVdzemNmdWkxWTViTnlIQ0NZUUVIaWRkWDlSTy1McmFDQjFyOGY4dGM2MXdPSVAwQTEzY01TWHk4OUdOWmhmMkxSSEplN2wwLWtPaUZxZ3BEeWFjRnJaSXpCWFVfOGtfNGlFb1llS01IdVVHMlJvZE9kMG9UaUhoWmstRE9NekhOeVdrSE1wWjB6MVZXVHlUN0RB?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTNUZnZCdVB0ZnNxeVhrZ1VucVk4U2ltZFpaWUhYSl9nWlpiMjVMMEY5bjRoeW41SVdzemNmdWkxWTViTnlIQ0NZUUVIaWRkWDlSTy1McmFDQjFyOGY4dGM2MXdPSVAwQTEzY01TWHk4OUdOWmhmMkxSSEplN2wwLWtPaUZxZ3BEeWFjRnJaSXpCWFVfOGtfNGlFb1llS01IdVVHMlJvZE9kMG9UaUhoWmstRE9NekhOeVdrSE1wWjB6MVZXVHlUN0RB?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "f0952f7f70ec",
       "categoria": "emp",
       "fecha": "2026-11-27T14:43+00:00",
@@ -698,6 +1155,45 @@
         {
           "nombre": "Wisevoter",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGdlS2Rhek9qMjkyZy11ajBXak9qbGFwYjVVb05Mc2c1dWEwUTdfZEEzOHZkRHNyU2RCOGYzcFBjS0d3dWlVSUg0cFNBdDFFODFYVHJ3UkM1a19mOEVURk9mTGg1Z2lQc0JGSGFJOVZwLVR6Q2UwLTJadzBrYVlGTURkQlMtS0FIa3c?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "2518f2203b31",
+      "categoria": "emp",
+      "fecha": "2026-11-27T14:38+00:00",
+      "titulo": "Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX)",
+      "resumen": "",
+      "fuente": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMXI4Tk5mSm94YzhzWUxXQ1oybVRVaU9lMzc4X2xIRGNnS19uRUFxclk4QXVPTk04T2dldDIySVlydE1JRTlrQ2p4Y1BVaTlzbVRTYXRWTEJZSXZXZFhhOFBoVXlwb1E1?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMXI4Tk5mSm94YzhzWUxXQ1oybVRVaU9lMzc4X2xIRGNnS19uRUFxclk4QXVPTk04T2dldDIySVlydE1JRTlrQ2p4Y1BVaTlzbVRTYXRWTEJZSXZXZFhhOFBoVXlwb1E1?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UmJacDZJdmF6TXRFUDhxeVBrVDB4MnZaZWhQSGJsbjJlNHB0eGVtdnFTdDBSN05DV0pmUEtOLVBSYkR2ZDV4cjk4RnZHSGNacEZHa2h0T3VYeXQtZWRlbE1n?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "beee125affc5",
+      "categoria": "emp",
+      "fecha": "2026-11-27T14:28+00:00",
+      "titulo": "T. Rowe Price Technology ETF (Robinhood Token) Exchanges TTEQ Markets | Buy & Sell & Trade",
+      "resumen": "",
+      "fuente": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXdTaGI0V3Ftek9NWEtNSWFBNkVqU3dGWWxpdzFteTI2cUJKUjdrNlRueEwybTZEWGtYOFRCdTU2dmFzaEk5Tm9CTE5KMTZrbWU2eXV0U3RsRmhIa29JZEJ6UGJKOTVtNUxkblZDRnh2eDh2V002SmFyaEJLZjBLMmt6WThyWDRo?oc=5",
+      "enlaces": [
+        {
+          "nombre": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXdTaGI0V3Ftek9NWEtNSWFBNkVqU3dGWWxpdzFteTI2cUJKUjdrNlRueEwybTZEWGtYOFRCdTU2dmFzaEk5Tm9CTE5KMTZrbWU2eXV0U3RsRmhIa29JZEJ6UGJKOTVtNUxkblZDRnh2eDh2V002SmFyaEJLZjBLMmt6WThyWDRo?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1117,6 +1613,28 @@
       "region": "global"
     },
     {
+      "id": "81b1880c33c5",
+      "categoria": "ten",
+      "fecha": "2026-11-27T11:41+00:00",
+      "titulo": "November 2026: Top five fintech funding stories of the month",
+      "resumen": "",
+      "fuente": "FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUQ0aDRIeEdhNmpmMkdMZUtqenBUZXdmVTR2cF9UVUxwUEpvMW41UHZMMXlCUUJicFBSdS1jS1V3Q1JvdEFKeWhab1hVX0g0QXlPdHhHY0JraEFSY0FrM3Q4dExMVUJlZnNMblpJSUNnMEtRcTVSaWxkVmFQYVdYUk4zYnJJeklLdzduMjE4MDZQRmQzbzBwRGktaV9aV0t4UmplT3EweTlOVWtyR3p5NUdrZFc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "FinTech Futures",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUQ0aDRIeEdhNmpmMkdMZUtqenBUZXdmVTR2cF9UVUxwUEpvMW41UHZMMXlCUUJicFBSdS1jS1V3Q1JvdEFKeWhab1hVX0g0QXlPdHhHY0JraEFSY0FrM3Q4dExMVUJlZnNMblpJSUNnMEtRcTVSaWxkVmFQYVdYUk4zYnJJeklLdzduMjE4MDZQRmQzbzBwRGktaV9aV0t4UmplT3EweTlOVWtyR3p5NUdrZFc?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "FinTech Futures",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2o3UENQMkJlYS1GakQzeV9SejRMUUxNSm5PcFpyMTZaa1VsQV8xWVYtby0tWTNfOHdHNVNzdExRSkNZMGRmX1lfcS16aFM5MVRyem5lRjBMMF9xSENZc1ozQVFhMGhXZHVNYVJ2WjZsdXlOQ05UcF9MVGJHUzBoVVBGZnJXSTdmZWxnNkxtR29qYmVFMlZmTU5XSkpBNElNVjdPTTRn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "b0a05481ddb4",
       "categoria": "emp",
       "fecha": "2026-11-27T11:41+00:00",
@@ -1491,23 +2009,6 @@
       "region": "ar"
     },
     {
-      "id": "80e4703edb1c",
-      "categoria": "ten",
-      "fecha": "2026-11-27T10:00+00:00",
-      "titulo": "David Delahunty: prototipos que mezclan lo absurdo y lo funcional",
-      "resumen": "",
-      "fuente": "Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RDdkt6ZGF2TjYzT1RnaklYM0hXUE9MazNIQmJVYmVqRE5BX1EzWW1MY0NtRWdIRWdPRjZ3Y0hVd3FqVXBPaUZURXFWWldoN1d2LS1wTGNjQTBjSVJsdXdMTkZranNwTWxoR2w4a2VvV3pSSnZldTh3ZWwxdTB3N3RWNTJGWDJnZFlWbjNRMmZsSnFUZk0zMXVBZi1KM2pNZDh0UXRn?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Foro3D",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RDdkt6ZGF2TjYzT1RnaklYM0hXUE9MazNIQmJVYmVqRE5BX1EzWW1MY0NtRWdIRWdPRjZ3Y0hVd3FqVXBPaUZURXFWWldoN1d2LS1wTGNjQTBjSVJsdXdMTkZranNwTWxoR2w4a2VvV3pSSnZldTh3ZWwxdTB3N3RWNTJGWDJnZFlWbjNRMmZsSnFUZk0zMXVBZi1KM2pNZDh0UXRn?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "552032a18c8e",
       "categoria": "ten",
       "fecha": "2026-11-27T10:00+00:00",
@@ -1542,6 +2043,23 @@
       "region": "global"
     },
     {
+      "id": "80e4703edb1c",
+      "categoria": "ten",
+      "fecha": "2026-11-27T10:00+00:00",
+      "titulo": "David Delahunty: prototipos que mezclan lo absurdo y lo funcional",
+      "resumen": "",
+      "fuente": "Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RDdkt6ZGF2TjYzT1RnaklYM0hXUE9MazNIQmJVYmVqRE5BX1EzWW1MY0NtRWdIRWdPRjZ3Y0hVd3FqVXBPaUZURXFWWldoN1d2LS1wTGNjQTBjSVJsdXdMTkZranNwTWxoR2w4a2VvV3pSSnZldTh3ZWwxdTB3N3RWNTJGWDJnZFlWbjNRMmZsSnFUZk0zMXVBZi1KM2pNZDh0UXRn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RDdkt6ZGF2TjYzT1RnaklYM0hXUE9MazNIQmJVYmVqRE5BX1EzWW1MY0NtRWdIRWdPRjZ3Y0hVd3FqVXBPaUZURXFWWldoN1d2LS1wTGNjQTBjSVJsdXdMTkZranNwTWxoR2w4a2VvV3pSSnZldTh3ZWwxdTB3N3RWNTJGWDJnZFlWbjNRMmZsSnFUZk0zMXVBZi1KM2pNZDh0UXRn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "d3eede4bfa7e",
       "categoria": "ten",
       "fecha": "2026-11-27T09:44+00:00",
@@ -1553,6 +2071,23 @@
         {
           "nombre": "Universitas Airlangga",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXhhQWJKRlFkYUYxNjhwTERRMDlBLWJ4R0hQYzh5THVKUGtFakJuaGxUcENqOTU4NGozYjBodXA2S3ZPYzdZZThDNm1GdnQ4cHhPOW4xTWFNbktRckFJYmhGQms1WndOaHU4TmdjVF9NX21ydG9DSjFpblJJUVhieHFXaW1xc1l0VmFNOFNrLVFRWGQ3ZXd2WW94dVN1QkczWldqUjRhZ0lqUlA5MXc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "4123a8501b6c",
+      "categoria": "ten",
+      "fecha": "2026-11-27T09:30+00:00",
+      "titulo": "Can AI design a logo? Sure. Can it understand a brand's story, challenge assumptions and make decisions with the next ten years in mind? No way. In our latest blog, Emma Moe-Dean shares 10 expert tips for creating logos…",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWNUS0tqNUtfVkZ0UlpYcUJ2aE95QkYxU294UF9YSEo1VGlYSTZVMnBoSDVVc1QwRlh1R0dsdXpXLUt3ZzVZT0pFeFBTMHVKSHdlMmxFZFNLYjE0TVR3NjJqWV9KNUhtQWswX1lWTl9MR1JkbHE3U2tGUFVMZkM4REJlc2hidkRfbm9VOTNZQkxST3hKNE1ET2JjS3UzRWlhbzVpLWVNZlRZWXRRUGctNmZxOGFJUFdfQWxkLTJtYw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWNUS0tqNUtfVkZ0UlpYcUJ2aE95QkYxU294UF9YSEo1VGlYSTZVMnBoSDVVc1QwRlh1R0dsdXpXLUt3ZzVZT0pFeFBTMHVKSHdlMmxFZFNLYjE0TVR3NjJqWV9KNUhtQWswX1lWTl9MR1JkbHE3U2tGUFVMZkM4REJlc2hidkRfbm9VOTNZQkxST3hKNE1ET2JjS3UzRWlhbzVpLWVNZlRZWXRRUGctNmZxOGFJUFdfQWxkLTJtYw?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1644,6 +2179,23 @@
       "region": "global"
     },
     {
+      "id": "0c000a1af867",
+      "categoria": "ten",
+      "fecha": "2026-11-27T08:54+00:00",
+      "titulo": "A First Look at the iPhone 18 Pro and the Foldable iPhone",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkdlWmtVVEZQVGxTYndjMWJVZ0VhaGVRZWxJMWt2dkFwTGhJbmMtdm9CbHdvX3VUa0hWckJkOWVLUXh0UENtdnBfVEJsQWZaNWV6TjgxenVacGExTUhvVURXRzdvY2c0ZU9fYUw4NjBhTnR3VzBiZkJub09wVEFUOC1FTExkN1Q3c3l6bHhsVThDRGFLS0JpZjBhWmZvUVdzcmV2TmpOandyOF9N?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkdlWmtVVEZQVGxTYndjMWJVZ0VhaGVRZWxJMWt2dkFwTGhJbmMtdm9CbHdvX3VUa0hWckJkOWVLUXh0UENtdnBfVEJsQWZaNWV6TjgxenVacGExTUhvVURXRzdvY2c0ZU9fYUw4NjBhTnR3VzBiZkJub09wVEFUOC1FTExkN1Q3c3l6bHhsVThDRGFLS0JpZjBhWmZvUVdzcmV2TmpOandyOF9N?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "f8c30e638845",
       "categoria": "ten",
       "fecha": "2026-11-27T08:48+00:00",
@@ -1729,6 +2281,23 @@
       "region": "global"
     },
     {
+      "id": "551f48c5b261",
+      "categoria": "ten",
+      "fecha": "2026-11-27T08:37+00:00",
+      "titulo": "The Best Features Coming to the iPhone in iOS 27",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0ZEYXpOSE1FdlR2MjQ4dWY5azg5SU1xY1JfbFRDdEk2RTAyUWg0RFg1enBFY0FFaFVVc1lSc1ZUTDFkREpNU29xcXg4aVNmVlUwSGdXNVA3aE1WTS1mSWRtRy1ZbERwRFNvN1oyTEUzSDVQUU13eEtKc1JJS2JxM1hEZl8tVXhkU0hpdFUzU3R3VTdPeEV1M2V6Vno1b2lV?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0ZEYXpOSE1FdlR2MjQ4dWY5azg5SU1xY1JfbFRDdEk2RTAyUWg0RFg1enBFY0FFaFVVc1lSc1ZUTDFkREpNU29xcXg4aVNmVlUwSGdXNVA3aE1WTS1mSWRtRy1ZbERwRFNvN1oyTEUzSDVQUU13eEtKc1JJS2JxM1hEZl8tVXhkU0hpdFUzU3R3VTdPeEV1M2V6Vno1b2lV?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "7268263571e6",
       "categoria": "ten",
       "fecha": "2026-11-27T08:37+00:00",
@@ -1740,6 +2309,23 @@
         {
           "nombre": "آي-فون إسلام",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaElKZUR3akdQSW9NNll4aWRnQjJJVWhmamc3ZWs2S3U3YTZYVFA0ODlHR1ZrX1VwZlRIMFRLSFQ0VDBURXZTaTk1cUVjb1M2Yl9Cb0ctYW5OUXRCN0xJY0dKbHNzTWg0M2FWNnl3bG1iemd5cllzZm40SDFtWTFJaXJlcDhTd0h3U21IX1pqd2VRTkQ4Vk9pT1dSX0tVbHduZm43YkYyclFRWVR6cFJndzR4VzhVZw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bc76711c5df4",
+      "categoria": "ten",
+      "fecha": "2026-11-27T08:19+00:00",
+      "titulo": "Comprehensive Comparison: iPhone 18 Pro vs. Foldable iPhone Duo.. Which One Is Worth Your Money?",
+      "resumen": "",
+      "fuente": "آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMmtDc0VGb09YWlYwZlVfZU9yb0dYN1FneDhWRnhCRlF4TXVCR2VCdTBkejdtZDBlcnA0ZVJIWnE3ZV84aklVOGl4SFhjOTEwT2ctcUl2SU5qZXY3ek1SZGpPZGdEbHBjeUVmWnBXbzhPcG91YlRMVV9wODFBUkwyVUVkY3FoVkpLNlF2Y3kyQ3Vhc3BTUVJZMHg3OTJsTUtZdm1mS21BTFE3MDExOUd4WG9KeGlFTWZQaW83MVhFNncxU0JsWW0tWHIwcnE2UFFzdVQzM2NTU1k3b244VkNJ?oc=5",
+      "enlaces": [
+        {
+          "nombre": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMmtDc0VGb09YWlYwZlVfZU9yb0dYN1FneDhWRnhCRlF4TXVCR2VCdTBkejdtZDBlcnA0ZVJIWnE3ZV84aklVOGl4SFhjOTEwT2ctcUl2SU5qZXY3ek1SZGpPZGdEbHBjeUVmWnBXbzhPcG91YlRMVV9wODFBUkwyVUVkY3FoVkpLNlF2Y3kyQ3Vhc3BTUVJZMHg3OTJsTUtZdm1mS21BTFE3MDExOUd4WG9KeGlFTWZQaW83MVhFNncxU0JsWW0tWHIwcnE2UFFzdVQzM2NTU1k3b244VkNJ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1774,28 +2360,6 @@
         {
           "nombre": "آي-فون إسلام",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkhuVU1kbGJLYzZBeWVhbWxpSEVDZUZycEdFNXNITUFyZ0l6TjA2VkdjWkc2OEhnMTYxYmd2ZzNDUXc0RmxhV1dKTHpjQmUwNHkweVRBVHJQRk93MUpsNks3ekg2eFl4RlhUb1BUVksyOXlqam0wVkIwUHNaM2ViTzdZN2FGZ21TY2lTT1VZQUZuVkpXcFZpenZJTVdlUEczSXNDTnU2UjMtSFFxdEFneXFDaTN2UVp0MEVfU2Nob0xBamxJU2ZHNVZZMU83Um8?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "a0cd73968904",
-      "categoria": "ten",
-      "fecha": "2026-11-27T08:02+00:00",
-      "titulo": "November 2026: Top five new launch stories of the month",
-      "resumen": "",
-      "fuente": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2o3UENQMkJlYS1GakQzeV9SejRMUUxNSm5PcFpyMTZaa1VsQV8xWVYtby0tWTNfOHdHNVNzdExRSkNZMGRmX1lfcS16aFM5MVRyem5lRjBMMF9xSENZc1ozQVFhMGhXZHVNYVJ2WjZsdXlOQ05UcF9MVGJHUzBoVVBGZnJXSTdmZWxnNkxtR29qYmVFMlZmTU5XSkpBNElNVjdPTTRn?oc=5",
-      "enlaces": [
-        {
-          "nombre": "FinTech Futures",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2o3UENQMkJlYS1GakQzeV9SejRMUUxNSm5PcFpyMTZaa1VsQV8xWVYtby0tWTNfOHdHNVNzdExRSkNZMGRmX1lfcS16aFM5MVRyem5lRjBMMF9xSENZc1ozQVFhMGhXZHVNYVJ2WjZsdXlOQ05UcF9MVGJHUzBoVVBGZnJXSTdmZWxnNkxtR29qYmVFMlZmTU5XSkpBNElNVjdPTTRn?oc=5",
-          "tipo": "nota"
-        },
-        {
-          "nombre": "FinTech Futures",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUQ0aDRIeEdhNmpmMkdMZUtqenBUZXdmVTR2cF9UVUxwUEpvMW41UHZMMXlCUUJicFBSdS1jS1V3Q1JvdEFKeWhab1hVX0g0QXlPdHhHY0JraEFSY0FrM3Q4dExMVUJlZnNMblpJSUNnMEtRcTVSaWxkVmFQYVdYUk4zYnJJeklLdzduMjE4MDZQRmQzbzBwRGktaV9aV0t4UmplT3EweTlOVWtyR3p5NUdrZFc?oc=5",
           "tipo": "nota"
         }
       ],
@@ -1950,6 +2514,11 @@
           "nombre": "Наша Ніва",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9reTMwTWxXMFJhUXUxU1JqbVR2YUxvVFlyVFRHTUI0UU14TldFNjVHZk1JaEpyaEQ5X0RtZW9pSjhlUXphOUHSAUtBVV95cUxQcWYxSDg3WHBfRV9kdlN6S25neFYzNDVzcFo1N1F3NHFRRHBDOF9tT1JSNTRLRFlxTUFHdTQwbnFaRnB6R3k3Umc2ZUE?oc=5",
           "tipo": "nota"
+        },
+        {
+          "nombre": "Oninvest",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2I5TWxFel9wZ1NVZi1GbTkwX1pkS3c2dWlwUWZyNkc3TEVwRk92NkRaRHIyQldWTmY1YkhYOFM3cWp0a0pPUkU5QzZuMnRReG9yQWdrVzlqSi1XSURYMW1ia1A1TndETURaMTB6d1NROHNZc0NRS3A5ZHdiam1nbWZCU1Fab285WWV5SkJvUlFWa2RSQURGcDB6QTUxd2RrY2tqVV9FbGk4SmF6ZGdwUDBfRDNGRUU?oc=5",
+          "tipo": "nota"
         }
       ],
       "region": "global"
@@ -1984,19 +2553,29 @@
           "nombre": "Electronic Payments International",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnhSWjJVSzBvTmJRYkJLSjV1Rm13eFJhdm5DbkRrOGMzd1JXR3hLM2gzUTBIT1g5aDFudElIdzNTV0gyclVMU1E4bjlGdHpqTzlWbTRyazZJd3NzcDAyUzdTLTYzWW5EZDlGTWZSVVdIVUdPMVJmTUpsQ0pBb0J0SjRBNXc2TkJhWmNRLTdrYTBqbUJBS0N2akg5SVRQY1UxWlFnTENFX0lrMUxKaEN3US0xS1JMaXpDT29fVTFycmU0SUxz?oc=5",
           "tipo": "nota"
+        },
+        {
+          "nombre": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjBBVGpicmxBQ1Zwa190WWZOOFBfYWh4S2ZHMG1uSEpaVG1wSVlNNWc2b256RDF6UTUycW1OMDBQZi0wR0JNRlBhemY3cUJLOHVRZjBxZExVUURfU3M4SjJmYUpSajljNjcycWZES0pqQjItVWlSQ0FIdVhPM1h2LVlJVEFvZkQ2RXdzS2ZWSTg?oc=5",
+          "tipo": "nota"
         }
       ],
       "region": "global"
     },
     {
-      "id": "09b7840aa833",
+      "id": "c93533dca040",
       "categoria": "reg",
       "fecha": "2026-11-27T06:46+00:00",
       "titulo": "UQPAY Deploys Visa Payment Passkey, Advancing the Next Generation of Agentic Payment Experience",
       "resumen": "",
       "fuente": "ANTARA News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHNwam1BTVY5Yk11UXl5WkFrU3N0ZVEwdUM1MVFKYnlOLWR2bDg4RDBGdGlxU0Y2Vm9feWlLZElJWWdPaDh3bV82Rkxqdkd5OEN4OE52ZFVFcnprSG1FQTd1QVhJUEh0NC1EQllJb21hYmplRlVfZmhyLUlRbjNhc2RySWRTWXQ5LUx5c0FSeWhzaEp0aVZ5cjJQSHFxUHVSTS1aUk9TaE9TVWVLM2lPOFJIWURfV3MzLWdvZXZRSUMtVVNRU2ZtOVVjbnHSAdIBQVVfeXFMTXZUbTd5cXhTS1BXQzRrdVZBX1Rnc1lhV0ZSWlZMR3dzYm9kSFJ1dHNmbV9uNzZ2anFvTlpkS2lmZUdNWnh1TVhKSkNySXBwdkhmT0NyYWprVk0tMkttNzVRWngzazNHdG5WRU9PckZFbUxJXzZ3bW4xVzAwdjlOOW1VZVBMVUxNeW5OalpxM2dUQ1F4ZG1zanBwTW5WZm4zb3BpQi1wUnowQ1dBOHlOQWx4aUowcFZwZG5DVjVEMERlbTNzM0RIclZ6TGduMXlDY0pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlRtN3lxeFNLUFdDNGt1VkFfVGdzWWFXRlJaVkxHd3Nib2RIUnV0c2ZtX243NnZqcW9OWmRLaWZlR01aeHVNWEpKQ3JJcHB2SGZPQ3JhamtWTS0yS203NVFaeDNrM0d0blZFT09yRkVtTElfNndtbjFXMDB2OU45bVVlUExVTE15bk5qWnEzZ1RDUXhkbXNqcHBNblZmbjNvcGlCLXBSejBDV0E4eU5BbHhpSjBwVnBkbkNWNUQwRGVtM3MzREhyVnpMZ24xeUNjSlHSAdIBQVVfeXFMTXZUbTd5cXhTS1BXQzRrdVZBX1Rnc1lhV0ZSWlZMR3dzYm9kSFJ1dHNmbV9uNzZ2anFvTlpkS2lmZUdNWnh1TVhKSkNySXBwdkhmT0NyYWprVk0tMkttNzVRWngzazNHdG5WRU9PckZFbUxJXzZ3bW4xVzAwdjlOOW1VZVBMVUxNeW5OalpxM2dUQ1F4ZG1zanBwTW5WZm4zb3BpQi1wUnowQ1dBOHlOQWx4aUowcFZwZG5DVjVEMERlbTNzM0RIclZ6TGduMXlDY0pR?oc=5",
       "enlaces": [
+        {
+          "nombre": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlRtN3lxeFNLUFdDNGt1VkFfVGdzWWFXRlJaVkxHd3Nib2RIUnV0c2ZtX243NnZqcW9OWmRLaWZlR01aeHVNWEpKQ3JJcHB2SGZPQ3JhamtWTS0yS203NVFaeDNrM0d0blZFT09yRkVtTElfNndtbjFXMDB2OU45bVVlUExVTE15bk5qWnEzZ1RDUXhkbXNqcHBNblZmbjNvcGlCLXBSejBDV0E4eU5BbHhpSjBwVnBkbkNWNUQwRGVtM3MzREhyVnpMZ24xeUNjSlHSAdIBQVVfeXFMTXZUbTd5cXhTS1BXQzRrdVZBX1Rnc1lhV0ZSWlZMR3dzYm9kSFJ1dHNmbV9uNzZ2anFvTlpkS2lmZUdNWnh1TVhKSkNySXBwdkhmT0NyYWprVk0tMkttNzVRWngzazNHdG5WRU9PckZFbUxJXzZ3bW4xVzAwdjlOOW1VZVBMVUxNeW5OalpxM2dUQ1F4ZG1zanBwTW5WZm4zb3BpQi1wUnowQ1dBOHlOQWx4aUowcFZwZG5DVjVEMERlbTNzM0RIclZ6TGduMXlDY0pR?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "ANTARA News",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHNwam1BTVY5Yk11UXl5WkFrU3N0ZVEwdUM1MVFKYnlOLWR2bDg4RDBGdGlxU0Y2Vm9feWlLZElJWWdPaDh3bV82Rkxqdkd5OEN4OE52ZFVFcnprSG1FQTd1QVhJUEh0NC1EQllJb21hYmplRlVfZmhyLUlRbjNhc2RySWRTWXQ5LUx5c0FSeWhzaEp0aVZ5cjJQSHFxUHVSTS1aUk9TaE9TVWVLM2lPOFJIWURfV3MzLWdvZXZRSUMtVVNRU2ZtOVVjbnHSAdIBQVVfeXFMTXZUbTd5cXhTS1BXQzRrdVZBX1Rnc1lhV0ZSWlZMR3dzYm9kSFJ1dHNmbV9uNzZ2anFvTlpkS2lmZUdNWnh1TVhKSkNySXBwdkhmT0NyYWprVk0tMkttNzVRWngzazNHdG5WRU9PckZFbUxJXzZ3bW4xVzAwdjlOOW1VZVBMVUxNeW5OalpxM2dUQ1F4ZG1zanBwTW5WZm4zb3BpQi1wUnowQ1dBOHlOQWx4aUowcFZwZG5DVjVEMERlbTNzM0RIclZ6TGduMXlDY0pR?oc=5",
@@ -2055,6 +2634,23 @@
         }
       ],
       "region": "global"
+    },
+    {
+      "id": "c158a6702b8b",
+      "categoria": "emp",
+      "fecha": "2026-11-27T06:27+00:00",
+      "titulo": "Falla de Red Link afecta a bancos de todo el país",
+      "resumen": "",
+      "fuente": "Notitdf",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Notitdf",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "ar"
     },
     {
       "id": "43b1a9645a13",
@@ -2124,6 +2720,23 @@
         {
           "nombre": "The Irish Times",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlFtNTI0ZHV6T3F5dUJjWXEyX0poUHlwaExfWlFfWXhCNDRjd0ZNSEM1TTNmX3laY0hiQmVuT2JhODh2NnpwaUhmUlNIOWFjU1czdk5sY2tyYWM0dHZmUGxwcjlwZmtjQlpyQkpySUV1cDE1X2NJZXhGeHdWQThESU1oM2J5Vjh3ZWxUbmNGMU1WczFSTmpPNzczZ2pFblV2UkJ4Z0U4amVQVm9hNWtWSjhNa0xkelFX?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "e5971bef7813",
+      "categoria": "ten",
+      "fecha": "2026-11-27T05:45+00:00",
+      "titulo": "Architectural Digest asked this week whether AI design visualisers are selling us slop. It's a fair question. You can now generate a hundred beautiful rooms in a minute, and most of them look like each other. They are…",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQam0xVzJiamdkNzZkQVdBMUV1dVNESUtoMlZ6WVQ2Vk9oUE9WdUhIQi1KRUxUQk8xekVSMy1pZXFkUkhZRVFiQ0dFMExwS2FwenNyOFhRaU5DRUVHOFR2OERDLWpMZGw1SDlFNVNCSVRDOTc0bUVxOGRkNURxR3JRNHVOOHNsNUlqakVPMVdIdTdKdmwzVmxIYkE5OU94Z3JDaGN1bUhNMGFBVVNma1JEVWJiNlNYWGtVbnFLcnB2bHJPUEtS?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQam0xVzJiamdkNzZkQVdBMUV1dVNESUtoMlZ6WVQ2Vk9oUE9WdUhIQi1KRUxUQk8xekVSMy1pZXFkUkhZRVFiQ0dFMExwS2FwenNyOFhRaU5DRUVHOFR2OERDLWpMZGw1SDlFNVNCSVRDOTc0bUVxOGRkNURxR3JRNHVOOHNsNUlqakVPMVdIdTdKdmwzVmxIYkE5OU94Z3JDaGN1bUhNMGFBVVNma1JEVWJiNlNYWGtVbnFLcnB2bHJPUEtS?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2368,23 +2981,6 @@
       "region": "global"
     },
     {
-      "id": "c158a6702b8b",
-      "categoria": "emp",
-      "fecha": "2026-11-27T03:13+00:00",
-      "titulo": "Falla de Red Link afecta a bancos de todo el país",
-      "resumen": "",
-      "fuente": "Notitdf",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Notitdf",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWmY2Nmk2cXJ5RVl5ME5iUUxiVi04bzJEYTZQVXhZVFNJV3JTZUM4OUl5ajk3eWF5YVNMM1E1eEUxa3FKbElsYVZwYUk4a3pPTGZZeUZyUUx0R3NqNS1veGxieHpEdWRTdllSUDN2dWZSaG1DdFRWRVpla2NUME0?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "fbb11ac7b718",
       "categoria": "ten",
       "fecha": "2026-11-27T03:00+00:00",
@@ -2413,6 +3009,23 @@
         {
           "nombre": "Vietnam.vn",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZktPWWtiZHZOOUhGcENQRHB5UGVGREt1T0VfTGVuRWhzWUF5bmRsMzZQb0xUc3V0NXEzVE1JZnZSZFhleVR6ZVZLQVpWNlpaTmVxLVpQQnptMzVoZnByY1VBbHRKRDV5dDNVZ0lmLTlOSlppX2tnTk5Tdjl6Y0VfSEY2ZzYwUWV4cWoyLS02cGMyNk01ZjdvMFpLRXlaNnZB?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "d09371ffbf4d",
+      "categoria": "emp",
+      "fecha": "2026-11-27T02:13+00:00",
+      "titulo": "T. Rowe Price Technology ETF (Robinhood Token)",
+      "resumen": "",
+      "fuente": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1dyelpGeHJvN0tZTFE1N1lpY1ZmODNLSFE3ZHZScVFCcERwQTNkMUZOMFJLQ2FhTTIxZS1DTjhOS1RRT25aa0YwSWlhTG50TW9idWRhWXRQS1Y4WkdBUFhQUGpQb28tT2JPWVFSV09URXhSOVVjdkFFNA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1dyelpGeHJvN0tZTFE1N1lpY1ZmODNLSFE3ZHZScVFCcERwQTNkMUZOMFJLQ2FhTTIxZS1DTjhOS1RRT25aa0YwSWlhTG50TW9idWRhWXRQS1Y4WkdBUFhQUGpQb28tT2JPWVFSV09URXhSOVVjdkFFNA?oc=5",
           "tipo": "nota"
         }
       ],
@@ -2500,7 +3113,7 @@
       "id": "a50206614ade",
       "categoria": "ten",
       "fecha": "2026-11-27T00:00+00:00",
-      "titulo": "Muxlio: An Open-Source Durable Workflow Coordinator for Claude, Codex, Cursor and Shell Tools",
+      "titulo": "Muxlio: Durable Workflows for AI Agents (Apache-2.0)",
       "resumen": "",
       "fuente": "explainx.ai",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW5feWhMMmxTX3h1dm5MZFZ0UlFWVFJUS2ZscS1KTVl1MVVOQjM3UGVCckVmQUgwWnplNTNiamcwXzBkOWdlSnVxU0NuZ3Boa2tZU2lnYWZNWlMyVGMyQVdNXzh6U1czVlRvVVhLOUhSMlJ1RHJGTlVMeDA4dmlaTGd3WUlhZGhUZDIxQm0ydDVxRk1aRGd3YlNXTTRGU29YUzFPSnB3?oc=5",
@@ -2871,6 +3484,23 @@
       "region": "global"
     },
     {
+      "id": "71585c355dcb",
+      "categoria": "ux",
+      "fecha": "2026-11-26T18:03+00:00",
+      "titulo": "How Digital Infrastructure Is Rewiring The Entertainment And Fintech Ecosystem",
+      "resumen": "",
+      "fuente": "TechRound",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5qQUxrZGYtdkhxaDVwNlBYNEo5UkdvUHNGU3lNMmJ1WlZsYlVUY1liTkg2Mk1hVF9ZWUFXSFdLVWF0eWxzT1F2THZrdThuNEhwNGpGNFlrSzRQd2pmQU5rVnJnVElpTVZuTDNqNk1mQThWajNlVXBPSVNIX21Da1hyYlU0UUZaLW8xWXdJTGprX0VuOTViV2ZZb1lTLXc?oc=5",
+      "enlaces": [
+        {
+          "nombre": "TechRound",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5qQUxrZGYtdkhxaDVwNlBYNEo5UkdvUHNGU3lNMmJ1WlZsYlVUY1liTkg2Mk1hVF9ZWUFXSFdLVWF0eWxzT1F2THZrdThuNEhwNGpGNFlrSzRQd2pmQU5rVnJnVElpTVZuTDNqNk1mQThWajNlVXBPSVNIX21Da1hyYlU0UUZaLW8xWXdJTGprX0VuOTViV2ZZb1lTLXc?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "10b23104c79d",
       "categoria": "ten",
       "fecha": "2026-11-26T18:01+00:00",
@@ -2961,23 +3591,6 @@
       "region": "ar"
     },
     {
-      "id": "6bdded61c3d2",
-      "categoria": "ten",
-      "fecha": "2026-11-26T17:20+00:00",
-      "titulo": "iPhone DuoBook? It's now possible to turn Apple's foldable into the mini-MacBook I've always wanted",
-      "resumen": "",
-      "fuente": "Stuff",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUxZdmxTMUpRc2R3Q0tCTDJHVmhNM0xkT1VkX1N0LWdBOHFnaDBEdjNzdTVraGdYRzhJUnE2bXdJUmRmOF9ub0dfbWJqN2N2SG1aSmtqWjBhT0hpZXJKSzJmeEh3UjRJd05GM3h6N25HRmFIUVgtSGE4eUwwS0VDNll0LWpOSE11Z19hdG4wSFF0UURXLXdkVGhvcW16dDdrbnoxelJ0eWc4Qk80VzIydU9rcUx4SlJSWnR3aEVyMFZTbGRR?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Stuff",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUxZdmxTMUpRc2R3Q0tCTDJHVmhNM0xkT1VkX1N0LWdBOHFnaDBEdjNzdTVraGdYRzhJUnE2bXdJUmRmOF9ub0dfbWJqN2N2SG1aSmtqWjBhT0hpZXJKSzJmeEh3UjRJd05GM3h6N25HRmFIUVgtSGE4eUwwS0VDNll0LWpOSE11Z19hdG4wSFF0UURXLXdkVGhvcW16dDdrbnoxelJ0eWc4Qk80VzIydU9rcUx4SlJSWnR3aEVyMFZTbGRR?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "024a13b09b80",
       "categoria": "emp",
       "fecha": "2026-11-26T17:20+00:00",
@@ -2993,6 +3606,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "6bdded61c3d2",
+      "categoria": "ten",
+      "fecha": "2026-11-26T17:20+00:00",
+      "titulo": "iPhone DuoBook? It's now possible to turn Apple's foldable into the mini-MacBook I've always wanted",
+      "resumen": "",
+      "fuente": "Stuff",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUxZdmxTMUpRc2R3Q0tCTDJHVmhNM0xkT1VkX1N0LWdBOHFnaDBEdjNzdTVraGdYRzhJUnE2bXdJUmRmOF9ub0dfbWJqN2N2SG1aSmtqWjBhT0hpZXJKSzJmeEh3UjRJd05GM3h6N25HRmFIUVgtSGE4eUwwS0VDNll0LWpOSE11Z19hdG4wSFF0UURXLXdkVGhvcW16dDdrbnoxelJ0eWc4Qk80VzIydU9rcUx4SlJSWnR3aEVyMFZTbGRR?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Stuff",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUxZdmxTMUpRc2R3Q0tCTDJHVmhNM0xkT1VkX1N0LWdBOHFnaDBEdjNzdTVraGdYRzhJUnE2bXdJUmRmOF9ub0dfbWJqN2N2SG1aSmtqWjBhT0hpZXJKSzJmeEh3UjRJd05GM3h6N25HRmFIUVgtSGE4eUwwS0VDNll0LWpOSE11Z19hdG4wSFF0UURXLXdkVGhvcW16dDdrbnoxelJ0eWc4Qk80VzIydU9rcUx4SlJSWnR3aEVyMFZTbGRR?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "42756c94ced7",
@@ -3057,6 +3687,23 @@
         {
           "nombre": "LinkedIn Colombia",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWljZkxjbndUcnNISFZlOUhJWXJxTmNMQlQ4ZHIybXM5dTBNZXloNDhvNEVsOElpS2RzeThocnlmNVI4Z1BTRHdJbXdpYWxJRWgtako3NlZLQVVnNUJKZVpqeEl1d1lYQ3B3NVdKZ2ZGbjRPX0JDUHZSQl9JekJ2aWQ3UzNOT0dteGxGZjdEbjNGNDItOXpORWw5aU44dXJXMUtZWlJtQ3dNQTF6dmdVREJlM2szR0RDVElFWElmUVI2bWR4RGhrWU13VHpoTWd4?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
+      "id": "7ee0c2fb27f6",
+      "categoria": "ten",
+      "fecha": "2026-11-26T16:21+00:00",
+      "titulo": "Halide Adds Fill Light Feature for iPhone Duo https://lnkd.in/ebTwVAN2",
+      "resumen": "",
+      "fuente": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHBBdFcybWVpQlJaN0UzWWlMQjNXMEh3bnhrZk8xOFpLc2xBamZpQWpIMDJiRGVkLV9hYUpTakVJYURQQldETkY1TlVSUmxPVGE1d3VJTFpIU1NVLVE3eU5ZRkNTbXNoVDQwcDltQmxFc2NqaXhucEpHQzczbzRJS1M2N21iLW5FR1JJbWZfZlI5Z0I2bnp3eHZoX0xmb0hVb1lCcUpIMnVadE5CRnpOdGRlNVB5a1JUODJoRA?oc=5",
+      "enlaces": [
+        {
+          "nombre": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHBBdFcybWVpQlJaN0UzWWlMQjNXMEh3bnhrZk8xOFpLc2xBamZpQWpIMDJiRGVkLV9hYUpTakVJYURQQldETkY1TlVSUmxPVGE1d3VJTFpIU1NVLVE3eU5ZRkNTbXNoVDQwcDltQmxFc2NqaXhucEpHQzczbzRJS1M2N21iLW5FR1JJbWZfZlI5Z0I2bnp3eHZoX0xmb0hVb1lCcUpIMnVadE5CRnpOdGRlNVB5a1JUODJoRA?oc=5",
           "tipo": "nota"
         }
       ],
@@ -3233,25 +3880,6 @@
       "region": "global"
     },
     {
-      "id": "6c18f26bb4e9",
-      "categoria": "ten",
-      "fecha": "2026-11-26T14:59+00:00",
-      "titulo": "Cambiar al modo oscuro no es una estrategia de accesibilidad. La mayoría de los equipos creen que cambiar a un fondo negro hace que su aplicación o sitio web sea accesible. No es así. El modo oscuro reduce la luz emitida. Eso es todo lo que hace. No lo hará…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUU4yTzF4S2N6T2tDcmZNVnNwMjJVNnQ0VzNKTHhMelc1dVowanFrQVZJZVdfNHBRczBfV3BsRHl4N1RzMWxiRXpNc1VObmZJYnlTekxheDZveVRraGZSS09jeTdLNXFMenVqRC1qM1Rha0gySmtBMUpSSXpHQi12VVJBNnZaUGw1aU80?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUU4yTzF4S2N6T2tDcmZNVnNwMjJVNnQ0VzNKTHhMelc1dVowanFrQVZJZVdfNHBRczBfV3BsRHl4N1RzMWxiRXpNc1VObmZJYnlTekxheDZveVRraGZSS09jeTdLNXFMenVqRC1qM1Rha0gySmtBMUpSSXpHQi12VVJBNnZaUGw1aU80?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "A dark mode toggle is not an accessibility strategy. Most teams think flipping to a black background makes their app or website accessible. It does not. Dark mode reduces emitted light. That is all it does. It will not…",
-      "idioma_original": "en"
-    },
-    {
       "id": "de3bbfc16467",
       "categoria": "reg",
       "fecha": "2026-11-26T14:51+00:00",
@@ -3286,23 +3914,6 @@
       "region": "ar"
     },
     {
-      "id": "a09558b8cf56",
-      "categoria": "ten",
-      "fecha": "2026-11-26T14:30+00:00",
-      "titulo": "One UI 9.5 corregiría la caída de salud de batería que introdujo One UI 9.0",
-      "resumen": "",
-      "fuente": "smartGSM",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjRnVVV2UW12M3ZyZXlwYzhTQ0YtU0JYNl9QZXJkeHAxSGpwRmN3eTVhOWtZTUsyNzlwMFZJei1zRFN4T05UZU5tU0x2aC1mejJWOFZLNHdrV21OaXdIX2pacWJlWHJya1duV19ncWdGR2ZhUlRnaHo4aDg4VlhiSDBaSTFrTE11aURSM2lsVEdFYUFxZWgwd3c1enc4WlRrd2Nra1RXd3F1RW8?oc=5",
-      "enlaces": [
-        {
-          "nombre": "smartGSM",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjRnVVV2UW12M3ZyZXlwYzhTQ0YtU0JYNl9QZXJkeHAxSGpwRmN3eTVhOWtZTUsyNzlwMFZJei1zRFN4T05UZU5tU0x2aC1mejJWOFZLNHdrV21OaXdIX2pacWJlWHJya1duV19ncWdGR2ZhUlRnaHo4aDg4VlhiSDBaSTFrTE11aURSM2lsVEdFYUFxZWgwd3c1enc4WlRrd2Nra1RXd3F1RW8?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "fcb046873608",
       "categoria": "emp",
       "fecha": "2026-11-26T14:28+00:00",
@@ -3314,40 +3925,6 @@
         {
           "nombre": "Yahoo News UK",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RVklMUVYwdmlUZmRHRFpKNXpZTFo3XzZNTlRZelItazd4cDBKR1VQcW5TWThfcXdfTHRVNUtOOE5nMk9wY1BaSDdXYnNnRXF3aE16Z3BsRjF1MnlibEo1NzNTYnh5U0h3YlBoSXF5TnJVNGJSOEpUYkd3?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "e9bf82f6e4ab",
-      "categoria": "ten",
-      "fecha": "2026-11-26T14:26+00:00",
-      "titulo": "Prácticas Preprofesionales Remotas en Diseño Gráfico en Grafic Store",
-      "resumen": "",
-      "fuente": "LinkedIn Perú",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXI2STQ3RmttN0w5TWkyQlh5Q2piRmdHRWhfaDh4MXo5TWJHb1pYSlIzWkpPRmVWWFpGYzFpc3llWEwwS2lkM2V1SDRKa0Z5TlpzNmd6NmcwTEduSmwzQ3IzamhaN3NUTE8yMVFzMXk2YzhLaDdSdDU0M1ViY0RzblpFWHFlNUQ2akpaZzNrS28xbW5oMkhkOVNHVG1xOXU2cGhWV1NfRlFZSFdPWl9RQzZMWURFU0ZwS2o1QVFIZXk1T1pmcHhFTXpJOUZlX1YtNGp0TmtnSmcyVlR2a1pJN1JZWWRqdw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn Perú",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXI2STQ3RmttN0w5TWkyQlh5Q2piRmdHRWhfaDh4MXo5TWJHb1pYSlIzWkpPRmVWWFpGYzFpc3llWEwwS2lkM2V1SDRKa0Z5TlpzNmd6NmcwTEduSmwzQ3IzamhaN3NUTE8yMVFzMXk2YzhLaDdSdDU0M1ViY0RzblpFWHFlNUQ2akpaZzNrS28xbW5oMkhkOVNHVG1xOXU2cGhWV1NfRlFZSFdPWl9RQzZMWURFU0ZwS2o1QVFIZXk1T1pmcHhFTXpJOUZlX1YtNGp0TmtnSmcyVlR2a1pJN1JZWWRqdw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "cc0abaf8803d",
-      "categoria": "ten",
-      "fecha": "2026-11-26T14:21+00:00",
-      "titulo": "Willy Olivera Ondarza - Dibujante de diseño en Constructora Becar S.r.l",
-      "resumen": "",
-      "fuente": "LinkedIn Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16cUxlZEdlWDRSNlhYYmNhUlN4MUk4bmlUdkxzUi1ycFFmUzY5cGdCVUNOaWFzZURleDkyd2xZZzA3NGlrZ2c3VVdKVGItNFJZMlhFdWFZVlB6X0pheWZ6X29RM3NxTlVYX0E?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn Bolivia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16cUxlZEdlWDRSNlhYYmNhUlN4MUk4bmlUdkxzUi1ycFFmUzY5cGdCVUNOaWFzZURleDkyd2xZZzA3NGlrZ2c3VVdKVGItNFJZMlhFdWFZVlB6X0pheWZ6X29RM3NxTlVYX0E?oc=5",
           "tipo": "nota"
         }
       ],
@@ -3371,23 +3948,6 @@
       "region": "ar"
     },
     {
-      "id": "8ac9ca545980",
-      "categoria": "ten",
-      "fecha": "2026-11-26T14:04+00:00",
-      "titulo": "All caps eyebrow headings are the em dash of AI design",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEM2SF9HejRIdG1hVTdSUXhBQ0ZTeEdIV2NMWjBTbl9PU3RzWThUQ1JIYmRkVjNFTFgwNF80UmkyQzVqRTB6U2xUbGVJLTFUZXBUS0ttSnUteHNwQ21vZHYxNTdZQWVMS2JldUpJeGE0TG1MUTlFTThWdDhEcHEza1BjSDd4LWdaNkZuRnotYjl5MllxVzlKRjBTOW5OT0VVZVlkbnphMkp2QmRPYy1rd1dZRjhOUGtFNTFHMHd3?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEM2SF9HejRIdG1hVTdSUXhBQ0ZTeEdIV2NMWjBTbl9PU3RzWThUQ1JIYmRkVjNFTFgwNF80UmkyQzVqRTB6U2xUbGVJLTFUZXBUS0ttSnUteHNwQ21vZHYxNTdZQWVMS2JldUpJeGE0TG1MUTlFTThWdDhEcHEza1BjSDd4LWdaNkZuRnotYjl5MllxVzlKRjBTOW5OT0VVZVlkbnphMkp2QmRPYy1rd1dZRjhOUGtFNTFHMHd3?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "d0a08b3d2bbd",
       "categoria": "emp",
       "fecha": "2026-11-26T14:02+00:00",
@@ -3403,40 +3963,6 @@
         }
       ],
       "region": "ar"
-    },
-    {
-      "id": "f39769517899",
-      "categoria": "ten",
-      "fecha": "2026-11-26T13:59+00:00",
-      "titulo": "The Screens App Will Let You Turn Your iPhone Duo Into An Itty Bitty MacBook",
-      "resumen": "",
-      "fuente": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGZmSjhzZEsydklXTDNpZDYwX1JMUDdRMWd6eTlJWEh1LUk3VFdWM1NYQWVHa2lLSEFqV3h6MUJHVHJVOWVxRTJxUG1jdy16Vm9oVkVIYVJ5OEEtWmJ3NlBHdGRQRG1xemFFaWtWTFZPZGl1Q3lrNFhZNVpuSzF5dXI4aFNDb3J2QW81VjRtRmFpMTQzRC10dVlmMUV3eXNrdlZRRTd5ZkxWRXR3aGRV?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGZmSjhzZEsydklXTDNpZDYwX1JMUDdRMWd6eTlJWEh1LUk3VFdWM1NYQWVHa2lLSEFqV3h6MUJHVHJVOWVxRTJxUG1jdy16Vm9oVkVIYVJ5OEEtWmJ3NlBHdGRQRG1xemFFaWtWTFZPZGl1Q3lrNFhZNVpuSzF5dXI4aFNDb3J2QW81VjRtRmFpMTQzRC10dVlmMUV3eXNrdlZRRTd5ZkxWRXR3aGRV?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "cdb498997fc1",
-      "categoria": "ten",
-      "fecha": "2026-11-26T13:59+00:00",
-      "titulo": "Samsung Galaxy Z Fold 8 Ultra",
-      "resumen": "",
-      "fuente": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmxjMWo4el9VenQwU2h3SzFqUmp6ajZaUWJsOWhIS3ZYMXZaLXBxUUowOHdDN1U3QXd5Tl9feElRUmU0NmtRSWkweVVPcEFSSzdTUXQzdGNsdEJTRXRLZHdHN3phc2pHc0x3Y1NWSkFCRldDLWZCZzdJUXlkOTVUcmpyMWNrUFlGVXFlSmczTE7SAZABQVVfeXFMTWJsYzFqOHpfVXp0MFNod0sxalJqemo2WlFibDloSEt2WDF2Wi1wcVFKMDh3QzdVN0F3eU5fX3hJUVJlNDZrUUlpMHlVT3BBUks3U1F0M3RjbHRCU0V0S2R3Rzd6YXNqR3NMd2NTVkpBQkZXQy1mQmc3SVF5ZDk1VHJqcjFja1BZRlVxZUpnM0xO?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Analytics Insight",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmxjMWo4el9VenQwU2h3SzFqUmp6ajZaUWJsOWhIS3ZYMXZaLXBxUUowOHdDN1U3QXd5Tl9feElRUmU0NmtRSWkweVVPcEFSSzdTUXQzdGNsdEJTRXRLZHdHN3phc2pHc0x3Y1NWSkFCRldDLWZCZzdJUXlkOTVUcmpyMWNrUFlGVXFlSmczTE7SAZABQVVfeXFMTWJsYzFqOHpfVXp0MFNod0sxalJqemo2WlFibDloSEt2WDF2Wi1wcVFKMDh3QzdVN0F3eU5fX3hJUVJlNDZrUUlpMHlVT3BBUks3U1F0M3RjbHRCU0V0S2R3Rzd6YXNqR3NMd2NTVkpBQkZXQy1mQmc3SVF5ZDk1VHJqcjFja1BZRlVxZUpnM0xO?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
     },
     {
       "id": "c7876f2413dd",
@@ -3456,27 +3982,10 @@
       "region": "ar"
     },
     {
-      "id": "e3374bbf2b7a",
-      "categoria": "ten",
-      "fecha": "2026-11-26T13:43+00:00",
-      "titulo": "BingX updates trading app with advanced futures workspace for iPhone Duo",
-      "resumen": "",
-      "fuente": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1QtLWZwQy1RU3Rlck8yaVRfNTFodzg0SjRaX2hiQWZGZlZpb1dUMUk0bHVYakhpNzAyVDI4Y1JHYldMd3RGaEFwdzM5T3FfUWJ5U215eDVDSTlfYVZ2TVhkTzkzUjBMb1lTaHE0V1otSlpVTldkdEtYcTk2LXFGR0Q2RUw4Z1Y4RC1mMlF2bW5XQQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1QtLWZwQy1RU3Rlck8yaVRfNTFodzg0SjRaX2hiQWZGZlZpb1dUMUk0bHVYakhpNzAyVDI4Y1JHYldMd3RGaEFwdzM5T3FfUWJ5U215eDVDSTlfYVZ2TVhkTzkzUjBMb1lTaHE0V1otSlpVTldkdEtYcTk2LXFGR0Q2RUw4Z1Y4RC1mMlF2bW5XQQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "87f5c866b4b9",
       "categoria": "emp",
       "fecha": "2026-11-26T13:43+00:00",
-      "titulo": "Visa y NBX lanzan una tarjeta Flex vinculada a Stablecoin para un gasto diario fluido",
+      "titulo": "Visa and NBX Launch Stablecoin-Linked Flex Card for Seamless Everyday Spending",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenFpRG12Wmk4dVY4VHcxRU1OZjJmNEFUOFpZMHZ3SExaaExkZGRWLVczcW1uZHZXT1h6S2hidzBWTjcyR184T1g2UTNPSm1iTXlsV2NfVDVxMnhoMFRmajVyS000emd4OTdDeDM1Sk45eFdxZmh0ZjRpM1JfRzJYZGJYQk5RODZFYlREcXI3QWs2TGNMMUlFNmNiVG9CZElpZmcw?oc=5",
@@ -3487,9 +3996,7 @@
           "tipo": "nota"
         }
       ],
-      "region": "global",
-      "titulo_original": "Visa and NBX Launch Stablecoin-Linked Flex Card for Seamless Everyday Spending",
-      "idioma_original": "en"
+      "region": "global"
     },
     {
       "id": "7d9a44c6f662",
@@ -3526,108 +4033,6 @@
       "region": "global"
     },
     {
-      "id": "ef4eb50d47fa",
-      "categoria": "ten",
-      "fecha": "2026-11-26T13:21+00:00",
-      "titulo": "UAE proptech Sooner lands $20m seed round to halve home down payments",
-      "resumen": "",
-      "fuente": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQi0xaG8tWExjY1R6WUQzR05uUUdmMnJ2UnR3VUxNc3hHeW9XQ0FxOVl2WGtRZms1WFVKT3p3bUY2bFlTVjVwRWd3X1ZBRVZndFVXM0x0TnRyanhqc1ZkX3Y5eEU0VC1KMUdEeE1DcXhzMDl5LVhpQ1VNcVV1NmRCdkUtdG5wZkx0UHdTVnNyd0VCMDNfNUlZc0FhVQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "FinTech Futures",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQi0xaG8tWExjY1R6WUQzR05uUUdmMnJ2UnR3VUxNc3hHeW9XQ0FxOVl2WGtRZms1WFVKT3p3bUY2bFlTVjVwRWd3X1ZBRVZndFVXM0x0TnRyanhqc1ZkX3Y5eEU0VC1KMUdEeE1DcXhzMDl5LVhpQ1VNcVV1NmRCdkUtdG5wZkx0UHdTVnNyd0VCMDNfNUlZc0FhVQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "b14fcf229b79",
-      "categoria": "ten",
-      "fecha": "2026-11-26T13:07+00:00",
-      "titulo": "Europe Website Design Company Services Market: Key Players, Market Segmentation and Growth Prospects 2027-2035",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTd5NlFBbWJTUndleExyb3VkUzFIY0pZUDd0aHNCNWdjVFlJdmplS1JhU2tFek9SeU1CalVVd1FfN3hfUHM2ZGF4LTlxRlhxaHptN2Z1cFZLS01fTEdjb0JoYW1EU1lOOGR2UXRZSmlwOG1vdzB1UXQyUW5kMlZwY2g2azl1V2gwaDdva3k2NlY?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTd5NlFBbWJTUndleExyb3VkUzFIY0pZUDd0aHNCNWdjVFlJdmplS1JhU2tFek9SeU1CalVVd1FfN3hfUHM2ZGF4LTlxRlhxaHptN2Z1cFZLS01fTEdjb0JoYW1EU1lOOGR2UXRZSmlwOG1vdzB1UXQyUW5kMlZwY2g2azl1V2gwaDdva3k2NlY?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "47643f0fcba1",
-      "categoria": "ten",
-      "fecha": "2026-11-26T12:57+00:00",
-      "titulo": "First leaked image of the “iPhone Fold” on Weibo.. Is this the real design?",
-      "resumen": "",
-      "fuente": "آي-فون إسلام",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmRvMGxadEMyU1dUcFY5NnB2cWcyWUlaWEdsU1pyRHUtMkw5RGVURFEtMEFDc0NrdGp4ZEU0N2E0TFFmcmxodi1WeGt4NFNwSFVzWGhHOEw3cXBBZ2NNUkxuR1ZHYU5iQmJLZ3NtN3g1aGIzb2I5U3prYU5oLWhkLUVhb0gxeEEwQ3pQckhZSEhScXFJY19IOF9pTnpteVRHeHdHTWZQVWE0TEp1emw5a3JTOFYyN0ZjNDd6OEhBZlp6UQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "آي-فون إسلام",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmRvMGxadEMyU1dUcFY5NnB2cWcyWUlaWEdsU1pyRHUtMkw5RGVURFEtMEFDc0NrdGp4ZEU0N2E0TFFmcmxodi1WeGt4NFNwSFVzWGhHOEw3cXBBZ2NNUkxuR1ZHYU5iQmJLZ3NtN3g1aGIzb2I5U3prYU5oLWhkLUVhb0gxeEEwQ3pQckhZSEhScXFJY19IOF9pTnpteVRHeHdHTWZQVWE0TEp1emw5a3JTOFYyN0ZjNDd6OEhBZlp6UQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "a9c42f6c44a7",
-      "categoria": "ten",
-      "fecha": "2026-11-26T12:43+00:00",
-      "titulo": "Can Adobe's Freemium Strategy Win More Users Amid AI Competition?",
-      "resumen": "",
-      "fuente": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnI1ckQtSXMtM0VqMmJPU2tUUU54S2xaNHA4Mzg1YWV6ZEdYLU1wT29vZGQ5YkRkVmZ4RmJ1RzdlVUs4dzY0MjZwcjg5ZUh1MlB0VnV6WkNwQ0o5R282R2h6UDRPV2pYNVY4elltdEM4TjJBeXB4QjhWMExfMzBMQ3JUNmd2czlXR2VISlR6TFJKVjlFRG1HZ2xn?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnI1ckQtSXMtM0VqMmJPU2tUUU54S2xaNHA4Mzg1YWV6ZEdYLU1wT29vZGQ5YkRkVmZ4RmJ1RzdlVUs4dzY0MjZwcjg5ZUh1MlB0VnV6WkNwQ0o5R282R2h6UDRPV2pYNVY4elltdEM4TjJBeXB4QjhWMExfMzBMQ3JUNmd2czlXR2VISlR6TFJKVjlFRG1HZ2xn?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "ffb09ea28129",
-      "categoria": "ten",
-      "fecha": "2026-11-26T12:22+00:00",
-      "titulo": "Pulso Ualá: productos, novedades y mucho más 🚀",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnAwVG91TEtmQk5rN0g3Uy0tbnJqUWp0V05vUGxsN24wSkpHUHY4TkpadWRVdlJETnByV25wOHJ5NjkxcFF4ZXBGdU1tNzNqQUJJbWtQNTN6b0x3eWx4MFRpMmcyYWpqMU9QajFjVFZSakpPLWl2dE9lVlI2SE9pY0NCR2xJQjFRMzRBMDZYVDdNdWVFc0tTVg?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnAwVG91TEtmQk5rN0g3Uy0tbnJqUWp0V05vUGxsN24wSkpHUHY4TkpadWRVdlJETnByV25wOHJ5NjkxcFF4ZXBGdU1tNzNqQUJJbWtQNTN6b0x3eWx4MFRpMmcyYWpqMU9QajFjVFZSakpPLWl2dE9lVlI2SE9pY0NCR2xJQjFRMzRBMDZYVDdNdWVFc0tTVg?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "96961932dc17",
-      "categoria": "ten",
-      "fecha": "2026-11-26T12:18+00:00",
-      "titulo": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
-      "resumen": "Intuition was always treated as the second-best kind of knowing. Now AI is learning it from itself; we’re learning from AI, and nobody’s minding the loop. Welp. By Edz Norton ( source ) I have a…",
-      "fuente": "UX Collective",
-      "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
-      "enlaces": [
-        {
-          "nombre": "UX Collective",
-          "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "72a5aa884176",
       "categoria": "reg",
       "fecha": "2026-11-26T12:02+00:00",
@@ -3645,73 +4050,17 @@
       "region": "ar"
     },
     {
-      "id": "806e923537c2",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:56+00:00",
-      "titulo": "Motorola Razr Flex leak shows a wide foldable",
+      "id": "dd0b2d8d1a2b",
+      "categoria": "emp",
+      "fecha": "2026-11-26T11:22+00:00",
+      "titulo": "Mastercard's Debia Partnership: Turning AI Discovery Into Dollars",
       "resumen": "",
-      "fuente": "Tech My Money",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFRT3ZUb0lvLUtuWUdWMFFBNkZCN1VmN1NfVndPTGQ1SVk1Y2lhYTNvWG8tRmpUQ2t3OHlVRTZZSkt2c3hmZ0pvLXZYaXdSaE9PVUluWkhKWGc1dEJ0SHdXV1otYU5XOUZzdEJUNkU2S3pxc0cyLW8tSTZ0ZTRiYnNmT3pLUdIBhgFBVV95cUxObXFRT3ZUb0lvLUtuWUdWMFFBNkZCN1VmN1NfVndPTGQ1SVk1Y2lhYTNvWG8tRmpUQ2t3OHlVRTZZSkt2c3hmZ0pvLXZYaXdSaE9PVUluWkhKWGc1dEJ0SHdXV1otYU5XOUZzdEJUNkU2S3pxc0cyLW8tSTZ0ZTRiYnNmT3pLUQ?oc=5",
+      "fuente": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWDNibThhbEt2ME1jX3BLRVNfZHlERVd0ZUFpMjZFODgyVVRUOU13QU1DY0Z4dTVWdXdhRXRJUXh4b1Q5YmRNbDBwVGs2bkdMcy1OT1h1ejg0STlkVG5pa3NQazZUbjZGMl84RENjYmpFcEk4enFoRldjM003NkdwVVBCelZ5bDNMV01zLVhQN2JlR2hrMV9IYS1jQUJYU2hiYzhwdVAxOTM0d3Z2Mm5LZ2lnX3VXMUYxaTBCLQ?oc=5",
       "enlaces": [
         {
-          "nombre": "Tech My Money",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFRT3ZUb0lvLUtuWUdWMFFBNkZCN1VmN1NfVndPTGQ1SVk1Y2lhYTNvWG8tRmpUQ2t3OHlVRTZZSkt2c3hmZ0pvLXZYaXdSaE9PVUluWkhKWGc1dEJ0SHdXV1otYU5XOUZzdEJUNkU2S3pxc0cyLW8tSTZ0ZTRiYnNmT3pLUdIBhgFBVV95cUxObXFRT3ZUb0lvLUtuWUdWMFFBNkZCN1VmN1NfVndPTGQ1SVk1Y2lhYTNvWG8tRmpUQ2t3OHlVRTZZSkt2c3hmZ0pvLXZYaXdSaE9PVUluWkhKWGc1dEJ0SHdXV1otYU5XOUZzdEJUNkU2S3pxc0cyLW8tSTZ0ZTRiYnNmT3pLUQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "03c97c042bfc",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:52+00:00",
-      "titulo": "WhatsApp Introduces Scheduled Messages After Years of User Requests",
-      "resumen": "",
-      "fuente": "Android Kenya",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92dmc1bmNObFI1N1FEMWg3UnQwUjZkMWVOMllrdTNtNzNMUHRaSVdveklNa3BwLVZ1eERzN0ZYNXVqSkRIY1N2cXBSTjY0UVV0OXQ3YndfSFlCNE1BdWJDNXJaOUJpNTRHOU5JcUV1Ty1YOE1VQWp6Q3dLdVU?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Android Kenya",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92dmc1bmNObFI1N1FEMWg3UnQwUjZkMWVOMllrdTNtNzNMUHRaSVdveklNa3BwLVZ1eERzN0ZYNXVqSkRIY1N2cXBSTjY0UVV0OXQ3YndfSFlCNE1BdWJDNXJaOUJpNTRHOU5JcUV1Ty1YOE1VQWp6Q3dLdVU?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "6fe90ed2b667",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:43+00:00",
-      "titulo": "Summumstudio logra dos premios internacionales de diseño con su colección de baño Tabú",
-      "resumen": "",
-      "fuente": "Interempresas Media",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wcnhZQnpodDBXOThRdVA1eHNKTkU5MUJpNFl1NUgteFF3YU8tZVdwLUNvemdwbEdSRlprRUtrNjlxaEZYUEZ0NDIzdUFTQQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Interempresas Media",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wcnhZQnpodDBXOThRdVA1eHNKTkU5MUJpNFl1NUgteFF3YU8tZVdwLUNvemdwbEdSRlprRUtrNjlxaEZYUEZ0NDIzdUFTQQ?oc=5",
-          "tipo": "nota"
-        },
-        {
-          "nombre": "Interempresas Media",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUVNHMVdMTnpoU18yVkRpN1NxMURXNTlVQ2xFUUdMdFo1RnBaRmdyckZSNW5GclA3RXlldlNTZVBtWXpiX0VwdkkyVmlwaF9wYmx4N0lOc2VndnR1QVBFRVktMWVZTk1YS2NjTDEtbEtpekZWUXN6bzNHSHFiSnMwTWJXQ0VZV0hreXpvcFhvR0cxb0dFWkstc3E3V2M3X1BzTkI2dFZvb1lnSzBQMDBXWVcxaHBNMjA5S09DaVItMmpMNFZyZmRmallaNGlGUkh3LW5KS19oU1FmNG9CMWpBSFZMeDlEV2M?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "bad6ac93ca92",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:26+00:00",
-      "titulo": "MoonPay applies for US national bank charter",
-      "resumen": "",
-      "fuente": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0Z3NkdnVEgwVVM4R0tZbEc1Nld3RkQwMDNTYnByV1lIaXdQSDZTVllvU0M5V2xJVG1TbDdjaE9RTkZJdTR3T0dPSDlGZ2M3cnpoVmdaRndEX3UxX2hHOVNIZXlsQlFkZUE2TldXeUdmak1ydUsxY0RpLUdtX2pfcEMwdGNSbko5SVRQTkFmVDQteXl2M3ZlVWFnaWttTmFVZmtrcXRSbFBJdWtS?oc=5",
-      "enlaces": [
-        {
-          "nombre": "FinTech Futures",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0Z3NkdnVEgwVVM4R0tZbEc1Nld3RkQwMDNTYnByV1lIaXdQSDZTVllvU0M5V2xJVG1TbDdjaE9RTkZJdTR3T0dPSDlGZ2M3cnpoVmdaRndEX3UxX2hHOVNIZXlsQlFkZUE2TldXeUdmak1ydUsxY0RpLUdtX2pfcEMwdGNSbko5SVRQTkFmVDQteXl2M3ZlVWFnaWttTmFVZmtrcXRSbFBJdWtS?oc=5",
+          "nombre": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWDNibThhbEt2ME1jX3BLRVNfZHlERVd0ZUFpMjZFODgyVVRUOU13QU1DY0Z4dTVWdXdhRXRJUXh4b1Q5YmRNbDBwVGs2bkdMcy1OT1h1ejg0STlkVG5pa3NQazZUbjZGMl84RENjYmpFcEk4enFoRldjM003NkdwVVBCelZ5bDNMV01zLVhQN2JlR2hrMV9IYS1jQUJYU2hiYzhwdVAxOTM0d3Z2Mm5LZ2lnX3VXMUYxaTBCLQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -3729,57 +4078,6 @@
         {
           "nombre": "BGR",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNUZ5MTl3aHA4RFpGRVVCSkxISkZiXzhQZ0QxdHd4Q2dObUg1NTJ1eTNqVm42cUl4Rl9yNEYyempra3ljVzBqOXFOeld4MVRoQzVuVHNZU1BLclMtZmlxaWRrMnRTejhhelRmTDYyQQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "ad2456487234",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:01+00:00",
-      "titulo": "Major iPhone Apps Are Sneaking Ads Into Live Activities and Push Alerts Despite Apple's Rules – and Apple Isn't Enforcing Them",
-      "resumen": "",
-      "fuente": "Andro-News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejBtSFB5RTBqSnZfS2tjTFJMNmJUdGVueHlYUHhTOE1yYXBKU0lkOUlvUkJDdVpzdVJwM0hRaE5qOUI1TVh5S1hyMmxrQ0x3SU1MbEJLMnJZeWFQMEhMWkFLYU9LeWQ5MTM2M000WkNNMWVJQWpWT3V3aVJkUlRDRTNiRzVISGFnUmplX203NXZXbnRZbjNGODE1X0g5d3lzTUZaNVEyQUtMMHM4YlRJVkJaTUJjN3c5U2U0M2hMdFFtVnlKdkRhUC1hc1p3ZVR0elNrTmF1dXQwUURVck1hNzdfRQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Andro-News",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejBtSFB5RTBqSnZfS2tjTFJMNmJUdGVueHlYUHhTOE1yYXBKU0lkOUlvUkJDdVpzdVJwM0hRaE5qOUI1TVh5S1hyMmxrQ0x3SU1MbEJLMnJZeWFQMEhMWkFLYU9LeWQ5MTM2M000WkNNMWVJQWpWT3V3aVJkUlRDRTNiRzVISGFnUmplX203NXZXbnRZbjNGODE1X0g5d3lzTUZaNVEyQUtMMHM4YlRJVkJaTUJjN3c5U2U0M2hMdFFtVnlKdkRhUC1hc1p3ZVR0elNrTmF1dXQwUURVck1hNzdfRQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "8a057f9b6c65",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:01+00:00",
-      "titulo": "Most DESIGN.md files I see are a polite request. \"Use the tokens.\" \"Follow the spacing scale.\" \"Keep it on brand.\" Then the agent opens the repo and does whatever it wants. It's not doing that on purpose. Prose just…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWlWSm52T2lVdEtlcUdoa1JZcEpvTUgzOVE2X3ZLZXNVZEdsb0dnY1pLb21HekZuWjRKcGtPSnZMOHJmamYyTm9PczhrWV9iS2RmYVVKVXhtMXdoNzhyNThEQUF1anBvSDMtMk9IUElpYmt5NnlESkhXajc0RXQ2ZXQtbVpWcm1MZEFqYmxySzR4aGxZNU1MUkNNbHJ1RnJWb1lFOE9ZcU9vNm1oN2lGSlJtcU00T1lLTFlUaA?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWlWSm52T2lVdEtlcUdoa1JZcEpvTUgzOVE2X3ZLZXNVZEdsb0dnY1pLb21HekZuWjRKcGtPSnZMOHJmamYyTm9PczhrWV9iS2RmYVVKVXhtMXdoNzhyNThEQUF1anBvSDMtMk9IUElpYmt5NnlESkhXajc0RXQ2ZXQtbVpWcm1MZEFqYmxySzR4aGxZNU1MUkNNbHJ1RnJWb1lFOE9ZcU9vNm1oN2lGSlJtcU00T1lLTFlUaA?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "c73843c00f0c",
-      "categoria": "ten",
-      "fecha": "2026-11-26T11:00+00:00",
-      "titulo": "ZDNET’s best phones of 2026: The year the foldable went mainstream",
-      "resumen": "",
-      "fuente": "ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YMzNuRGh5dlE2YkZxX3dFQ2lObkZVV1ZhaEdjYk1SYTRtYnJ3YWJCcUotb1ZQWHdJX3ppV0ktR1VOV1FhbTBZeXlsYXJfOHgyN2Y0SWU4OWVQM1h6N1NzeVd1QQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "ZDNET",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YMzNuRGh5dlE2YkZxX3dFQ2lObkZVV1ZhaEdjYk1SYTRtYnJ3YWJCcUotb1ZQWHdJX3ppV0ktR1VOV1FhbTBZeXlsYXJfOHgyN2Y0SWU4OWVQM1h6N1NzeVd1QQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -4007,14 +4305,19 @@
       "region": "global"
     },
     {
-      "id": "fe90be1a6bd9",
+      "id": "c46b0769ab75",
       "categoria": "emp",
       "fecha": "2026-11-26T08:46+00:00",
       "titulo": "Visa and Samsung Bring Scan to Pay to Mobile Devices Across Asia Pacific with Samsung Wallet",
       "resumen": "",
       "fuente": "ANTARA News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGZCc2FTbENlaUNVdmREYUktdjYwNjZFRmhYRkpUbml3cTNLcXROc0x3cWFRVjZMMldFc2JzWmxLQXYzekFoeUw1cWgwMzhaYi1BS3dTS2NNUGV2VFVYT3Z6R2Y5TkRIdG40b2NMNVNBQkhxV1JmdlJEWlJlTXhtMl9qcE53TS1ZbUgtWGw2UzI2VzduNU1zVXo2cmZDVjFGTnF5eVFWNVRlZEZSYTNtVFZCQ0tSLXh5T1NQRnZGVUV2Y0k1MEd0OWF30gHPAUFVX3lxTE9iUkNUS0NNR09QYVpIVkgyZjVKWVVXTVlaVGtXSmhNdWt1b2JodnlGOFB0X3NSRHhTRkNFVWY5ZmNzMXA3U21oR0hZT05MUGR1YUVFYXFlWWoyWVNSYW44Y19kbUlVRDBmcVVXZzFJa0hnZUVqVFNpVUxFdmdLRkx4Y1V6T1ZTS0N0eTZJZjVrSGQySGpadXZDWHVTcjZvSVdCeFhGVzBuclZNU0xkdi1fV3hSV05SVkJHOGh4ellrTlVQbE9LVTU4MEN1Q05ROA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYlJDVEtDTUdPUGFaSFZIMmY1SllVV01ZWlRrV0poTXVrdW9iaHZ5RjhQdF9zUkR4U0ZDRVVmOWZjczFwN1NtaEdIWU9OTFBkdWFFRWFxZVlqMllTUmFuOGNfZG1JVUQwZnFVV2cxSWtIZ2VFalRTaVVMRXZnS0ZMeGNVek9WU0tDdHk2SWY1a0hkMkhqWnV2Q1h1U3I2b0lXQnhYRlcwbnJWTVNMZHYtX1d4UldOUlZCRzhoeHpZa05VUGxPS1U1ODBDdUNOUTjSAc8BQVVfeXFMT2JSQ1RLQ01HT1BhWkhWSDJmNUpZVVdNWVpUa1dKaE11a3VvYmh2eUY4UHRfc1JEeFNGQ0VVZjlmY3MxcDdTbWhHSFlPTkxQZHVhRUVhcWVZajJZU1JhbjhjX2RtSVVEMGZxVVdnMUlrSGdlRWpUU2lVTEV2Z0tGTHhjVXpPVlNLQ3R5NklmNWtIZDJIalp1dkNYdVNyNm9JV0J4WEZXMG5yVk1TTGR2LV9XeFJXTlJWQkc4aHh6WWtOVVBsT0tVNTgwQ3VDTlE4?oc=5",
       "enlaces": [
+        {
+          "nombre": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYlJDVEtDTUdPUGFaSFZIMmY1SllVV01ZWlRrV0poTXVrdW9iaHZ5RjhQdF9zUkR4U0ZDRVVmOWZjczFwN1NtaEdIWU9OTFBkdWFFRWFxZVlqMllTUmFuOGNfZG1JVUQwZnFVV2cxSWtIZ2VFalRTaVVMRXZnS0ZMeGNVek9WU0tDdHk2SWY1a0hkMkhqWnV2Q1h1U3I2b0lXQnhYRlcwbnJWTVNMZHYtX1d4UldOUlZCRzhoeHpZa05VUGxPS1U1ODBDdUNOUTjSAc8BQVVfeXFMT2JSQ1RLQ01HT1BhWkhWSDJmNUpZVVdNWVpUa1dKaE11a3VvYmh2eUY4UHRfc1JEeFNGQ0VVZjlmY3MxcDdTbWhHSFlPTkxQZHVhRUVhcWVZajJZU1JhbjhjX2RtSVVEMGZxVVdnMUlrSGdlRWpUU2lVTEV2Z0tGTHhjVXpPVlNLQ3R5NklmNWtIZDJIalp1dkNYdVNyNm9JV0J4WEZXMG5yVk1TTGR2LV9XeFJXTlJWQkc4aHh6WWtOVVBsT0tVNTgwQ3VDTlE4?oc=5",
+          "tipo": "nota"
+        },
         {
           "nombre": "ANTARA News",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGZCc2FTbENlaUNVdmREYUktdjYwNjZFRmhYRkpUbml3cTNLcXROc0x3cWFRVjZMMldFc2JzWmxLQXYzekFoeUw1cWgwMzhaYi1BS3dTS2NNUGV2VFVYT3Z6R2Y5TkRIdG40b2NMNVNBQkhxV1JmdlJEWlJlTXhtMl9qcE53TS1ZbUgtWGw2UzI2VzduNU1zVXo2cmZDVjFGTnF5eVFWNVRlZEZSYTNtVFZCQ0tSLXh5T1NQRnZGVUV2Y0k1MEd0OWF30gHPAUFVX3lxTE9iUkNUS0NNR09QYVpIVkgyZjVKWVVXTVlaVGtXSmhNdWt1b2JodnlGOFB0X3NSRHhTRkNFVWY5ZmNzMXA3U21oR0hZT05MUGR1YUVFYXFlWWoyWVNSYW44Y19kbUlVRDBmcVVXZzFJa0hnZUVqVFNpVUxFdmdLRkx4Y1V6T1ZTS0N0eTZJZjVrSGQySGpadXZDWHVTcjZvSVdCeFhGVzBuclZNU0xkdi1fV3hSV05SVkJHOGh4ellrTlVQbE9LVTU4MEN1Q05ROA?oc=5",
@@ -4352,6 +4655,23 @@
       "region": "global"
     },
     {
+      "id": "5784e495e0ac",
+      "categoria": "emp",
+      "fecha": "2026-11-25T21:38+00:00",
+      "titulo": "I&M launches Mastercard World Elite metal credit card",
+      "resumen": "",
+      "fuente": "5050 Markets",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wNHpyaXN3bWdOTTNtcnoxZ05RMHJGcWVKM1M4TDhFWkpha1BYNHViZzZmRkpyazJ1RGw1Z2VmWkR2djBnWmpUOEVRaXhLU25aQjhkOWhDR29PdjBUN1huaHJ4ZmJIZlJfMklmTFpXZw?oc=5",
+      "enlaces": [
+        {
+          "nombre": "5050 Markets",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wNHpyaXN3bWdOTTNtcnoxZ05RMHJGcWVKM1M4TDhFWkpha1BYNHViZzZmRkpyazJ1RGw1Z2VmWkR2djBnWmpUOEVRaXhLU25aQjhkOWhDR29PdjBUN1huaHJ4ZmJIZlJfMklmTFpXZw?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "c5efe69636ab",
       "categoria": "reg",
       "fecha": "2026-11-25T21:29+00:00",
@@ -4456,6 +4776,23 @@
       "region": "ar"
     },
     {
+      "id": "b3b418933f34",
+      "categoria": "emp",
+      "fecha": "2026-11-25T20:00+00:00",
+      "titulo": "Aven Home Equity Visa® Card Review – HELOC Rates, but Your House Backs Every Swipe",
+      "resumen": "",
+      "fuente": "Money Crashers",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0R1FLU3F5WkZJdTA3VW5VVDBhRi0zbGJOT0hBQjZqbnBzN04xQzYzNEtqTE1OdW1HWWtTeEdiMDNRdEJBRkpGYzY5N3RjcXF5TTFSUUpnZkRWQ0ZEalMwMkMzb2lvRGdFUmNn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Money Crashers",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0R1FLU3F5WkZJdTA3VW5VVDBhRi0zbGJOT0hBQjZqbnBzN04xQzYzNEtqTE1OdW1HWWtTeEdiMDNRdEJBRkpGYzY5N3RjcXF5TTFSUUpnZkRWQ0ZEalMwMkMzb2lvRGdFUmNn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
+    },
+    {
       "id": "d7dc9c0b4e3f",
       "categoria": "emp",
       "fecha": "2026-11-25T19:21+00:00",
@@ -4471,6 +4808,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "e0615186567f",
+      "categoria": "emp",
+      "fecha": "2026-11-25T19:09+00:00",
+      "titulo": "How Investors Are Reacting To Mastercard (MA) Cross Border Payments Expansion",
+      "resumen": "",
+      "fuente": "Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmc5RFhJc2Q0R2R4MHR5VzNka05COGs5V0RHYzkyMEU3Znk5MHluM0k1Wlc3Uk1jcVIzV05RZ1h0TWJsVGlCU3BKVGgyTkZVSXp0VGJjdm45My1vNnFSSU5aU1JDUFJrTUE4ZzlnZXlHYWxSenlFNnpod1A5T1dBbGNDMjB2SHZ5cHRTZHExeUxMM2hyNWR2clpwUnQ4RldHZlFyZHFYcERzOGFxQXhiY2N5N1NsM09nYWROdUEzdGx5T0tFR3V6ZF9LMGlvMTBXY2NDVXJtaHdNSGfSAdsBQVVfeXFMTW5nOURYSXNkNEdkeDB0eVczZGtOQjhrOVdER2M5MjBFN2Z5OTB5bjNJNVpXN1JNY3FSM1dOUWdYdE1ibFRpQlNwSlRoMk5GVUl6dFRiY3ZuOTMtbzZxUklOWlNSQ1BSa01BOGc5Z2V5R2FsUnp5RTZ6aHdQOU9XQWxjQzIwdkh2eXB0U2RxMXlMTDNocjVkdnJacFJ0OEZXR2ZRcmRxWHBEczhhcUF4YmNjeTdTbDNPZ2FkTnVBM3RseU9LRUd1emRfSzBpbzEwV2NjQ1VybWh3TUhn?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmc5RFhJc2Q0R2R4MHR5VzNka05COGs5V0RHYzkyMEU3Znk5MHluM0k1Wlc3Uk1jcVIzV05RZ1h0TWJsVGlCU3BKVGgyTkZVSXp0VGJjdm45My1vNnFSSU5aU1JDUFJrTUE4ZzlnZXlHYWxSenlFNnpod1A5T1dBbGNDMjB2SHZ5cHRTZHExeUxMM2hyNWR2clpwUnQ4RldHZlFyZHFYcERzOGFxQXhiY2N5N1NsM09nYWROdUEzdGx5T0tFR3V6ZF9LMGlvMTBXY2NDVXJtaHdNSGfSAdsBQVVfeXFMTW5nOURYSXNkNEdkeDB0eVczZGtOQjhrOVdER2M5MjBFN2Z5OTB5bjNJNVpXN1JNY3FSM1dOUWdYdE1ibFRpQlNwSlRoMk5GVUl6dFRiY3ZuOTMtbzZxUklOWlNSQ1BSa01BOGc5Z2V5R2FsUnp5RTZ6aHdQOU9XQWxjQzIwdkh2eXB0U2RxMXlMTDNocjVkdnJacFJ0OEZXR2ZRcmRxWHBEczhhcUF4YmNjeTdTbDNPZ2FkTnVBM3RseU9LRUd1emRfSzBpbzEwV2NjQ1VybWh3TUhn?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "756f4eacc492",
@@ -4544,25 +4898,6 @@
         }
       ],
       "region": "global"
-    },
-    {
-      "id": "30730776391e",
-      "categoria": "emp",
-      "fecha": "2026-11-25T18:07+00:00",
-      "titulo": "Tenencias de Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX)",
-      "resumen": "",
-      "fuente": "Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UmJacDZJdmF6TXRFUDhxeVBrVDB4MnZaZWhQSGJsbjJlNHB0eGVtdnFTdDBSN05DV0pmUEtOLVBSYkR2ZDV4cjk4RnZHSGNacEZHa2h0T3VYeXQtZWRlbE1n?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UmJacDZJdmF6TXRFUDhxeVBrVDB4MnZaZWhQSGJsbjJlNHB0eGVtdnFTdDBSN05DV0pmUEtOLVBSYkR2ZDV4cjk4RnZHSGNacEZHa2h0T3VYeXQtZWRlbE1n?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Barclays Bank PLC ATM Digital Worst Of Barrier Note ACHTDXX (ACHTDXX) holdings",
-      "idioma_original": "en"
     },
     {
       "id": "e2f043a8faa0",
@@ -4672,74 +5007,6 @@
       "region": "global"
     },
     {
-      "id": "3a9dd0896084",
-      "categoria": "emp",
-      "fecha": "2026-11-25T16:18+00:00",
-      "titulo": "Roots Bets on Adyen to Unify Payments Across 130+ Stores",
-      "resumen": "",
-      "fuente": "The Futurum Group",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3NZS3FORW5tRjNWTnQxdlc1UzZwbWw5RTZ1UkpwSEtjMm92VFJlVk1WSFVWZldKOFhsZ0ZNRGZ0bUJ6WnVOcllVdWRqNWRFWlZRdU12a1RwUDhnZm5iUjVhQXV0cm5MbC0xZnNhc2FlWElLemJ5d21ZWHNKMDlsWFNqYXZNenpyZVdjdHpscy1qdzJu?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Futurum Group",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3NZS3FORW5tRjNWTnQxdlc1UzZwbWw5RTZ1UkpwSEtjMm92VFJlVk1WSFVWZldKOFhsZ0ZNRGZ0bUJ6WnVOcllVdWRqNWRFWlZRdU12a1RwUDhnZm5iUjVhQXV0cm5MbC0xZnNhc2FlWElLemJ5d21ZWHNKMDlsWFNqYXZNenpyZVdjdHpscy1qdzJu?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "aafc388efb3f",
-      "categoria": "emp",
-      "fecha": "2026-11-25T16:03+00:00",
-      "titulo": "Visa Opens Representative Office in Cameroon to Strengthen Digital Payments",
-      "resumen": "",
-      "fuente": "TechAfrica News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEhrdXpLdzFOOERPbE0wZmdiRVVNMnJFWHpMdUNZSmxjUVpVUUtKLXB1bVdOWnRSU291N3lCZ0hNTTlPZjBoV3RXZHY0Q0xTMXQzc21hdS1qVDZ2akR1WVgyZ2E1TDBDS2JJdUFKVnUzSnVKTS13R0p1MGZBUjRNaG80YVF1X3p0NS15S0JoYzVQUFcxNU1yZ0tXSV9WZw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "TechAfrica News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEhrdXpLdzFOOERPbE0wZmdiRVVNMnJFWHpMdUNZSmxjUVpVUUtKLXB1bVdOWnRSU291N3lCZ0hNTTlPZjBoV3RXZHY0Q0xTMXQzc21hdS1qVDZ2akR1WVgyZ2E1TDBDS2JJdUFKVnUzSnVKTS13R0p1MGZBUjRNaG80YVF1X3p0NS15S0JoYzVQUFcxNU1yZ0tXSV9WZw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "da132dd74a63",
-      "categoria": "emp",
-      "fecha": "2026-11-25T16:00+00:00",
-      "titulo": "🚀 ¡Llegó una nueva convocatoria a nivel nacional de nuestro Programa Trainee Gestor Comercial de Banca Empresas e Instituciones! ¿Te apasiona el mundo de la banca y quieres llevar tu carrera al siguiente nivel? ¡Esta…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUMyUzg0SUMybm03SjhSbUVLelExNWRqWndFbzA0OWdPRjlBOTVDbmxiUW5obTBlaFlBLXlhb0ZLQUVNcEJhbE1FRVEwdkRLdHVhOE44S2IyUEg3UUx3ZGJ6eEZfWVd1Tk43RjMzQkFSZ2tnZE56SGhndkY1UVNrRTZxZFc5NXV4VmRoQVNmNE5QSi1rdDQyeUowVWpYRjA2cG1qVmlrMkRGVlJvVGRHMDlUNWNNa0E?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUMyUzg0SUMybm03SjhSbUVLelExNWRqWndFbzA0OWdPRjlBOTVDbmxiUW5obTBlaFlBLXlhb0ZLQUVNcEJhbE1FRVEwdkRLdHVhOE44S2IyUEg3UUx3ZGJ6eEZfWVd1Tk43RjMzQkFSZ2tnZE56SGhndkY1UVNrRTZxZFc5NXV4VmRoQVNmNE5QSi1rdDQyeUowVWpYRjA2cG1qVmlrMkRGVlJvVGRHMDlUNWNNa0E?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "7072950b3488",
-      "categoria": "emp",
-      "fecha": "2026-11-25T15:49+00:00",
-      "titulo": "Visa Exec: On-Chain AI Agent Payments Are ~$50K a Week",
-      "resumen": "",
-      "fuente": "OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xRVZGV1h0U0RYbHBtOUhfS1hiRzQ3Wi1kRnEwVnlvSVRid2lzSEIxNW9SWFpxRkN3VV94eEZJc0tJbW0wQTVXTHo2SFJFZXNpNXduakhBUnVqQnJXc2szamxERVEwaGdBTTFQSmdDR3lYTG1EUmdCX0tMUXJxLUU?oc=5",
-      "enlaces": [
-        {
-          "nombre": "OneSafe",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xRVZGV1h0U0RYbHBtOUhfS1hiRzQ3Wi1kRnEwVnlvSVRid2lzSEIxNW9SWFpxRkN3VV94eEZJc0tJbW0wQTVXTHo2SFJFZXNpNXduakhBUnVqQnJXc2szamxERVEwaGdBTTFQSmdDR3lYTG1EUmdCX0tMUXJxLUU?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
       "id": "2e7f1ea72ac0",
       "categoria": "ux",
       "fecha": "2026-11-25T15:49+00:00",
@@ -4757,42 +5024,6 @@
       "region": "global"
     },
     {
-      "id": "e45bad99a9f3",
-      "categoria": "emp",
-      "fecha": "2026-11-25T15:46+00:00",
-      "titulo": "Google suma Inteligencia Artificial a su billetera virtual para analizar gastos y beneficios",
-      "resumen": "",
-      "fuente": "Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEVMVjR0QU4wNi05b0xQSTlkUUh1U0pjY2RQdjV1TTdxcVBYSE9LTUZ5dDdDV1dnNVVOYUtWTXN2Yk9uLUExbVB0bWxKQ3FtUjdFYmxKdVZmRnpacGQzNTQyaUNFNDdkemZGdjZPRWRSVVZ5d2lEVmVrRkR4TnhCamN4Zkswb1p0TzEwaS02c3dHQlB4eDQ1Q3pFajNHbTNqaElyaDVxcnFXYVpLOGg2a0xyb2E5bXFYb0RIbjZkc0Fkejd2RUsySDVPMFI5eENRc21qZEhCLWo3SExkMHgyZ9IB4AFBVV95cUxQeEVMVjR0QU4wNi05b0xQSTlkUUh1U0pjY2RQdjV1TTdxcVBYSE9LTUZ5dDdDV1dnNVVOYUtWTXN2Yk9uLUExbVB0bWxKQ3FtUjdFYmxKdVZmRnpacGQzNTQyaUNFNDdkemZGdjZPRWRSVVZ5d2lEVmVrRkR4TnhCamN4Zkswb1p0TzEwaS02c3dHQlB4eDQ1Q3pFajNHbTNqaElyaDVxcnFXYVpLOGg2a0xyb2E5bXFYb0RIbjZkc0Fkejd2RUsySDVPMFI5eENRc21qZEhCLWo3SExkMHgyZw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Rosario3",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEVMVjR0QU4wNi05b0xQSTlkUUh1U0pjY2RQdjV1TTdxcVBYSE9LTUZ5dDdDV1dnNVVOYUtWTXN2Yk9uLUExbVB0bWxKQ3FtUjdFYmxKdVZmRnpacGQzNTQyaUNFNDdkemZGdjZPRWRSVVZ5d2lEVmVrRkR4TnhCamN4Zkswb1p0TzEwaS02c3dHQlB4eDQ1Q3pFajNHbTNqaElyaDVxcnFXYVpLOGg2a0xyb2E5bXFYb0RIbjZkc0Fkejd2RUsySDVPMFI5eENRc21qZEhCLWo3SExkMHgyZ9IB4AFBVV95cUxQeEVMVjR0QU4wNi05b0xQSTlkUUh1U0pjY2RQdjV1TTdxcVBYSE9LTUZ5dDdDV1dnNVVOYUtWTXN2Yk9uLUExbVB0bWxKQ3FtUjdFYmxKdVZmRnpacGQzNTQyaUNFNDdkemZGdjZPRWRSVVZ5d2lEVmVrRkR4TnhCamN4Zkswb1p0TzEwaS02c3dHQlB4eDQ1Q3pFajNHbTNqaElyaDVxcnFXYVpLOGg2a0xyb2E5bXFYb0RIbjZkc0Fkejd2RUsySDVPMFI5eENRc21qZEhCLWo3SExkMHgyZw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "086133daab18",
-      "categoria": "emp",
-      "fecha": "2026-11-25T15:43+00:00",
-      "titulo": "¿Mastercard Accept fortalecerá las perspectivas de crecimiento a largo plazo de MA?",
-      "resumen": "",
-      "fuente": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMHNvM3BhTVczTnpzQmxPUmJaWlhsQ09IZzB5RTBaQWxub3B4WXJTVEY3TFZmWEdORVRzS0h4b3dIS3JrUng2UFJmQnVEX25LV2hXTU05aktBVlFkbHM0VkFvd1AtOTBFcU5VUEFOU1FtZXlIeHkxVmo1eXc3ZWQ2TWJRQU1kb0hpTF8wb3R0Smd5SEtGLXpWSUZsOFFCZEFuVXllTk1Jb0d1eTIwclFROUV4TkVoT0E2Z3Y0RmhNSlV1NjYtYU1vYS1DUEF4Q3RJUzV5SmI0Q0QwMGZtMy0w?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMHNvM3BhTVczTnpzQmxPUmJaWlhsQ09IZzB5RTBaQWxub3B4WXJTVEY3TFZmWEdORVRzS0h4b3dIS3JrUng2UFJmQnVEX25LV2hXTU05aktBVlFkbHM0VkFvd1AtOTBFcU5VUEFOU1FtZXlIeHkxVmo1eXc3ZWQ2TWJRQU1kb0hpTF8wb3R0Smd5SEtGLXpWSUZsOFFCZEFuVXllTk1Jb0d1eTIwclFROUV4TkVoT0E2Z3Y0RmhNSlV1NjYtYU1vYS1DUEF4Q3RJUzV5SmI0Q0QwMGZtMy0w?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global",
-      "titulo_original": "Will Mastercard Accept Strengthen MA's Long-Term Growth Prospects?",
-      "idioma_original": "en"
-    },
-    {
       "id": "740414f6bf28",
       "categoria": "ux",
       "fecha": "2026-11-25T15:08+00:00",
@@ -4804,57 +5035,6 @@
         {
           "nombre": "TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUdaems0dVVhZzN6aGt0eU5KVjBmNUgzRHh0MzhwN0NzTU1YcWdqZGhWMFY5NXBtanNBcU52c0poZ2hkZGJqTV9yWGNpZ3Rkc2ZIdllKWlpNVmZ5UTg4WVREeEJSYVlSb2xfMzY2cUV2M0tjWEgtd3p6U0N5MHk4RzZ5d1h5VGhfdlE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "1a777ea70dcc",
-      "categoria": "emp",
-      "fecha": "2026-11-25T15:03+00:00",
-      "titulo": "De la estrategia a realidad, sin escalas! Después de mucho trabajo, conversaciones, ideas y construcción en equipo, da muchísimo orgullo ver cuánto de lo que imaginábamos para #Payments hoy ya está pasando. 🚀 Lanzamos…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2JSZ3c1U1l5V3JkVFprM3BUbmFOa0NTMm44THlFM1dzcDF1Nm5nY3I4eUpsbEw2Zk5XektXMThyME1aU0E2SlZfWWthdWRKcHJNTk1CQTMwZTFCdzVlR1VtM1kxd1Zpbm1nWVV2WUdPcXk0RkJpWTVzZmNST0pHVDBlZVMxeC1FUG83ajhDVEhtM1ZiOHpxaWtlSlFlU0pmQ0Jhc2FyRURoWU1DQk4tYWFlZk0tUEdxcEE?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2JSZ3c1U1l5V3JkVFprM3BUbmFOa0NTMm44THlFM1dzcDF1Nm5nY3I4eUpsbEw2Zk5XektXMThyME1aU0E2SlZfWWthdWRKcHJNTk1CQTMwZTFCdzVlR1VtM1kxd1Zpbm1nWVV2WUdPcXk0RkJpWTVzZmNST0pHVDBlZVMxeC1FUG83ajhDVEhtM1ZiOHpxaWtlSlFlU0pmQ0Jhc2FyRURoWU1DQk4tYWFlZk0tUEdxcEE?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "3c9d5ce0c598",
-      "categoria": "emp",
-      "fecha": "2026-11-25T14:38+00:00",
-      "titulo": "Hoy en Ualá lanzamos mejoras en Transferencias! Más simple, más rápido y más visual. Ahora podés: - Escanear Alias, CBU o CVU, directo con la cámara del celu - Copiar y pegar desde cualquier app - Visualizar (y editar)…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2NJRWhjRDNDZmtWYjcwVUJZSWtvZl9SU21RQkJjSXZzTlVPSGNxajZ0UUFBemZxQnRjdjFqVm0wbnZIVmdVTGtlLUJrS1VUanIxTThJTzhFS1ktamNRNEMxcVVXNHE3eC02YmYtM0RGaWJJdklicGdKQlZfNUZnc2huTnJBSTZWajFuVG56bFNDb1Nta2hVSTQyRzNUZmFsQkxFZHBYVkZhdHY2TTdFRGtQanpoLUpNZDBuRWc4Uzd5aGZwdFEzZ3Z1c3VPZw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2NJRWhjRDNDZmtWYjcwVUJZSWtvZl9SU21RQkJjSXZzTlVPSGNxajZ0UUFBemZxQnRjdjFqVm0wbnZIVmdVTGtlLUJrS1VUanIxTThJTzhFS1ktamNRNEMxcVVXNHE3eC02YmYtM0RGaWJJdklicGdKQlZfNUZnc2huTnJBSTZWajFuVG56bFNDb1Nta2hVSTQyRzNUZmFsQkxFZHBYVkZhdHY2TTdFRGtQanpoLUpNZDBuRWc4Uzd5aGZwdFEzZ3Z1c3VPZw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "6091ba7674a3",
-      "categoria": "emp",
-      "fecha": "2026-11-25T14:21+00:00",
-      "titulo": "Are Stablecoins a Threat to Visa and Mastercard?",
-      "resumen": "",
-      "fuente": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVhPS0Q1a0QyaEMzNk5YMVlxWENxcF9tTmJEbjdXQ3JrY1hjdVBTb2M1R2s2RzhETVVFUHF6WlE1TVJjZ0trdlgyRlNXaTZSN1V1UlJITUFsei1PUEhvWGdod2thcFQwbG43ODNaT2pfSEVhV0x5VXMwSFFTaUlPTzZ6eWJIeEFRTW5hNkNYNVkycWV1?oc=5",
-      "enlaces": [
-        {
-          "nombre": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVhPS0Q1a0QyaEMzNk5YMVlxWENxcF9tTmJEbjdXQ3JrY1hjdVBTb2M1R2s2RzhETVVFUHF6WlE1TVJjZ0trdlgyRlNXaTZSN1V1UlJITUFsei1PUEhvWGdod2thcFQwbG43ODNaT2pfSEVhV0x5VXMwSFFTaUlPTzZ6eWJIeEFRTW5hNkNYNVkycWV1?oc=5",
           "tipo": "nota"
         }
       ],
@@ -4895,23 +5075,6 @@
       "region": "global"
     },
     {
-      "id": "fe5b45e9aee3",
-      "categoria": "emp",
-      "fecha": "2026-11-25T14:06+00:00",
-      "titulo": "México cerró agosto con 58.27 millones de tarjetas de crédito. Diez bancos tienen el 96% de ellas. El ranking completo: 1. BBVA — 12,087,255 (20.7%) 2. Banamex — 10,244,100 (17.6%) 3. Nu — 10,101,316 (17.3%) 4. Plata —…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOS1ETk9HSF9kcm5LZjY3aGhQeWxaZjIyYndTaXRIYk1Ba1FSTzJHRXJ2TEVWc1dkZ2FLODd6aGp2Sk9udV9obXZYcWk1ZkRZUVlINVMzWHJvbXpycGJUNG1Wa0hJdVNiOExUY200cVRvQnVPdVBWNWJlZy0yYUQ5UE1wckdKV3I5U2lCOXNIVDlOQTBRSzJUblZVV2l3VnBhckZxajBPd0oyaXlxaVAtaThxVVZyNGFkUldsNHRENkJoNHVPWF9mc25CSkpZeGRTNl8xOEVKbmlQNVpxdFdR?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOS1ETk9HSF9kcm5LZjY3aGhQeWxaZjIyYndTaXRIYk1Ba1FSTzJHRXJ2TEVWc1dkZ2FLODd6aGp2Sk9udV9obXZYcWk1ZkRZUVlINVMzWHJvbXpycGJUNG1Wa0hJdVNiOExUY200cVRvQnVPdVBWNWJlZy0yYUQ5UE1wckdKV3I5U2lCOXNIVDlOQTBRSzJUblZVV2l3VnBhckZxajBPd0oyaXlxaVAtaThxVVZyNGFkUldsNHRENkJoNHVPWF9mc25CSkpZeGRTNl8xOEVKbmlQNVpxdFdR?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "42512da72908",
       "categoria": "ux",
       "fecha": "2026-11-25T14:01+00:00",
@@ -4923,57 +5086,6 @@
         {
           "nombre": "FF News",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2tqNk1ZbElUZHFwWkZNTHRZRlFVcGp4dWxKQV9UTlZueUpnenkxTGNmVFZrRjMyM3YxRFBSeVFMbU9jLWdWY0FwQ0pHbFVUbHVocnVmVWVQVGNGQ1B1U3B0dlliMmF2cS1iSWhYcFEtamF1V1hRVkZqTnFkc29HWnBpdTJvUHpFUTRiaGFTRnNRVFF0SEViNThQb0ZaUklWeWI4YWNUa0otNkQw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "c5108c095a1b",
-      "categoria": "emp",
-      "fecha": "2026-11-25T13:52+00:00",
-      "titulo": "Analista de Soluciones de Pago/Banco/ s/3000/ Lunes a Viernes",
-      "resumen": "",
-      "fuente": "LinkedIn Perú",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0FPSzF1X3RWVWRrS0VMMnpGc3l4bUFIZnJ3M19ZMzh6LXJrX1RyczdXQ1BHTkJGV0JnckFKMmpDVGNSMEJoa0FydEkxNU1QbGVEVlh1cmQ0cWMyaElRaUpFcDR6bC15aGZVNnd4aVhtYURvTHBZVll0NGNzNUlaRXQ2T1dDYmZJTUEwYjRnV19xcXZVUlgweHRZQ3FQT1BqR0d2NWNsTE5rSVZ5OXJveURtZ0FxYlg4Wm5oVjhiTkM?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn Perú",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0FPSzF1X3RWVWRrS0VMMnpGc3l4bUFIZnJ3M19ZMzh6LXJrX1RyczdXQ1BHTkJGV0JnckFKMmpDVGNSMEJoa0FydEkxNU1QbGVEVlh1cmQ0cWMyaElRaUpFcDR6bC15aGZVNnd4aVhtYURvTHBZVll0NGNzNUlaRXQ2T1dDYmZJTUEwYjRnV19xcXZVUlgweHRZQ3FQT1BqR0d2NWNsTE5rSVZ5OXJveURtZ0FxYlg4Wm5oVjhiTkM?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "f96fede8ac63",
-      "categoria": "emp",
-      "fecha": "2026-11-25T13:47+00:00",
-      "titulo": "ENTREGAR UNA TARJETA DE DÉBITO NO SIGNIFICA NECESARIAMENTE DIGITALIZAR LOS PAGOS. Una tarjeta puede ser la puerta de entrada al sistema financiero, pero la verdadera transformación ocurre cuando el usuario comienza a…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1hBNXZoNXQxRDJCVHdrM18tOVpKNVJRSndncjdYdGhxam14RUVJMUxXYlBOeFFic3UtNURsajBsekhZcDFtZjl4UVpISWt2OFM3ZlF0UUpDVlpvc1lBS1AtUFFYeFdCbFZ1RXJjMnY4cTB4T1pBbnQ2MUROSUpWVzl4bWY4Q3dETmRWMjFPS1gxcUVKVFZFN0I3RHFHcTBXVjA4TXhSSnBScF80bGVHOVFxUFJyQVNHRWhyd0d2WlhCZ2JPSUt3OHNrdw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1hBNXZoNXQxRDJCVHdrM18tOVpKNVJRSndncjdYdGhxam14RUVJMUxXYlBOeFFic3UtNURsajBsekhZcDFtZjl4UVpISWt2OFM3ZlF0UUpDVlpvc1lBS1AtUFFYeFdCbFZ1RXJjMnY4cTB4T1pBbnQ2MUROSUpWVzl4bWY4Q3dETmRWMjFPS1gxcUVKVFZFN0I3RHFHcTBXVjA4TXhSSnBScF80bGVHOVFxUFJyQVNHRWhyd0d2WlhCZ2JPSUt3OHNrdw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "b545b5881719",
-      "categoria": "emp",
-      "fecha": "2026-11-25T13:42+00:00",
-      "titulo": "Deel Launches Stablecoin Card for Global Contractor Payments",
-      "resumen": "",
-      "fuente": "FinTech Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkNZejlzaC03Unh0N1F5SkJlMlF2RmZpOFFhY1ZQZ0FPUXZ0QU4tNFA5c3lqYklEMFhnaks0RnByZGNmb2NMajJtQWNRZUxwRDF4SG9fMnZUOGRNRGdvNDBsV1JxZkFxMVJjSkxJZUdhNGZFTUd4aWZ4Mmp2ZlhnLWRhcEozSERwQm9KbW5Kai1pSWhOZVprRQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "FinTech Magazine",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkNZejlzaC03Unh0N1F5SkJlMlF2RmZpOFFhY1ZQZ0FPUXZ0QU4tNFA5c3lqYklEMFhnaks0RnByZGNmb2NMajJtQWNRZUxwRDF4SG9fMnZUOGRNRGdvNDBsV1JxZkFxMVJjSkxJZUdhNGZFTUd4aWZ4Mmp2ZlhnLWRhcEozSERwQm9KbW5Kai1pSWhOZVprRQ?oc=5",
           "tipo": "nota"
         }
       ],
@@ -4995,23 +5107,6 @@
         }
       ],
       "region": "global"
-    },
-    {
-      "id": "89c4258ca50d",
-      "categoria": "emp",
-      "fecha": "2026-11-25T13:30+00:00",
-      "titulo": "FELABAN participa en la Reunión de Alto Nivel ASBA-BCBS-FSI sobre supervisión bancaria para las Américas 🌎 Del 25 al 26 de noviembre, en Brasilia, Brasil, la Federación Latinoamericana de Bancos (FELABAN) participa en…",
-      "resumen": "",
-      "fuente": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG5OWEdvZHduRHNfQkswVXlMUi10NFhVNmJDMHRYMmFqcFozbVpFelQwSW84TlVYSERHVzJ3NHpfQlhoU1QyYldIOWIyNWlkSTJqMHBNSFBvb2YyeUgxbll4dFpsa2JmUUZJcGljbVNXTTBLU1RoMUxNRG52bW1PY2JZck1WbGhGc1JmTFdGd2sxbzVpbDR6TG1nMmZhbm9uaHJNR1ZZdzlMUlZ2SmhpVC15YktGTE5vR1U4XzlzMEJuSW9sWkxBRmpvOE0yZmdjSmVKeDBLRmlyNERZUl96ZFFGaG9KM0pZaGtPZ2UxOTlWRjBtbE82bXYyaWJTdw?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG5OWEdvZHduRHNfQkswVXlMUi10NFhVNmJDMHRYMmFqcFozbVpFelQwSW84TlVYSERHVzJ3NHpfQlhoU1QyYldIOWIyNWlkSTJqMHBNSFBvb2YyeUgxbll4dFpsa2JmUUZJcGljbVNXTTBLU1RoMUxNRG52bW1PY2JZck1WbGhGc1JmTFdGd2sxbzVpbDR6TG1nMmZhbm9uaHJNR1ZZdzlMUlZ2SmhpVC15YktGTE5vR1U4XzlzMEJuSW9sWkxBRmpvOE0yZmdjSmVKeDBLRmlyNERZUl96ZFFGaG9KM0pZaGtPZ2UxOTlWRjBtbE82bXYyaWJTdw?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
     },
     {
       "id": "fc10a8688f7a",
@@ -5119,7 +5214,7 @@
       "id": "f720db6a2915",
       "categoria": "reg",
       "fecha": "2026-11-24T23:01+00:00",
-      "titulo": "JPMorgan, Visa y Mastercard informan violaciones de datos de clientes de terceros",
+      "titulo": "JPMorgan, Visa and Mastercard Report Third-Party Customer Data Breaches",
       "resumen": "",
       "fuente": "Payments Industry Intelligence",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNERldkcxZ3k2NHVqT3dMRUFfVFM1eXZEV2FuM04tZUI5WjBUNmtxdFhaMTFHYS1CZVpLdGVHSXZHOHdqelNZb0g1N1NVem9YaHRRcnFNd2FvcF8xY25wampLcEFldzdmWTdBOHpjN2s1el9qWDZ4OEpoQmtZbUVJaW1URElld3QyQkRHU3V2LWQ5Y3BsQkpBejlfTDN3MTA?oc=5",
@@ -5130,9 +5225,7 @@
           "tipo": "nota"
         }
       ],
-      "region": "global",
-      "titulo_original": "JPMorgan, Visa and Mastercard Report Third-Party Customer Data Breaches",
-      "idioma_original": "en"
+      "region": "global"
     },
     {
       "id": "7b72dfd5306d",
@@ -5184,6 +5277,23 @@
         }
       ],
       "region": "ar"
+    },
+    {
+      "id": "1275a8cd8af5",
+      "categoria": "reg",
+      "fecha": "2026-11-24T20:33+00:00",
+      "titulo": "Chase, Visa And Mastercard Confirm Vendor Cyber Incidents After Hackers Post Data",
+      "resumen": "",
+      "fuente": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnBEVmNDVU1sQ191TGdiX0g3RkdhcnZzbFM3VldCeUc0Qm8yZ0VaVnU1d3hvUWNtckpXM3M4d0dFNFdBZDVrYUtuakhpRFFjUjJ5RzZwRVZ0bm9qb3lBYnJUZk02TmVGUXFVWE5ZYXRMUUxFQUZ1MXc2VHJiUFFWeExJWlBsOUpQRmNBN0tuZmQ2QnlpS2E2THp3Z01nTHYwNHJtTmI1SjNxS0NNRWFpSm9xRGdWQV9XOHB2dkJmSlY0TV94dm5LNmZQbno?oc=5",
+      "enlaces": [
+        {
+          "nombre": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnBEVmNDVU1sQ191TGdiX0g3RkdhcnZzbFM3VldCeUc0Qm8yZ0VaVnU1d3hvUWNtckpXM3M4d0dFNFdBZDVrYUtuakhpRFFjUjJ5RzZwRVZ0bm9qb3lBYnJUZk02TmVGUXFVWE5ZYXRMUUxFQUZ1MXc2VHJiUFFWeExJWlBsOUpQRmNBN0tuZmQ2QnlpS2E2THp3Z01nTHYwNHJtTmI1SjNxS0NNRWFpSm9xRGdWQV9XOHB2dkJmSlY0TV94dm5LNmZQbno?oc=5",
+          "tipo": "nota"
+        }
+      ],
+      "region": "global"
     },
     {
       "id": "e55c26b17167",
@@ -5271,23 +5381,6 @@
       "region": "ar"
     },
     {
-      "id": "09d0e75a00ac",
-      "categoria": "reg",
-      "fecha": "2026-11-24T06:51+00:00",
-      "titulo": "Nicole Romero Aravena - Ejecutiva Empresarios Nace | Bci Concepción 💙 | Banca Pyme | Desarrollo de Negocios | Emprendimiento | Soluciones Financieras | Gestión Comercial",
-      "resumen": "",
-      "fuente": "LinkedIn Chile",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pMGVkNlpJZUMwbEwwREhfdGJnMmROT250VkpoVWFuYlJNZkEtLWRjQmZNeXA1djBrSTFMODhyRk8wSjRrVXF1YUxSRzhtVHZ0alZvU1oxT1BBb21kWk9ybVlackFramph?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn Chile",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pMGVkNlpJZUMwbEwwREhfdGJnMmROT250VkpoVWFuYlJNZkEtLWRjQmZNeXA1djBrSTFMODhyRk8wSjRrVXF1YUxSRzhtVHZ0alZvU1oxT1BBb21kWk9ybVlackFramph?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
       "id": "2773399adf52",
       "categoria": "ux",
       "fecha": "2026-11-24T06:04+00:00",
@@ -5318,6 +5411,11 @@
         {
           "nombre": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd2pweHpSOW1vQXRPOTJrQTlJMmt3REgtVUtHYkJUNkp3MU9ya0tyWXRkSWxBdFhISnhzdGtoZ01MN2NERjhzTU5iWmhIanlHLTRoRllURUNVTHBudWtrOXM0UFVFM0dnTXRoUHlzSmhvQXA3VzVyOVlvaEQ2M1dqampJcm44Uk9HaURPNGJGdmZITDVEZU9IRmNld0JxOUJaZmNYOGpybmUtSDNLemp6NlNkQUpaTVNQcENnTFBLQ1Q5M3p6ZzdxaGNfVXVOVkdjLXhCdVBabmRfbm1BdDI3WVdXSDZDWGs2NWMzVTVRbFA?oc=5",
+          "tipo": "nota"
+        },
+        {
+          "nombre": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOem1aYkpHN1NSWUNiWnVFLUM3NS1jQjhOVFFKZDJ0cC1HUjRoU1FOVkp1M2FTQ2ZnV0U0WjZqdnVzT0xITDZ1amVqU1RmS0hjOG92QmFGS3pRNk8xUFV5a1hPLVBuTkpCZnJFcVBHbGFYdFlRNVpXZzg2ejBoWGQ3bkN2QnVTMUl6NW54RVlUek5VMkJjckd6RkUzcC1rSHJrMFhjZENLVmJpc0ZWMm9HM2NyRVJCQXU0RUtNTnlSWFBubHpxZXdlcXIwR25BOVYtNk9GOHVicjROek1GQmZNNTBVX0pmS20xSXF4S2V2OTk?oc=5",
           "tipo": "nota"
         },
         {
@@ -5422,7 +5520,7 @@
       "id": "1b0ccf8846f4",
       "categoria": "reg",
       "fecha": "2026-11-23T18:14+00:00",
-      "titulo": "Acoru se une a Mastercard Start Path para escalar la prevención del fraude centrada en cuentas",
+      "titulo": "Acoru Joins Mastercard Start Path to Scale Account-Centric Fraud Prevention",
       "resumen": "",
       "fuente": "FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1hRNjBNWjNUbzFxNm5jMzVhaWN4ZF8tZ00zSGpCTzBYa1pvZmdGRUczNFlSMG12RXdNWmRMb3RaQXBVV0ptZWdCRmJIVm56emRjdndmdnVFakpHNlVzWUpzZndpVUhPU0JjUGJoSnhHWlExVFFCZFV6cVVFX0FxaVNYT1ViRXZ6M3lEY3R2M1dFQWVDX0dVdWlPc1ZTWFRKWnNzLVJrUDh5ZU81QWRBOUlfWQ?oc=5",
@@ -5433,9 +5531,7 @@
           "tipo": "nota"
         }
       ],
-      "region": "global",
-      "titulo_original": "Acoru Joins Mastercard Start Path to Scale Account-Centric Fraud Prevention",
-      "idioma_original": "en"
+      "region": "global"
     },
     {
       "id": "11cb4a4878d3",
@@ -5492,7 +5588,7 @@
       "id": "21aa3ed2ba71",
       "categoria": "reg",
       "fecha": "2026-11-23T04:01+00:00",
-      "titulo": "El jefe de Mastercard en la batalla contra los ciberdelincuentes: \"Es una carrera armamentista\"",
+      "titulo": "Mastercard boss on battle with cyber criminals: ‘It’s an arms race’",
       "resumen": "",
       "fuente": "Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajh1T2RsWU44dEhldExsSVRkRzMyWVRzWFBIdnQ4OGYzVWw0Nm5ZU0ZZR0RoNmoxWmZVbjVLUDJ3aXFfemQ4TjNwV19raVZYNVQwaklUTzRlckUtX1F5cWRTZnFJUFI2a25IR2EzUlpyMGxmZEdpeFg1VHVVa25WdzZmYlg?oc=5",
@@ -5503,9 +5599,7 @@
           "tipo": "nota"
         }
       ],
-      "region": "global",
-      "titulo_original": "Mastercard boss on battle with cyber criminals: ‘It’s an arms race’",
-      "idioma_original": "en"
+      "region": "global"
     },
     {
       "id": "7b80079ee047",
@@ -5676,98 +5770,13 @@
         }
       ],
       "region": "ar"
-    },
-    {
-      "id": "4c11e239fd88",
-      "categoria": "reg",
-      "fecha": "2026-11-21T07:15+00:00",
-      "titulo": "New AI-Powered Bazuka Banking Trojan Targets Android Users With Keylogging and SMS Interception",
-      "resumen": "",
-      "fuente": "GBHackers News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XT0JJUGxNVF9NdElMMkh6TElNLVJTUzZBNmFIUFlpNy1JajA3ZVNqaWZOcmVpUExERDFBQ3E4a3M5OWxIdzdfR3JuS3JCVzNZaWhJcEtmQWlIU0huSFFyekhJT0wtSlQyM2JreGV2UjA0Q1d6ZVBDRdIBfkFVX3lxTFBneUxOSUc5WlVLMGZ6aXVBa24yTDBJNDBSX2ZBTHphSWg4RjZJbERJMlpOY3M5YVRVYUNtTC1rcm1UcFRBVjFMeEJPZmZkNFlPaVR4dEFqYXp1N004ampTT243bFNlVWZoNVJ4azJZbVRkT0VhbWZDUXl2ZW1GQQ?oc=5",
-      "enlaces": [
-        {
-          "nombre": "GBHackers News",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XT0JJUGxNVF9NdElMMkh6TElNLVJTUzZBNmFIUFlpNy1JajA3ZVNqaWZOcmVpUExERDFBQ3E4a3M5OWxIdzdfR3JuS3JCVzNZaWhJcEtmQWlIU0huSFFyekhJT0wtSlQyM2JreGV2UjA0Q1d6ZVBDRdIBfkFVX3lxTFBneUxOSUc5WlVLMGZ6aXVBa24yTDBJNDBSX2ZBTHphSWg4RjZJbERJMlpOY3M5YVRVYUNtTC1rcm1UcFRBVjFMeEJPZmZkNFlPaVR4dEFqYXp1N004ampTT243bFNlVWZoNVJ4azJZbVRkT0VhbWZDUXl2ZW1GQQ?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "b65845398451",
-      "categoria": "ux",
-      "fecha": "2026-11-21T07:02+00:00",
-      "titulo": "Mylo Named to CNBC's World's Top Fintech Companies 2026",
-      "resumen": "",
-      "fuente": "www.newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEVEYjF3a0otYlBYZkJlZmFCUzAzWFY1eGlfMWVkc2Vkd3laVGRpdFVGWGk0V3JHdXRDZ2UwLXFJUmlIQmQxbnBmUWU2S2JVNzQxRWhVNFRzSi0zMkZNREFEUy0yRXJ1Rm1ULUhCelYwOVh5Um9iaDJIbXM4RFpDZEdsTlNabTA5V0Rn?oc=5",
-      "enlaces": [
-        {
-          "nombre": "www.newswire.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEVEYjF3a0otYlBYZkJlZmFCUzAzWFY1eGlfMWVkc2Vkd3laVGRpdFVGWGk0V3JHdXRDZ2UwLXFJUmlIQmQxbnBmUWU2S2JVNzQxRWhVNFRzSi0zMkZNREFEUy0yRXJ1Rm1ULUhCelYwOVh5Um9iaDJIbXM4RFpDZEdsTlNabTA5V0Rn?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "f3a1db42626b",
-      "categoria": "reg",
-      "fecha": "2026-11-21T05:17+00:00",
-      "titulo": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials",
-      "resumen": "",
-      "fuente": "Cyber Press",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idjdhSDY2ZHo2UWpxY1FST0VVRUdKc3BCZlpaMFRyZTNhcEx2UlBwZXM4a2lJUWxFZkdCc0wtOVJKUmxCNXIxWjA0NUlaZ0JNSGFsVF8yczB5WnF4Tm5Ddy1UZjhfcnFVRlFsYUpKMULSAXBBVV95cUxPYnY3YUg2NmR6NlFqcWNRUk9FVUVHSnNwQmZaWjBUcmUzYXBMdlJQcGVzOGtpSVFsRWZHQnNMLTlSSlJsQjVyMVowNDVJWmdCTUhhbFRfMnMweVpxeE5uQ3ctVGY4X3JxVUZRbGFKSjFC?oc=5",
-      "enlaces": [
-        {
-          "nombre": "Cyber Press",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idjdhSDY2ZHo2UWpxY1FST0VVRUdKc3BCZlpaMFRyZTNhcEx2UlBwZXM4a2lJUWxFZkdCc0wtOVJKUmxCNXIxWjA0NUlaZ0JNSGFsVF8yczB5WnF4Tm5Ddy1UZjhfcnFVRlFsYUpKMULSAXBBVV95cUxPYnY3YUg2NmR6NlFqcWNRUk9FVUVHSnNwQmZaWjBUcmUzYXBMdlJQcGVzOGtpSVFsRWZHQnNMLTlSSlJsQjVyMVowNDVJWmdCTUhhbFRfMnMweVpxeE5uQ3ctVGY4X3JxVUZRbGFKSjFC?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
-    },
-    {
-      "id": "94186cfa1409",
-      "categoria": "reg",
-      "fecha": "2026-11-21T01:20+00:00",
-      "titulo": "¡Buscamos Ejecutivos de Banca / Santander Consumer Bank !",
-      "resumen": "",
-      "fuente": "LinkedIn Perú",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXdtSV9wRGdvMy1YMXZjZUNPelBCb2JBMmlXeHZUcDFSV3lGMXotRnp3Y2xKZllGcURic0ZKTzM3NC1sbDZJdDJJc09CNWR6OE5WRjMtTEdJNUdyaEp0dDNOaUVSNXlmemZNMjlwNWhKd0RfbzVBNGljOTlEQUdpVTBCc3Q5Y2xLbUtzUkUyejZaVkZlVFc2LVU1OUhxcnlfME5pam93RTVwMmtuelJGeHlYNmlVcmktRVNVTUExVFR4NFJfQzh6eFlTNWY?oc=5",
-      "enlaces": [
-        {
-          "nombre": "LinkedIn Perú",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXdtSV9wRGdvMy1YMXZjZUNPelBCb2JBMmlXeHZUcDFSV3lGMXotRnp3Y2xKZllGcURic0ZKTzM3NC1sbDZJdDJJc09CNWR6OE5WRjMtTEdJNUdyaEp0dDNOaUVSNXlmemZNMjlwNWhKd0RfbzVBNGljOTlEQUdpVTBCc3Q5Y2xLbUtzUkUyejZaVkZlVFc2LVU1OUhxcnlfME5pam93RTVwMmtuelJGeHlYNmlVcmktRVNVTUExVFR4NFJfQzh6eFlTNWY?oc=5",
-          "tipo": "nota"
-        }
-      ],
-      "region": "ar"
-    },
-    {
-      "id": "93138fbb4db2",
-      "categoria": "reg",
-      "fecha": "2026-11-21T00:36+00:00",
-      "titulo": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "resumen": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been…",
-      "fuente": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "enlaces": [
-        {
-          "nombre": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-          "tipo": "nota"
-        }
-      ],
-      "region": "global"
     }
   ],
   "estado": [
     {
       "fuente": "Red Link: fallas e incidentes (Google Noticias)",
       "ok": true,
-      "noticias": 11
+      "noticias": 9
     },
     {
       "fuente": "Red Link (Google Noticias)",
@@ -5802,17 +5811,17 @@
     {
       "fuente": "Billeteras y proveedores (Google Noticias)",
       "ok": true,
-      "noticias": 14
+      "noticias": 17
     },
     {
       "fuente": "Banca empresas (Google Noticias)",
       "ok": true,
-      "noticias": 1
+      "noticias": 2
     },
     {
       "fuente": "BCRA: normativa de pagos (Google Noticias)",
       "ok": true,
-      "noticias": 6
+      "noticias": 7
     },
     {
       "fuente": "Fraude bancario y digital (Google Noticias)",
@@ -5832,12 +5841,12 @@
     {
       "fuente": "Malware bancario (Google News)",
       "ok": true,
-      "noticias": 6
+      "noticias": 4
     },
     {
       "fuente": "Krebs on Security",
       "ok": true,
-      "noticias": 1
+      "noticias": 0
     },
     {
       "fuente": "BleepingComputer",
@@ -5847,7 +5856,7 @@
     {
       "fuente": "Pagos agénticos (Google News)",
       "ok": true,
-      "noticias": 36
+      "noticias": 35
     },
     {
       "fuente": "FinTech Futures",
@@ -5857,7 +5866,7 @@
     {
       "fuente": "Wallets y pagos mobile (Google News)",
       "ok": true,
-      "noticias": 18
+      "noticias": 29
     },
     {
       "fuente": "Apple Developer News",
@@ -5882,12 +5891,12 @@
     {
       "fuente": "Diseño de sistemas (Google News)",
       "ok": true,
-      "noticias": 17
+      "noticias": 25
     },
     {
       "fuente": "UX fintech (Google News)",
       "ok": true,
-      "noticias": 9
+      "noticias": 10
     },
     {
       "fuente": "Nielsen Norman Group",
@@ -5902,17 +5911,17 @@
     {
       "fuente": "Bancos del mundo (Google News)",
       "ok": true,
-      "noticias": 8
+      "noticias": 6
     },
     {
       "fuente": "Fintech del mundo (Google News)",
       "ok": true,
-      "noticias": 7
+      "noticias": 10
     },
     {
       "fuente": "Proveedores de pagos del mundo (Google News)",
       "ok": true,
-      "noticias": 55
+      "noticias": 63
     },
     {
       "fuente": "Customer experience en banca (Google News)",
@@ -5922,27 +5931,27 @@
     {
       "fuente": "Sistemas de diseño (Google News)",
       "ok": true,
-      "noticias": 24
+      "noticias": 23
     },
     {
       "fuente": "Nuevos dispositivos y formatos (Google News)",
       "ok": true,
-      "noticias": 94
+      "noticias": 71
     },
     {
       "fuente": "Patrones de interfaz (Google News)",
       "ok": true,
-      "noticias": 32
+      "noticias": 31
     },
     {
       "fuente": "IA en diseño y producto (Google News)",
       "ok": true,
-      "noticias": 39
+      "noticias": 36
     },
     {
       "fuente": "UX en banca y pagos (Google News)",
       "ok": true,
-      "noticias": 48
+      "noticias": 46
     },
     {
       "fuente": "UX Collective",
@@ -5957,12 +5966,12 @@
     {
       "fuente": "LinkedIn: Red Link y competencia",
       "ok": true,
-      "noticias": 4
+      "noticias": 3
     },
     {
       "fuente": "LinkedIn: BCRA y pagos",
       "ok": true,
-      "noticias": 14
+      "noticias": 12
     },
     {
       "fuente": "LinkedIn: cajeros y canales",
@@ -5972,12 +5981,12 @@
     {
       "fuente": "LinkedIn: banca empresas",
       "ok": true,
-      "noticias": 16
+      "noticias": 12
     },
     {
       "fuente": "LinkedIn: billeteras y fintech AR",
       "ok": true,
-      "noticias": 6
+      "noticias": 5
     },
     {
       "fuente": "LinkedIn: UX/UI en banca",
@@ -5987,17 +5996,17 @@
     {
       "fuente": "LinkedIn: tendencias de diseño",
       "ok": true,
-      "noticias": 59
+      "noticias": 84
     },
     {
       "fuente": "Diseño UX/UI en español (Google Noticias)",
       "ok": true,
-      "noticias": 11
+      "noticias": 6
     },
     {
       "fuente": "Diseño e IA en español (Google Noticias)",
       "ok": true,
-      "noticias": 12
+      "noticias": 11
     },
     {
       "fuente": "Dispositivos e interfaces nuevas (Google Noticias)",
@@ -6007,7 +6016,7 @@
     {
       "fuente": "LinkedIn: diseño en Latinoamérica",
       "ok": true,
-      "noticias": 27
+      "noticias": 5
     }
   ]
 }
